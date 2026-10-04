@@ -30,6 +30,10 @@ const PRIVATE_STRINGS = ['Voyage privé de test à ne jamais publier', 'Résumé
 const PERSONAL_STRINGS = ['Chez ma mère', 'Chez mes grands-parents', 'Chez une amie', 'Chez ma marraine', 'Maison des grands-parents', 'Milan (marraine)', 'marraine', 'grands-parents'];
 // Le site est construit ici même à partir des sources : nombres de lieux attendus (1 600 et 1 595 avant le lot v10).
 const N_ALL = catalogue('personal').app.lieux.length, N_PUB = catalogue('public').app.lieux.length;
+// Valeurs du catalogue public utilisées par les pages : itinéraires (25 avant le lot v10), lieux d'Italie sans la base
+// retirée (362 avant), écriture des nombres dans les pages (espace insécable entre les milliers).
+const PUB = catalogue('public').app, N_TRIPS = PUB.parcours.length, N_ITALIE = PUB.lieux.filter((p) => p.p === 'Italie').length;
+const numRe = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 const WIDTHS = [320, 360, 390, 430, 768, 820, 1024, 1280, 1440, 1920];
 
 console.log('construction des versions de test…');
@@ -67,7 +71,7 @@ group('pages', {
         sections: [...document.querySelectorAll('main h2')].map((h) => h.textContent.trim()), title: document.title, lang: document.documentElement.lang, lead: document.querySelector('.hero-lead').textContent }));
       eq([s.h1, s.hero, s.cta, s.lang], [['Atlas Van'], true, ['destinations/index.html', 'app/index.html'], 'fr'], 'structure de l\'accueil');
       for (const t of ['Derniers voyages', 'Destinations', 'Road trips', 'Carnet', 'Guides pratiques', 'Préparer son propre voyage']) assert(s.sections.includes(t), 'section absente : ' + t);
-      assert(/1.595 lieux dans 34.pays, 25 itinéraires/.test(s.lead), 'chiffres tirés du catalogue : ' + s.lead); eq([a.errors, a.remote], [[], []], 'erreurs et requêtes tierces');
+      assert(new RegExp(numRe(N_PUB) + ' lieux dans 34.pays, ' + N_TRIPS + ' itinéraires').test(s.lead), 'chiffres tirés du catalogue : ' + s.lead); eq([a.errors, a.remote], [[], []], 'erreurs et requêtes tierces');
     } finally { await a.context.close(); }
   },
   '2 · navigation grand écran : six rubriques, rubrique courante signalée, retour à l\'accueil': async () => {
@@ -113,17 +117,17 @@ group('pages', {
       await a.page.goto(server.url + 'destinations/italie/index.html');
       const s = await a.page.evaluate(() => ({ h1: document.querySelector('h1').textContent, badge: document.querySelector('.detail-intro .badge').textContent, lead: document.querySelector('.page-lead').textContent, h2: [...document.querySelectorAll('main h2')].map((h) => h.textContent),
         caveat: document.querySelector('.caveat')?.textContent || '', cta: document.querySelector('.detail-intro .btn-primary').getAttribute('href'), map: document.querySelector('.detail-art svg').getAttribute('aria-label') }));
-      eq([s.h1, s.badge, s.cta], ['Italie', 'Dans l’Atlas', '../../app/index.html#pays=italie'], 'page Italie'); assert(/362.lieux repérés/.test(s.lead), 'nombre de lieux (sans la base retirée) : ' + s.lead);
+      eq([s.h1, s.badge, s.cta], ['Italie', 'Dans l’Atlas', '../../app/index.html#pays=italie'], 'page Italie'); assert(new RegExp(numRe(N_ITALIE) + '.lieux repérés').test(s.lead), 'nombre de lieux (sans la base retirée) : ' + s.lead);
       for (const t of ['Incontournables de l’Atlas', 'Quand partir', 'Road trips qui y passent', 'Sur la route']) assert(s.h2.includes(t), 'section absente : ' + t);
       assert(/non sourcées/.test(s.caveat) && /Carte : Italie/.test(s.map), 'notes signalées comme non sourcées, carte décrite');
       await a.page.goto(server.url + 'destinations/portugal/index.html'); eq(await a.page.locator('.detail-intro .badge').textContent(), 'Raconté', 'pays d\'un voyage publié');
       eq(a.errors, [], 'erreurs');
     } finally { await a.context.close(); }
   },
-  '6 · road trips : 25 itinéraires, page d\'un itinéraire (étapes ordonnées, distance estimée, aucune durée inventée)': async () => {
+  '6 · road trips : tous les itinéraires, page d\'un itinéraire (étapes ordonnées, distance estimée, aucune durée inventée)': async () => {
     const a = await open(server.url, 'road-trips/index.html');
     try {
-      eq(await a.page.locator('.card').count(), 25, 'itinéraires listés');
+      eq(await a.page.locator('.card').count(), N_TRIPS, 'itinéraires listés');
       await a.page.goto(server.url + 'road-trips/balkans-en-six-semaines/index.html');
       const s = await a.page.evaluate(() => ({ h1: document.querySelector('h1').textContent, facts: [...document.querySelectorAll('.facts dt')].map((d) => d.textContent), stops: document.querySelectorAll('.stops-numbered > li').length, cta: document.querySelector('.detail-intro .btn-primary').getAttribute('href'), text: document.querySelector('main').textContent }));
       eq([s.h1, s.facts, s.stops, s.cta], ['Balkans en six semaines', ['Étapes', 'Distance estimée', 'Pays'], 28, '../../app/index.html#parcours=balkans-en-six-semaines'], 'page de l\'itinéraire');
@@ -189,7 +193,7 @@ group('planner', {
     const a = await open(server.url, 'destinations/italie/index.html');
     try {
       await a.page.click('.detail-intro .btn-primary'); await plannerReady(a.page); await a.page.waitForTimeout(300);
-      eq(await a.page.evaluate(() => [paysF, document.querySelector('#paysSel').value, document.querySelectorAll('#map .poi:not(.off)').length, location.hash]), ['Italie', 'Italie', 362, ''], 'depuis une destination : carte filtrée sur le pays');
+      eq(await a.page.evaluate(() => [paysF, document.querySelector('#paysSel').value, document.querySelectorAll('#map .poi:not(.off)').length, location.hash]), ['Italie', 'Italie', N_ITALIE, ''], 'depuis une destination : carte filtrée sur le pays');
       await a.page.goto(server.url + 'road-trips/balkans-en-six-semaines/index.html'); await a.page.click('.detail-intro .btn-primary'); await plannerReady(a.page); await a.page.waitForTimeout(400);
       eq(await a.page.evaluate(() => [route.length, document.querySelector('.pane.on').id]), [28, 'p3'], 'depuis un road trip : parcours chargé');
       await a.page.goto(server.url + 'carnet/une-nuit-a-nazare/index.html'); await a.page.click('.story-foot .btn'); await plannerReady(a.page); await a.page.waitForTimeout(400);

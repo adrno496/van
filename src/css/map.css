@@ -24,6 +24,10 @@ svg#map.addmode{cursor:crosshair}
 .poi.hov{stroke:var(--text)}
 .poi.fav{stroke:var(--cat-patrimoine);stroke-opacity:1}
 .poi.sel{stroke:var(--text);stroke-opacity:1}
+/* Pendant un glissement de la carte, les marqueurs ordinaires perdent leur liseré clair : avec 3 400 lieux, il double
+   le travail de dessin de chaque image. Formes et couleurs restent ; le lieu choisi et les favoris gardent leur contour.
+   Le liseré revient dès que le geste se termine. */
+#map.drag .poi:not(.sel):not(.fav){stroke:none}
 /* Textes de la carte en précision géométrique : ils suivent le zoom sans être recomposés à chaque image. */
 #map text{text-rendering:geometricPrecision}
 .lbl{font-family:var(--font-body);font-weight:600;fill:var(--text);paint-order:stroke;stroke:var(--map-halo);stroke-linejoin:round}

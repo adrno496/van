@@ -18,6 +18,7 @@ const label = opt('--label', path.basename(dir));
 const SHIPPED_CAT = shippedCatalogue(dir), SHIPPED = SHIPPED_CAT.places;
 const VILLES = SHIPPED_CAT.lieux.filter((p) => p.c === 'ville').length;   // 418 avant le lot v10
 const NATURE = SHIPPED_CAT.lieux.filter((p) => p.c === 'nature').length;   // 522 avant le lot v10
+const SECONDAIRES = SHIPPED_CAT.lieux.filter((p) => p.w === 3 && p.c !== 'base').length;   // 307 avant le lot v10 (les bases restent toujours visibles)
 // « Nouveautés » : le lot le plus récent du catalogue (v9 : 100 lieux avant le lot v10).
 const NEWEST = SHIPPED_CAT.lieux.filter((p) => p.batch).map((p) => p.batch).sort((a, b) => Number(b.slice(1)) - Number(a.slice(1)))[0];
 const NEWEST_N = SHIPPED_CAT.lieux.filter((p) => p.batch === NEWEST).length;
@@ -132,10 +133,10 @@ group('P1-explorer', 'desktop-1440x900', {}, {
   },
   'filtres : catégorie, importance, pays, mois, compteur': async ({ page }) => {
     const vis = () => ev(page, () => ({ ville: document.querySelectorAll('#map .poi.ville:not(.off)').length, all: document.querySelectorAll('#map .poi:not(.off)').length, dim: document.querySelectorAll('#map .poi.dimmed').length, counter: document.querySelector('#counter').textContent }));
-    const a = await vis(); eq(a.ville, 418, 'villes visibles au départ'); eq(a.all, CAT.places, 'tous les lieux visibles au départ');
+    const a = await vis(); eq(a.ville, VILLES, 'villes visibles au départ'); eq(a.all, CAT.places, 'tous les lieux visibles au départ');
     await jsClick(page, '[data-cat="ville"]'); const b = await vis(); eq(b.ville, 0, 'villes masquées'); eq(b.all, CAT.places - VILLES, 'total après filtre'); eq(firstNumber(b.counter), CAT.places - VILLES, 'compteur mis à jour : ' + b.counter);
     await jsClick(page, '[data-cat="ville"]'); eq((await vis()).all, CAT.places, 'filtre catégorie réversible');
-    await jsClick(page, '[data-w="3"]'); eq((await vis()).all, CAT.places - 307, 'importance : secondaires masqués'); await jsClick(page, '[data-w="3"]');
+    await jsClick(page, '[data-w="3"]'); eq((await vis()).all, CAT.places - SECONDAIRES, 'importance : secondaires masqués'); await jsClick(page, '[data-w="3"]');
     await setValue(page, '#paysSel', 'Portugal', 'change'); eq((await vis()).all, await ev(page, () => PTS.filter((p) => p.p === 'Portugal' || p.c === 'base').length), 'pays : lieux du Portugal et bases'); await setValue(page, '#paysSel', '', 'change');
     await setValue(page, '#mSlider', '1'); const m = await vis(); assert(m.dim > 100, 'mois de janvier : lieux hors saison atténués'); assert(/Janvier/.test(await ev(page, () => document.querySelector('#mLabel').textContent)), 'libellé du mois');
     await setValue(page, '#mSlider', '0'); eq((await vis()).dim, 0, 'tous les mois : rien d\'atténué');
