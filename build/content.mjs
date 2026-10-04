@@ -198,8 +198,8 @@ const readers = {
   }
 };
 
-export const HERO_DEFAULTS = { eyebrow: '', title: 'Suivez mon voyage en van solo', lead: 'Je partage ici mes étapes, mes découvertes, mes photos et les routes parcourues au fil du voyage.',
-  primary: 'Suivre mon voyage', secondary: 'Voir mes voyages', tertiary: 'Préparer votre voyage' };
+export const HERO_DEFAULTS = { eyebrow: 'Vos voyages en van en Europe', title: 'Préparez votre prochain voyage en van', lead: 'Trouvez des destinations, découvrez des itinéraires et des conseils pratiques pour préparer un voyage à votre rythme.',
+  primary: 'Préparer mon voyage', secondary: 'Explorer les destinations', tertiary: 'Découvrir les itinéraires' };
 const SITE_DEFAULTS = { name: 'Atlas Van', descriptor: 'Atlas de l’Europe en van', siteUrl: null, about: [], legal: null, social: [], hero: HERO_DEFAULTS, currentVoyage: null, community: null };
 // Clés publiques acceptées pour l'espace « Partage ». Une clé de service (accès sans contrôle RLS) ne doit jamais atteindre le navigateur :
 // la construction s'arrête si on en fournit une, sous l'une ou l'autre de ses formes connues.

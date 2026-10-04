@@ -122,7 +122,7 @@ aujourd'hui) : publiez le récit plus tard — rien n'est publié automatiquemen
   "about": [{ "title": "Notre façon de voyager", "text": "…", "visibility": "public" }],
   "legal": { "publisher": "…", "contact": "…", "host": "…" },
   "social": [{ "label": "Instagram", "url": "https://…" }],
-  "hero": { "eyebrow": "", "title": "Suivez mon voyage en van solo", "lead": "…", "primary": "Suivre mon voyage", "secondary": "Voir mes voyages", "tertiary": "Préparer votre voyage" },
+  "hero": { "eyebrow": "Vos voyages en van en Europe", "title": "Préparez votre prochain voyage en van", "lead": "…", "primary": "Préparer mon voyage", "secondary": "Explorer les destinations", "tertiary": "Découvrir les itinéraires" },
   "currentVoyage": "portugal-2026",
   "community": { "url": "https://<projet>.supabase.co", "anonKey": "<clé publique anon>" }
 }

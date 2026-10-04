@@ -209,7 +209,9 @@ function shell(ctx, page) {
     ({ '@type': 'ListItem', position: i + 1, name: label, item: `${site.siteUrl}/${href.replace(/index\.html$/, '')}` })) });
   ctx.d.geo.used = new Set();
   const body = page.body(to);
-  const nav = (cls, list = NAV) => list.map(([href, label]) => `<a class="${cls}" href="${esc(to(href))}"${current(href)}>${label}</a>`).join('');
+  const pageNav = page.home ? NAV.slice(2) : NAV;
+  const pageMenu = page.home ? pageNav : MENU;
+  const nav = (cls, list = pageNav) => list.map(([href, label]) => `<a class="${cls}" href="${esc(to(href))}"${current(href)}>${label}</a>`).join('');
   return `<!doctype html>
 <html lang="fr" dir="ltr" data-direction="${esc(ctx.direction)}" data-mode="${esc(ctx.mode)}">
 <head>
@@ -242,7 +244,7 @@ ${worldDefs(ctx.d.geo)}
 </header>
 <dialog class="menu-sheet" id="menu" aria-label="Menu du site">
   <div class="menu-top"><span class="brand">Atlas <em>Van</em></span><button class="menu-btn" type="button" aria-label="Fermer le menu" data-menu-close>${ICON.close}</button></div>
-  <nav class="menu-nav" aria-label="Rubriques (menu)"><a class="menu-link" href="${esc(to('index.html'))}">Accueil</a>${nav('menu-link', MENU)}<a class="menu-link" href="${esc(to('recherche/index.html'))}">Rechercher</a></nav>
+  <nav class="menu-nav" aria-label="Rubriques (menu)"><a class="menu-link" href="${esc(to('index.html'))}">Accueil</a>${nav('menu-link', pageMenu)}<a class="menu-link" href="${esc(to('recherche/index.html'))}">Rechercher</a></nav>
   <a class="btn btn-primary btn-block" href="${esc(to('app/index.html'))}">Préparer mon voyage ${ICON.arrow}</a>
 </dialog>
 <main id="main" tabindex="-1">
@@ -251,7 +253,7 @@ ${crumbs}${body}
 <footer class="site-foot">
   <div class="wrap foot-grid">
     <div class="foot-brand"><a class="brand" href="${esc(to('index.html'))}">Atlas <em>Van</em></a><p>${esc(site.descriptor)}. ${esc(plural(ctx.d.places.length, 'lieu', 'lieux'))}, ${esc(plural(ctx.d.trips.length, 'itinéraire', 'itinéraires'))} et un outil de préparation qui fonctionne sur votre appareil.</p></div>
-    <nav class="foot-nav" aria-label="Plan du site"><h2 class="foot-title">Explorer</h2><ul>${MENU.map(([href, label]) => `<li><a href="${esc(to(href))}">${label}</a></li>`).join('')}<li><a href="${esc(to('recherche/index.html'))}">Rechercher</a></li></ul></nav>
+    <nav class="foot-nav" aria-label="Plan du site"><h2 class="foot-title">Explorer</h2><ul>${pageMenu.map(([href, label]) => `<li><a href="${esc(to(href))}">${label}</a></li>`).join('')}<li><a href="${esc(to('recherche/index.html'))}">Rechercher</a></li></ul></nav>
     <nav class="foot-nav" aria-label="Outil et informations"><h2 class="foot-title">Atlas</h2><ul><li><a href="${esc(to('app/index.html'))}">Préparer mon voyage</a></li><li><a href="${esc(to('confidentialite/index.html'))}">Confidentialité</a></li><li><a href="${esc(to('mentions/index.html'))}">Mentions</a></li></ul>${
       site.social.length ? `<ul class="foot-social">${site.social.map((s) => `<li><a href="${esc(s.url)}" rel="noopener noreferrer">${esc(s.label)}</a></li>`).join('')}</ul>` : ''}</nav>
   </div>
@@ -336,45 +338,22 @@ function pages(ctx) {
   const voyageArt = (v) => { const pts = v.placeIds.map((id) => d.byId.get(id)).filter(Boolean).map(d.pt); return pts.length > 1 ? plate(d.geo, { view: frame(boxOf(pts), 4 / 3, .15), route: pts, detail: 'coarse' }) : plate(d.geo, { view: frame(boxOf(d.all), 4 / 3, .02), dots: d.all, detail: 'coarse' }); };
   const articleArt = (a) => { const L = !a.onMap ? null : a.placeId != null ? d.byId.get(a.placeId) : a.place ? { x: a.place.lon, y: a.place.lat } : null; return L ? plate(d.geo, { view: frame(boxOf([d.pt(L)]), 4 / 3, 6), strong: [d.pt(L)], detail: 'coarse' }) : plate(d.geo, { view: frame(boxOf(d.all), 4 / 3, .02), dots: d.all, detail: 'coarse' }); };
 
-  /* Accueil : le voyage du propriétaire d'abord, l'Atlas ensuite, la communauté et le Planner en retrait. */
+  /* Accueil : destinations, itinéraires et outils pour préparer son voyage. */
   const hero = content.site.hero;
   const cur = content.site.currentVoyage ? journey(ctx, content.voyages.find((v) => v.slug === content.site.currentVoyage)) : null;
-  const latest = cur && cur.articles.length ? cur.articles[cur.articles.length - 1] : content.articles[0] || null;
-  const journal = content.articles.filter((a) => a !== latest).slice(0, 6);
-  const travelled = [...new Set(content.voyages.flatMap((v) => journey(ctx, v).countries))];
-  const publishedKm = content.voyages.filter((v) => v.distanceKm != null);
-  const aboutPublic = content.site.about[0] || null;
   add({ path: 'index.html', home: true, title: content.site.name, description: `${hero.title}. ${hero.lead}`.length >= 70 ? `${hero.title}. ${hero.lead}` : `${hero.title}. ${hero.lead} Atlas de ${nb(N)} lieux en Europe et outil pour préparer un voyage en van.`,
     jsonld: content.site.siteUrl ? [{ '@context': 'https://schema.org', '@type': 'WebSite', name: content.site.name, url: content.site.siteUrl + '/', inLanguage: 'fr' }] : [],
     body: (to) => `
 <section class="hero">
-  <div class="hero-art">${plate(d.geo, { view: frame(boxOf(d.all), 4 / 3, .03), dots: d.all, strong: d.strong, route: cur && cur.stages.length > 1 ? cur.stages.map((x) => x.pt) : null, last: cur && cur.last ? cur.last.pt : null, detail: 'mid', cls: 'plate-hero', scale: .62 })}</div>
+  <div class="hero-art">${plate(d.geo, { view: frame(boxOf(d.all), 4 / 3, .03), dots: d.all, strong: d.strong, detail: 'mid', cls: 'plate-hero', scale: .62 })}</div>
   <div class="wrap hero-text">
     ${eyebrow(hero.eyebrow || content.site.name)}
     <h1 class="hero-title">${esc(hero.title)}</h1>
     <p class="hero-lead">${esc(hero.lead)}</p>
-    <div class="hero-actions"><a class="btn btn-primary" href="${esc(to('voyage-en-cours/index.html'))}">${esc(hero.primary)}</a><a class="btn btn-ghost" href="${esc(to('voyages/index.html'))}">${esc(hero.secondary)}</a></div>
-    <p class="hero-more"><a href="${esc(to('app/index.html'))}">${esc(hero.tertiary)} ${ICON.arrow}</a></p>
+    <div class="hero-actions"><a class="btn btn-primary" href="${esc(to('app/index.html'))}">${esc(hero.primary)}</a><a class="btn btn-ghost" href="${esc(to('destinations/index.html'))}">${esc(hero.secondary)}</a></div>
+    <p class="hero-more"><a href="${esc(to('road-trips/index.html'))}">${esc(hero.tertiary)} ${ICON.arrow}</a></p>
   </div>
 </section>
-${cur ? `<section class="section section-voyage" aria-labelledby="voyage-en-cours"><div class="wrap">
-<header class="section-head"><div>${eyebrow(STATE_LABEL[cur.voyage.state])}<h2 class="section-title" id="voyage-en-cours">${esc(cur.voyage.title)}</h2>${cur.voyage.summary ? `<p class="section-lead">${esc(cur.voyage.summary)}</p>` : ''}</div>${more(to('voyage-en-cours/index.html'), 'Suivre le voyage')}</header>
-<div class="voyage-split"><figure class="voyage-map reveal">${journeyPlate(ctx, cur, { ratio: 4 / 3, detail: 'fine', label: journeyLabel(cur), cls: 'plate-voyage' })}<figcaption>${mapLegend(cur)}<p class="map-note">Position approximative, publiée avec les récits : jamais en direct.</p></figcaption></figure>
-<div class="voyage-side">${voyageFacts(cur)}${cur.last ? `${lastStage(cur.last)}` : ''}
-${cur.stages.length ? `<h3 class="side-title">Étapes${cur.fromArticles ? ' publiées' : ''}</h3><ol class="stage-list">${cur.stages.slice(-5).map((x) => `<li>${x.article ? `<a href="${esc(to(`carnet/${x.article.slug}/index.html`))}">${esc(x.name)}</a>` : esc(x.name)}${x.date ? ` <time datetime="${esc(x.date)}">${esc(dateLabel(x.date))}</time>` : ''}</li>`).join('')}</ol>${cur.stages.length > 5 ? `<p>${more(to('voyage-en-cours/index.html'), `Les ${cur.stages.length} étapes`)}</p>` : ''}` : '<p class="section-lead">Aucune étape publiée pour l’instant : la carte se remplira avec les récits.</p>'}</div></div>
-</div></section>` : ''}
-${latest ? `<section class="section section-tight" aria-labelledby="dernier-recit"><div class="wrap"><header class="section-head"><h2 class="section-title" id="dernier-recit">${cur && cur.articles.includes(latest) ? 'Dernière étape' : 'Dernier récit'}</h2></header>
-<div class="grid grid-single">${storyCard(ctx, to, latest, 'carnet', dateLabel(latest.date) + (latest.placeId != null && d.byId.get(latest.placeId) ? ' · ' + d.byId.get(latest.placeId).n : latest.place ? ' · ' + latest.place.name : ''), articleArt(latest), 3)}</div></div></section>` : ''}
-${journal.length ? `<section class="section"><div class="wrap"><header class="section-head"><div><h2 class="section-title">Journal de route</h2><p class="section-lead">Les récits publiés, du plus récent au plus ancien.</p></div>${more(to('carnet/index.html'), 'Tout le carnet')}</header>
-<div class="grid grid-3">${journal.map((a) => storyCard(ctx, to, a, 'carnet', dateLabel(a.date) + (a.placeId != null && d.byId.get(a.placeId) ? ' · ' + d.byId.get(a.placeId).n : a.place ? ' · ' + a.place.name : ''), articleArt(a))).join('')}</div></div></section>` : ''}
-${content.voyages.length ? `<section class="band band-stats" aria-labelledby="en-chiffres"><div class="wrap"><h2 class="band-title" id="en-chiffres">En chiffres</h2><dl class="stats">
-<div><dt>${content.voyages.length > 1 ? 'voyages racontés' : 'voyage raconté'}</dt><dd>${esc(nb(content.voyages.length))}</dd></div>
-${travelled.length ? `<div><dt>pays traversés</dt><dd>${esc(nb(travelled.length))}</dd></div>` : ''}
-${content.articles.length ? `<div><dt>${content.articles.length > 1 ? 'récits publiés' : 'récit publié'}</dt><dd>${esc(nb(content.articles.length))}</dd></div>` : ''}
-${publishedKm.length ? `<div><dt>kilomètres publiés</dt><dd>${esc(nb(publishedKm.reduce((a, v) => a + v.distanceKm, 0)))}</dd></div>` : ''}
-</dl><p class="stats-note">Uniquement ce que les voyages publiés indiquent${publishedKm.length && publishedKm.length < content.voyages.length ? ` (distance renseignée pour ${publishedKm.length} voyage${publishedKm.length > 1 ? 's' : ''} sur ${content.voyages.length})` : ''}.</p></div></section>` : ''}
-${content.voyages.length ? `<section class="section"><div class="wrap"><header class="section-head"><h2 class="section-title">Mes voyages</h2>${more(to('voyages/index.html'), 'Tous mes voyages')}</header>
-<div class="grid grid-feature">${content.voyages.slice(0, 3).map((v) => storyCard(ctx, to, v, 'voyages', voyageMeta(v), voyageArt(v))).join('')}</div></div></section>` : ''}
 <section class="section">
   <div class="wrap">
     <header class="section-head"><div><h2 class="section-title">Explorer l’Atlas</h2><p class="section-lead">${esc(nb(N))} lieux dans ${C} pays d’Europe et ${R} itinéraires à adapter : de quoi repérer ses propres étapes.</p></div>${more(to('destinations/index.html'), `Les ${C} pays`)}</header>
@@ -397,12 +376,12 @@ ${content.voyages.length ? `<section class="section"><div class="wrap"><header c
 </section>
 <section class="section section-quiet section-tight">
   <div class="wrap split-even">
-    <div><h2 class="section-title">Partage</h2><p class="section-lead">Circuits, spots, astuces et retours d’expérience proposés par d’autres voyageurs. Un espace séparé du blog, à lire sans compte.</p>${more(to('partage/index.html'), 'Voir les partages')}</div>
+    <div><h2 class="section-title">Partage</h2><p class="section-lead">Circuits, spots, astuces et retours d’expérience proposés par d’autres voyageurs. Des idées pour préparer votre voyage, à lire sans compte.</p>${more(to('partage/index.html'), 'Voir les partages')}</div>
     <div><h2 class="section-title">Guides pratiques</h2><ul class="link-list link-list-compact">${ctx.guides.slice(0, 3).map((g) => `<li><a href="${esc(to(`guides/${g.slug}/index.html`))}"><span class="link-title">${esc(g.title)}</span>${ICON.arrow}</a></li>`).join('')}</ul>${more(to('guides/index.html'), 'Tous les guides')}</div>
   </div>
 </section>
-${plannerBand(to, { title: 'Préparer votre propre voyage', text: 'Choisissez des étapes, estimez distances et budget, gardez vos notes. Le Planner fonctionne hors ligne, sur votre appareil, sans compte.', label: hero.tertiary })}
-<section class="section section-tight"><div class="wrap narrow about-teaser"><h2 class="section-title">À propos</h2><p>${aboutPublic ? esc(clip(aboutPublic.text, 320)) : `${esc(content.site.name)} réunit le récit de mes voyages en van, un atlas de ${esc(nb(N))} lieux en Europe et un outil pour préparer le vôtre.`}</p>${more(to('a-propos/index.html'), 'En savoir plus')}</div></section>` });
+${plannerBand(to, { title: 'Un outil pour préparer votre voyage', text: 'Choisissez des étapes, estimez distances et budget, gardez vos notes. Le Planner fonctionne hors ligne, sur votre appareil, sans compte.', label: hero.primary })}
+<section class="section section-tight"><div class="wrap narrow about-teaser"><h2 class="section-title">À propos</h2><p>${esc(content.site.name)} vous aide à préparer vos voyages en van en Europe : trouvez des lieux à découvrir, choisissez vos étapes et estimez votre budget.</p>${more(to('a-propos/index.html'), 'En savoir plus')}</div></section>` });
 
   /* Destinations */
   add({ path: 'destinations/index.html', title: 'Destinations', crumbs: [['destinations/index.html', 'Destinations']],

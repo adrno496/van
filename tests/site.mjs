@@ -73,20 +73,20 @@ group('pages', {
         tertiary: [...document.querySelectorAll('.hero-more a')].map((x) => [x.textContent.trim(), x.getAttribute('href')]),
         sections: [...document.querySelectorAll('main h2')].map((h) => h.textContent.trim()), title: document.title, lang: document.documentElement.lang, lead: document.querySelector('.hero-lead').textContent,
         atlas: [...document.querySelectorAll('main h2')].find((h) => /Explorer l’Atlas/.test(h.textContent))?.parentElement.querySelector('.section-lead').textContent || '' }));
-      eq([s.h1, s.hero, s.cta, s.tertiary, s.lang], [['Suivez mon voyage en van solo'], true, [['Suivre mon voyage', 'voyage-en-cours/index.html'], ['Voir mes voyages', 'voyages/index.html']], [['Préparer votre voyage', 'app/index.html']], 'fr'], 'structure de l\'accueil');
-      eq(s.lead, 'Je partage ici mes étapes, mes découvertes, mes photos et les routes parcourues au fil du voyage.', 'phrase d\'accroche');
-      // Ordre voulu : le voyage du propriétaire, puis l'Atlas, puis la communauté et le Planner, enfin l'à-propos.
-      const order = ['Dernier récit', 'Journal de route', 'En chiffres', 'Mes voyages', 'Explorer l’Atlas', 'Road trips', 'Partage', 'Guides pratiques', 'Préparer votre propre voyage', 'À propos'];
+      eq([s.h1, s.hero, s.cta, s.tertiary, s.lang], [['Préparez votre prochain voyage en van'], true, [['Préparer mon voyage', 'app/index.html'], ['Explorer les destinations', 'destinations/index.html']], [['Découvrir les itinéraires', 'road-trips/index.html']], 'fr'], 'structure de l\'accueil');
+      eq(s.lead, 'Trouvez des destinations, découvrez des itinéraires et des conseils pratiques pour préparer un voyage à votre rythme.', 'phrase d\'accroche');
+      // L'accueil présente les ressources pour préparer un voyage.
+      const order = ['Explorer l’Atlas', 'Road trips', 'Partage', 'Guides pratiques', 'Un outil pour préparer votre voyage', 'À propos'];
       for (const t of order) assert(s.sections.includes(t), 'section absente : ' + t + ' — ' + s.sections.join(' | '));
       eq(order.map((t) => s.sections.indexOf(t)).every((v, i, l) => !i || v > l[i - 1]), true, 'ordre des sections : ' + s.sections.join(' | '));
       assert(new RegExp(numRe(N_PUB) + ' lieux dans 34.pays d’Europe et ' + N_TRIPS + ' itinéraires').test(s.atlas), 'chiffres tirés du catalogue : ' + s.atlas); eq([a.errors, a.remote], [[], []], 'erreurs et requêtes tierces');
     } finally { await a.context.close(); }
   },
-  '2 · navigation grand écran : sept rubriques dont Partage, rubrique courante signalée, retour à l\'accueil': async () => {
+  '2 · navigation grand écran : cinq rubriques dont Partage, rubrique courante signalée, retour à l\'accueil': async () => {
     const a = await open(server.url);
     try {
       const links = await a.page.locator('.site-nav a').evaluateAll((l) => l.map((x) => [x.textContent, x.getAttribute('href')]));
-      eq(links.map((l) => l[0]), ['Mon voyage', 'Mes voyages', 'Destinations', 'Road trips', 'Partage', 'Guides', 'À propos'], 'rubriques');
+      eq(links.map((l) => l[0]), ['Destinations', 'Road trips', 'Partage', 'Guides', 'À propos'], 'rubriques');
       for (const [label, href] of links) { await a.page.goto(server.url + href); const s = await a.page.evaluate(() => [document.querySelectorAll('h1').length, document.querySelector('.site-nav [aria-current]')?.textContent]); eq(s, [1, label], 'page « ' + label + ' »'); }
       await a.page.click('.site-head .brand'); await a.page.waitForLoadState('load'); assert(await a.page.locator('.hero').count() === 1, 'la marque ramène à l\'accueil'); eq(a.errors, [], 'erreurs');
     } finally { await a.context.close(); }
@@ -406,7 +406,7 @@ group('accessibilite-responsive', {
       await a.page.keyboard.press('Tab'); eq(await a.page.evaluate(() => [document.activeElement.className, document.activeElement.getAttribute('href')]), ['skip-link', '#main'], 'premier arrêt : lien d\'évitement');
       await a.page.keyboard.press('Enter'); await a.page.waitForTimeout(100);
       const order = []; for (let i = 0; i < 4; i++) { await a.page.keyboard.press('Tab'); await a.page.waitForTimeout(150); /* le contour se lit une fois l'image suivante dessinée */ order.push(await a.page.evaluate(() => { const e = document.activeElement, s = getComputedStyle(e); return [e.textContent.trim().replace(/\s+/g, ' ').slice(0, 26), s.outlineStyle !== 'none' && parseFloat(s.outlineWidth) >= 2]; })); }
-      eq(order.map((o) => o[0]).slice(0, 2), ['Suivre mon voyage', 'Voir mes voyages'], 'après le lien d\'évitement : les deux actions de la première page'); assert(order.every((o) => o[1]), 'focus visible sur chaque arrêt');
+      eq(order.map((o) => o[0]).slice(0, 2), ['Préparer mon voyage', 'Explorer les destinations'], 'après le lien d\'évitement : les deux actions de la première page'); assert(order.every((o) => o[1]), 'focus visible sur chaque arrêt');
       for (const f of KEY) { await a.page.goto(server.url + f); const bad = await a.page.evaluate(() => [...document.querySelectorAll('a,button,input')].filter((e) => !e.closest('dialog:not([open])') && !(e.textContent.trim() || e.getAttribute('aria-label') || e.getAttribute('aria-labelledby') || (e.id && document.querySelector('label[for="' + e.id + '"]')))).length);
         eq(bad, 0, f + ' : commandes sans nom'); eq(await a.page.evaluate(() => [document.querySelectorAll('header.site-head').length, document.querySelectorAll('main').length, document.querySelectorAll('footer.site-foot').length, document.querySelectorAll('nav:not([aria-label])').length]), [1, 1, 1, 0], f + ' : repères'); }
     } finally { await a.context.close(); }
@@ -457,23 +457,20 @@ group('accessibilite-responsive', {
 });
 
 group('blog', {
-  'voyage en cours sur l\'accueil : accroche réglable, carte des étapes publiées, légende, alternative textuelle, dernière étape, chiffres fiables': async () => {
+  'accueil avec un voyage publié : accroche réglable et préparation mise en avant': async () => {
     const a = await open(voyage.url);
     try {
-      const s = await a.page.evaluate(() => { const sec = document.querySelector('.section-voyage'); return {
-        h1: document.querySelector('h1').textContent, lead: document.querySelector('.hero-lead').textContent, title: sec.querySelector('h2').textContent,
-        map: sec.querySelector('svg.plate').getAttribute('role'), label: sec.querySelector('svg.plate').getAttribute('aria-label'), legend: [...sec.querySelectorAll('.map-legend li')].map((l) => l.textContent),
-        last: sec.querySelector('.last-stage').textContent, stages: [...sec.querySelectorAll('.stage-list li a')].map((x) => [x.textContent, x.getAttribute('href')]),
-        drawn: [sec.querySelectorAll('.pl-route').length, sec.querySelectorAll('.pl-last').length, sec.querySelectorAll('.pl-planned').length],
-        latest: [...document.querySelectorAll('main h2')].find((h) => h.textContent === 'Dernière étape')?.closest('section').querySelector('a').getAttribute('href'),
-        stats: [...document.querySelectorAll('.stats div')].map((d) => [d.querySelector('dt').textContent, d.querySelector('dd').textContent.replace(/\s/g, ' ')]) }; });
-      eq([s.h1, s.lead, s.title, s.map], ['Titre d’accueil de test', 'Phrase d’accroche de test, réglée dans content/site.json.', 'Espagne de test', 'img'], 'accroche réglable et voyage en cours');
-      assert(/3 étapes publiées, de Saint-Sébastien à Bardenas Reales/.test(s.label) && /18 avril 2026/.test(s.label), 'carte décrite : ' + s.label);
-      eq(s.legend, ['Route parcourue, d’étape en étape', 'Dernière étape publiée', 'Étapes prévues (indicatives)'], 'légende'); eq(s.drawn, [1, 1, 1], 'route, dernière étape et prévu dessinés');
-      // Le récit retiré de la carte (Barcelone) et le brouillon (Madrid) ne sont pas des étapes.
-      eq(s.stages.map((x) => x[0]), ['Saint-Sébastien', 'Village de test', 'Bardenas Reales'], 'étapes publiées, dans l\'ordre'); eq(s.stages[2][1], 'carnet/etape-bardenas/index.html', 'lien vers le récit de l\'étape');
-      assert(/Bardenas Reales/.test(s.last) && /18 avril 2026/.test(s.last), 'dernière étape publiée : ' + s.last); eq(s.latest, 'carnet/etape-bardenas/index.html', 'section « Dernière étape »');
-      eq(s.stats, [['voyages racontés', '2'], ['pays traversés', '2'], ['récits publiés', '4'], ['kilomètres publiés', '1 200']], 'chiffres : seulement ce qui est publié'); eq([a.errors, a.remote], [[], []], 'erreurs et requêtes');
+      const s = await a.page.evaluate(() => ({
+        h1: document.querySelector('h1').textContent, lead: document.querySelector('.hero-lead').textContent,
+        cta: [...document.querySelectorAll('.hero-actions a')].map((x) => x.getAttribute('href')),
+        personal: document.querySelectorAll('.section-voyage, .stage-list, .last-stage, .hero-art .pl-route, .hero-art .pl-last').length,
+        text: document.body.textContent
+      }));
+      eq([s.h1, s.lead], ['Titre d’accueil de test', 'Phrase d’accroche de test, réglée dans content/site.json.'], 'accroche réglable');
+      eq(s.cta, ['app/index.html', 'destinations/index.html'], 'actions de préparation');
+      eq(s.personal, 0, 'aucun suivi personnel sur l’accueil');
+      assert(!/Mon voyage|Mes voyages|Suivre le voyage|Espagne de test/.test(s.text), 'accueil centré sur les visiteurs');
+      eq([a.errors, a.remote], [[], []], 'erreurs et requêtes');
     } finally { await a.context.close(); }
   },
   'page « voyage en cours » : faits, distance dite estimée, chronologie, prévu distinct, récits, liens vers l\'Atlas et le Planner': async () => {
