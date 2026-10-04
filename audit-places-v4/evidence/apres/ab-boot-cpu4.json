@@ -1,0 +1,217 @@
+{
+  "generatedAt": "2026-10-04T12:10:21.980Z",
+  "runs": 9,
+  "cpu": 4,
+  "viewport": "390x844",
+  "load1": 1.64,
+  "variants": [
+    {
+      "name": "avant",
+      "median": {
+        "fcp": 264,
+        "ready": 1423,
+        "longTasks": 7,
+        "longTaskMax": 304,
+        "longTaskTotal": 911,
+        "blockingAfterFcp": 578,
+        "nodes": 3029
+      },
+      "min": {
+        "fcp": 224,
+        "ready": 1344,
+        "longTasks": 5,
+        "longTaskMax": 250,
+        "longTaskTotal": 746,
+        "blockingAfterFcp": 496,
+        "nodes": 3029
+      },
+      "samples": [
+        {
+          "fcp": 264,
+          "ready": 1381.9000000003725,
+          "longTasks": 8,
+          "longTaskMax": 308,
+          "longTaskTotal": 911,
+          "blockingAfterFcp": 504,
+          "nodes": 3029
+        },
+        {
+          "fcp": 224,
+          "ready": 1461.7999999998137,
+          "longTasks": 8,
+          "longTaskMax": 250,
+          "longTaskTotal": 1002,
+          "blockingAfterFcp": 602,
+          "nodes": 3029
+        },
+        {
+          "fcp": 268,
+          "ready": 1351.7000000001863,
+          "longTasks": 5,
+          "longTaskMax": 298,
+          "longTaskTotal": 746,
+          "blockingAfterFcp": 496,
+          "nodes": 3029
+        },
+        {
+          "fcp": 236,
+          "ready": 1486,
+          "longTasks": 6,
+          "longTaskMax": 304,
+          "longTaskTotal": 967,
+          "blockingAfterFcp": 667,
+          "nodes": 3029
+        },
+        {
+          "fcp": 288,
+          "ready": 1564.7999999998137,
+          "longTasks": 7,
+          "longTaskMax": 288,
+          "longTaskTotal": 1021,
+          "blockingAfterFcp": 664,
+          "nodes": 3029
+        },
+        {
+          "fcp": 264,
+          "ready": 1422.5999999996275,
+          "longTasks": 6,
+          "longTaskMax": 354,
+          "longTaskTotal": 878,
+          "blockingAfterFcp": 578,
+          "nodes": 3029
+        },
+        {
+          "fcp": 256,
+          "ready": 1344.2999999998137,
+          "longTasks": 5,
+          "longTaskMax": 310,
+          "longTaskTotal": 778,
+          "blockingAfterFcp": 528,
+          "nodes": 3029
+        },
+        {
+          "fcp": 268,
+          "ready": 1378.7000000001863,
+          "longTasks": 7,
+          "longTaskMax": 282,
+          "longTaskTotal": 868,
+          "blockingAfterFcp": 518,
+          "nodes": 3029
+        },
+        {
+          "fcp": 276,
+          "ready": 1557.7999999998137,
+          "longTasks": 9,
+          "longTaskMax": 324,
+          "longTaskTotal": 1130,
+          "blockingAfterFcp": 665,
+          "nodes": 3029
+        }
+      ]
+    },
+    {
+      "name": "apres",
+      "median": {
+        "fcp": 336,
+        "ready": 1978,
+        "longTasks": 6,
+        "longTaskMax": 362,
+        "longTaskTotal": 1273,
+        "blockingAfterFcp": 953,
+        "nodes": 4904
+      },
+      "min": {
+        "fcp": 320,
+        "ready": 1841,
+        "longTasks": 5,
+        "longTaskMax": 328,
+        "longTaskTotal": 1071,
+        "blockingAfterFcp": 821,
+        "nodes": 4904
+      },
+      "samples": [
+        {
+          "fcp": 332,
+          "ready": 2048.7999999998137,
+          "longTasks": 6,
+          "longTaskMax": 378,
+          "longTaskTotal": 1273,
+          "blockingAfterFcp": 965,
+          "nodes": 4904
+        },
+        {
+          "fcp": 328,
+          "ready": 1978,
+          "longTasks": 6,
+          "longTaskMax": 362,
+          "longTaskTotal": 1207,
+          "blockingAfterFcp": 903,
+          "nodes": 4904
+        },
+        {
+          "fcp": 320,
+          "ready": 2035.4000000003725,
+          "longTasks": 7,
+          "longTaskMax": 362,
+          "longTaskTotal": 1369,
+          "blockingAfterFcp": 1015,
+          "nodes": 4904
+        },
+        {
+          "fcp": 348,
+          "ready": 2087.2999999998137,
+          "longTasks": 6,
+          "longTaskMax": 397,
+          "longTaskTotal": 1356,
+          "blockingAfterFcp": 1049,
+          "nodes": 4904
+        },
+        {
+          "fcp": 336,
+          "ready": 1964,
+          "longTasks": 7,
+          "longTaskMax": 362,
+          "longTaskTotal": 1303,
+          "blockingAfterFcp": 953,
+          "nodes": 4904
+        },
+        {
+          "fcp": 348,
+          "ready": 1916.4000000003725,
+          "longTasks": 6,
+          "longTaskMax": 331,
+          "longTaskTotal": 1142,
+          "blockingAfterFcp": 842,
+          "nodes": 4904
+        },
+        {
+          "fcp": 332,
+          "ready": 1840.5,
+          "longTasks": 5,
+          "longTaskMax": 328,
+          "longTaskTotal": 1071,
+          "blockingAfterFcp": 821,
+          "nodes": 4904
+        },
+        {
+          "fcp": 356,
+          "ready": 2107.899999999441,
+          "longTasks": 7,
+          "longTaskMax": 349,
+          "longTaskTotal": 1364,
+          "blockingAfterFcp": 1013,
+          "nodes": 4904
+        },
+        {
+          "fcp": 344,
+          "ready": 1931.3999999994412,
+          "longTasks": 6,
+          "longTaskMax": 359,
+          "longTaskTotal": 1141,
+          "blockingAfterFcp": 841,
+          "nodes": 4904
+        }
+      ]
+    }
+  ]
+}

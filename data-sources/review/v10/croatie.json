@@ -1,0 +1,1875 @@
+[
+ {
+  "key": "croatie|porec|452:136",
+  "src": "croatie-bosnie-slovenie.json#43",
+  "n": "Poreč",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Poreč (HR, 0.3 km)",
+   "ref": {
+    "name": "Poreč",
+    "geonameid": 3192699,
+    "y": 45.22567,
+    "x": 13.59511,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.34
+  },
+  "links": {
+   "geonames": 3192699,
+   "unesco": "https://whc.unesco.org/en/list/809"
+  },
+  "score": {
+   "tour": 17,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2848
+ },
+ {
+  "key": "croatie|varazdin|463:163",
+  "src": "croatie-bosnie-slovenie.json#9",
+  "n": "Varaždin",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Varaždin (HR, 0.4 km)",
+   "ref": {
+    "name": "Varaždin",
+    "geonameid": 3188383,
+    "y": 46.30444,
+    "x": 16.33778,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.4
+  },
+  "links": {
+   "geonames": 3188383
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2849
+ },
+ {
+  "key": "croatie|biokovo|433:171",
+  "src": "croatie-bosnie-slovenie.json#34",
+  "n": "Parc naturel de Biokovo",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Makarska (HR, 5.8 km)",
+   "ref": {
+    "name": "Makarska",
+    "geonameid": 3195890,
+    "y": 43.29694,
+    "x": 17.01778,
+    "km": 5.8,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 13,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2850
+ },
+ {
+  "key": "croatie|rastoke|451:156",
+  "src": "croatie-bosnie-slovenie.json#17",
+  "n": "Rastoke",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Slunj (HR, 0.5 km)",
+   "ref": {
+    "name": "Slunj",
+    "geonameid": 3190523,
+    "y": 45.11507,
+    "x": 15.58458,
+    "km": 0.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2851
+ },
+ {
+  "key": "croatie|osijek|456:187",
+  "src": "croatie-bosnie-slovenie.json#0",
+  "n": "Osijek",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Osijek (HR, 1.1 km)",
+   "ref": {
+    "name": "Osijek",
+    "geonameid": 3193935,
+    "y": 45.55111,
+    "x": 18.69389,
+    "km": 1.1,
+    "statedKm": 1
+   },
+   "status": "vérifié",
+   "snapped": 1.05
+  },
+  "links": {
+   "geonames": 3193935,
+   "qid": "Q1640"
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2852
+ },
+ {
+  "key": "croatie|korcula|430:171",
+  "src": "croatie-bosnie-slovenie.json#38",
+  "n": "Korčula",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Korčula (HR, 0.1 km)",
+   "ref": {
+    "name": "Korčula",
+    "geonameid": 3197710,
+    "y": 42.96038,
+    "x": 17.13525,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 3197710
+  },
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2853
+ },
+ {
+  "key": "croatie|ston|428:177",
+  "src": "croatie-bosnie-slovenie.json#39",
+  "n": "Ston",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ston (HR, 0.1 km)",
+   "ref": {
+    "name": "Ston",
+    "geonameid": 3189810,
+    "y": 42.83861,
+    "x": 17.69639,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2854
+ },
+ {
+  "key": "croatie|vukovar|454:190",
+  "src": "croatie-bosnie-slovenie.json#2",
+  "n": "Vukovar",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vukovar (HR, 0.2 km)",
+   "ref": {
+    "name": "Vukovar",
+    "geonameid": 3187047,
+    "y": 45.35161,
+    "x": 19.00225,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.18
+  },
+  "links": {
+   "geonames": 3187047
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2855
+ },
+ {
+  "key": "croatie|opatija|453:143",
+  "src": "croatie-bosnie-slovenie.json#20",
+  "n": "Opatija",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Opatija (HR, 0.2 km)",
+   "ref": {
+    "name": "Opatija",
+    "geonameid": 3194099,
+    "y": 45.33658,
+    "x": 14.30782,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.18
+  },
+  "links": {
+   "geonames": 3194099
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2856
+ },
+ {
+  "key": "croatie|trakoscan|463:159",
+  "src": "croatie-bosnie-slovenie.json#10",
+  "n": "Château de Trakošćan",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bednja (HR, 4.6 km)",
+   "ref": {
+    "name": "Lepoglava",
+    "geonameid": 3196657,
+    "y": 46.21056,
+    "x": 16.03556,
+    "km": 9.1,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2859
+ },
+ {
+  "key": "croatie|klis|436:165",
+  "src": "croatie-bosnie-slovenie.json#32",
+  "n": "Forteresse de Klis",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Klis (HR, 0.4 km)",
+   "ref": {
+    "name": "Solin",
+    "geonameid": 3190359,
+    "y": 43.5432,
+    "x": 16.49314,
+    "km": 3.1,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2861
+ },
+ {
+  "key": "croatie|rouge-bleu-imotski|434:172",
+  "src": "croatie-bosnie-slovenie.json#42",
+  "n": "Lacs Rouge et Bleu d'Imotski",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Imotski (HR, 0.3 km)",
+   "ref": {
+    "name": "Imotski",
+    "geonameid": 3199111,
+    "y": 43.44667,
+    "x": 17.21667,
+    "km": 0.3,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2857
+ },
+ {
+  "key": "croatie|mali-losinj|445:145",
+  "src": "croatie-bosnie-slovenie.json#23",
+  "n": "Mali Lošinj",
+  "p": "Croatie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mali Lošinj (HR, 0.1 km)",
+   "ref": {
+    "name": "Mali Lošinj",
+    "geonameid": 3195674,
+    "y": 44.53056,
+    "x": 14.46861,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 3195674
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2862
+ },
+ {
+  "key": "croatie|motovun|453:138",
+  "src": "croatie-bosnie-slovenie.json#44",
+  "n": "Motovun",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Motovun (HR, 0.0 km)",
+   "ref": {
+    "name": "Pazin",
+    "geonameid": 3193561,
+    "y": 45.24028,
+    "x": 13.93667,
+    "km": 13.6,
+    "statedKm": 14
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3194802
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2858
+ },
+ {
+  "key": "croatie|omis|434:167",
+  "src": "croatie-bosnie-slovenie.json#31",
+  "n": "Omiš",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Omiš (HR, 0.1 km)",
+   "ref": {
+    "name": "Omiš",
+    "geonameid": 3194114,
+    "y": 43.44472,
+    "x": 16.68861,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 3194114
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2860
+ },
+ {
+  "key": "croatie|rab|448:148",
+  "src": "croatie-bosnie-slovenie.json#24",
+  "n": "Rab",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": null,
+   "nearestLocality": "Rab (HR, 0.1 km)",
+   "ref": {
+    "name": "Rab",
+    "geonameid": 3192178,
+    "y": 44.75694,
+    "x": 14.76083,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 3192178
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2863
+ },
+ {
+  "key": "croatie|pag|444:151",
+  "src": "croatie-bosnie-slovenie.json#25",
+  "n": "Pag",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Pag (HR, 0.2 km)",
+   "ref": {
+    "name": "Pag",
+    "geonameid": 3193726,
+    "y": 44.445,
+    "x": 15.0575,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.16
+  },
+  "links": {
+   "geonames": 3193726
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2864
+ },
+ {
+  "key": "croatie|kopacki-rit|456:188",
+  "src": "croatie-bosnie-slovenie.json#1",
+  "n": "Parc naturel de Kopački rit",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bilje (HR, 4.0 km)",
+   "ref": {
+    "name": "Bilje",
+    "geonameid": 3204145,
+    "y": 45.60694,
+    "x": 18.74389,
+    "km": 4,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2865
+ },
+ {
+  "key": "croatie|ilok|452:194",
+  "src": "croatie-bosnie-slovenie.json#3",
+  "n": "Ilok",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ilok (HR, 0.0 km)",
+   "ref": {
+    "name": "Ilok",
+    "geonameid": 3199128,
+    "y": 45.22222,
+    "x": 19.37694,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3199128
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2866
+ },
+ {
+  "key": "croatie|vrbnik|451:147",
+  "src": "croatie-bosnie-slovenie.json#21",
+  "n": "Vrbnik",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vrbnik (HR, 0.1 km)",
+   "ref": {
+    "name": "Krk",
+    "geonameid": 3197208,
+    "y": 45.02744,
+    "x": 14.57542,
+    "km": 9.4,
+    "statedKm": 9
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 3187275
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2867
+ },
+ {
+  "key": "croatie|zrmanja|442:157",
+  "src": "croatie-bosnie-slovenie.json#47",
+  "n": "Canyon de la Zrmanja",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Obrovac (HR, 0.1 km)",
+   "ref": {
+    "name": "Obrovac",
+    "geonameid": 3194245,
+    "y": 44.20056,
+    "x": 15.68222,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2869
+ },
+ {
+  "key": "croatie|delta-neretva|430:176",
+  "src": "croatie-bosnie-slovenie.json#40",
+  "n": "Delta de la Neretva",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Opuzen (HR, 0.1 km)",
+   "ref": {
+    "name": "Opuzen",
+    "geonameid": 3194075,
+    "y": 43.01528,
+    "x": 17.56556,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2870
+ },
+ {
+  "key": "croatie|lonjsko-polje|454:165",
+  "src": "croatie-bosnie-slovenie.json#7",
+  "n": "Parc naturel de Lonjsko polje",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sunja (HR, 7.9 km)",
+   "ref": {
+    "name": "Sisak",
+    "geonameid": 3190813,
+    "y": 45.46611,
+    "x": 16.37833,
+    "km": 12,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2871
+ },
+ {
+  "key": "croatie|vis|431:162",
+  "src": "croatie-bosnie-slovenie.json#37",
+  "n": "Vis",
+  "p": "Croatie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vis (HR, 0.1 km)",
+   "ref": {
+    "name": "Vis",
+    "geonameid": 3187685,
+    "y": 43.06194,
+    "x": 16.18306,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2868
+ },
+ {
+  "key": "croatie|cavtat|426:182",
+  "src": "croatie-bosnie-slovenie.json#41",
+  "n": "Cavtat",
+  "p": "Croatie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Cavtat (HR, 0.0 km)",
+   "ref": {
+    "name": "Cavtat",
+    "geonameid": 3202825,
+    "y": 42.58111,
+    "x": 18.21806,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3202825
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2874
+ },
+ {
+  "key": "croatie|knin|440:162",
+  "src": "croatie-bosnie-slovenie.json#29",
+  "n": "Forteresse de Knin",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Knin (HR, 0.5 km)",
+   "ref": {
+    "name": "Knin",
+    "geonameid": 3197986,
+    "y": 44.04063,
+    "x": 16.19662,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2875
+ },
+ {
+  "key": "croatie|lubenice|449:143",
+  "src": "croatie-bosnie-slovenie.json#22",
+  "n": "Lubenice",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cres (HR, 10.5 km)",
+   "ref": {
+    "name": "Cres",
+    "geonameid": 3202523,
+    "y": 44.96092,
+    "x": 14.41246,
+    "km": 10.5,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2876
+ },
+ {
+  "key": "croatie|nin|442:152",
+  "src": "croatie-bosnie-slovenie.json#26",
+  "n": "Nin",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nin (HR, 0.1 km)",
+   "ref": {
+    "name": "Zadar",
+    "geonameid": 3186952,
+    "y": 44.11578,
+    "x": 15.22514,
+    "km": 14.5,
+    "statedKm": 14
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 3216446
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2872
+ },
+ {
+  "key": "croatie|papuk|455:177",
+  "src": "croatie-bosnie-slovenie.json#5",
+  "n": "Parc naturel de Papuk",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mikleuš (HR, 14.6 km)",
+   "ref": {
+    "name": "Orahovica",
+    "geonameid": 3194064,
+    "y": 45.54,
+    "x": 17.88472,
+    "km": 15.9,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2877
+ },
+ {
+  "key": "croatie|zlatni-rat|433:166",
+  "src": "croatie-bosnie-slovenie.json#36",
+  "n": "Zlatni rat",
+  "p": "Croatie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.9,
+   "otherCountry": null,
+   "nearestLocality": "Bol (HR, 1.6 km)",
+   "ref": {
+    "name": "Supetar",
+    "geonameid": 3189492,
+    "y": 43.38417,
+    "x": 16.55083,
+    "km": 15.9,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 11,
+   "val": 9,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2873
+ },
+ {
+  "key": "croatie|karlovac|455:155",
+  "src": "croatie-bosnie-slovenie.json#16",
+  "n": "Karlovac",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Karlovac (HR, 0.5 km)",
+   "ref": {
+    "name": "Karlovac",
+    "geonameid": null,
+    "y": 45.487209,
+    "x": 15.547774,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.54
+  },
+  "links": {
+   "geonames": 3345300,
+   "qid": "Q3617"
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2879
+ },
+ {
+  "key": "croatie|homme-neandertal-krapina|462:159",
+  "src": "croatie-bosnie-slovenie.json#12",
+  "n": "Musée de l'homme de Néandertal de Krapina",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Krapina (HR, 1.1 km)",
+   "ref": {
+    "name": "Krapina",
+    "geonameid": 3197369,
+    "y": 46.16083,
+    "x": 15.87889,
+    "km": 1.1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2878
+ },
+ {
+  "key": "croatie|ogulin|453:152",
+  "src": "croatie-bosnie-slovenie.json#18",
+  "n": "Ogulin",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ogulin (HR, 0.1 km)",
+   "ref": {
+    "name": "Ogulin",
+    "geonameid": 3194183,
+    "y": 45.26611,
+    "x": 15.22861,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.13
+  },
+  "links": {
+   "geonames": 3194183
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2880
+ },
+ {
+  "key": "croatie|primosten|436:159",
+  "src": "croatie-bosnie-slovenie.json#28",
+  "n": "Primošten",
+  "p": "Croatie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": null,
+   "nearestLocality": "Primošten (HR, 0.0 km)",
+   "ref": {
+    "name": "Primošten",
+    "geonameid": 3192383,
+    "y": 43.58632,
+    "x": 15.92302,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3192383
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2881
+ },
+ {
+  "key": "croatie|salona|435:165",
+  "src": "croatie-bosnie-slovenie.json#33",
+  "n": "Salona",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Solin (HR, 0.9 km)",
+   "ref": {
+    "name": "Solin",
+    "geonameid": 3190359,
+    "y": 43.5432,
+    "x": 16.49314,
+    "km": 0.9,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "croatie|senj|450:149",
+  "src": "croatie-bosnie-slovenie.json#19",
+  "n": "Senj",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Senj (HR, 0.3 km)",
+   "ref": {
+    "name": "Senj",
+    "geonameid": 3191055,
+    "y": 44.98944,
+    "x": 14.90583,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "croatie|kamenjak|448:139",
+  "src": "croatie-bosnie-slovenie.json#46",
+  "n": "Cap Kamenjak",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Medulin (HR, 5.5 km)",
+   "ref": {
+    "name": "Medulin",
+    "geonameid": 3195307,
+    "y": 44.8225,
+    "x": 13.935,
+    "km": 5.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "croatie|akovo|453:184",
+  "src": "croatie-bosnie-slovenie.json#4",
+  "n": "Đakovo",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Đakovo (HR, 0.0 km)",
+   "ref": {
+    "name": "Đakovo",
+    "geonameid": 3202220,
+    "y": 45.30833,
+    "x": 18.41056,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "croatie|marija-bistrica|460:161",
+  "src": "croatie-bosnie-slovenie.json#13",
+  "n": "Marija Bistrica",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gornja Stubica (HR, 7.0 km)",
+   "ref": {
+    "name": "Zlatar",
+    "geonameid": 3186406,
+    "y": 46.09417,
+    "x": 16.07083,
+    "km": 13,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "croatie|source-cetina|440:164",
+  "src": "croatie-bosnie-slovenie.json#30",
+  "n": "Source de la Cetina",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Civljane (HR, 3.7 km)",
+   "ref": {
+    "name": "Vrlika",
+    "geonameid": null,
+    "y": 43.90828,
+    "x": 16.3983,
+    "km": 8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "croatie|cakovec|464:164",
+  "src": "croatie-bosnie-slovenie.json#11",
+  "n": "Čakovec",
+  "p": "Croatie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Čakovec (HR, 0.0 km)",
+   "ref": {
+    "name": "Čakovec",
+    "geonameid": 3202888,
+    "y": 46.38444,
+    "x": 16.43389,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3202888
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "croatie|memorial-jasenovac|453:169",
+  "src": "croatie-bosnie-slovenie.json#8",
+  "n": "Mémorial de Jasenovac",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jasenovac (HR, 2.2 km)",
+   "ref": {
+    "name": "Novska",
+    "geonameid": 3194319,
+    "y": 45.34056,
+    "x": 16.97694,
+    "km": 7.4,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 6,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "croatie|kumrovec|461:157",
+  "src": "croatie-bosnie-slovenie.json#14",
+  "n": "Kumrovec",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kumrovec (HR, 0.1 km)",
+   "ref": {
+    "name": "Klanjec",
+    "geonameid": 3198103,
+    "y": 46.04982,
+    "x": 15.74418,
+    "km": 6,
+    "statedKm": 6
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3196954
+  },
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "croatie|canal-lim|451:137",
+  "src": "croatie-bosnie-slovenie.json#45",
+  "n": "Canal de Lim",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rovinjsko Selo (HR, 3.0 km)",
+   "ref": {
+    "name": "Rovinj",
+    "geonameid": 3191518,
+    "y": 45.08268,
+    "x": 13.63457,
+    "km": 7.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "croatie|slavonski-brod|452:180",
+  "src": "croatie-bosnie-slovenie.json#6",
+  "n": "Forteresse de Slavonski Brod",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Slavonski Brod (HR, 0.7 km)",
+   "ref": {
+    "name": "Slavonski Brod",
+    "geonameid": null,
+    "y": 45.160278,
+    "x": 18.015582,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "croatie|brela|434:169",
+  "src": "croatie-bosnie-slovenie.json#35",
+  "n": "Brela",
+  "p": "Croatie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.2,
+   "otherCountry": null,
+   "nearestLocality": "Brela (HR, 0.9 km)",
+   "ref": {
+    "name": "Makarska",
+    "geonameid": 3195890,
+    "y": 43.29694,
+    "x": 17.01778,
+    "km": 10.8,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "croatie|ur-evac|460:171",
+  "src": "croatie-bosnie-slovenie.json#15",
+  "n": "Đurđevac",
+  "p": "Croatie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Đurđevac (HR, 0.4 km)",
+   "ref": {
+    "name": "Đurđevac",
+    "geonameid": 3200961,
+    "y": 46.04111,
+    "x": 17.06972,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "croatie|vrana|439:156",
+  "src": "croatie-bosnie-slovenie.json#27",
+  "n": "Parc naturel du lac de Vrana",
+  "p": "Croatie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pakoštane (HR, 3.8 km)",
+   "ref": {
+    "name": "Biograd na Moru",
+    "geonameid": 3204121,
+    "y": 43.94333,
+    "x": 15.45194,
+    "km": 9.5,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ }
+]

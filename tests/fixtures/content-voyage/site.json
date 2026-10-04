@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Van",
+  "descriptor": "Atlas de l’Europe en van",
+  "currentVoyage": "espagne-de-test",
+  "hero": { "title": "Titre d’accueil de test", "lead": "Phrase d’accroche de test, réglée dans content/site.json." }
+}

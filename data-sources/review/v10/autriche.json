@@ -1,0 +1,1963 @@
+[
+ {
+  "key": "autriche|alpine-silvretta|469:101",
+  "src": "suisse-autriche.json#66",
+  "n": "Route alpine de la Silvretta",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Galtür (AT, 8.7 km)",
+   "ref": {
+    "name": "Schruns",
+    "geonameid": 2765581,
+    "y": 47.08028,
+    "x": 9.91917,
+    "km": 22.3,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 15,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 2666
+ },
+ {
+  "key": "autriche|hochosterwitz|468:145",
+  "src": "suisse-autriche.json#107",
+  "n": "Château de Hochosterwitz",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Launsdorf (AT, 1.8 km)",
+   "ref": {
+    "name": "Sankt Veit an der Glan",
+    "geonameid": 2766359,
+    "y": 46.76806,
+    "x": 14.36028,
+    "km": 7.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 2667
+ },
+ {
+  "key": "autriche|melk|482:153",
+  "src": "suisse-autriche.json#94",
+  "n": "Abbaye de Melk",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Melk (AT, 0.1 km)",
+   "ref": {
+    "name": "Melk",
+    "geonameid": 2771682,
+    "y": 48.22737,
+    "x": 15.33186,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 22,
+   "van": 9,
+   "sing": 12,
+   "val": 15,
+   "acc": 5,
+   "rel": 9,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2668
+ },
+ {
+  "key": "autriche|bregenzerwald|474:99",
+  "src": "suisse-autriche.json#64",
+  "n": "Bregenzerwald",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Schwarzenberg (AT, 0.1 km)",
+   "ref": {
+    "name": "Dornbirn",
+    "geonameid": 2780741,
+    "y": 47.41427,
+    "x": 9.74195,
+    "km": 8.3,
+    "statedKm": 8
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 11238451
+  },
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2669
+ },
+ {
+  "key": "autriche|ramsau-dachstein|474:137",
+  "src": "suisse-autriche.json#104",
+  "n": "Ramsau am Dachstein",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ramsau am Dachstein (AT, 0.1 km)",
+   "ref": {
+    "name": "Schladming",
+    "geonameid": 2765961,
+    "y": 47.39289,
+    "x": 13.68699,
+    "km": 3.9,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2670
+ },
+ {
+  "key": "autriche|admont|476:145",
+  "src": "suisse-autriche.json#103",
+  "n": "Abbaye d'Admont",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Admont (AT, 0.1 km)",
+   "ref": {
+    "name": "Admont",
+    "geonameid": 2782979,
+    "y": 47.57537,
+    "x": 14.46075,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2671
+ },
+ {
+  "key": "autriche|neusiedler-seewinkel|478:168",
+  "src": "suisse-autriche.json#71",
+  "n": "Parc national Neusiedler See-Seewinkel",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Illmitz (AT, 0.2 km)",
+   "ref": {
+    "name": "Illmitz",
+    "geonameid": 2775327,
+    "y": 47.76148,
+    "x": 16.80024,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2672
+ },
+ {
+  "key": "autriche|eisriesenwelt|475:132",
+  "src": "suisse-autriche.json#83",
+  "n": "Eisriesenwelt",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Obergäu (AT, 9.7 km)",
+   "ref": {
+    "name": "Werfen",
+    "geonameid": 2761479,
+    "y": 47.47585,
+    "x": 13.1902,
+    "km": 3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 9,
+   "sing": 14,
+   "val": 14,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2673
+ },
+ {
+  "key": "autriche|carnuntum|481:169",
+  "src": "suisse-autriche.json#97",
+  "n": "Carnuntum",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Petronell-Carnuntum (AT, 0.4 km)",
+   "ref": {
+    "name": "Hainburg an der Donau",
+    "geonameid": 2776988,
+    "y": 48.14627,
+    "x": 16.94504,
+    "km": 7.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2674
+ },
+ {
+  "key": "autriche|achensee|475:117",
+  "src": "suisse-autriche.json#77",
+  "n": "Achensee",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Maurach (AT, 4.6 km)",
+   "ref": {
+    "name": "Jenbach",
+    "geonameid": 2775093,
+    "y": 47.39173,
+    "x": 11.77245,
+    "km": 8,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2675
+ },
+ {
+  "key": "autriche|riegersburg|470:159",
+  "src": "suisse-autriche.json#102",
+  "n": "Château de Riegersburg",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Riegersburg (AT, 0.4 km)",
+   "ref": {
+    "name": "Riegersburg",
+    "geonameid": 2767443,
+    "y": 47,
+    "x": 15.93028,
+    "km": 0.4,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2676
+ },
+ {
+  "key": "autriche|mariazell|478:153",
+  "src": "suisse-autriche.json#101",
+  "n": "Basilique de Mariazell",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mariazell (AT, 0.2 km)",
+   "ref": {
+    "name": "Mariazell",
+    "geonameid": 2771893,
+    "y": 47.77306,
+    "x": 15.31639,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2677
+ },
+ {
+  "key": "autriche|bregence|475:97",
+  "src": "suisse-autriche.json#63",
+  "n": "Brégence",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bregenz (AT, 0.0 km)",
+   "ref": {
+    "name": "Bregenz",
+    "geonameid": 2781503,
+    "y": 47.50311,
+    "x": 9.7471,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 2781503,
+   "qid": "Q1737"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2679
+ },
+ {
+  "key": "autriche|erzberg|475:149",
+  "src": "suisse-autriche.json#100",
+  "n": "Erzberg",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Eisenerz (AT, 1.3 km)",
+   "ref": {
+    "name": "Eisenerz",
+    "geonameid": 2780207,
+    "y": 47.53333,
+    "x": 14.88333,
+    "km": 1.3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2680
+ },
+ {
+  "key": "autriche|timmelsjoch|469:111",
+  "src": "suisse-autriche.json#79",
+  "n": "Route du Timmelsjoch",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0,
+   "otherCountry": "Italy",
+   "nearestLocality": "Sölden (AT, 9.6 km)",
+   "ref": {
+    "name": "Sölden",
+    "geonameid": 2764957,
+    "y": 46.96667,
+    "x": 11,
+    "km": 9.6,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 15,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2678
+ },
+ {
+  "key": "autriche|rust|478:167",
+  "src": "suisse-autriche.json#70",
+  "n": "Rust",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rust (AT, 0.1 km)",
+   "ref": {
+    "name": "Rust",
+    "geonameid": 2766939,
+    "y": 47.80122,
+    "x": 16.67158,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 2766939
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2682
+ },
+ {
+  "key": "autriche|weissensee|467:133",
+  "src": "suisse-autriche.json#111",
+  "n": "Weissensee",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Steinfeld (AT, 5.1 km)",
+   "ref": {
+    "name": "Hermagor",
+    "geonameid": 2776497,
+    "y": 46.62722,
+    "x": 13.36722,
+    "km": 12,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2681
+ },
+ {
+  "key": "autriche|florian|482:144",
+  "src": "suisse-autriche.json#87",
+  "n": "Abbaye de Saint-Florian",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sankt Florian (AT, 0.2 km)",
+   "ref": {
+    "name": "Sankt Florian",
+    "geonameid": 2771867,
+    "y": 48.20568,
+    "x": 14.37836,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2686
+ },
+ {
+  "key": "autriche|forchtenstein|477:163",
+  "src": "suisse-autriche.json#72",
+  "n": "Château de Forchtenstein",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Forchtenstein (AT, 1.1 km)",
+   "ref": {
+    "name": "Mattersburg",
+    "geonameid": 2771817,
+    "y": 47.73333,
+    "x": 16.4,
+    "km": 5.8,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2687
+ },
+ {
+  "key": "autriche|kufstein|476:122",
+  "src": "suisse-autriche.json#75",
+  "n": "Forteresse de Kufstein",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kufstein (AT, 0.1 km)",
+   "ref": {
+    "name": "Kufstein",
+    "geonameid": 2773300,
+    "y": 47.58333,
+    "x": 12.16667,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2684
+ },
+ {
+  "key": "autriche|lienz|468:128",
+  "src": "suisse-autriche.json#82",
+  "n": "Lienz",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lienz (AT, 0.0 km)",
+   "ref": {
+    "name": "Lienz",
+    "geonameid": 2772505,
+    "y": 46.8289,
+    "x": 12.76903,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2772505
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2685
+ },
+ {
+  "key": "autriche|zillertal|472:119",
+  "src": "suisse-autriche.json#78",
+  "n": "Zillertal",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mayrhofen (AT, 0.0 km)",
+   "ref": {
+    "name": "Mayrhofen",
+    "geonameid": 2771725,
+    "y": 47.16667,
+    "x": 11.86667,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2683
+ },
+ {
+  "key": "autriche|boucle-schlogen|484:139",
+  "src": "suisse-autriche.json#91",
+  "n": "Boucle de Schlögen",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Waldkirchen am Wesen (AT, 4.8 km)",
+   "ref": {
+    "name": "Peuerbach",
+    "geonameid": 2768996,
+    "y": 48.3453,
+    "x": 13.77205,
+    "km": 11.5,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2689
+ },
+ {
+  "key": "autriche|dobratsch|466:137",
+  "src": "suisse-autriche.json#112",
+  "n": "Dobratsch",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hohenthurn (AT, 5.1 km)",
+   "ref": {
+    "name": "Villach",
+    "geonameid": 2762372,
+    "y": 46.61028,
+    "x": 13.85583,
+    "km": 14.1,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 12,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2688
+ },
+ {
+  "key": "autriche|hohenwerfen|475:132",
+  "src": "suisse-autriche.json#84",
+  "n": "Forteresse de Hohenwerfen",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Werfen (AT, 0.8 km)",
+   "ref": {
+    "name": "Werfen",
+    "geonameid": 2761479,
+    "y": 47.47585,
+    "x": 13.1902,
+    "km": 0.8,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2690
+ },
+ {
+  "key": "autriche|gurk|469:143",
+  "src": "suisse-autriche.json#108",
+  "n": "Cathédrale de Gurk",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gurk (AT, 0.2 km)",
+   "ref": {
+    "name": "Sankt Veit an der Glan",
+    "geonameid": 2766359,
+    "y": 46.76806,
+    "x": 14.36028,
+    "km": 12.9,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2692
+ },
+ {
+  "key": "autriche|lech-arlberg|472:101",
+  "src": "suisse-autriche.json#67",
+  "n": "Lech am Arlberg",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Sankt Anton am Arlberg » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lech (AT, 0.2 km)",
+   "ref": {
+    "name": "Lech",
+    "geonameid": 2772798,
+    "y": 47.20797,
+    "x": 10.14184,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 2772798
+  },
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2691
+ },
+ {
+  "key": "autriche|gottweig|484:156",
+  "src": "suisse-autriche.json#95",
+  "n": "Abbaye de Göttweig",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Furth bei Göttweig (AT, 0.8 km)",
+   "ref": {
+    "name": "Krems an der Donau",
+    "geonameid": 2773549,
+    "y": 48.40921,
+    "x": 15.61415,
+    "km": 4.7,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2696
+ },
+ {
+  "key": "autriche|heiligenkreuz|481:161",
+  "src": "suisse-autriche.json#98",
+  "n": "Abbaye de Heiligenkreuz",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Heiligenkreuz (AT, 0.5 km)",
+   "ref": {
+    "name": "Baden",
+    "geonameid": 2782067,
+    "y": 48.00543,
+    "x": 16.23264,
+    "km": 9.4,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2694
+ },
+ {
+  "key": "autriche|eisenstadt|478:165",
+  "src": "suisse-autriche.json#69",
+  "n": "Eisenstadt",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Eisenstadt (AT, 0.1 km)",
+   "ref": {
+    "name": "Eisenstadt",
+    "geonameid": 2780190,
+    "y": 47.84565,
+    "x": 16.52327,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2780190,
+   "qid": "Q126321"
+  },
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2693
+ },
+ {
+  "key": "autriche|linz|483:143",
+  "src": "suisse-autriche.json#86",
+  "n": "Linz",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Linz (AT, 0.1 km)",
+   "ref": {
+    "name": "Linz",
+    "geonameid": 2772400,
+    "y": 48.30639,
+    "x": 14.28611,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2772400,
+   "qid": "Q41329"
+  },
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2695
+ },
+ {
+  "key": "autriche|plansee|475:108",
+  "src": "suisse-autriche.json#81",
+  "n": "Plansee",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Heiterwang (AT, 5.4 km)",
+   "ref": {
+    "name": "Reutte",
+    "geonameid": 2767511,
+    "y": 47.48333,
+    "x": 10.71667,
+    "km": 7.1,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2697
+ },
+ {
+  "key": "autriche|feldkirch|472:96",
+  "src": "suisse-autriche.json#65",
+  "n": "Feldkirch",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Feldkirch (AT, 0.6 km)",
+   "ref": {
+    "name": "Feldkirch",
+    "geonameid": 2779674,
+    "y": 47.23306,
+    "x": 9.6,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.57
+  },
+  "links": {
+   "geonames": 2779674
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2699
+ },
+ {
+  "key": "autriche|gmunden|479:138",
+  "src": "suisse-autriche.json#93",
+  "n": "Gmunden",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gmunden (AT, 0.0 km)",
+   "ref": {
+    "name": "Gmunden",
+    "geonameid": 2778436,
+    "y": 47.91839,
+    "x": 13.79933,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 2778436
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2698
+ },
+ {
+  "key": "autriche|memorial-mauthausen|483:145",
+  "src": "suisse-autriche.json#89",
+  "n": "Mémorial de Mauthausen",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Mauthausen » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ried in der Riedmark (AT, 2.6 km)",
+   "ref": {
+    "name": "Ried in der Riedmark",
+    "geonameid": 2767466,
+    "y": 48.27114,
+    "x": 14.52796,
+    "km": 2.6,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 6,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2700
+ },
+ {
+  "key": "autriche|kreuzenstein|484:163",
+  "src": "suisse-autriche.json#96",
+  "n": "Château de Kreuzenstein",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leobendorf (AT, 0.8 km)",
+   "ref": {
+    "name": "Korneuburg",
+    "geonameid": 2773698,
+    "y": 48.35,
+    "x": 16.33333,
+    "km": 3.4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2701
+ },
+ {
+  "key": "autriche|gussing|471:163",
+  "src": "suisse-autriche.json#73",
+  "n": "Château de Güssing",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Güssing (AT, 0.1 km)",
+   "ref": {
+    "name": "Güssing",
+    "geonameid": 2777216,
+    "y": 47.05936,
+    "x": 16.32431,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "autriche|hall-tirol|473:115",
+  "src": "suisse-autriche.json#74",
+  "n": "Hall in Tirol",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hall in Tirol (AT, 0.7 km)",
+   "ref": {
+    "name": "Hall in Tirol",
+    "geonameid": 2764958,
+    "y": 47.28333,
+    "x": 11.51667,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.71
+  },
+  "links": {
+   "geonames": 2764958
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "autriche|kitzbuhel|474:124",
+  "src": "suisse-autriche.json#80",
+  "n": "Kitzbühel",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kitzbühel (AT, 0.0 km)",
+   "ref": {
+    "name": "Kitzbühel",
+    "geonameid": 2774347,
+    "y": 47.44637,
+    "x": 12.39215,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2774347
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "autriche|millstatter|468:136",
+  "src": "suisse-autriche.json#110",
+  "n": "Millstätter See",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Millstatt (AT, 0.0 km)",
+   "ref": {
+    "name": "Spittal an der Drau",
+    "geonameid": 2764786,
+    "y": 46.8,
+    "x": 13.5,
+    "km": 6.1,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "autriche|kremsmunster|481:141",
+  "src": "suisse-autriche.json#88",
+  "n": "Abbaye de Kremsmünster",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kremsmünster (AT, 0.0 km)",
+   "ref": {
+    "name": "Kremsmünster",
+    "geonameid": 2773538,
+    "y": 48.0529,
+    "x": 14.12919,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "autriche|friesach|470:144",
+  "src": "suisse-autriche.json#109",
+  "n": "Friesach",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Friesach (AT, 0.3 km)",
+   "ref": {
+    "name": "Friesach",
+    "geonameid": 2779229,
+    "y": 46.95528,
+    "x": 14.40583,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.25
+  },
+  "links": {
+   "geonames": 2779229
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "autriche|gosausee|475:135",
+  "src": "suisse-autriche.json#92",
+  "n": "Gosausee",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Bad Goisern am Hallstättersee » absente du gazetier : contrôle par la localité la plus proche",
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gosau (AT, 5.5 km)",
+   "ref": {
+    "name": "Gosau",
+    "geonameid": 2778302,
+    "y": 47.58417,
+    "x": 13.53447,
+    "km": 5.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "autriche|steyr|480:144",
+  "src": "suisse-autriche.json#90",
+  "n": "Steyr",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Steyr (AT, 0.4 km)",
+   "ref": {
+    "name": "Steyr",
+    "geonameid": 2764359,
+    "y": 48.04274,
+    "x": 14.42127,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.42
+  },
+  "links": {
+   "geonames": 2764359
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "autriche|rattenberg|474:119",
+  "src": "suisse-autriche.json#76",
+  "n": "Rattenberg",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rattenberg (AT, 0.1 km)",
+   "ref": {
+    "name": "Brixlegg",
+    "geonameid": 2781391,
+    "y": 47.42942,
+    "x": 11.87794,
+    "km": 1.5,
+    "statedKm": 2
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 2767902
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "autriche|worthersee|466:142",
+  "src": "suisse-autriche.json#105",
+  "n": "Wörthersee",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Pörtschach am Wörther See » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Maria Wörth (AT, 0.2 km)",
+   "ref": {
+    "name": "Maria Wörth",
+    "geonameid": 2771894,
+    "y": 46.61639,
+    "x": 14.16306,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "autriche|rappenloch|474:98",
+  "src": "suisse-autriche.json#68",
+  "n": "Gorges du Rappenloch",
+  "p": "Autriche",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dornbirn (AT, 4.1 km)",
+   "ref": {
+    "name": "Dornbirn",
+    "geonameid": 2780741,
+    "y": 47.41427,
+    "x": 9.74195,
+    "km": 4.1,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "autriche|klagenfurt|466:143",
+  "src": "suisse-autriche.json#106",
+  "n": "Klagenfurt",
+  "p": "Autriche",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Klagenfurt am Wörthersee (AT, 0.0 km)",
+   "ref": {
+    "name": "Klagenfurt am Wörthersee",
+    "geonameid": 2774326,
+    "y": 46.62472,
+    "x": 14.30528,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 2774326,
+   "qid": "Q41753"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "autriche|mine-sel-hallein|477:131",
+  "src": "suisse-autriche.json#85",
+  "n": "Mine de sel de Hallein",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hallein (AT, 2.2 km)",
+   "ref": {
+    "name": "Hallein",
+    "geonameid": 2776951,
+    "y": 47.68333,
+    "x": 13.1,
+    "km": 2.2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "autriche|zwettl|486:152",
+  "src": "suisse-autriche.json#99",
+  "n": "Abbaye de Zwettl",
+  "p": "Autriche",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Zwettl » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zwettl Stadt (AT, 2.6 km)",
+   "ref": {
+    "name": "Zwettl Stadt",
+    "geonameid": 2760416,
+    "y": 48.60726,
+    "x": 15.16714,
+    "km": 2.6,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ }
+]

@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-10-04T13:40:58.818Z",
+  "engine": "PGlite (PostgreSQL WebAssembly)",
+  "totals": {
+    "tests": 17,
+    "pass": 17,
+    "fail": 0
+  },
+  "results": [
+    {
+      "title": "1 · lecture publique : seules les contributions publiées sont visibles (liste, fiche, table), jamais brouillon, attente, masquée, refusée",
+      "status": "PASS",
+      "detail": "",
+      "ms": 136
+    },
+    {
+      "title": "2 · un utilisateur A ne peut pas modifier ni supprimer le contenu de B (RPC et requête directe)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 56
+    },
+    {
+      "title": "3 · owner_id impossible à usurper ; champs protégés (auteur, type, compteurs, dates) non modifiables",
+      "status": "PASS",
+      "detail": "",
+      "ms": 37
+    },
+    {
+      "title": "4 · statuts : impossible de se publier, de se masquer ou de sortir d'un masquage soi-même",
+      "status": "PASS",
+      "detail": "",
+      "ms": 36
+    },
+    {
+      "title": "5 · élévation de privilèges : pas de modération sans app_metadata, user_metadata ignoré, niveau de confiance et suspension intouchables",
+      "status": "PASS",
+      "detail": "",
+      "ms": 39
+    },
+    {
+      "title": "6 · modération : file, publication, masquage, refus, journal ; le contenu masqué disparaît du public",
+      "status": "PASS",
+      "detail": "",
+      "ms": 36
+    },
+    {
+      "title": "7 · XSS stockée et HTML : balises refusées dans tous les champs texte, adresse javascript: ou http refusée",
+      "status": "PASS",
+      "detail": "",
+      "ms": 48
+    },
+    {
+      "title": "8 · coordonnées : position arrondie au centième (≈ 1 km), hors d'Europe refusée, spot sans position refusé",
+      "status": "PASS",
+      "detail": "",
+      "ms": 33
+    },
+    {
+      "title": "9 · tailles : titre, texte, étapes, saisons, contrôles de longueur",
+      "status": "PASS",
+      "detail": "",
+      "ms": 39
+    },
+    {
+      "title": "10 · débit : au plus 5 contributions par heure et par compte",
+      "status": "PASS",
+      "detail": "",
+      "ms": 31
+    },
+    {
+      "title": "11 · signalements : un par personne, seulement sur du publié, retrait automatique à trois signalements",
+      "status": "PASS",
+      "detail": "",
+      "ms": 64
+    },
+    {
+      "title": "12 · « utile » et favoris : compteur tenu par la base, pas sur sa propre contribution, pas en anonyme",
+      "status": "PASS",
+      "detail": "",
+      "ms": 47
+    },
+    {
+      "title": "13 · confiance : trois contributions validées → publication directe ; un nouveau compte qui modifie du publié repasse en attente",
+      "status": "PASS",
+      "detail": "",
+      "ms": 70
+    },
+    {
+      "title": "14 · suspension : plus de contribution, contenus publiés retirés, levée par un modérateur seulement",
+      "status": "PASS",
+      "detail": "",
+      "ms": 33
+    },
+    {
+      "title": "15 · RGPD : export de ses seules données, suppression du compte et de ses contenus, signalements anonymisés",
+      "status": "PASS",
+      "detail": "",
+      "ms": 42
+    },
+    {
+      "title": "16 · surface anonyme : aucune écriture possible, aucune fonction de compte ni de modération ; le blog n'est pas dans la base",
+      "status": "PASS",
+      "detail": "",
+      "ms": 43
+    },
+    {
+      "title": "17 · recherche et filtres : texte, type, pays, saison, tri « utile », distance, pagination bornée, motifs SQL neutralisés",
+      "status": "PASS",
+      "detail": "",
+      "ms": 73
+    }
+  ]
+}

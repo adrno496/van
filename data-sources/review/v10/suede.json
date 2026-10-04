@@ -1,0 +1,2714 @@
+[
+ {
+  "key": "suede|ales-stenar|554:141",
+  "src": "norvege-suede.json#116",
+  "n": "Ales stenar",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.1,
+   "otherCountry": null,
+   "nearestLocality": "Köpingebro (SE, 11.0 km)",
+   "ref": {
+    "name": "Ystad",
+    "geonameid": 2662149,
+    "y": 55.42966,
+    "x": 13.82041,
+    "km": 15.7,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 14,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 83,
+  "decision": "retenu",
+  "i": 3300
+ },
+ {
+  "key": "suede|goteborg|577:120",
+  "src": "norvege-suede.json#123",
+  "n": "Göteborg",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Göteborg (SE, 0.5 km)",
+   "ref": {
+    "name": "Göteborg",
+    "geonameid": 2711537,
+    "y": 57.70716,
+    "x": 11.96679,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.5
+  },
+  "links": {
+   "geonames": 2711537
+  },
+  "score": {
+   "tour": 19,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3301
+ },
+ {
+  "key": "suede|vadstena|584:149",
+  "src": "norvege-suede.json#84",
+  "n": "Vadstena",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vadstena (SE, 0.0 km)",
+   "ref": {
+    "name": "Vadstena",
+    "geonameid": 2665902,
+    "y": 58.44863,
+    "x": 14.88969,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 2665902
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3302
+ },
+ {
+  "key": "suede|are|634:131",
+  "src": "norvege-suede.json#96",
+  "n": "Åre",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Åre (SE, 0.1 km)",
+   "ref": {
+    "name": "Åre",
+    "geonameid": 9114206,
+    "y": 63.39911,
+    "x": 13.07995,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 9114206
+  },
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3303
+ },
+ {
+  "key": "suede|gripsholm|593:172",
+  "src": "norvege-suede.json#79",
+  "n": "Château de Gripsholm",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mariefred (SE, 0.5 km)",
+   "ref": {
+    "name": "Mariefred",
+    "geonameid": 2692633,
+    "y": 59.25963,
+    "x": 17.223,
+    "km": 0.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3304
+ },
+ {
+  "key": "suede|ecluses-canal-gota|585:155",
+  "src": "norvege-suede.json#83",
+  "n": "Écluses de Berg (canal Göta)",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Berg (SE, 0.2 km)",
+   "ref": {
+    "name": "Linköping",
+    "geonameid": 2694762,
+    "y": 58.41086,
+    "x": 15.62157,
+    "km": 10,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3305
+ },
+ {
+  "key": "suede|kalmar|567:164",
+  "src": "norvege-suede.json#109",
+  "n": "Kalmar",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kalmar (SE, 0.4 km)",
+   "ref": {
+    "name": "Kalmar",
+    "geonameid": 2702261,
+    "y": 56.66157,
+    "x": 16.36163,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 2702261,
+   "qid": "Q26345"
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3306
+ },
+ {
+  "key": "suede|kullaberg|563:125",
+  "src": "norvege-suede.json#118",
+  "n": "Kullaberg",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Gilleleje (DK, 21.8 km)",
+   "ref": {
+    "name": "Höganäs",
+    "geonameid": 2706003,
+    "y": 56.19971,
+    "x": 12.55795,
+    "km": 12.9,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3307
+ },
+ {
+  "key": "suede|uppsala|599:176",
+  "src": "norvege-suede.json#132",
+  "n": "Uppsala",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Uppsala (SE, 0.0 km)",
+   "ref": {
+    "name": "Uppsala",
+    "geonameid": 2666199,
+    "y": 59.85882,
+    "x": 17.63889,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2666199,
+   "qid": "Q25286"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3308
+ },
+ {
+  "key": "suede|skuleskogen|631:185",
+  "src": "norvege-suede.json#94",
+  "n": "Parc national de Skuleskogen",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Köpmanholmen (SE, 8.6 km)",
+   "ref": {
+    "name": "Örnsköldsvik",
+    "geonameid": 2686469,
+    "y": 63.29091,
+    "x": 18.71525,
+    "km": 24.3,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 5,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3309
+ },
+ {
+  "key": "suede|smogen|584:112",
+  "src": "norvege-suede.json#124",
+  "n": "Smögen",
+  "p": "Suède",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Smögen (SE, 0.3 km)",
+   "ref": {
+    "name": "Kungshamn",
+    "geonameid": 2698697,
+    "y": 58.36305,
+    "x": 11.25938,
+    "km": 2.4,
+    "statedKm": 2
+   },
+   "status": "vérifié",
+   "snapped": 0.29
+  },
+  "links": {
+   "geonames": 2676511
+  },
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3310
+ },
+ {
+  "key": "suede|kiruna|679:202",
+  "src": "norvege-suede.json#88",
+  "n": "Kiruna",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kiruna (SE, 0.0 km)",
+   "ref": {
+    "name": "Kiruna",
+    "geonameid": 605155,
+    "y": 67.85572,
+    "x": 20.22513,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 605155,
+   "qid": "Q83232"
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3311
+ },
+ {
+  "key": "suede|rattvik|609:151",
+  "src": "norvege-suede.json#99",
+  "n": "Rättvik",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rättvik (SE, 0.1 km)",
+   "ref": {
+    "name": "Rättvik",
+    "geonameid": 2682995,
+    "y": 60.88632,
+    "x": 15.11787,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2682995
+  },
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3312
+ },
+ {
+  "key": "suede|ystad|554:138",
+  "src": "norvege-suede.json#117",
+  "n": "Ystad",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ystad (SE, 0.0 km)",
+   "ref": {
+    "name": "Ystad",
+    "geonameid": 2662149,
+    "y": 55.42966,
+    "x": 13.82041,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2662149
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3313
+ },
+ {
+  "key": "suede|jokkmokk|666:198",
+  "src": "norvege-suede.json#89",
+  "n": "Jokkmokk",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jokkmokk (SE, 0.0 km)",
+   "ref": {
+    "name": "Jokkmokk",
+    "geonameid": 2702997,
+    "y": 66.60665,
+    "x": 19.82324,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2702997
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3315
+ },
+ {
+  "key": "suede|sigtuna|596:177",
+  "src": "norvege-suede.json#130",
+  "n": "Sigtuna",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sigtuna (SE, 0.0 km)",
+   "ref": {
+    "name": "Sigtuna",
+    "geonameid": 2679302,
+    "y": 59.61731,
+    "x": 17.72361,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2679302
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3314
+ },
+ {
+  "key": "suede|kebnekaise-nikkaluokta|679:190",
+  "src": "norvege-suede.json#93",
+  "n": "Kebnekaise (Nikkaluokta)",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kiruna (SE, 50.9 km)",
+   "ref": {
+    "name": "Kiruna",
+    "geonameid": null,
+    "y": 67.850005,
+    "x": 20.216637,
+    "km": 50.5,
+    "statedKm": 51
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 2,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3316
+ },
+ {
+  "key": "suede|storforsen|658:210",
+  "src": "norvege-suede.json#92",
+  "n": "Storforsen",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Älvsbyn (SE, 17.5 km)",
+   "ref": {
+    "name": "Älvsbyn",
+    "geonameid": 606834,
+    "y": 65.67624,
+    "x": 21.00162,
+    "km": 17.5,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3317
+ },
+ {
+  "key": "suede|tannforsen|634:128",
+  "src": "norvege-suede.json#97",
+  "n": "Tännforsen",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Åre (SE, 14.6 km)",
+   "ref": {
+    "name": "Åre",
+    "geonameid": 9114206,
+    "y": 63.39911,
+    "x": 13.07995,
+    "km": 14.6,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3318
+ },
+ {
+  "key": "suede|lacko|587:132",
+  "src": "norvege-suede.json#126",
+  "n": "Château de Läckö",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Källby (SE, 19.0 km)",
+   "ref": {
+    "name": "Lidköping",
+    "geonameid": 2696329,
+    "y": 58.50517,
+    "x": 13.15765,
+    "km": 19.2,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3320
+ },
+ {
+  "key": "suede|faro|580:191",
+  "src": "norvege-suede.json#103",
+  "n": "Fårö",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "zone peu peuplée : localité la plus proche à 60 km",
+   "localité « Slite » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Visby (SE, 60.5 km)",
+   "ref": {
+    "name": "Visby",
+    "geonameid": 2662689,
+    "y": 57.64089,
+    "x": 18.29602,
+    "km": 60.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 13,
+   "sing": 14,
+   "val": 13,
+   "acc": 3,
+   "rel": 2,
+   "src": 1,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3552
+ },
+ {
+  "key": "suede|glimmingehus|555:142",
+  "src": "norvege-suede.json#121",
+  "n": "Glimmingehus",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gärsnäs (SE, 6.3 km)",
+   "ref": {
+    "name": "Simrishamn",
+    "geonameid": 2679107,
+    "y": 55.55653,
+    "x": 14.35037,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3321
+ },
+ {
+  "key": "suede|lund|557:132",
+  "src": "norvege-suede.json#119",
+  "n": "Lund",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lund (SE, 0.2 km)",
+   "ref": {
+    "name": "Lund",
+    "geonameid": 2693678,
+    "y": 55.70584,
+    "x": 13.19321,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 2693678
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3319
+ },
+ {
+  "key": "suede|mora|610:145",
+  "src": "norvege-suede.json#100",
+  "n": "Mora",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mora (SE, 0.4 km)",
+   "ref": {
+    "name": "Mora",
+    "geonameid": 2691400,
+    "y": 61.00704,
+    "x": 14.54316,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.41
+  },
+  "links": {
+   "geonames": 2691400
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3322
+ },
+ {
+  "key": "suede|tiveden|587:146",
+  "src": "norvege-suede.json#139",
+  "n": "Parc national de Tiveden",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Karlsborg (SE, 20.7 km)",
+   "ref": {
+    "name": "Karlsborg",
+    "geonameid": 2701757,
+    "y": 58.53724,
+    "x": 14.5047,
+    "km": 20.7,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 12,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3323
+ },
+ {
+  "key": "suede|phare-lange-jan|562:164",
+  "src": "norvege-suede.json#107",
+  "n": "Phare de Långe Jan",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 3,
+   "otherCountry": null,
+   "nearestLocality": "Bergkvara (SE, 29.5 km)",
+   "ref": {
+    "name": "Mörbylånga",
+    "geonameid": 2691348,
+    "y": 56.5248,
+    "x": 16.37877,
+    "km": 36.5,
+    "statedKm": 36
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 12,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3324
+ },
+ {
+  "key": "suede|varberg|571:122",
+  "src": "norvege-suede.json#114",
+  "n": "Forteresse de Varberg",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Varberg (SE, 0.7 km)",
+   "ref": {
+    "name": "Varberg",
+    "geonameid": 2664996,
+    "y": 57.10557,
+    "x": 12.25078,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3325
+ },
+ {
+  "key": "suede|aqueduc-haverud|588:124",
+  "src": "norvege-suede.json#129",
+  "n": "Aqueduc de Håverud",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dals Långed (SE, 12.8 km)",
+   "ref": {
+    "name": "Mellerud",
+    "geonameid": 2692049,
+    "y": 58.69979,
+    "x": 12.45312,
+    "km": 13.9,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3328
+ },
+ {
+  "key": "suede|borgholm|569:166",
+  "src": "norvege-suede.json#106",
+  "n": "Château de Borgholm",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Borgholm (SE, 1.4 km)",
+   "ref": {
+    "name": "Borgholm",
+    "geonameid": 2720437,
+    "y": 56.8793,
+    "x": 16.65634,
+    "km": 1.4,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3329
+ },
+ {
+  "key": "suede|malmo|556:130",
+  "src": "norvege-suede.json#120",
+  "n": "Malmö",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Malmö (SE, 0.2 km)",
+   "ref": {
+    "name": "Malmö",
+    "geonameid": 2692969,
+    "y": 55.60587,
+    "x": 13.00073,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.22
+  },
+  "links": {
+   "geonames": 2692969,
+   "qid": "Q2211"
+  },
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3326
+ },
+ {
+  "key": "suede|pierre-runique-rok|583:148",
+  "src": "norvege-suede.json#86",
+  "n": "Pierre runique de Rök",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Herrestad (SE, 9.9 km)",
+   "ref": {
+    "name": "Ödeshög",
+    "geonameid": 2687420,
+    "y": 58.22949,
+    "x": 14.65294,
+    "km": 10.2,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 14,
+   "val": 13,
+   "acc": 5,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3327
+ },
+ {
+  "key": "suede|eksjo|577:150",
+  "src": "norvege-suede.json#113",
+  "n": "Eksjö",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Eksjö (SE, 0.0 km)",
+   "ref": {
+    "name": "Eksjö",
+    "geonameid": 2716437,
+    "y": 57.66643,
+    "x": 14.97205,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 2716437
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3331
+ },
+ {
+  "key": "suede|granna|580:145",
+  "src": "norvege-suede.json#111",
+  "n": "Gränna",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gränna (SE, 1.0 km)",
+   "ref": {
+    "name": "Gränna",
+    "geonameid": 2711174,
+    "y": 58.01667,
+    "x": 14.46667,
+    "km": 1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.05
+  },
+  "links": {
+   "geonames": 2711174
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3332
+ },
+ {
+  "key": "suede|skuleberget|631:184",
+  "src": "norvege-suede.json#95",
+  "n": "Skuleberget",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Köpmanholmen (SE, 12.9 km)",
+   "ref": {
+    "name": "Örnsköldsvik",
+    "geonameid": 2686469,
+    "y": 63.29091,
+    "x": 18.71525,
+    "km": 28.1,
+    "statedKm": 28
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 5,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3330
+ },
+ {
+  "key": "suede|fjallbacka|586:113",
+  "src": "norvege-suede.json#125",
+  "n": "Fjällbacka",
+  "p": "Suède",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Grebbestad (SE, 11.7 km)",
+   "ref": {
+    "name": "Kungshamn",
+    "geonameid": 2698697,
+    "y": 58.36305,
+    "x": 11.25938,
+    "km": 26.2,
+    "statedKm": 26
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3333
+ },
+ {
+  "key": "suede|nora|595:150",
+  "src": "norvege-suede.json#138",
+  "n": "Nora",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nora (SE, 0.2 km)",
+   "ref": {
+    "name": "Nora",
+    "geonameid": 2689471,
+    "y": 59.51926,
+    "x": 15.03979,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.16
+  },
+  "links": {
+   "geonames": 2689471
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3334
+ },
+ {
+  "key": "suede|orebro|593:152",
+  "src": "norvege-suede.json#137",
+  "n": "Örebro",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Örebro (SE, 0.5 km)",
+   "ref": {
+    "name": "Örebro",
+    "geonameid": 2686657,
+    "y": 59.27412,
+    "x": 15.2066,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.49
+  },
+  "links": {
+   "geonames": 2686657,
+   "qid": "Q25732"
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3335
+ },
+ {
+  "key": "suede|skokloster|597:176",
+  "src": "norvege-suede.json#134",
+  "n": "Château de Skokloster",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Knivsta (SE, 9.6 km)",
+   "ref": {
+    "name": "Bålsta",
+    "geonameid": 2723567,
+    "y": 59.5671,
+    "x": 17.52781,
+    "km": 16.1,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3336
+ },
+ {
+  "key": "suede|bohus|579:120",
+  "src": "norvege-suede.json#128",
+  "n": "Forteresse de Bohus",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kungälv (SE, 1.6 km)",
+   "ref": {
+    "name": "Kungälv",
+    "geonameid": 2698739,
+    "y": 57.87096,
+    "x": 11.98054,
+    "km": 1.6,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3337
+ },
+ {
+  "key": "suede|hornborgasjon|583:136",
+  "src": "norvege-suede.json#141",
+  "n": "Lac Hornborgasjön",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Axvall (SE, 7.1 km)",
+   "ref": {
+    "name": "Falköping",
+    "geonameid": 2715568,
+    "y": 58.17347,
+    "x": 13.55068,
+    "km": 16.3,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3338
+ },
+ {
+  "key": "suede|ostersund|632:146",
+  "src": "norvege-suede.json#98",
+  "n": "Östersund",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Östersund (SE, 0.0 km)",
+   "ref": {
+    "name": "Östersund",
+    "geonameid": 2685750,
+    "y": 63.1792,
+    "x": 14.63566,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 2685750,
+   "qid": "Q26515"
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 8,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3339
+ },
+ {
+  "key": "suede|maison-carl-larsson|607:158",
+  "src": "norvege-suede.json#102",
+  "n": "Maison de Carl Larsson",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Falun (SE, 10.1 km)",
+   "ref": {
+    "name": "Falun",
+    "geonameid": null,
+    "y": 60.613002,
+    "x": 15.647005,
+    "km": 8.5,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3341
+ },
+ {
+  "key": "suede|trosa|589:175",
+  "src": "norvege-suede.json#81",
+  "n": "Trosa",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Trosa (SE, 0.1 km)",
+   "ref": {
+    "name": "Trosa",
+    "geonameid": 2667253,
+    "y": 58.89621,
+    "x": 17.54812,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2667253
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3342
+ },
+ {
+  "key": "suede|umea|638:203",
+  "src": "norvege-suede.json#72",
+  "n": "Umeå",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Umeå (SE, 0.3 km)",
+   "ref": {
+    "name": "Umeå",
+    "geonameid": 602150,
+    "y": 63.82842,
+    "x": 20.25972,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.33
+  },
+  "links": {
+   "geonames": 602150,
+   "qid": "Q25579"
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 7,
+   "val": 7,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3343
+ },
+ {
+  "key": "suede|vaxholm|594:184",
+  "src": "norvege-suede.json#131",
+  "n": "Vaxholm",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.1,
+   "otherCountry": null,
+   "nearestLocality": "Vaxholm (SE, 0.1 km)",
+   "ref": {
+    "name": "Vaxholm",
+    "geonameid": 2663540,
+    "y": 59.40225,
+    "x": 18.35317,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2663540
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3340
+ },
+ {
+  "key": "suede|karlstad|594:135",
+  "src": "norvege-suede.json#76",
+  "n": "Karlstad",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Karlstad (SE, 0.0 km)",
+   "ref": {
+    "name": "Karlstad",
+    "geonameid": 2701680,
+    "y": 59.3793,
+    "x": 13.50357,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 2701680,
+   "qid": "Q25457"
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 7,
+   "val": 7,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3344
+ },
+ {
+  "key": "suede|mine-argent-sala|599:166",
+  "src": "norvege-suede.json#136",
+  "n": "Mine d'argent de Sala",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sala (SE, 1.0 km)",
+   "ref": {
+    "name": "Sala",
+    "geonameid": 2680662,
+    "y": 59.91993,
+    "x": 16.60655,
+    "km": 1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3345
+ },
+ {
+  "key": "suede|pointe-nord-oland-lange-erik|574:171",
+  "src": "norvege-suede.json#108",
+  "n": "Pointe nord d'Öland (Långe Erik)",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 2,
+   "otherCountry": null,
+   "nearestLocality": "Gunnebo (SE, 51.1 km)",
+   "ref": {
+    "name": "Borgholm",
+    "geonameid": 2720437,
+    "y": 56.8793,
+    "x": 16.65634,
+    "km": 60.7,
+    "statedKm": 61
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3346
+ },
+ {
+  "key": "suede|lappstaden-arvidsjaur|656:192",
+  "src": "norvege-suede.json#90",
+  "n": "Lappstaden d'Arvidsjaur",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arvidsjaur (SE, 0.3 km)",
+   "ref": {
+    "name": "Arvidsjaur",
+    "geonameid": 2725136,
+    "y": 65.59033,
+    "x": 19.16682,
+    "km": 0.3,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3347
+ },
+ {
+  "key": "suede|paysage-industriel-norrkoping|586:162",
+  "src": "norvege-suede.json#87",
+  "n": "Paysage industriel de Norrköping",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Norrköping (SE, 0.3 km)",
+   "ref": {
+    "name": "Norrköping",
+    "geonameid": 2688368,
+    "y": 58.59419,
+    "x": 16.1826,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "suede|royaume-cristal-kosta|568:154",
+  "src": "norvege-suede.json#110",
+  "n": "Royaume du Cristal (Kosta)",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lessebo (SE, 12.7 km)",
+   "ref": {
+    "name": "Lessebo",
+    "geonameid": 2696473,
+    "y": 56.75185,
+    "x": 15.26969,
+    "km": 12.7,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "suede|alvastra-omberg|583:147",
+  "src": "norvege-suede.json#85",
+  "n": "Abbaye d'Alvastra et Omberg",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ödeshög (SE, 7.5 km)",
+   "ref": {
+    "name": "Ödeshög",
+    "geonameid": 2687420,
+    "y": 58.22949,
+    "x": 14.65294,
+    "km": 7.5,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suede|bonnstan|648:209",
+  "src": "norvege-suede.json#73",
+  "n": "Bonnstan",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Skellefteå (SE, 1.4 km)",
+   "ref": {
+    "name": "Skellefteå",
+    "geonameid": 602913,
+    "y": 64.75067,
+    "x": 20.95279,
+    "km": 1.4,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suede|lovanger|644:213",
+  "src": "norvege-suede.json#74",
+  "n": "Lövånger",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bureå (SE, 27.9 km)",
+   "ref": {
+    "name": "Skellefteå",
+    "geonameid": 602913,
+    "y": 64.75067,
+    "x": 20.95279,
+    "km": 45.6,
+    "statedKm": 46
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suede|marbacka|597:132",
+  "src": "norvege-suede.json#77",
+  "n": "Mårbacka",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sunne (SE, 10.0 km)",
+   "ref": {
+    "name": "Sunne",
+    "geonameid": 2670710,
+    "y": 59.83764,
+    "x": 13.14302,
+    "km": 10,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suede|nykopingshus|588:170",
+  "src": "norvege-suede.json#80",
+  "n": "Nyköpingshus",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nyköping (SE, 0.3 km)",
+   "ref": {
+    "name": "Nyköping",
+    "geonameid": 2687700,
+    "y": 58.753,
+    "x": 17.00788,
+    "km": 0.3,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suede|sandhammaren|554:142",
+  "src": "norvege-suede.json#122",
+  "n": "Sandhammaren",
+  "p": "Suède",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.9,
+   "otherCountry": null,
+   "nearestLocality": "Gärsnäs (SE, 18.1 km)",
+   "ref": {
+    "name": "Simrishamn",
+    "geonameid": 2679107,
+    "y": 55.55653,
+    "x": 14.35037,
+    "km": 21.2,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suede|anundshog|596:166",
+  "src": "norvege-suede.json#135",
+  "n": "Anundshög",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Västerås (SE, 2.9 km)",
+   "ref": {
+    "name": "Västerås",
+    "geonameid": 2664454,
+    "y": 59.61617,
+    "x": 16.55276,
+    "km": 2.9,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "suede|visingso|580:143",
+  "src": "norvege-suede.json#112",
+  "n": "Île de Visingsö",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gränna (SE, 8.2 km)",
+   "ref": {
+    "name": "Gränna",
+    "geonameid": 2711174,
+    "y": 58.01667,
+    "x": 14.46667,
+    "km": 8.2,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "suede|varnhem|584:137",
+  "src": "norvege-suede.json#127",
+  "n": "Abbaye de Varnhem",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Axvall (SE, 5.0 km)",
+   "ref": {
+    "name": "Skara",
+    "geonameid": 2678210,
+    "y": 58.38659,
+    "x": 13.43836,
+    "km": 12.4,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "suede|strangnas|594:170",
+  "src": "norvege-suede.json#82",
+  "n": "Cathédrale de Strängnäs",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Strängnäs (SE, 0.2 km)",
+   "ref": {
+    "name": "Strängnäs",
+    "geonameid": 2671392,
+    "y": 59.37741,
+    "x": 17.03119,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "suede|langban|599:143",
+  "src": "norvege-suede.json#78",
+  "n": "Långban",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Filipstad (SE, 16.8 km)",
+   "ref": {
+    "name": "Filipstad",
+    "geonameid": 2715081,
+    "y": 59.71236,
+    "x": 14.16831,
+    "km": 16.8,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "suede|tofta|575:181",
+  "src": "norvege-suede.json#105",
+  "n": "Plage de Tofta",
+  "p": "Suède",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Klintehamn (SE, 12.3 km)",
+   "ref": {
+    "name": "Visby",
+    "geonameid": null,
+    "y": 57.633651,
+    "x": 18.300009,
+    "km": 19.1,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "suede|tylosand|566:127",
+  "src": "norvege-suede.json#115",
+  "n": "Plage de Tylösand",
+  "p": "Suède",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Frösakull (SE, 4.0 km)",
+   "ref": {
+    "name": "Halmstad",
+    "geonameid": null,
+    "y": 56.671772,
+    "x": 12.855587,
+    "km": 8.3,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "suede|tyresta|592:182",
+  "src": "norvege-suede.json#140",
+  "n": "Parc national de Tyresta",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Haninge (SE, 5.1 km)",
+   "ref": {
+    "name": "Handen",
+    "geonameid": 2708016,
+    "y": 59.16809,
+    "x": 18.13796,
+    "km": 5.4,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "suede|tallberg|608:150",
+  "src": "norvege-suede.json#101",
+  "n": "Tällberg",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rättvik (SE, 9.1 km)",
+   "ref": {
+    "name": "Rättvik",
+    "geonameid": 2682995,
+    "y": 60.88632,
+    "x": 15.11787,
+    "km": 9.1,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "suede|roma|575:185",
+  "src": "norvege-suede.json#104",
+  "n": "Abbaye de Roma",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vibble (SE, 16.5 km)",
+   "ref": {
+    "name": "Visby",
+    "geonameid": null,
+    "y": 57.633651,
+    "x": 18.300009,
+    "km": 17.2,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "suede|gamla-uppsala|599:176",
+  "src": "norvege-suede.json#133",
+  "n": "Gamla Uppsala",
+  "p": "Suède",
+  "c": "patrimoine",
+  "issues": [
+   "doublon d'un autre candidat : « Uppsala »"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gamla Uppsala (SE, 0.1 km)",
+   "ref": {
+    "name": "Uppsala",
+    "geonameid": null,
+    "y": 59.860053,
+    "x": 17.639998,
+    "km": 4.2,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "doublon d'un autre candidat : « Uppsala »"
+ },
+ {
+  "key": "suede|hemavan|658:151",
+  "src": "norvege-suede.json#75",
+  "n": "Hemavan",
+  "p": "Suède",
+  "c": "ville",
+  "issues": [
+   "localité « Tärnaby » introuvable et aucune localité du pays à moins de 90 km"
+  ],
+  "flags": [
+   "localité « Tärnaby » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hauknes (NO, 69.7 km)",
+   "ref": {
+    "name": "Vilhelmina",
+    "geonameid": 2662935,
+    "y": 64.62417,
+    "x": 16.65596,
+    "km": 151.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "decision": "rejeté",
+  "reason": "localité « Tärnaby » introuvable et aucune localité du pays à moins de 90 km"
+ },
+ {
+  "key": "suede|kukkolaforsen|661:241",
+  "src": "norvege-suede.json#91",
+  "n": "Kukkolaforsen",
+  "p": "Suède",
+  "c": "nature",
+  "issues": [
+   "point dans un autre pays (Finland), à 2.0 km de Suède"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 2,
+   "otherCountry": "Finland",
+   "nearestLocality": "Marielund (SE, 23.1 km)",
+   "ref": {
+    "name": "Haparanda",
+    "geonameid": 605859,
+    "y": 65.83549,
+    "x": 24.13676,
+    "km": 25.2,
+    "statedKm": 25
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "decision": "rejeté",
+  "reason": "point dans un autre pays (Finland), à 2.0 km de Suède"
+ }
+]

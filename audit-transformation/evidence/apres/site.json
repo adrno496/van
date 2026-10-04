@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-10-04T13:35:58.172Z",
+  "durationS": 74,
+  "totals": {
+    "tests": 39,
+    "pass": 38,
+    "fail": 1
+  },
+  "measures": {
+    "refus": 17,
+    "pagesPubliques": 97,
+    "responsive": "80 couples page × largeur"
+  },
+  "results": [
+    {
+      "group": "pages",
+      "title": "1 · accueil : un seul h1, première page, appels à l'action, sections, aucune erreur",
+      "status": "PASS",
+      "detail": "",
+      "ms": 236
+    },
+    {
+      "group": "pages",
+      "title": "2 · navigation grand écran : sept rubriques dont Partage, rubrique courante signalée, retour à l'accueil",
+      "status": "PASS",
+      "detail": "",
+      "ms": 832
+    },
+    {
+      "group": "pages",
+      "title": "3 · navigation téléphone : menu plein écran, focus retenu, Échap, retour du focus, Planner accessible",
+      "status": "PASS",
+      "detail": "",
+      "ms": 907
+    },
+    {
+      "group": "pages",
+      "title": "4 · voyages : liste et page d'un voyage (faits fournis seulement, étapes par identifiant, galerie)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 302
+    },
+    {
+      "group": "pages",
+      "title": "5 · destinations : 34 pays, page d'un pays (lieux, saison, itinéraires, notes signalées)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 362
+    },
+    {
+      "group": "pages",
+      "title": "6 · road trips : tous les itinéraires, page d'un itinéraire (étapes ordonnées, distance estimée, aucune durée inventée)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 248
+    },
+    {
+      "group": "pages",
+      "title": "7 · carnet : articles publics seulement, lecture, navigation entre récits, étape sur la carte",
+      "status": "PASS",
+      "detail": "",
+      "ms": 246
+    },
+    {
+      "group": "pages",
+      "title": "8 · guides : guides de l'Atlas et guide rédigé, tableau par pays, sources",
+      "status": "PASS",
+      "detail": "",
+      "ms": 251
+    },
+    {
+      "group": "pages",
+      "title": "9 · à propos, confidentialité, mentions : contenu factuel, sections publiques seulement",
+      "status": "PASS",
+      "detail": "",
+      "ms": 314
+    },
+    {
+      "group": "pages",
+      "title": "14 · page 404 : message, retour à l'accueil, non indexée",
+      "status": "PASS",
+      "detail": "",
+      "ms": 122
+    },
+    {
+      "group": "pages",
+      "title": "recherche locale : pages et lieux, lien vers le Planner, aucun envoi",
+      "status": "PASS",
+      "detail": "",
+      "ms": 321
+    },
+    {
+      "group": "planner",
+      "title": "10 · « Préparer mon voyage » ouvre le Planner complet ; la marque du Planner ramène au site",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1494
+    },
+    {
+      "group": "planner",
+      "title": "11 · liens d'entrée : pays filtré, parcours chargé, lieu centré — depuis les pages du site",
+      "status": "PASS",
+      "detail": "",
+      "ms": 5131
+    },
+    {
+      "group": "planner",
+      "title": "parcours demandé alors qu'un trajet existe : rien n'est remplacé sans accord",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3784
+    },
+    {
+      "group": "planner",
+      "title": "liens d'entrée hostiles ou inconnus : ignorés, rien n'est injecté",
+      "status": "PASS",
+      "detail": "",
+      "ms": 13853
+    },
+    {
+      "group": "planner",
+      "title": "version personnelle : Planner complet (tous les lieux) dans le site, pages marquées « noindex »",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1132
+    },
+    {
+      "group": "confidentialite",
+      "title": "12 · contenu privé et brouillons : absents de tous les fichiers publics, présents et étiquetés dans la version personnelle",
+      "status": "PASS",
+      "detail": "",
+      "ms": 288
+    },
+    {
+      "group": "confidentialite",
+      "title": "13 · version publique : aucune donnée personnelle du catalogue, ni chemin local, ni marqueur de démonstration",
+      "status": "PASS",
+      "detail": "",
+      "ms": 63
+    },
+    {
+      "group": "confidentialite",
+      "title": "le contrôle de confidentialité arrête la construction publique au moindre doute",
+      "status": "PASS",
+      "detail": "",
+      "ms": 5372
+    },
+    {
+      "group": "confidentialite",
+      "title": "contenu de démonstration : visible et étiqueté DÉMO en version personnelle avec --demo, absent sinon",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2856
+    },
+    {
+      "group": "confidentialite",
+      "title": "20 · aucun traceur : aucune requête tierce, aucun cookie, aucune ressource externe dans aucune page",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1349
+    },
+    {
+      "group": "securite",
+      "title": "17 · politique de sécurité : présente et stricte sur chaque page, aucun style ni script en ligne, 0 violation",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1105
+    },
+    {
+      "group": "securite",
+      "title": "18 · contenu hostile (titre, extrait, légende, texte alternatif, texte) : affiché comme du texte, rien ne s'exécute",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1690
+    },
+    {
+      "group": "securite",
+      "title": "18 · adresse hostile (#q=…) sur la page de recherche : placée dans le champ, jamais dans le HTML",
+      "status": "PASS",
+      "detail": "",
+      "ms": 320
+    },
+    {
+      "group": "securite",
+      "title": "18 · fichiers de contenu refusés : adresse, lien, chemin d'image, clé inconnue, pollution de prototype, JSON illisible",
+      "status": "PASS",
+      "detail": "",
+      "ms": 8176
+    },
+    {
+      "group": "securite",
+      "title": "export du Planner pour le site : articles privés et en brouillon par défaut ; import contrôlé",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2579
+    },
+    {
+      "group": "images-seo",
+      "title": "19 · images : dimensions réservées, texte alternatif, chargement différé hors première image, aucune image cassée",
+      "status": "PASS",
+      "detail": "",
+      "ms": 206
+    },
+    {
+      "group": "images-seo",
+      "title": "référencement des pages publiques : titre et description uniques, un seul h1, hiérarchie des titres, données structurées lisibles",
+      "status": "PASS",
+      "detail": "",
+      "ms": 65
+    },
+    {
+      "group": "images-seo",
+      "title": "robustesse : site sans aucun contenu rédigé, rubriques vides honnêtes, aucune page cassée",
+      "status": "PASS",
+      "detail": "",
+      "ms": 370
+    },
+    {
+      "group": "accessibilite-responsive",
+      "title": "15 · clavier : lien d'évitement, ordre de tabulation, focus visible, cibles nommées",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1975
+    },
+    {
+      "group": "accessibilite-responsive",
+      "title": "16 · mise en page : dix largeurs de 320 à 1920 px, aucun débordement, cibles de 44 px sur écran tactile",
+      "status": "PASS",
+      "detail": "",
+      "ms": 6732
+    },
+    {
+      "group": "accessibilite-responsive",
+      "title": "texte agrandi à 200 %, mouvement réduit, couleurs forcées : lisible, sans animation, sans perte de contenu",
+      "status": "PASS",
+      "detail": "",
+      "ms": 660
+    },
+    {
+      "group": "accessibilite-responsive",
+      "title": "sans JavaScript : pages lisibles, rubriques accessibles par le pied de page",
+      "status": "PASS",
+      "detail": "",
+      "ms": 273
+    },
+    {
+      "group": "accessibilite-responsive",
+      "title": "fichier local : accueil, destination et Planner s'ouvrent par double-clic dans les trois moteurs",
+      "status": "FAIL",
+      "detail": "browserType.launch: Executable doesn't exist at /opt/pw-browsers/firefox-1495/firefox/firefox",
+      "ms": 1364
+    },
+    {
+      "group": "blog",
+      "title": "voyage en cours sur l'accueil : accroche réglable, carte des étapes publiées, légende, alternative textuelle, dernière étape, chiffres fiables",
+      "status": "PASS",
+      "detail": "",
+      "ms": 156
+    },
+    {
+      "group": "blog",
+      "title": "page « voyage en cours » : faits, distance dite estimée, chronologie, prévu distinct, récits, liens vers l'Atlas et le Planner",
+      "status": "PASS",
+      "detail": "",
+      "ms": 135
+    },
+    {
+      "group": "blog",
+      "title": "confidentialité du voyage : brouillon absent, position arrondie, aucune position « en direct », prévu masqué par défaut",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3262
+    },
+    {
+      "group": "blog",
+      "title": "Planner public : rien ne propose de publier sur le blog ; la version personnelle garde l'export pour le site",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2559
+    },
+    {
+      "group": "blog",
+      "title": "réglages refusés : voyage en cours inconnu, clé de service pour Partage, adresse non https, clé inconnue",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2377
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-10-04T13:40:54.097Z",
+  "totals": {
+    "tests": 6,
+    "pass": 6,
+    "fail": 0
+  },
+  "results": [
+    {
+      "title": "images : type réel reconnu, métadonnées (dont GPS) retirées en JPEG, PNG et WebP, image intacte",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2
+    },
+    {
+      "title": "premier import : brouillon privé quoi que dise le fichier, identifiant de la note, rattachement au voyage en cours, avertissements ; publication explicite",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3434
+    },
+    {
+      "title": "réimport : idempotent, mise à jour du brouillon, retouches à la main jamais écrasées sans --force, article publié protégé",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1095
+    },
+    {
+      "title": "refus : type annoncé faux, SVG, HTML déguisé, photo trop grosse, export inconnu — rien n'est écrit",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1400
+    },
+    {
+      "title": "noms hostiles : « ../ », identifiant piégé, caractères de contrôle — tout reste dans content/",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1084
+    },
+    {
+      "title": "lieux : position personnelle arrondie (≈ 10 km), pays inconnu écarté, lieu de l'Atlas inconnu non repris ; ancien format accepté ; --dry-run ; --voyage",
+      "status": "PASS",
+      "detail": "",
+      "ms": 794
+    }
+  ]
+}

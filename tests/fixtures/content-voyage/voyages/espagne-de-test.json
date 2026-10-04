@@ -1,0 +1,13 @@
+{
+  "slug": "espagne-de-test",
+  "title": "Espagne de test",
+  "summary": "Voyage de test en cours : étapes tirées des récits publiés, pour vérifier la page du voyage en cours.",
+  "countries": ["Espagne"],
+  "dateStart": "2026-04-10",
+  "placeIds": [65, 77],
+  "planned": [87, 96],
+  "showPlanned": true,
+  "visibility": "public",
+  "status": "published",
+  "updatedAt": "2026-04-20"
+}

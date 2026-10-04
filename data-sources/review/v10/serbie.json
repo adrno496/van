@@ -1,0 +1,1476 @@
+[
+ {
+  "key": "serbie|golubac|447:217",
+  "src": "serbie-bulgarie-roumanie.json#0",
+  "n": "Forteresse de Golubac",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Coronini (RO, 2.3 km)",
+   "ref": {
+    "name": "Veliko Gradište",
+    "geonameid": 784535,
+    "y": 44.76329,
+    "x": 21.51646,
+    "km": 16.9,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 13,
+   "sing": 12,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 82,
+  "decision": "retenu",
+  "i": 2978
+ },
+ {
+  "key": "serbie|avolja-varos|430:214",
+  "src": "serbie-bulgarie-roumanie.json#25",
+  "n": "Đavolja Varoš",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Podujeva (XK, 19.8 km)",
+   "ref": {
+    "name": "Kuršumlija",
+    "geonameid": 788852,
+    "y": 43.13826,
+    "x": 21.27339,
+    "km": 19.2,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 14,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 2979
+ },
+ {
+  "key": "serbie|subotica|461:197",
+  "src": "serbie-bulgarie-roumanie.json#6",
+  "n": "Subotica",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Subotica (RS, 0.1 km)",
+   "ref": {
+    "name": "Subotica",
+    "geonameid": 3189595,
+    "y": 46.1,
+    "x": 19.66667,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.13
+  },
+  "links": {
+   "geonames": 3189595,
+   "qid": "Q170287"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2980
+ },
+ {
+  "key": "serbie|meandres-uvac|434:200",
+  "src": "serbie-bulgarie-roumanie.json#13",
+  "n": "Méandres de l'Uvac",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sjenica (RS, 12.5 km)",
+   "ref": {
+    "name": "Sjenica",
+    "geonameid": 3190776,
+    "y": 43.27306,
+    "x": 19.99944,
+    "km": 12.5,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 14,
+   "val": 14,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2981
+ },
+ {
+  "key": "serbie|manasija|441:215",
+  "src": "serbie-bulgarie-roumanie.json#20",
+  "n": "Monastère de Manasija",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Despotovac (RS, 1.4 km)",
+   "ref": {
+    "name": "Despotovac",
+    "geonameid": 791516,
+    "y": 44.0925,
+    "x": 21.44694,
+    "km": 1.4,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2982
+ },
+ {
+  "key": "serbie|smederevo|447:209",
+  "src": "serbie-bulgarie-roumanie.json#2",
+  "n": "Forteresse de Smederevo",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Smederevo (RS, 0.7 km)",
+   "ref": {
+    "name": "Smederevo",
+    "geonameid": 785756,
+    "y": 44.66436,
+    "x": 20.92763,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2983
+ },
+ {
+  "key": "serbie|nis|433:219",
+  "src": "serbie-bulgarie-roumanie.json#22",
+  "n": "Niš",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Niš (RS, 0.8 km)",
+   "ref": {
+    "name": "Niš",
+    "geonameid": 787657,
+    "y": 43.32472,
+    "x": 21.90333,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.79
+  },
+  "links": {
+   "geonames": 787657,
+   "qid": "Q129259"
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2984
+ },
+ {
+  "key": "serbie|lepenski-vir|446:220",
+  "src": "serbie-bulgarie-roumanie.json#1",
+  "n": "Lepenski Vir",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dubova (RO, 20.2 km)",
+   "ref": {
+    "name": "Donji Milanovac",
+    "geonameid": 791175,
+    "y": 44.46593,
+    "x": 22.1517,
+    "km": 14.2,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 14,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2985
+ },
+ {
+  "key": "serbie|sremski-karlovci|452:199",
+  "src": "serbie-bulgarie-roumanie.json#4",
+  "n": "Sremski Karlovci",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sremski Karlovci (RS, 0.0 km)",
+   "ref": {
+    "name": "Sremski Karlovci",
+    "geonameid": 3190101,
+    "y": 45.20285,
+    "x": 19.93373,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3190101
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2986
+ },
+ {
+  "key": "serbie|mokra-gora-sarganska-osmica|438:195",
+  "src": "serbie-bulgarie-roumanie.json#12",
+  "n": "Mokra Gora — Šarganska osmica",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zlatibor (RS, 17.2 km)",
+   "ref": {
+    "name": "Užice",
+    "geonameid": 3188434,
+    "y": 43.85861,
+    "x": 19.84878,
+    "km": 28.6,
+    "statedKm": 29
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2987
+ },
+ {
+  "key": "serbie|oplenac|442:207",
+  "src": "serbie-bulgarie-roumanie.json#34",
+  "n": "Oplenac",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Topola (RS, 0.9 km)",
+   "ref": {
+    "name": "Topola",
+    "geonameid": 785013,
+    "y": 44.25417,
+    "x": 20.6825,
+    "km": 0.9,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2988
+ },
+ {
+  "key": "serbie|maglic|436:206",
+  "src": "serbie-bulgarie-roumanie.json#35",
+  "n": "Forteresse de Maglič",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kraljevo (RS, 16.4 km)",
+   "ref": {
+    "name": "Kraljevo",
+    "geonameid": 789107,
+    "y": 43.72583,
+    "x": 20.68944,
+    "km": 16.4,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2989
+ },
+ {
+  "key": "serbie|ovcar-kablar|439:202",
+  "src": "serbie-bulgarie-roumanie.json#17",
+  "n": "Gorge d'Ovčar-Kablar",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lučani (RS, 6.7 km)",
+   "ref": {
+    "name": "Čačak",
+    "geonameid": null,
+    "y": 43.889736,
+    "x": 20.330118,
+    "km": 10.5,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2990
+ },
+ {
+  "key": "serbie|viminacium|447:212",
+  "src": "serbie-bulgarie-roumanie.json#3",
+  "n": "Viminacium",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Kostolac » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Požarevac (RS, 12.8 km)",
+   "ref": {
+    "name": "Požarevac",
+    "geonameid": 786827,
+    "y": 44.62133,
+    "x": 21.18782,
+    "km": 12.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2993
+ },
+ {
+  "key": "serbie|vrsac|451:213",
+  "src": "serbie-bulgarie-roumanie.json#11",
+  "n": "Vršac",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vršac (RS, 0.1 km)",
+   "ref": {
+    "name": "Vršac",
+    "geonameid": 784136,
+    "y": 45.11667,
+    "x": 21.30361,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 784136
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2992
+ },
+ {
+  "key": "serbie|zlatibor|437:197",
+  "src": "serbie-bulgarie-roumanie.json#14",
+  "n": "Zlatibor",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zlatibor (RS, 0.4 km)",
+   "ref": {
+    "name": "Čajetina",
+    "geonameid": 3202900,
+    "y": 43.74977,
+    "x": 19.71273,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 3302765
+  },
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 7,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2991
+ },
+ {
+  "key": "serbie|mileseva|434:197",
+  "src": "serbie-bulgarie-roumanie.json#31",
+  "n": "Monastère de Mileševa",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Prijepolje (RS, 7.4 km)",
+   "ref": {
+    "name": "Prijepolje",
+    "geonameid": 3192404,
+    "y": 43.38996,
+    "x": 19.6487,
+    "km": 7.4,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2995
+ },
+ {
+  "key": "serbie|zica|437:206",
+  "src": "serbie-bulgarie-roumanie.json#18",
+  "n": "Monastère de Žiča",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kraljevo (RS, 3.8 km)",
+   "ref": {
+    "name": "Kraljevo",
+    "geonameid": 789107,
+    "y": 43.72583,
+    "x": 20.68944,
+    "km": 3.8,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2996
+ },
+ {
+  "key": "serbie|sombor|458:191",
+  "src": "serbie-bulgarie-roumanie.json#8",
+  "n": "Sombor",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sombor (RS, 0.0 km)",
+   "ref": {
+    "name": "Sombor",
+    "geonameid": 3190342,
+    "y": 45.77417,
+    "x": 19.11222,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3190342
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2994
+ },
+ {
+  "key": "serbie|rtanj|438:219",
+  "src": "serbie-bulgarie-roumanie.json#28",
+  "n": "Mont Rtanj",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Boljevac (RS, 7.7 km)",
+   "ref": {
+    "name": "Boljevac",
+    "geonameid": 792470,
+    "y": 43.83028,
+    "x": 21.95306,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2997
+ },
+ {
+  "key": "serbie|novi-pazar|431:205",
+  "src": "serbie-bulgarie-roumanie.json#37",
+  "n": "Novi Pazar",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Novi Pazar (RS, 0.1 km)",
+   "ref": {
+    "name": "Novi Pazar",
+    "geonameid": 787595,
+    "y": 43.13667,
+    "x": 20.51222,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 787595
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2998
+ },
+ {
+  "key": "serbie|ram|448:213",
+  "src": "serbie-bulgarie-roumanie.json#33",
+  "n": "Forteresse de Ram",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Socol (RO, 6.0 km)",
+   "ref": {
+    "name": "Veliko Gradište",
+    "geonameid": 784535,
+    "y": 44.76329,
+    "x": 21.51646,
+    "km": 15.2,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3000
+ },
+ {
+  "key": "serbie|palic|461:198",
+  "src": "serbie-bulgarie-roumanie.json#7",
+  "n": "Lac de Palić",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Palić (RS, 0.6 km)",
+   "ref": {
+    "name": "Subotica",
+    "geonameid": null,
+    "y": 46.070016,
+    "x": 19.680028,
+    "km": 7.3,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2999
+ },
+ {
+  "key": "serbie|vlasina|427:223",
+  "src": "serbie-bulgarie-roumanie.json#26",
+  "n": "Lac de Vlasina",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Crna Trava (RS, 12.5 km)",
+   "ref": {
+    "name": "Surdulica",
+    "geonameid": 785285,
+    "y": 42.69056,
+    "x": 22.17083,
+    "km": 13.1,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3001
+ },
+ {
+  "key": "serbie|zrenjanin|454:204",
+  "src": "serbie-bulgarie-roumanie.json#9",
+  "n": "Zrenjanin",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zrenjanin (RS, 0.8 km)",
+   "ref": {
+    "name": "Zrenjanin",
+    "geonameid": null,
+    "y": 45.378637,
+    "x": 20.399468,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.76
+  },
+  "links": {
+   "geonames": 783814,
+   "qid": "Q201125"
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3002
+ },
+ {
+  "key": "serbie|lazar|440:220",
+  "src": "serbie-bulgarie-roumanie.json#32",
+  "n": "Canyon de Lazar",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Žagubica (RS, 24.6 km)",
+   "ref": {
+    "name": "Bor",
+    "geonameid": 792456,
+    "y": 44.07488,
+    "x": 22.09591,
+    "km": 9.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3003
+ },
+ {
+  "key": "serbie|bac|454:192",
+  "src": "serbie-bulgarie-roumanie.json#36",
+  "n": "Forteresse de Bač",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bač (RS, 0.8 km)",
+   "ref": {
+    "name": "Bač",
+    "geonameid": 3204692,
+    "y": 45.39194,
+    "x": 19.23667,
+    "km": 0.8,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3004
+ },
+ {
+  "key": "serbie|sicevo|433:221",
+  "src": "serbie-bulgarie-roumanie.json#23",
+  "n": "Gorge de Sićevo",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Niška Banja (RS, 7.3 km)",
+   "ref": {
+    "name": "Niš",
+    "geonameid": 787657,
+    "y": 43.32472,
+    "x": 21.90333,
+    "km": 14.2,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3005
+ },
+ {
+  "key": "serbie|sables-deliblato|449:211",
+  "src": "serbie-bulgarie-roumanie.json#10",
+  "n": "Sables de Deliblato",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Socol (RO, 26.1 km)",
+   "ref": {
+    "name": "Kovin",
+    "geonameid": 789168,
+    "y": 44.7475,
+    "x": 20.97611,
+    "km": 20,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3006
+ },
+ {
+  "key": "serbie|ravanica|440:216",
+  "src": "serbie-bulgarie-roumanie.json#19",
+  "n": "Monastère de Ravanica",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ražanj (RS, 32.3 km)",
+   "ref": {
+    "name": "Ćuprija",
+    "geonameid": 791678,
+    "y": 43.9275,
+    "x": 21.37,
+    "km": 16,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "serbie|resava|441:216",
+  "src": "serbie-bulgarie-roumanie.json#21",
+  "n": "Grotte de Resava",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Žagubica (RS, 18.9 km)",
+   "ref": {
+    "name": "Despotovac",
+    "geonameid": 791516,
+    "y": 44.0925,
+    "x": 21.44694,
+    "km": 14.8,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "serbie|pirot|432:226",
+  "src": "serbie-bulgarie-roumanie.json#24",
+  "n": "Pirot",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pirot (RS, 0.0 km)",
+   "ref": {
+    "name": "Pirot",
+    "geonameid": 787050,
+    "y": 43.15306,
+    "x": 22.58611,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 787050
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "serbie|sirogojno|437:199",
+  "src": "serbie-bulgarie-roumanie.json#16",
+  "n": "Sirogojno",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Čajetina (RS, 15.3 km)",
+   "ref": {
+    "name": "Čajetina",
+    "geonameid": 3202900,
+    "y": 43.74977,
+    "x": 19.71273,
+    "km": 15.3,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "serbie|stopica|437:198",
+  "src": "serbie-bulgarie-roumanie.json#15",
+  "n": "Grotte de Stopića",
+  "p": "Serbie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Čajetina (RS, 9.7 km)",
+   "ref": {
+    "name": "Čajetina",
+    "geonameid": 3202900,
+    "y": 43.74977,
+    "x": 19.71273,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "serbie|krusedol|451:199",
+  "src": "serbie-bulgarie-roumanie.json#5",
+  "n": "Monastère de Krušedol",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Irig (RS, 6.8 km)",
+   "ref": {
+    "name": "Irig",
+    "geonameid": 3199103,
+    "y": 45.10111,
+    "x": 19.85833,
+    "km": 6.8,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "serbie|prohor-pcinjski|423:219",
+  "src": "serbie-bulgarie-roumanie.json#27",
+  "n": "Monastère de Prohor Pčinjski",
+  "p": "Serbie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Biljača (RS, 12.7 km)",
+   "ref": {
+    "name": "Bujanovac",
+    "geonameid": 792173,
+    "y": 42.45917,
+    "x": 21.76667,
+    "km": 17.8,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "serbie|sokobanja|436:219",
+  "src": "serbie-bulgarie-roumanie.json#29",
+  "n": "Sokobanja",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Sokobanja » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Soko Banja (RS, 0.2 km)",
+   "ref": {
+    "name": "Soko Banja",
+    "geonameid": 785704,
+    "y": 43.64333,
+    "x": 21.87111,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "serbie|vrnjacka-banja|436:209",
+  "src": "serbie-bulgarie-roumanie.json#30",
+  "n": "Vrnjačka Banja",
+  "p": "Serbie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vrnjačka Banja (RS, 0.5 km)",
+   "ref": {
+    "name": "Vrnjačka Banja",
+    "geonameid": 784141,
+    "y": 43.62725,
+    "x": 20.89634,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.47
+  },
+  "links": {
+   "geonames": 784141
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 5,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ }
+]

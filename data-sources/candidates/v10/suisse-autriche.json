@@ -1,0 +1,3340 @@
+[
+ {
+  "n": "Château de Chillon",
+  "alt": [
+   "Schloss Chillon",
+   "Chillon"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Château médiéval",
+  "region": "Vaud",
+  "y": 46.4142,
+  "x": 6.9275,
+  "pt": "château, sur la rive du Léman",
+  "near": "Montreux",
+  "nearKm": 3,
+  "d": "Château des comtes de Savoie bâti sur un îlot rocheux du Léman, l'un des monuments les plus visités de Suisse. Salles médiévales, souterrains et chemin de ronde face aux Alpes.",
+  "v": "Les souterrains voûtés taillés dans le roc · la salle des chevaliers et la chapelle peinte · le chemin de ronde · la promenade au bord du lac vers Montreux",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 1,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 22,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Lausanne",
+  "alt": [
+   "Lausanne-Ouchy"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville lacustre",
+  "region": "Vaud",
+  "y": 46.5226,
+  "x": 6.6355,
+  "pt": "cathédrale Notre-Dame",
+  "near": "Lausanne",
+  "nearKm": 0,
+  "d": "Ville en pente entre le Léman et la vieille ville, dominée par la plus belle cathédrale gothique de Suisse. Siège du CIO et du Musée olympique au bord du lac à Ouchy.",
+  "v": "La cathédrale et son guet de nuit · la Cité et l'escalier du Marché · le quai d'Ouchy et le Musée olympique · la Collection de l'Art Brut",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Grandson",
+  "alt": [
+   "Grandson"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Château médiéval",
+  "region": "Vaud",
+  "y": 46.8094,
+  "x": 6.6461,
+  "pt": "château",
+  "near": "Grandson",
+  "nearKm": 0,
+  "d": "Forteresse médiévale aux tours rondes au bord du lac de Neuchâtel, liée à la défaite de Charles le Téméraire face aux Confédérés en 1476. Bourg ancien au pied du château.",
+  "v": "Les salles et le chemin de ronde · la maquette de la bataille de Grandson · le bourg et son église romane Saint-Jean-Baptiste · la rive du lac",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Avenches",
+  "alt": [
+   "Aventicum",
+   "Wiflisburg"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Vaud",
+  "y": 46.88,
+  "x": 7.0425,
+  "pt": "amphithéâtre romain",
+  "near": "Avenches",
+  "nearKm": 0,
+  "d": "Petite ville bâtie sur les vestiges d'Aventicum, capitale de l'Helvétie romaine. L'amphithéâtre accueille encore des spectacles ; la colonne du Cigognier se dresse seule dans les champs.",
+  "v": "L'amphithéâtre et le musée romain dans sa tour · la colonne du Cigognier · le théâtre romain · la vieille ville et son château",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbatiale de Romainmôtier",
+  "alt": [
+   "Romainmôtier",
+   "Abbaye de Romainmôtier"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Abbatiale romane",
+  "region": "Vaud",
+  "y": 46.6933,
+  "x": 6.4606,
+  "pt": "abbatiale",
+  "near": "Orbe",
+  "nearKm": 6,
+  "d": "Église abbatiale clunisienne du XIe siècle, l'un des plus anciens édifices romans de Suisse, au cœur d'un petit village du pied du Jura resté très préservé.",
+  "v": "La nef romane et le narthex peint · le village et ses maisons anciennes · la Maison du Prieur · le vallon du Nozon",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac de Joux",
+  "alt": [
+   "Vallée de Joux"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Vaud",
+  "y": 46.64,
+  "x": 6.29,
+  "pt": "centre du lac",
+  "near": "Le Sentier",
+  "nearKm": 5,
+  "d": "Plus grand lac du Jura, au fond d'une haute vallée boisée berceau de la haute horlogerie suisse. Rives calmes, baignade l'été et patinage sur le lac gelé l'hiver.",
+  "v": "Le tour du lac à vélo · le village du Pont et le lac Brenet · l'Espace horloger au Sentier · la Dent de Vaulion toute proche",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Saas-Fee",
+  "alt": [
+   "Saastal"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Village de montagne",
+  "region": "Valais",
+  "y": 46.1086,
+  "x": 7.9283,
+  "pt": "centre du village",
+  "near": "Visp",
+  "nearKm": 21,
+  "d": "Village sans voitures entouré de nombreux sommets de plus de 4 000 m, au pied des glaciers du massif des Mischabel. Point de départ de randonnées glaciaires et de la vallée de Saas.",
+  "v": "Le Pavillon des glaces par le Métro Alpin · la chapelle Zur Hohen Stiege · le barrage de Mattmark · les randonnées vers la langue du glacier",
+  "s": "juin-oct, déc-avr",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Loèche-les-Bains",
+  "alt": [
+   "Leukerbad"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Station thermale",
+  "region": "Valais",
+  "y": 46.3793,
+  "x": 7.627,
+  "pt": "centre de la station",
+  "near": "Leuk",
+  "nearKm": 7,
+  "d": "Plus grande station thermale des Alpes, au fond d'un cirque de parois calcaires vertigineuses. Bains chauds en plein air face à la montagne et départ du col de la Gemmi.",
+  "v": "Les bains thermaux en plein air · le téléphérique et le sentier de la Gemmi · les échelles d'Albinen · la gorge de la Dala",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col du Simplon",
+  "alt": [
+   "Simplonpass",
+   "Passo del Sempione"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Valais",
+  "y": 46.25,
+  "x": 8.03,
+  "pt": "col, près de l'hospice",
+  "near": "Brig",
+  "nearKm": 8,
+  "d": "Col historique entre le Valais et l'Italie, ouvert par la route napoléonienne. Hospice, grand aigle de pierre et vue sur le massif du Fletschhorn et les glaciers.",
+  "v": "L'aigle de pierre et l'hospice du Simplon · l'ancien Hospice Stockalper · le Sentier Stockalper · la descente vers la gorge de Gondo",
+  "s": "juin-oct",
+  "du": "passage",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 13,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Saint-Maurice",
+  "alt": [
+   "Abbaye de Saint-Maurice d'Agaune",
+   "Saint-Maurice"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Abbaye",
+  "region": "Valais",
+  "y": 46.2183,
+  "x": 7.0036,
+  "pt": "basilique abbatiale",
+  "near": "Saint-Maurice",
+  "nearKm": 0,
+  "d": "Abbaye fondée en 515 sur le tombeau du martyr Maurice, considérée comme le plus ancien monastère d'Occident en activité continue. Trésor d'orfèvrerie médiévale exceptionnel.",
+  "v": "Le trésor de l'abbaye · le site archéologique au pied de la falaise · la basilique et son clocher roman · la Grotte aux Fées toute proche",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Barrage de la Grande Dixence",
+  "alt": [
+   "Grande Dixence",
+   "Lac des Dix"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Barrage",
+  "region": "Valais",
+  "y": 46.0805,
+  "x": 7.404,
+  "pt": "couronnement du barrage",
+  "near": "Sion",
+  "nearKm": 17,
+  "d": "Plus haut barrage-poids du monde, mur de béton de 285 m au fond du val des Dix. Le lac des Dix s'étire au pied du Mont Blanc de Cheilon.",
+  "v": "Le téléphérique jusqu'au couronnement · la balade le long du lac des Dix · la route du val d'Hérens · la cabane des Dix pour les randonneurs",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 12,
+   "sing": 13,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Pyramides d'Euseigne",
+  "alt": [
+   "Pyramides d'Euseigne"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Formation géologique",
+  "region": "Valais",
+  "y": 46.172,
+  "x": 7.423,
+  "pt": "pyramides, sur la route du val d'Hérens",
+  "near": "Sion",
+  "nearKm": 8,
+  "d": "Colonnes de moraine glaciaire coiffées de blocs rocheux, sculptées par l'érosion à l'entrée du val d'Hérens. La route du val d'Hérens passe à leur pied.",
+  "v": "Les cheminées de fées coiffées de leurs blocs · le belvédère sur la route · le village d'Evolène plus haut dans la vallée",
+  "s": "avr-nov",
+  "du": "passage",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Grimentz",
+  "alt": [
+   "Val d'Anniviers"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Village de montagne",
+  "region": "Valais",
+  "y": 46.1797,
+  "x": 7.576,
+  "pt": "centre du village",
+  "near": "Sierre",
+  "nearKm": 13,
+  "d": "Village du val d'Anniviers aux chalets et raccards de mélèze noircis, fleuris de géraniums. Base pour le lac de Moiry et les sommets de la Couronne impériale.",
+  "v": "Les ruelles et les greniers sur pilotis · la Bourgeoisie et sa cave de vin des glaciers · le barrage et le glacier de Moiry · la route du val d'Anniviers",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col de la Furka",
+  "alt": [
+   "Furkapass",
+   "Glacier du Rhône"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Valais / Uri",
+  "y": 46.5725,
+  "x": 8.415,
+  "pt": "col",
+  "near": "Andermatt",
+  "nearKm": 15,
+  "d": "Col routier à près de 2 430 m entre Valais et Uri, avec l'hôtel Belvédère et l'accès au glacier du Rhône, source du fleuve. Lacets spectaculaires côté Gletsch.",
+  "v": "La grotte de glace du glacier du Rhône · les lacets de l'hôtel Belvédère · le train à vapeur de la Furka · la vue sur le Galenstock",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 15,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac d'Oeschinen",
+  "alt": [
+   "Oeschinensee"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Berne",
+  "y": 46.4981,
+  "x": 7.729,
+  "pt": "rive ouest du lac",
+  "near": "Frutigen",
+  "nearKm": 12,
+  "d": "Lac turquoise au pied des parois de la Blüemlisalp, au-dessus de Kandersteg, accessible par télécabine puis courte marche. L'un des plus beaux lacs alpins de Suisse.",
+  "v": "Le sentier panoramique au-dessus du lac · la barque sur le lac · la télécabine depuis Kandersteg · le Blausee en contrebas de la vallée",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 1,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 20,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Grindelwald",
+  "alt": [
+   "Grindelwald First"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Station de montagne",
+  "region": "Berne",
+  "y": 46.6242,
+  "x": 8.0414,
+  "pt": "centre du village",
+  "near": "Grindelwald",
+  "nearKm": 0,
+  "d": "Village glaciaire au pied de la face nord de l'Eiger, du Wetterhorn et du Mettenberg. Base pour First, le Männlichen et la gorge du glacier.",
+  "v": "La face nord de l'Eiger · la gorge du Gletscherschlucht · le lac Bachalpsee depuis First · le sentier Männlichen-Kleine Scheidegg",
+  "s": "toute l'année",
+  "du": "1-2 j",
+  "w": 1,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 21,
+   "van": 11,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Thoune",
+  "alt": [
+   "Thun",
+   "Château de Thoune"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Berne",
+  "y": 46.7593,
+  "x": 7.63,
+  "pt": "château",
+  "near": "Thun",
+  "nearKm": 0,
+  "d": "Ville au débouché de l'Aar sur le lac de Thoune, dominée par le donjon de son château du XIIe siècle. Vieille ville à trottoirs surélevés et vue sur la chaîne de la Jungfrau.",
+  "v": "Le château et son musée · la Obere Hauptgasse et ses trottoirs-terrasses · le château de Schadau · le château d'Oberhofen au bord du lac",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col du Grimsel",
+  "alt": [
+   "Grimselpass"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Berne / Valais",
+  "y": 46.5614,
+  "x": 8.3378,
+  "pt": "col",
+  "near": "Meiringen",
+  "nearKm": 22,
+  "d": "Col minéral entre l'Oberland bernois et le Valais, parsemé de lacs de barrage et de granite poli par les glaciers. Vue sur le glacier du Rhône et les Alpes valaisannes.",
+  "v": "Le Totensee au sommet · le lac du Grimsel et son barrage · la Handeckfall en descendant vers Guttannen · la combinaison avec la Furka",
+  "s": "juin-oct",
+  "du": "passage",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 15,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col du Susten",
+  "alt": [
+   "Sustenpass"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Berne / Uri",
+  "y": 46.7297,
+  "x": 8.4469,
+  "pt": "col",
+  "near": "Meiringen",
+  "nearKm": 20,
+  "d": "Route de col des années 1940 entre Innertkirchen et le Meiental, l'une des plus belles des Alpes. Vue sur le glacier du Stein et son lac proglaciaire.",
+  "v": "Le Steinsee et le glacier du Stein · le tunnel sommital et ses belvédères · les lacets du Meiental · le tour des trois cols Grimsel-Furka-Susten",
+  "s": "juin-oct",
+  "du": "passage",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 15,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Andermatt",
+  "alt": [
+   "Gorges des Schöllenen",
+   "Pont du Diable"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Uri",
+  "y": 46.6356,
+  "x": 8.5939,
+  "pt": "centre du village",
+  "near": "Andermatt",
+  "nearKm": 0,
+  "d": "Village de la vallée d'Urseren au carrefour des cols de la Furka, de l'Oberalp et du Gothard. Juste au nord, la route franchit les gorges des Schöllenen au Pont du Diable.",
+  "v": "Les gorges des Schöllenen et le Pont du Diable · le monument Souvorov · le col de l'Oberalp et le phare de la source du Rhin · la vieille rue du village",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 13,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Col du Klausen",
+  "alt": [
+   "Klausenpass"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Uri / Glaris",
+  "y": 46.8689,
+  "x": 8.8547,
+  "pt": "col",
+  "near": "Altdorf",
+  "nearKm": 16,
+  "d": "Col entre Uri et Glaris passant par le Urnerboden, plus grand alpage de Suisse. Parois du Clariden au-dessus d'une route sinueuse peu fréquentée.",
+  "v": "Le Urnerboden et ses fermes d'alpage · la cascade du Stäubifall côté Uri · la descente vers Linthal · le monument Tell à Altdorf",
+  "s": "juin-oct",
+  "du": "passage",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 15,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Prairie du Grütli",
+  "alt": [
+   "Rütli",
+   "Grütli"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Lieu de mémoire",
+  "region": "Uri",
+  "y": 46.9683,
+  "x": 8.5933,
+  "pt": "prairie du Grütli",
+  "near": "Brunnen",
+  "nearKm": 4,
+  "d": "Prairie au bord du lac d'Uri où, selon la tradition, fut prêté le serment fondateur de la Confédération en 1291. Lieu symbolique de la fête nationale.",
+  "v": "La prairie et la source des trois Suisses · la descente à pied depuis Seelisberg · la traversée en bateau depuis Brunnen · le Chemin de la Suisse autour du lac",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Klöntalersee",
+  "alt": [
+   "Lac de Klöntal",
+   "Klöntal"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Glaris",
+  "y": 47.027,
+  "x": 8.98,
+  "pt": "centre du lac",
+  "near": "Glarus",
+  "nearKm": 7,
+  "d": "Lac vert fjordique enserré entre les parois du Glärnisch et les pentes boisées, à quelques kilomètres de Glaris. Route sinueuse le long du lac vers le col du Pragel.",
+  "v": "Les reflets du Glärnisch sur le lac · la promenade au bord de l'eau · la route du Pragel · le chef-lieu Glaris",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Haut lieu tectonique suisse Sardona",
+  "alt": [
+   "Tektonikarena Sardona",
+   "Elm",
+   "Martinsloch"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Site géologique",
+  "region": "Glaris",
+  "y": 46.9183,
+  "x": 9.1736,
+  "pt": "village d'Elm",
+  "near": "Glarus",
+  "nearKm": 16,
+  "d": "Massif où la ligne de chevauchement de Glaris montre des roches anciennes posées sur des roches plus jeunes, site clé de la géologie alpine. Le Martinsloch perce la crête au-dessus d'Elm.",
+  "v": "La ligne de chevauchement des Tschingelhörner · le trou du Martinsloch · le village historique d'Elm · la vallée du Sernf",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Abbaye d'Einsiedeln",
+  "alt": [
+   "Kloster Einsiedeln",
+   "Einsiedeln"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Abbaye bénédictine",
+  "region": "Schwytz",
+  "y": 47.1268,
+  "x": 8.7518,
+  "pt": "abbatiale",
+  "near": "Einsiedeln",
+  "nearKm": 0,
+  "d": "Haut lieu de pèlerinage de Suisse, abbaye bénédictine baroque à la façade monumentale abritant la Vierge noire. Intérieur rococo des frères Asam.",
+  "v": "La chapelle de la Vierge noire · l'intérieur baroque de l'abbatiale · la bibliothèque de l'abbaye · le lac de Sihl tout proche",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rigi",
+  "alt": [
+   "Rigi Kulm",
+   "Mont Rigi"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Montagne panoramique",
+  "region": "Schwytz",
+  "y": 47.0567,
+  "x": 8.4853,
+  "pt": "sommet Rigi Kulm",
+  "near": "Küssnacht",
+  "nearKm": 5,
+  "d": "« Reine des montagnes » isolée entre les lacs des Quatre-Cantons, de Zoug et de Lauerz, desservie par le premier chemin de fer à crémaillère d'Europe. Panorama à 360° sur les Alpes.",
+  "v": "Le panorama au lever du soleil · le train à crémaillère depuis Vitznau ou Arth-Goldau · le sentier Rigi Kulm-Rigi Kaltbad · le téléphérique de Weggis",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Engelberg",
+  "alt": [
+   "Titlis",
+   "Abbaye d'Engelberg"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Obwald",
+  "y": 46.8197,
+  "x": 8.4036,
+  "pt": "centre du village et abbaye",
+  "near": "Engelberg",
+  "nearKm": 0,
+  "d": "Station au pied du Titlis groupée autour d'une abbaye bénédictine fondée au XIIe siècle. Téléphérique rotatif vers le glacier et lac de Trübsee.",
+  "v": "Le Titlis, sa grotte glaciaire et son pont suspendu · l'abbaye et sa fromagerie · le lac de Trübsee · les cascades de la Tätschbach",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pilatus",
+  "alt": [
+   "Mont Pilate",
+   "Pilatus Kulm"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Montagne panoramique",
+  "region": "Obwald",
+  "y": 46.979,
+  "x": 8.2551,
+  "pt": "sommet Pilatus Kulm",
+  "near": "Alpnach",
+  "nearKm": 4,
+  "d": "Montagne de légendes dominant Lucerne, gravie par le chemin de fer à crémaillère le plus raide du monde depuis Alpnachstad. Panorama sur le lac des Quatre-Cantons.",
+  "v": "Le train à crémaillère depuis Alpnachstad · le sentier des dragons et le Tomlishorn · la descente en téléphérique vers Kriens · la boucle en bateau sur le lac",
+  "s": "mai-nov",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Zoug",
+  "alt": [
+   "Zug"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Zoug",
+  "y": 47.1662,
+  "x": 8.5155,
+  "pt": "vieille ville",
+  "near": "Zug",
+  "nearKm": 0,
+  "d": "Petite ville au bord du lac de Zoug, à la vieille ville médiévale soignée autour de la tour de l'Horloge. Couchers de soleil réputés sur le lac et le Rigi.",
+  "v": "La Zytturm et la Kolinplatz · les rues du bord du lac · l'église Saint-Oswald · la promenade du quai au coucher du soleil",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 7,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Lenzbourg",
+  "alt": [
+   "Schloss Lenzburg",
+   "Lenzburg"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Argovie",
+  "y": 47.3847,
+  "x": 8.1814,
+  "pt": "château",
+  "near": "Lenzburg",
+  "nearKm": 1,
+  "d": "L'un des plus anciens et des plus beaux châteaux de Suisse, perché sur une colline au-dessus de la petite ville de Lenzbourg. Musée historique et jardins.",
+  "v": "La cour et les remparts · le musée historique argovien · la vieille ville de Lenzbourg · la vue sur le Plateau",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Habsbourg",
+  "alt": [
+   "Schloss Habsburg",
+   "Habsburg"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Argovie",
+  "y": 47.4626,
+  "x": 8.1838,
+  "pt": "château",
+  "near": "Brugg",
+  "nearKm": 3,
+  "d": "Château ancestral de la dynastie des Habsbourg, bâti vers 1020 sur le Wülpelsberg. Donjon et palais restaurés dominant la confluence de l'Aar, de la Reuss et de la Limmat.",
+  "v": "Le donjon et sa vue · les expositions sur les Habsbourg · l'abbaye de Königsfelden à Brugg · le Wasserschloss, confluence des trois rivières",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Muri",
+  "alt": [
+   "Kloster Muri",
+   "Muri"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Abbaye bénédictine",
+  "region": "Argovie",
+  "y": 47.2745,
+  "x": 8.3381,
+  "pt": "abbatiale",
+  "near": "Muri",
+  "nearKm": 0,
+  "d": "Abbaye fondée au XIe siècle par les Habsbourg, à l'église octogonale baroque et au cloître orné de vitraux Renaissance. Caveau familial des derniers Habsbourg.",
+  "v": "L'église octogonale et ses orgues · le cloître et ses vitraux · la crypte des Habsbourg · le musée Caspar Wolf",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bâle",
+  "alt": [
+   "Basel"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville d'art",
+  "region": "Bâle-Ville",
+  "y": 47.5565,
+  "x": 7.5925,
+  "pt": "cathédrale (Münster)",
+  "near": "Basel",
+  "nearKm": 0,
+  "d": "Ville rhénane à la frontière de la France et de l'Allemagne, capitale suisse des musées. Vieille ville autour de la cathédrale de grès rouge, baignade dans le Rhin l'été.",
+  "v": "Le Münster et sa terrasse sur le Rhin · le Kunstmuseum et la Fondation Beyeler · la Marktplatz et l'hôtel de ville rouge · les bacs à câble sur le Rhin",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 19,
+   "van": 7,
+   "sing": 10,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Augusta Raurica",
+  "alt": [
+   "Augst"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Bâle-Campagne",
+  "y": 47.5336,
+  "x": 7.7219,
+  "pt": "théâtre romain",
+  "near": "Kaiseraugst",
+  "nearKm": 1,
+  "d": "Plus vaste site romain de Suisse, colonie fondée en 44 av. J.-C. au bord du Rhin. Théâtre bien conservé, trésor d'argenterie et maison romaine reconstituée.",
+  "v": "Le théâtre romain · le trésor d'argenterie de Kaiseraugst · la maison romaine reconstituée · le parc aux animaux domestiques romains",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Soleure",
+  "alt": [
+   "Solothurn"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville baroque",
+  "region": "Soleure",
+  "y": 47.2079,
+  "x": 7.5371,
+  "pt": "cathédrale Saint-Ours",
+  "near": "Solothurn",
+  "nearKm": 0,
+  "d": "Plus belle ville baroque de Suisse, ancienne résidence des ambassadeurs de France, au bord de l'Aar. Cathédrale classique, fontaines et remparts, obsession du chiffre onze.",
+  "v": "La cathédrale Saint-Ours · la tour de l'horloge et la Hauptgasse · l'arsenal et sa collection d'armures · la gorge de l'ermitage de Sainte-Vérène",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Saint-Ursanne",
+  "alt": [
+   "St-Ursanne",
+   "Clos du Doubs"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Bourg médiéval",
+  "region": "Jura",
+  "y": 47.3644,
+  "x": 7.1547,
+  "pt": "centre du bourg",
+  "near": "Porrentruy",
+  "nearKm": 8,
+  "d": "Bourg médiéval fortifié dans une boucle du Doubs, avec collégiale romane et pont Saint-Jean-Népomucène. Porte d'entrée des gorges sauvages du Clos du Doubs.",
+  "v": "La collégiale et son cloître · le pont sur le Doubs et ses portes · le sentier de l'ermitage de saint Ursanne · le canoë sur le Doubs",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Porrentruy",
+  "alt": [
+   "Château de Porrentruy"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Jura",
+  "y": 47.4153,
+  "x": 7.0756,
+  "pt": "vieille ville",
+  "near": "Porrentruy",
+  "nearKm": 0,
+  "d": "Ancienne résidence des princes-évêques de Bâle, en Ajoie, dominée par son château et la tour Réfous. Vieille ville aux fontaines Renaissance et hôtels particuliers.",
+  "v": "Le château et la tour Réfous · l'hôtel de ville et l'hôtel-Dieu · les fontaines Renaissance · le musée jurassien des sciences naturelles",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Étang de la Gruère",
+  "alt": [
+   "La Gruère"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Étang de tourbière",
+  "region": "Jura",
+  "y": 47.2384,
+  "x": 7.0503,
+  "pt": "rive de l'étang",
+  "near": "Saignelégier",
+  "nearKm": 5,
+  "d": "Étang aux eaux sombres bordé de tourbières, d'épicéas et de bouleaux sur le haut plateau des Franches-Montagnes. Atmosphère nordique, surtout en automne et en hiver.",
+  "v": "Le sentier didactique autour de l'étang · les tourbières et leurs sphaignes · les pâturages boisés et chevaux des Franches-Montagnes · le marché-concours de Saignelégier",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Creux du Van",
+  "alt": [
+   "Creux-du-Van"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Cirque rocheux",
+  "region": "Neuchâtel",
+  "y": 46.933,
+  "x": 6.727,
+  "pt": "bord du cirque",
+  "near": "Couvet",
+  "nearKm": 7,
+  "d": "Cirque rocheux en amphithéâtre aux falaises verticales de 160 m, l'un des paysages les plus spectaculaires du Jura. Bouquetins et chamois sur les crêtes.",
+  "v": "Le sentier du bord des falaises · les bouquetins sur les pâturages · le sentier des 14 contours depuis Noiraigue · les gorges de l'Areuse",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 1,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 17,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "La Chaux-de-Fonds",
+  "alt": [
+   "Le Locle",
+   "Urbanisme horloger"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Ville horlogère",
+  "region": "Neuchâtel",
+  "y": 47.1,
+  "x": 6.827,
+  "pt": "centre-ville",
+  "near": "La Chaux-de-Fonds",
+  "nearKm": 0,
+  "d": "Ville horlogère au plan en damier conçu pour l'industrie, inscrite à l'UNESCO avec Le Locle. Ville natale de Le Corbusier, Art nouveau et Musée international d'horlogerie.",
+  "v": "Le Musée international d'horlogerie · la Maison blanche de Le Corbusier · les façades Art nouveau · les moulins souterrains du Col-des-Roches au Locle",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Neuchâtel",
+  "alt": [
+   "Neuenburg"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville lacustre",
+  "region": "Neuchâtel",
+  "y": 46.9925,
+  "x": 6.931,
+  "pt": "vieille ville",
+  "near": "Neuchâtel",
+  "nearKm": 0,
+  "d": "Ville de calcaire jaune au bord du lac de Neuchâtel, dominée par son château et sa collégiale. Musées réputés et quais animés.",
+  "v": "La collégiale et le château · les ruelles de la vieille ville · le Laténium à Hauterive · les automates Jaquet-Droz au musée d'art et d'histoire",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Fribourg",
+  "alt": [
+   "Freiburg"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville médiévale",
+  "region": "Fribourg",
+  "y": 46.8065,
+  "x": 7.1619,
+  "pt": "cathédrale Saint-Nicolas",
+  "near": "Fribourg",
+  "nearKm": 0,
+  "d": "Ville bilingue sur un éperon dans une boucle de la Sarine, au vaste centre médiéval. Cathédrale gothique, ponts couverts et funiculaire à eaux usées.",
+  "v": "La cathédrale Saint-Nicolas et sa tour · le quartier de l'Auge et le pont de Berne · le funiculaire Neuveville-Saint-Pierre · l'Espace Jean Tinguely – Niki de Saint Phalle",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Morat",
+  "alt": [
+   "Murten"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Bourg médiéval",
+  "region": "Fribourg",
+  "y": 46.9282,
+  "x": 7.117,
+  "pt": "vieille ville",
+  "near": "Murten",
+  "nearKm": 0,
+  "d": "Petite ville zähringienne entourée de remparts intacts au bord du lac de Morat, théâtre de la victoire des Confédérés sur Charles le Téméraire en 1476.",
+  "v": "Le chemin de ronde des remparts · la Hauptgasse à arcades · le château et le port · le Mont Vully et ses vignes",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Zurich",
+  "alt": [
+   "Zürich"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Grande ville",
+  "region": "Zurich",
+  "y": 47.372,
+  "x": 8.543,
+  "pt": "vieille ville, Limmat",
+  "near": "Zürich",
+  "nearKm": 0,
+  "d": "Plus grande ville de Suisse, au débouché du lac de Zurich dans la Limmat. Vieille ville, églises romanes, grands musées et baignades urbaines l'été.",
+  "v": "Le Grossmünster et le Fraumünster aux vitraux de Chagall · le Kunsthaus · le Lindenhof et les ruelles du Niederdorf · les bains du lac et de la Limmat",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 19,
+   "van": 6,
+   "sing": 9,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Winterthour",
+  "alt": [
+   "Winterthur",
+   "Château de Kybourg"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville de musées",
+  "region": "Zurich",
+  "y": 47.4997,
+  "x": 8.7241,
+  "pt": "vieille ville",
+  "near": "Winterthur",
+  "nearKm": 0,
+  "d": "Ville industrielle reconvertie aux collections d'art exceptionnelles, dont la collection Oskar Reinhart. Le château médiéval de Kybourg se trouve à quelques kilomètres.",
+  "v": "La collection Oskar Reinhart « Am Römerholz » · le Fotomuseum · la vieille ville piétonne · le château de Kybourg",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Schaffhouse",
+  "alt": [
+   "Schaffhausen",
+   "Munot"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Schaffhouse",
+  "y": 47.6966,
+  "x": 8.6378,
+  "pt": "forteresse du Munot",
+  "near": "Schaffhausen",
+  "nearKm": 0,
+  "d": "Ville sur le Rhin aux façades peintes et à oriels, dominée par la forteresse circulaire du Munot. Les chutes du Rhin sont à quelques kilomètres.",
+  "v": "Le Munot et sa rampe intérieure · la maison du Chevalier et ses fresques · l'abbaye de Tous-les-Saints · la promenade le long du Rhin",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château d'Arenenberg",
+  "alt": [
+   "Arenenberg",
+   "Napoleonmuseum"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Château-musée",
+  "region": "Thurgovie",
+  "y": 47.6722,
+  "x": 9.0636,
+  "pt": "château",
+  "near": "Ermatingen",
+  "nearKm": 2,
+  "d": "Château au-dessus du lac Inférieur de Constance où vécut la reine Hortense et grandit Napoléon III, aujourd'hui musée napoléonien. Parc paysager et vignes.",
+  "v": "Les salons Second Empire · le parc et sa vue sur l'île de Reichenau · les vignes du domaine · la rive suisse du lac de Constance",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Chartreuse d'Ittingen",
+  "alt": [
+   "Kartause Ittingen",
+   "Ittingen"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Chartreuse",
+  "region": "Thurgovie",
+  "y": 47.583,
+  "x": 8.867,
+  "pt": "monastère",
+  "near": "Frauenfeld",
+  "nearKm": 4,
+  "d": "Ancienne chartreuse à l'église baroque et aux cellules de moines conservées, au milieu des vignes et vergers de la Thur. Musée d'art thurgovien et jardins de roses.",
+  "v": "L'église baroque · les cellules de chartreux · le musée d'art de Thurgovie · les jardins et le houblon",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Walensee",
+  "alt": [
+   "Lac de Walenstadt"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Lac",
+  "region": "Saint-Gall",
+  "y": 47.123,
+  "x": 9.2,
+  "pt": "centre du lac",
+  "near": "Walenstadt",
+  "nearKm": 9,
+  "d": "Lac étroit au pied des falaises des Churfirsten, plongeant presque à pic dans l'eau. Le village de Quinten sur la rive nord n'est accessible qu'à pied ou en bateau.",
+  "v": "La route de la rive sud · le bateau vers Quinten · la cascade du Seerenbach · les Churfirsten vus depuis Walenstadtberg",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rapperswil",
+  "alt": [
+   "Rapperswil-Jona",
+   "Ville des roses"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Saint-Gall",
+  "y": 47.2265,
+  "x": 8.8182,
+  "pt": "château et vieille ville",
+  "near": "Rapperswil-Jona",
+  "nearKm": 0,
+  "d": "Petite ville au bord du lac de Zurich, avec château médiéval, vieille ville et jardins de roses. Une passerelle en bois relie la rive à Hurden.",
+  "v": "Le château et le musée polonais · les roseraies · la passerelle en bois du lac · la vieille ville et son port",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Werdenberg",
+  "alt": [
+   "Schloss Werdenberg"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Bourg médiéval",
+  "region": "Saint-Gall",
+  "y": 47.1689,
+  "x": 9.4633,
+  "pt": "château",
+  "near": "Buchs",
+  "nearKm": 2,
+  "d": "Plus petite ville de Suisse, ensemble de maisons en bois du Moyen Âge au bord d'un étang, sous le château des comtes de Werdenberg. Vue sur la vallée du Rhin et les Alpes.",
+  "v": "Les maisons en bois au bord du lac · le château et son musée · le reflet du bourg dans l'étang · la vallée du Rhin vers le Liechtenstein",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Säntis",
+  "alt": [
+   "Schwägalp"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Sommet",
+  "region": "Appenzell Rhodes-Extérieures",
+  "y": 47.2494,
+  "x": 9.3431,
+  "pt": "sommet",
+  "near": "Urnäsch",
+  "nearKm": 9,
+  "d": "Plus haut sommet de l'Alpstein, accessible par téléphérique depuis la Schwägalp. Panorama sur six pays, du lac de Constance aux Alpes bernoises.",
+  "v": "Le téléphérique depuis la Schwägalp · le panorama sur six pays · la route de la Schwägalp · les fermes appenzelloises d'Urnäsch",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Parc national suisse",
+  "alt": [
+   "Schweizerischer Nationalpark",
+   "Zernez"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Parc national",
+  "region": "Grisons",
+  "y": 46.6985,
+  "x": 10.0925,
+  "pt": "centre du parc à Zernez",
+  "near": "Scuol",
+  "nearKm": 19,
+  "d": "Plus ancien parc national des Alpes, créé en 1914, réserve intégrale de forêts d'aroles, d'éboulis et de vallées sauvages. Cerfs, chamois, bouquetins et gypaètes.",
+  "v": "Le centre du parc à Zernez · le Val Trupchun et ses cerfs · la route du col de l'Ofen · le lac de Macun pour les randonneurs",
+  "s": "juin-oct",
+  "du": "1 j",
+  "w": 1,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 12,
+   "sing": 13,
+   "val": 15,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Guarda",
+  "alt": [
+   "Guarda GR"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Village engadinois",
+  "region": "Grisons",
+  "y": 46.776,
+  "x": 10.152,
+  "pt": "centre du village",
+  "near": "Scuol",
+  "nearKm": 11,
+  "d": "Village perché de Basse-Engadine aux maisons ornées de sgraffites et d'oriels, protégé comme site d'importance nationale. Vue sur la vallée de l'Inn.",
+  "v": "Les maisons à sgraffites · la fontaine et la place du village · la vue sur l'Inn et les Dolomites de l'Engadine · le sentier vers Ardez",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Tarasp",
+  "alt": [
+   "Schloss Tarasp"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Grisons",
+  "y": 46.7778,
+  "x": 10.2614,
+  "pt": "château",
+  "near": "Scuol",
+  "nearKm": 4,
+  "d": "Château blanc perché sur un piton rocheux au-dessus de la Basse-Engadine, emblème de la vallée. Le village de Tarasp et son lac s'étendent au pied.",
+  "v": "La silhouette du château sur son rocher · le petit lac de Tarasp · les bains de Scuol · la Val S-charl",
+  "s": "juin-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gorges de la Viamala",
+  "alt": [
+   "Viamala",
+   "Via Mala"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Gorge",
+  "region": "Grisons",
+  "y": 46.664,
+  "x": 9.444,
+  "pt": "galeries de la gorge",
+  "near": "Thusis",
+  "nearKm": 4,
+  "d": "Gorge vertigineuse du Rhin postérieur, longtemps obstacle redouté sur la route du Splügen et du San Bernardino. Escaliers et galeries descendent au fond du défilé.",
+  "v": "Les escaliers jusqu'au fond de la gorge · les ponts historiques · l'église peinte de Zillis et son plafond roman · le vieux chemin muletier",
+  "s": "mai-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Ruinaulta",
+  "alt": [
+   "Gorges du Rhin",
+   "Rheinschlucht"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Gorge",
+  "region": "Grisons",
+  "y": 46.825,
+  "x": 9.31,
+  "pt": "belvédère Il Spir à Conn",
+  "near": "Flims",
+  "nearKm": 3,
+  "d": "Canyon du Rhin antérieur creusé dans les débris de l'éboulement de Flims, le plus grand des Alpes. Falaises blanches au-dessus de la rivière turquoise.",
+  "v": "Le belvédère Il Spir · le rafting sur le Rhin · le lac de Cauma · la ligne ferroviaire au fond de la gorge",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Coire",
+  "alt": [
+   "Chur"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Grisons",
+  "y": 46.8508,
+  "x": 9.532,
+  "pt": "vieille ville",
+  "near": "Chur",
+  "nearKm": 0,
+  "d": "Plus ancienne ville de Suisse et chef-lieu des Grisons, au carrefour des routes alpines. Vieille ville piétonne au pied de la cathédrale et du palais épiscopal.",
+  "v": "La cathédrale Sainte-Marie-de-l'Assomption · la vieille ville et l'Arcas · le musée des Beaux-Arts des Grisons · le Brambrüesch en téléphérique",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Soglio",
+  "alt": [
+   "Val Bregaglia",
+   "Bergell"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Village perché",
+  "region": "Grisons",
+  "y": 46.3417,
+  "x": 9.5383,
+  "pt": "centre du village",
+  "near": "Chiavenna",
+  "nearKm": 11,
+  "d": "Village de pierre perché en balcon sur le val Bregaglia, face aux aiguilles granitiques de la Sciora. Palais Salis et ruelles pavées sous les châtaigniers.",
+  "v": "Le palais Salis et ses jardins · la vue sur la Sciora et le Piz Badile · les châtaigneraies de Brentan · la route du col de la Maloja",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Viaduc de Landwasser",
+  "alt": [
+   "Landwasserviadukt"
+  ],
+  "p": "Suisse",
+  "c": "patrimoine",
+  "q": "Viaduc ferroviaire",
+  "region": "Grisons",
+  "y": 46.6808,
+  "x": 9.6756,
+  "pt": "viaduc",
+  "near": "Davos",
+  "nearKm": 18,
+  "d": "Viaduc courbe de 65 m de haut sur la ligne de l'Albula, débouchant directement dans un tunnel percé dans la falaise. Icône du chemin de fer rhétique.",
+  "v": "Le belvédère du sentier de Filisur · le passage du Glacier Express · le sentier didactique de l'Albula · le col de l'Albula en voiture",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Locarno",
+  "alt": [
+   "Madonna del Sasso",
+   "Ascona"
+  ],
+  "p": "Suisse",
+  "c": "ville",
+  "q": "Ville lacustre",
+  "region": "Tessin",
+  "y": 46.17,
+  "x": 8.795,
+  "pt": "Piazza Grande",
+  "near": "Locarno",
+  "nearKm": 0,
+  "d": "Ville au climat doux au bord du lac Majeur, avec sa Piazza Grande du festival du film et le sanctuaire de la Madonna del Sasso perché au-dessus. Ascona est voisine.",
+  "v": "Le sanctuaire de la Madonna del Sasso · la Piazza Grande · le château Visconteo · le bord du lac à Ascona",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Valle Maggia",
+  "alt": [
+   "Val Bavona",
+   "Foroglio"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Vallée",
+  "region": "Tessin",
+  "y": 46.3155,
+  "x": 8.601,
+  "pt": "village de Cevio",
+  "near": "Locarno",
+  "nearKm": 22,
+  "d": "Vallée sauvage aux villages de pierre et aux rivières aux eaux émeraude. Au fond, le Val Bavona et la cascade de Foroglio ; à Mogno, l'église de Mario Botta.",
+  "v": "La cascade de Foroglio · les vasques de Ponte Brolla · l'église de Mogno · les hameaux de pierre du Val Bavona",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col du Saint-Gothard",
+  "alt": [
+   "Passo del San Gottardo",
+   "Tremola",
+   "Gotthardpass"
+  ],
+  "p": "Suisse",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Tessin",
+  "y": 46.5592,
+  "x": 8.5614,
+  "pt": "col, près de l'hospice",
+  "near": "Airolo",
+  "nearKm": 5,
+  "d": "Col historique des Alpes reliant Uri au Tessin, avec la Tremola, longue route pavée en lacets classée monument historique. Musée national du Gothard et lacs au sommet.",
+  "v": "La Tremola pavée côté Airolo · le Musée national du Saint-Gothard · les lacs du col · le fort Sasso San Gottardo",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 15,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Brégence",
+  "alt": [
+   "Bregenz"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville lacustre",
+  "region": "Vorarlberg",
+  "y": 47.5031,
+  "x": 9.7471,
+  "pt": "centre-ville",
+  "near": "Bregenz",
+  "nearKm": 0,
+  "d": "Capitale du Vorarlberg au bord du lac de Constance, connue pour son festival d'opéra sur scène lacustre. Haute ville médiévale et téléphérique du Pfänder.",
+  "v": "La scène flottante du festival · la Kunsthaus de Peter Zumthor · la Oberstadt et la Martinsturm · le panorama du Pfänder",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bregenzerwald",
+  "alt": [
+   "Forêt de Bregenz",
+   "Schwarzenberg"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Région de villages",
+  "region": "Vorarlberg",
+  "y": 47.415,
+  "x": 9.852,
+  "pt": "village de Schwarzenberg",
+  "near": "Dornbirn",
+  "nearKm": 8,
+  "d": "Région de collines et d'alpages aux villages de fermes à bardeaux et à l'architecture contemporaine en bois réputée. Route du fromage et artisanat vivant.",
+  "v": "Le village de Schwarzenberg et le musée Angelika Kauffmann · les arrêts de bus de Krumbach · la Käsestrasse · le Werkraum Haus d'Andelsbuch",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Feldkirch",
+  "alt": [
+   "Schattenburg"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville médiévale",
+  "region": "Vorarlberg",
+  "y": 47.238,
+  "x": 9.598,
+  "pt": "vieille ville",
+  "near": "Feldkirch",
+  "nearKm": 0,
+  "d": "Ville médiévale aux rues à arcades, dominée par le château de Schattenburg, à la frontière du Liechtenstein et de la Suisse.",
+  "v": "Le château de Schattenburg · la Marktgasse à arcades · la Katzenturm · la cathédrale Saint-Nicolas",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Route alpine de la Silvretta",
+  "alt": [
+   "Silvretta-Hochalpenstrasse",
+   "Bielerhöhe"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Route alpine",
+  "region": "Vorarlberg / Tyrol",
+  "y": 46.9183,
+  "x": 10.0928,
+  "pt": "col de la Bielerhöhe",
+  "near": "Schruns",
+  "nearKm": 22,
+  "d": "Route panoramique reliant le Montafon au Paznaun par la Bielerhöhe, avec plus de trente lacets. Au sommet, le lac de barrage de la Silvretta face au Piz Buin.",
+  "v": "Les lacets côté Montafon · le lac de la Silvretta et son bateau · la vue sur le Piz Buin · la descente vers Galtür",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 15,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lech am Arlberg",
+  "alt": [
+   "Lech",
+   "Col du Flexen"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Vorarlberg",
+  "y": 47.2097,
+  "x": 10.1419,
+  "pt": "centre du village",
+  "near": "Sankt Anton am Arlberg",
+  "nearKm": 13,
+  "d": "Village de l'Arlberg parmi les stations les plus réputées des Alpes, atteint par la route du col du Flexen et ses galeries. Base de randonnées vers le Formarinsee et le Körbersee.",
+  "v": "La route du Flexen et ses galeries · le Skyspace de James Turrell · le lac Körbersee · le Formarinsee, source du Lech",
+  "s": "juin-oct, déc-avr",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gorges du Rappenloch",
+  "alt": [
+   "Rappenlochschlucht",
+   "Alplochschlucht"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Gorge",
+  "region": "Vorarlberg",
+  "y": 47.378,
+  "x": 9.752,
+  "pt": "entrée des gorges, Gütle",
+  "near": "Dornbirn",
+  "nearKm": 4,
+  "d": "Gorge profonde de la Dornbirner Ach, l'une des plus grandes des Alpes orientales, parcourue par passerelles. Elle s'enchaîne avec la gorge de l'Alploch.",
+  "v": "Les passerelles du Rappenloch · le lac de Staufensee · la gorge de l'Alploch · le musée des Rolls-Royce du Gütle",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Eisenstadt",
+  "alt": [
+   "Château Esterházy",
+   "Schloss Esterházy"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville résidentielle",
+  "region": "Burgenland",
+  "y": 47.8459,
+  "x": 16.5222,
+  "pt": "château Esterházy",
+  "near": "Eisenstadt",
+  "nearKm": 0,
+  "d": "Capitale du Burgenland, ancienne résidence des princes Esterházy, où Joseph Haydn vécut et composa. Château baroque et salle Haydn à l'acoustique réputée.",
+  "v": "Le château Esterházy et la salle Haydn · la Bergkirche et le mausolée de Haydn · la maison de Haydn · les vignobles du Leithagebirge",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rust",
+  "alt": [
+   "Rust am Neusiedler See"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Ville historique",
+  "region": "Burgenland",
+  "y": 47.8008,
+  "x": 16.6722,
+  "pt": "centre historique",
+  "near": "Rust",
+  "nearKm": 0,
+  "d": "Petite ville libre viticole au bord du lac de Neusiedl, aux maisons bourgeoises Renaissance et baroques coiffées de nids de cigognes. Partie du paysage culturel de Fertő/Neusiedlersee.",
+  "v": "Les nids de cigognes sur les toits · l'église des pêcheurs et ses fresques · les caves à vin et le Ruster Ausbruch · la roselière et le port",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Parc national Neusiedler See-Seewinkel",
+  "alt": [
+   "Lac de Neusiedl",
+   "Neusiedler See",
+   "Illmitz"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Parc national",
+  "region": "Burgenland",
+  "y": 47.7597,
+  "x": 16.8003,
+  "pt": "village d'Illmitz",
+  "near": "Illmitz",
+  "nearKm": 0,
+  "d": "Parc national de steppe, de lacs salés et de roselières sur la rive est du lac de Neusiedl, lac de steppe partagé avec la Hongrie. Haut lieu de l'ornithologie en Europe centrale.",
+  "v": "Les lacs salés et leurs limicoles · les tours d'observation des roselières · le bétail gris des steppes et les ânes blancs · la plage de Podersdorf",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Forchtenstein",
+  "alt": [
+   "Burg Forchtenstein"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Burgenland",
+  "y": 47.7097,
+  "x": 16.3314,
+  "pt": "château",
+  "near": "Mattersburg",
+  "nearKm": 6,
+  "d": "Forteresse des Esterházy sur un éperon du Rosaliengebirge, abritant leur trésor et une vaste armurerie. Une des collections princières les plus riches d'Europe centrale.",
+  "v": "Le trésor Esterházy · l'armurerie et les trophées turcs · le puits creusé par des prisonniers · la vue sur la plaine pannonienne",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Güssing",
+  "alt": [
+   "Burg Güssing"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Burgenland",
+  "y": 47.0592,
+  "x": 16.3236,
+  "pt": "château",
+  "near": "Güssing",
+  "nearKm": 0,
+  "d": "Château médiéval sur un cône volcanique dominant la petite ville de Güssing, le plus ancien du Burgenland. Vue sur les collines du sud du Burgenland.",
+  "v": "La montée au château · les salles et la galerie de portraits · la vue depuis la tour · la vieille ville de Güssing",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Hall in Tirol",
+  "alt": [
+   "Hall"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Ville médiévale",
+  "region": "Tyrol",
+  "y": 47.2833,
+  "x": 11.5072,
+  "pt": "vieille ville",
+  "near": "Hall in Tirol",
+  "nearKm": 0,
+  "d": "Ancienne cité du sel à la plus grande vieille ville du Tyrol, où fut frappé le Guldiner, ancêtre du thaler. Château de la Monnaie et église Saint-Nicolas.",
+  "v": "La tour de la Monnaie du château de Hasegg · la Oberer Stadtplatz · l'église Saint-Nicolas · les ruelles médiévales",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Forteresse de Kufstein",
+  "alt": [
+   "Festung Kufstein",
+   "Kufstein"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Forteresse",
+  "region": "Tyrol",
+  "y": 47.584,
+  "x": 12.168,
+  "pt": "forteresse",
+  "near": "Kufstein",
+  "nearKm": 0,
+  "d": "Forteresse sur un rocher au-dessus de l'Inn, gardienne de la frontière bavaroise. Elle abrite le Heldenorgel, immense orgue en plein air.",
+  "v": "Le Heldenorgel · le Kaiserturm et ses cachots · la vieille Römerhofgasse · le massif du Kaisergebirge voisin",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Rattenberg",
+  "alt": [
+   "Rattenberg am Inn"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Ville médiévale",
+  "region": "Tyrol",
+  "y": 47.4381,
+  "x": 11.8936,
+  "pt": "centre historique",
+  "near": "Brixlegg",
+  "nearKm": 2,
+  "d": "Plus petite ville d'Autriche, rue médiévale coincée entre l'Inn et un rocher, réputée pour ses verriers. Ruines de château au-dessus.",
+  "v": "La Südtiroler Strasse et ses maisons gothiques · les ateliers de verre · les ruines du château · le musée Augustiner",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Achensee",
+  "alt": [
+   "Lac d'Achen",
+   "Pertisau"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Tyrol",
+  "y": 47.45,
+  "x": 11.71,
+  "pt": "centre du lac",
+  "near": "Jenbach",
+  "nearKm": 9,
+  "d": "Plus grand lac du Tyrol, aux eaux turquoise entre les Karwendel et les Rofan, surnommé la « mer du Tyrol ». Bateaux, voile et chemin de fer à vapeur depuis Jenbach.",
+  "v": "La croisière sur le lac · le chemin de fer à crémaillère de l'Achensee · Pertisau et la vallée du Karwendel · le téléphérique du Rofan",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Zillertal",
+  "alt": [
+   "Mayrhofen",
+   "Vallée de la Ziller"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Vallée",
+  "region": "Tyrol",
+  "y": 47.1667,
+  "x": 11.8667,
+  "pt": "village de Mayrhofen",
+  "near": "Mayrhofen",
+  "nearKm": 0,
+  "d": "Vallée tyrolienne entourée des glaciers des Alpes de Zillertal, réputée pour ses villages et sa route alpine. Au fond, le lac du Schlegeis au pied des glaciers.",
+  "v": "La route alpine vers le Schlegeis Stausee · le col du Gerlos et les chutes de Krimml · le chemin de fer à vapeur du Zillertal · la Zillertaler Höhenstrasse",
+  "s": "juin-sept, déc-avr",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 12,
+   "sing": 9,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Route du Timmelsjoch",
+  "alt": [
+   "Timmelsjoch",
+   "Passo del Rombo"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Tyrol",
+  "y": 46.906,
+  "x": 11.09,
+  "pt": "route, versant autrichien sous le col",
+  "near": "Sölden",
+  "nearKm": 10,
+  "d": "Route de haute montagne reliant l'Ötztal au val Passiria italien, culminant à près de 2 500 m. Musée sur le col et lacets spectaculaires côté italien.",
+  "v": "Le musée du col et ses sculptures architecturales · les lacets de la descente vers Moos · le village de Obergurgl · les glaciers de l'Ötztal",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 15,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Kitzbühel",
+  "alt": [
+   "Hahnenkamm"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Tyrol",
+  "y": 47.4464,
+  "x": 12.3922,
+  "pt": "centre-ville",
+  "near": "Kitzbühel",
+  "nearKm": 0,
+  "d": "Ville médiévale aux façades colorées devenue station de prestige, au pied du Hahnenkamm et de sa célèbre descente. Base pour le Kitzbüheler Horn et les Alpes de Kitzbühel.",
+  "v": "La vieille ville et ses façades peintes · le Hahnenkamm et la Streif · le Kitzbüheler Horn · le lac Schwarzsee",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Plansee",
+  "alt": [
+   "Lac de Plan"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Tyrol",
+  "y": 47.476,
+  "x": 10.81,
+  "pt": "rive du lac",
+  "near": "Reutte",
+  "nearKm": 7,
+  "d": "Lac de montagne aux eaux très claires, l'un des plus grands du Tyrol, entre Reutte et Linderhof. Les ruines d'Ehrenberg et le pont suspendu highline179 sont proches.",
+  "v": "Le tour du lac et ses plages · le Heiterwanger See relié par un canal · les ruines d'Ehrenberg · le pont suspendu highline179",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lienz",
+  "alt": [
+   "Dolomites de Lienz",
+   "Osttirol"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville alpine",
+  "region": "Tyrol",
+  "y": 46.829,
+  "x": 12.769,
+  "pt": "centre-ville",
+  "near": "Lienz",
+  "nearKm": 0,
+  "d": "Capitale du Tyrol oriental au pied des Dolomites de Lienz, au climat ensoleillé. Château de Bruck et site romain d'Aguntum à proximité.",
+  "v": "Le château de Bruck et ses toiles d'Egger-Lienz · le site romain d'Aguntum · la route vers la Dolomitenhütte · la vallée de la Drave",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Eisriesenwelt",
+  "alt": [
+   "Grotte des géants de glace"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Grotte de glace",
+  "region": "Salzbourg",
+  "y": 47.503,
+  "x": 13.19,
+  "pt": "entrée de la grotte",
+  "near": "Werfen",
+  "nearKm": 3,
+  "d": "Plus grande grotte de glace du monde, creusée dans le massif du Tennengebirge au-dessus de Werfen. Galeries de cascades et de palais de glace parcourus à la lanterne.",
+  "v": "Les palais et cascades de glace · le téléphérique d'accès · la vue sur la vallée de la Salzach · la forteresse de Hohenwerfen en contrebas",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 1,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 19,
+   "van": 9,
+   "sing": 14,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Forteresse de Hohenwerfen",
+  "alt": [
+   "Burg Hohenwerfen"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Forteresse",
+  "region": "Salzbourg",
+  "y": 47.483,
+  "x": 13.189,
+  "pt": "forteresse",
+  "near": "Werfen",
+  "nearKm": 1,
+  "d": "Forteresse médiévale perchée sur un rocher au-dessus de la Salzach, gardant le passage entre le Pongau et Salzbourg. Spectacles de fauconnerie dans la cour.",
+  "v": "La démonstration de fauconnerie · le donjon et l'armurerie · la vue sur le Tennengebirge · le bourg de Werfen",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Mine de sel de Hallein",
+  "alt": [
+   "Salzwelten Hallein",
+   "Dürrnberg",
+   "Bad Dürrnberg"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Mine de sel",
+  "region": "Salzbourg",
+  "y": 47.665,
+  "x": 13.088,
+  "pt": "entrée de la mine du Dürrnberg",
+  "near": "Hallein",
+  "nearKm": 2,
+  "d": "Mine de sel du Dürrnberg exploitée depuis l'époque celtique, visitée en descendant des toboggans de mineurs. Musée celte dans la ville de Hallein.",
+  "v": "Les toboggans des mineurs · le lac salé souterrain · le village celtique reconstitué · le musée celte de Hallein",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Linz",
+  "alt": [
+   "Linz an der Donau"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville culturelle",
+  "region": "Haute-Autriche",
+  "y": 48.3069,
+  "x": 14.2858,
+  "pt": "Hauptplatz",
+  "near": "Linz",
+  "nearKm": 0,
+  "d": "Capitale de la Haute-Autriche sur le Danube, ville d'art numérique avec l'Ars Electronica Center et le Lentos. Vieille ville baroque autour de la Hauptplatz.",
+  "v": "L'Ars Electronica Center · le musée Lentos au bord du Danube · la Pöstlingberg par le tramway de montagne · la nouvelle cathédrale",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Saint-Florian",
+  "alt": [
+   "Stift Sankt Florian",
+   "Sankt Florian"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Abbaye baroque",
+  "region": "Haute-Autriche",
+  "y": 48.207,
+  "x": 14.379,
+  "pt": "abbaye",
+  "near": "Sankt Florian",
+  "nearKm": 0,
+  "d": "Abbaye de chanoines augustins parmi les plus grands ensembles baroques d'Autriche, où Anton Bruckner fut organiste et repose sous son orgue.",
+  "v": "L'orgue Bruckner et la crypte · la bibliothèque · les appartements impériaux · les tableaux d'Albrecht Altdorfer",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Kremsmünster",
+  "alt": [
+   "Stift Kremsmünster"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Abbaye bénédictine",
+  "region": "Haute-Autriche",
+  "y": 48.053,
+  "x": 14.129,
+  "pt": "abbaye",
+  "near": "Kremsmünster",
+  "nearKm": 0,
+  "d": "Abbaye bénédictine fondée en 777, connue pour son observatoire-tour baroque, ses viviers à arcades et le calice de Tassilon.",
+  "v": "La Mathematischer Turm, premier « gratte-ciel » scientifique · les viviers à arcades · le calice de Tassilon · la salle impériale",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Mémorial de Mauthausen",
+  "alt": [
+   "KZ-Gedenkstätte Mauthausen",
+   "Mauthausen"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Lieu de mémoire",
+  "region": "Haute-Autriche",
+  "y": 48.2567,
+  "x": 14.5011,
+  "pt": "ancien camp",
+  "near": "Mauthausen",
+  "nearKm": 2,
+  "d": "Ancien camp de concentration nazi, l'un des plus durs du système concentrationnaire, où des dizaines de milliers de détenus périrent. L'escalier de la mort monte de la carrière de granit.",
+  "v": "Les bâtiments du camp et le musée · la carrière et l'escalier de la mort · les monuments nationaux · la salle des noms",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 6,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Steyr",
+  "alt": [
+   "Stadtplatz Steyr"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Haute-Autriche",
+  "y": 48.039,
+  "x": 14.421,
+  "pt": "Stadtplatz",
+  "near": "Steyr",
+  "nearKm": 0,
+  "d": "Ville du fer au confluent de l'Enns et de la Steyr, à la place gothique et baroque parmi les plus belles d'Autriche. Maison du Bummerl et patrimoine industriel.",
+  "v": "La Stadtplatz et la Bummerlhaus · le confluent vu du pont · le quartier Wehrgraben et son musée industriel · l'église de Christkindl",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Boucle de Schlögen",
+  "alt": [
+   "Schlögener Schlinge"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Méandre",
+  "region": "Haute-Autriche",
+  "y": 48.421,
+  "x": 13.879,
+  "pt": "belvédère Schlögener Blick",
+  "near": "Peuerbach",
+  "nearKm": 12,
+  "d": "Méandre serré où le Danube fait demi-tour dans une vallée boisée encaissée. Le belvédère au-dessus de Haibach offre la vue classique sur la boucle.",
+  "v": "Le belvédère Schlögener Blick · la piste cyclable du Danube · le bac sur le Danube · la croisière jusqu'à Obermühl",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Gosausee",
+  "alt": [
+   "Lac de Gosau",
+   "Vorderer Gosausee"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Haute-Autriche",
+  "y": 47.538,
+  "x": 13.507,
+  "pt": "rive nord du lac",
+  "near": "Bad Goisern am Hallstättersee",
+  "nearKm": 14,
+  "d": "Lac de montagne où se reflète le glacier du Dachstein, l'une des vues les plus célèbres d'Autriche. Tour du lac à pied et lacs supérieurs plus sauvages.",
+  "v": "Le reflet du Dachstein sur le lac · le tour du lac · la montée au Hinterer Gosausee · la télécabine de la Zwieselalm",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gmunden",
+  "alt": [
+   "Traunsee",
+   "Schloss Ort"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville lacustre",
+  "region": "Haute-Autriche",
+  "y": 47.918,
+  "x": 13.799,
+  "pt": "front de lac",
+  "near": "Gmunden",
+  "nearKm": 0,
+  "d": "Ville de céramique au bord du Traunsee, face au Traunstein. Le château lacustre de Schloss Ort est relié à la rive par une passerelle de bois.",
+  "v": "Le Seeschloss Ort et sa passerelle · la céramique de Gmunden · l'esplanade du lac · le Grünberg en téléphérique",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Melk",
+  "alt": [
+   "Stift Melk"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Abbaye baroque",
+  "region": "Basse-Autriche",
+  "y": 48.2283,
+  "x": 15.3317,
+  "pt": "abbaye",
+  "near": "Melk",
+  "nearKm": 0,
+  "d": "Abbaye bénédictine baroque dominant le Danube à l'entrée de la Wachau, chef-d'œuvre de Jakob Prandtauer. Bibliothèque et église dorées spectaculaires.",
+  "v": "La bibliothèque et ses fresques · l'église abbatiale baroque · la terrasse sur le Danube · le parc et le pavillon du jardin",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 1,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 22,
+   "van": 9,
+   "sing": 12,
+   "val": 15,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Abbaye de Göttweig",
+  "alt": [
+   "Stift Göttweig"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Abbaye bénédictine",
+  "region": "Basse-Autriche",
+  "y": 48.3672,
+  "x": 15.6117,
+  "pt": "abbaye",
+  "near": "Krems an der Donau",
+  "nearKm": 5,
+  "d": "Abbaye bénédictine baroque perchée sur une colline à l'extrémité est de la Wachau, surnommée le « Mont-Cassin autrichien ». Escalier impérial à fresque de Paul Troger.",
+  "v": "L'escalier impérial et sa fresque · l'église abbatiale · la terrasse sur la Wachau · la ville de Krems",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Kreuzenstein",
+  "alt": [
+   "Burg Kreuzenstein"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Basse-Autriche",
+  "y": 48.377,
+  "x": 16.311,
+  "pt": "château",
+  "near": "Korneuburg",
+  "nearKm": 4,
+  "d": "Château médiéval reconstruit au XIXe siècle par le comte Wilczek avec des éléments authentiques de toute l'Europe. Silhouette de conte dominant le Danube.",
+  "v": "Les salles et la chapelle · l'armurerie · la cour du château · la vue sur le Danube et Vienne",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Carnuntum",
+  "alt": [
+   "Petronell-Carnuntum",
+   "Heidentor"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Basse-Autriche",
+  "y": 48.11,
+  "x": 16.864,
+  "pt": "quartier civil reconstruit",
+  "near": "Hainburg an der Donau",
+  "nearKm": 7,
+  "d": "Ancienne capitale de la Pannonie supérieure sur le limes du Danube, avec quartier romain reconstruit à l'identique, amphithéâtres et arc du Heidentor.",
+  "v": "Le quartier romain reconstruit · le Heidentor · l'amphithéâtre de la ville militaire · le musée Carnuntinum à Bad Deutsch-Altenburg",
+  "s": "avr-nov",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Heiligenkreuz",
+  "alt": [
+   "Stift Heiligenkreuz"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Abbaye cistercienne",
+  "region": "Basse-Autriche",
+  "y": 48.0553,
+  "x": 16.1311,
+  "pt": "abbaye",
+  "near": "Baden",
+  "nearKm": 9,
+  "d": "L'une des plus anciennes abbayes cisterciennes en activité continue au monde, fondée en 1133 dans la forêt viennoise. Cloître roman-gothique et relique de la Croix.",
+  "v": "Le cloître et la salle capitulaire · la nef romane et le chœur gothique · la chapelle de la relique de la Croix · les forêts du Wienerwald",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Zwettl",
+  "alt": [
+   "Stift Zwettl"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Abbaye cistercienne",
+  "region": "Basse-Autriche",
+  "y": 48.62,
+  "x": 15.196,
+  "pt": "abbaye",
+  "near": "Zwettl",
+  "nearKm": 3,
+  "d": "Abbaye cistercienne du Waldviertel fondée au XIIe siècle, dans une boucle du Kamp. Cloître roman-gothique parmi les plus anciens d'Autriche et église baroque.",
+  "v": "Le cloître et sa salle capitulaire · l'église et sa tour baroque · la bibliothèque · les forêts et rivières du Waldviertel",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Erzberg",
+  "alt": [
+   "Montagne de fer",
+   "Eisenerz"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Mine à ciel ouvert",
+  "region": "Styrie",
+  "y": 47.53,
+  "x": 14.9,
+  "pt": "gradins de la mine",
+  "near": "Eisenerz",
+  "nearKm": 3,
+  "d": "Montagne de fer en gradins exploitée depuis le Moyen Âge, plus grande mine de fer à ciel ouvert d'Europe centrale. Visite en camion géant et galerie souterraine.",
+  "v": "La visite en camion Hauly · la galerie de mine souterraine · la vieille ville minière d'Eisenerz · le lac Leopoldsteinersee",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Basilique de Mariazell",
+  "alt": [
+   "Mariazell"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Basilique de pèlerinage",
+  "region": "Styrie",
+  "y": 47.7726,
+  "x": 15.3195,
+  "pt": "basilique",
+  "near": "Mariazell",
+  "nearKm": 0,
+  "d": "Principal sanctuaire marial d'Autriche et d'Europe centrale, basilique gothique et baroque abritant une Vierge romane vénérée depuis le XIIe siècle.",
+  "v": "La chapelle de la Grâce et la Vierge de Mariazell · la chambre au trésor · le chemin de fer de Mariazell · le lac d'Erlauf",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Riegersburg",
+  "alt": [
+   "Riegersburg"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Forteresse",
+  "region": "Styrie",
+  "y": 47.0035,
+  "x": 15.932,
+  "pt": "forteresse",
+  "near": "Riegersburg",
+  "nearKm": 1,
+  "d": "Forteresse sur un cône volcanique de basalte dominant le pays des volcans de Styrie, jamais prise. Musées sur les sorcières et les armes.",
+  "v": "L'ascension par les sept portes · le musée de la sorcellerie · la vue sur le Steirisches Vulkanland · l'ascenseur incliné",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye d'Admont",
+  "alt": [
+   "Stift Admont"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Abbaye bénédictine",
+  "region": "Styrie",
+  "y": 47.5747,
+  "x": 14.4614,
+  "pt": "abbaye",
+  "near": "Admont",
+  "nearKm": 0,
+  "d": "Abbaye bénédictine dont la bibliothèque baroque, longue de 70 m, est la plus grande bibliothèque monastique du monde. Porte d'entrée du parc national du Gesäuse.",
+  "v": "La bibliothèque et ses sculptures de Thaddäus Stammel · le musée d'histoire naturelle · l'église néogothique · le Gesäuse voisin",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 13,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Ramsau am Dachstein",
+  "alt": [
+   "Glacier du Dachstein",
+   "Dachstein Skywalk"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Plateau de montagne",
+  "region": "Styrie",
+  "y": 47.421,
+  "x": 13.655,
+  "pt": "village de Ramsau",
+  "near": "Schladming",
+  "nearKm": 4,
+  "d": "Haut plateau ensoleillé au pied de la face sud du Dachstein, d'où un téléphérique monte au glacier, au Skywalk et au pont suspendu.",
+  "v": "Le téléphérique du glacier du Dachstein · le Skywalk et l'escalier dans le vide · la face sud du Dachstein · les fermes de Ramsau",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Wörthersee",
+  "alt": [
+   "Lac Wörth",
+   "Maria Wörth"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Lac",
+  "region": "Carinthie",
+  "y": 46.617,
+  "x": 14.165,
+  "pt": "presqu'île de Maria Wörth",
+  "near": "Pörtschach am Wörther See",
+  "nearKm": 2,
+  "d": "Grand lac carinthien aux eaux chaudes bordé de villas Belle Époque. La presqu'île de Maria Wörth porte deux églises, et la tour du Pyramidenkogel domine le lac.",
+  "v": "L'église de Maria Wörth sur sa presqu'île · la tour d'observation du Pyramidenkogel · les villas de Pörtschach et Velden · la baignade en été",
+  "s": "mai-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Klagenfurt",
+  "alt": [
+   "Klagenfurt am Wörthersee"
+  ],
+  "p": "Autriche",
+  "c": "ville",
+  "q": "Ville régionale",
+  "region": "Carinthie",
+  "y": 46.6247,
+  "x": 14.3053,
+  "pt": "Neuer Platz",
+  "near": "Klagenfurt am Wörthersee",
+  "nearKm": 0,
+  "d": "Capitale de la Carinthie à l'extrémité est du Wörthersee, à la vieille ville Renaissance aux cours à arcades. Fontaine du Dragon emblématique.",
+  "v": "La fontaine du Lindwurm · le Landhaus et sa salle des armoiries · les cours Renaissance · la plage de l'Europapark",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Hochosterwitz",
+  "alt": [
+   "Burg Hochosterwitz"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Forteresse",
+  "region": "Carinthie",
+  "y": 46.754,
+  "x": 14.452,
+  "pt": "château",
+  "near": "Sankt Veit an der Glan",
+  "nearKm": 7,
+  "d": "Château fort perché sur un rocher calcaire isolé, accessible par un chemin franchissant quatorze portes fortifiées. L'une des silhouettes les plus célèbres d'Autriche.",
+  "v": "Le chemin des quatorze portes · l'armurerie · la vue sur la plaine de la Glan · l'ascenseur incliné",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 1,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Cathédrale de Gurk",
+  "alt": [
+   "Gurker Dom",
+   "Dom zu Gurk"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Cathédrale romane",
+  "region": "Carinthie",
+  "y": 46.875,
+  "x": 14.293,
+  "pt": "cathédrale",
+  "near": "Sankt Veit an der Glan",
+  "nearKm": 13,
+  "d": "Cathédrale romane du XIIe siècle, l'un des plus importants édifices romans d'Autriche, avec crypte à cent colonnes et tombeau de sainte Hemma.",
+  "v": "La crypte aux cent colonnes · la tribune des évêques et ses fresques · le tombeau de sainte Hemma · la vallée de la Gurk",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Friesach",
+  "alt": [
+   "Friesach Kärnten"
+  ],
+  "p": "Autriche",
+  "c": "patrimoine",
+  "q": "Ville médiévale",
+  "region": "Carinthie",
+  "y": 46.953,
+  "x": 14.406,
+  "pt": "centre historique",
+  "near": "Friesach",
+  "nearKm": 0,
+  "d": "Plus ancienne ville de Carinthie, entourée de remparts et d'un fossé en eau, au pied de collines couronnées de ruines de châteaux.",
+  "v": "Les remparts et le fossé en eau · le chantier médiéval du château Burgbau · l'église dominicaine · les ruines du Petersberg",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Millstätter See",
+  "alt": [
+   "Lac de Millstatt",
+   "Millstatt"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Lac",
+  "region": "Carinthie",
+  "y": 46.804,
+  "x": 13.58,
+  "pt": "abbaye de Millstatt",
+  "near": "Spittal an der Drau",
+  "nearKm": 6,
+  "d": "Lac profond entre les Nockberge et le Drautal, l'un des plus grands de Carinthie. À Millstatt, ancienne abbaye bénédictine au cloître roman.",
+  "v": "L'abbaye de Millstatt et son portail roman · la baignade et le bateau sur le lac · la randonnée du Granattor · les villas au bord de l'eau",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Weissensee",
+  "alt": [
+   "Weißensee",
+   "Techendorf"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Carinthie",
+  "y": 46.72,
+  "x": 13.287,
+  "pt": "pont de Techendorf",
+  "near": "Hermagor",
+  "nearKm": 12,
+  "d": "Lac de montagne préservé aux eaux turquoise, dont la rive est n'est accessible qu'à pied ou en bateau. En hiver, il devient l'une des plus grandes patinoires naturelles d'Europe.",
+  "v": "Le pont de Techendorf · la croisière jusqu'au fond du lac · le sentier de la rive · le patinage sur le lac gelé",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Dobratsch",
+  "alt": [
+   "Villacher Alpe",
+   "Villacher Alpenstrasse"
+  ],
+  "p": "Autriche",
+  "c": "nature",
+  "q": "Montagne panoramique",
+  "region": "Carinthie",
+  "y": 46.6031,
+  "x": 13.6714,
+  "pt": "sommet",
+  "near": "Villach",
+  "nearKm": 13,
+  "d": "Montagne isolée au-dessus de Villach, parc naturel accessible par la route alpine de Villach. Panorama sur trois pays et paroi d'éboulement géante.",
+  "v": "La route alpine de Villach · le panorama sur les Alpes juliennes · le jardin botanique alpin · la paroi d'éboulement de 1348",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 12,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ }
+]

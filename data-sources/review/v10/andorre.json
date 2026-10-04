@@ -1,0 +1,353 @@
+[
+ {
+  "key": "andorre|madriu-perafita-claror|425:16",
+  "src": "portugal-andorre.json#94",
+  "n": "Vallée du Madriu-Perafita-Claror",
+  "p": "Andorre",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Escaldes-Engordany » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila (AD, 1.5 km)",
+   "ref": {
+    "name": "Vila",
+    "geonameid": null,
+    "y": 42.53176,
+    "x": 1.56654,
+    "km": 1.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1160"
+  },
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 13,
+   "val": 15,
+   "acc": 3,
+   "rel": 2,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3528
+ },
+ {
+  "key": "andorre|tristaina|426:15",
+  "src": "portugal-andorre.json#98",
+  "n": "Lacs de Tristaina",
+  "p": "Andorre",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arinsal (AD, 7.8 km)",
+   "ref": {
+    "name": "Ordino",
+    "geonameid": 3039678,
+    "y": 42.55623,
+    "x": 1.53319,
+    "km": 10.3,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3530
+ },
+ {
+  "key": "andorre|ordino|426:15",
+  "src": "portugal-andorre.json#96",
+  "n": "Ordino",
+  "p": "Andorre",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ordino (AD, 0.0 km)",
+   "ref": {
+    "name": "Ordino",
+    "geonameid": 3039678,
+    "y": 42.55623,
+    "x": 1.53319,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3039678
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3529
+ },
+ {
+  "key": "andorre|coloma|425:15",
+  "src": "portugal-andorre.json#100",
+  "n": "Santa Coloma",
+  "p": "Andorre",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Santa Coloma (AD, 0.1 km)",
+   "ref": {
+    "name": "Andorra la Vella",
+    "geonameid": 3041563,
+    "y": 42.50779,
+    "x": 1.52109,
+    "km": 2.3,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3531
+ },
+ {
+  "key": "andorre|andorre|425:15",
+  "src": "portugal-andorre.json#95",
+  "n": "Andorre-la-Vieille",
+  "p": "Andorre",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Andorra la Vella (AD, 0.1 km)",
+   "ref": {
+    "name": "Andorra la Vella",
+    "geonameid": 3041563,
+    "y": 42.50779,
+    "x": 1.52109,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.14
+  },
+  "links": {
+   "geonames": 3041563,
+   "qid": "Q1863"
+  },
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3532
+ },
+ {
+  "key": "andorre|sorteny|426:16",
+  "src": "portugal-andorre.json#97",
+  "n": "Parc naturel de la vallée de Sorteny",
+  "p": "Andorre",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Canillo (AD, 6.8 km)",
+   "ref": {
+    "name": "Ordino",
+    "geonameid": 3039678,
+    "y": 42.55623,
+    "x": 1.53319,
+    "km": 7.3,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3533
+ },
+ {
+  "key": "andorre|pal|425:15",
+  "src": "portugal-andorre.json#101",
+  "n": "Pal",
+  "p": "Andorre",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arinsal (AD, 2.7 km)",
+   "ref": {
+    "name": "la Massana",
+    "geonameid": 3040132,
+    "y": 42.54499,
+    "x": 1.51483,
+    "km": 2.9,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "andorre|port-envalira|425:17",
+  "src": "portugal-andorre.json#102",
+  "n": "Port d'Envalira",
+  "p": "Andorre",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": "France",
+   "nearestLocality": "Pas de la Casa (AD, 1.2 km)",
+   "ref": {
+    "name": "Pas de la Casa",
+    "geonameid": 3039604,
+    "y": 42.54277,
+    "x": 1.73361,
+    "km": 1.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 12,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "andorre|sant-joan-caselles|426:16",
+  "src": "portugal-andorre.json#99",
+  "n": "Sant Joan de Caselles",
+  "p": "Andorre",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Canillo (AD, 1.2 km)",
+   "ref": {
+    "name": "Canillo",
+    "geonameid": 3041204,
+    "y": 42.5676,
+    "x": 1.59756,
+    "km": 1.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ }
+]

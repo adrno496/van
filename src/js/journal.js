@@ -390,30 +390,39 @@ async function importBackupFile(file) {
 }
 
 /* ── Blog à partager : un fichier HTML autonome, sans script ── */
+var PUBLIC_EDITION = document.documentElement.getAttribute('data-edition') === 'public';
 function journalExportDialog() {
   var posts = orderedPosts(false);
   if (!posts.length) return toast('Marquez au moins un article « à partager » pour créer le blog.');
   var d = modalShell('Préparer le blog à partager', '<p>' + posts.length + ' article(s) et ' + posts.reduce(function (n, p) { return n + p.photos.length; }, 0) + ' photo(s) seront inclus. Les brouillons privés et les notes de trajet en sont exclus.</p>' +
     '<label class="check-row"><input type="checkbox" id="shareLocations" checked><span>Afficher la carte et les lieux de ces articles</span></label>' +
     '<p class="note">Vous obtenez un fichier HTML lisible sans compte ni connexion, à envoyer aux personnes de votre choix. Aucun lien public n’est créé.</p>' +
-    '<div class="dialog-actions"><button class="btn" id="exportForSite" type="button">Fichier pour le site</button><button class="btn p" id="exportJournalConfirm" type="button">Créer le fichier du blog</button></div>' +
-    '<p class="note">« Fichier pour le site » prépare ces articles pour le site Atlas Van. Ils y restent privés tant que vous ne les marquez pas vous-même comme publics.</p>');
+    // Version publique (visiteurs) : le fichier reste le leur ; rien ne laisse croire qu'il peut paraître sur le blog d'Atlas Van.
+    (PUBLIC_EDITION ? '<div class="dialog-actions"><button class="btn p" id="exportJournalConfirm" type="button">Créer le fichier du blog</button></div>' +
+      '<p class="note">Ce fichier vous appartient : il n’est publié nulle part, ni sur ce site ni ailleurs.</p>' :
+      '<div class="dialog-actions"><button class="btn" id="exportForSite" type="button">Fichier pour le site</button><button class="btn p" id="exportJournalConfirm" type="button">Créer le fichier du blog</button></div>' +
+      '<p class="note">« Fichier pour le site » prépare ces articles pour le site Atlas Van. Ils y restent privés tant que vous ne les marquez pas vous-même comme publics.</p>'));
   d.querySelector('#exportJournalConfirm').onclick = function () {
     dl('mon-carnet-de-voyage.html', buildJournalHTML(posts, d.querySelector('#shareLocations').checked), 'text/html');
     d.close(); toast('Votre blog à partager est prêt');
   };
-  d.querySelector('#exportForSite').onclick = function () {
+  if (!PUBLIC_EDITION) d.querySelector('#exportForSite').onclick = function () {
     dl('atlas-van-articles.json', JSON.stringify(articlesForSite(posts)), 'application/json');
     d.close(); toast('Fichier prêt : à importer avec « node build/import-articles.mjs »');
   };
 }
 // Articles « à partager » au format attendu par le site (content/articles/). Privé et brouillon par défaut :
 // rien n'est publié tant que le propriétaire ne change pas lui-même ces deux champs, fichier par fichier.
+// Version 2 : identifiant stable de la note (pour reconnaître une note déjà importée) et lieu personnel arrondi au dixième
+// de degré (une dizaine de kilomètres) dès l'export : la position exacte d'une nuit ne quitte pas l'appareil.
 function articlesForSite(posts) {
-  return { type: 'atlas-van-articles', version: 1, exported: new Date().toISOString(), articles: posts.map(function (p) {
-    return { slug: slugOf(p.title) || 'article', title: p.title, date: p.date, excerpt: p.text.replace(/\s+/g, ' ').trim().slice(0, 240),
-      placeId: typeof p.placeId === 'number' && byId[p.placeId] && !byId[p.placeId].perso ? p.placeId : null, text: p.text,
-      photos: p.photos.map(function (ph) { return { src: ph.src, caption: ph.caption || '' }; }), visibility: 'private', status: 'draft' };
+  var round = function (v) { return Math.round(v * 10) / 10; };
+  return { type: 'atlas-van-articles', version: 2, exported: new Date().toISOString(), articles: posts.map(function (p) {
+    var catalogued = typeof p.placeId === 'number' && byId[p.placeId] && !byId[p.placeId].perso, own = !catalogued ? postPlace(p) : null;
+    return { id: String(p.id || '').slice(0, 64), slug: slugOf(p.title) || 'article', title: p.title, date: p.date, excerpt: p.text.replace(/\s+/g, ' ').trim().slice(0, 240),
+      placeId: catalogued ? p.placeId : null,
+      place: own && Number.isFinite(own.x) && Number.isFinite(own.y) ? { name: String(own.n || 'Étape').slice(0, 120), country: String(own.p || '').slice(0, 60), lat: round(own.y), lon: round(own.x) } : null,
+      text: p.text, photos: p.photos.map(function (ph) { return { src: ph.src, caption: ph.caption || '' }; }), visibility: 'private', status: 'draft' };
   }) };
 }
 function exportJourneySVG(posts) {

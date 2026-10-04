@@ -1,0 +1,982 @@
+[
+ {
+  "key": "finlande|koli|631:298",
+  "src": "nordiques-baltes.json#37",
+  "n": "Parc national de Koli",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lieksa (FI, 26.6 km)",
+   "ref": {
+    "name": "Lieksa",
+    "geonameid": 648090,
+    "y": 63.31667,
+    "x": 30.01667,
+    "km": 26.6,
+    "statedKm": 26
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 11,
+   "sing": 12,
+   "val": 14,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3534
+ },
+ {
+  "key": "finlande|inari|689:270",
+  "src": "nordiques-baltes.json#42",
+  "n": "Inari",
+  "p": "Finlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Inari (FI, 0.1 km)",
+   "ref": {
+    "name": "Ivalo",
+    "geonameid": 656220,
+    "y": 68.65986,
+    "x": 27.53891,
+    "km": 34.3,
+    "statedKm": 33
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 656657
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 3535
+ },
+ {
+  "key": "finlande|helsinki|602:249",
+  "src": "nordiques-baltes.json#34",
+  "n": "Helsinki",
+  "p": "Finlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Helsinki (FI, 0.2 km)",
+   "ref": {
+    "name": "Helsinki",
+    "geonameid": 658225,
+    "y": 60.16952,
+    "x": 24.93545,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 658225,
+   "qid": "Q1757"
+  },
+  "score": {
+   "tour": 21,
+   "van": 7,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3536
+ },
+ {
+  "key": "finlande|oulanka|664:293",
+  "src": "nordiques-baltes.json#39",
+  "n": "Parc national d'Oulanka",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kuusamo (FI, 44.6 km)",
+   "ref": {
+    "name": "Kuusamo",
+    "geonameid": 649924,
+    "y": 65.96667,
+    "x": 29.18333,
+    "km": 44.6,
+    "statedKm": 44
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 12,
+   "sing": 12,
+   "val": 14,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3537
+ },
+ {
+  "key": "finlande|porvoo|604:257",
+  "src": "nordiques-baltes.json#35",
+  "n": "Porvoo",
+  "p": "Finlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Porvoo (FI, 0.1 km)",
+   "ref": {
+    "name": "Porvoo",
+    "geonameid": 660561,
+    "y": 60.39233,
+    "x": 25.66507,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.14
+  },
+  "links": {
+   "geonames": 660561,
+   "qid": "Q193367"
+  },
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3538
+ },
+ {
+  "key": "finlande|rovaniemi|665:257",
+  "src": "nordiques-baltes.json#38",
+  "n": "Rovaniemi",
+  "p": "Finlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rovaniemi (FI, 0.7 km)",
+   "ref": {
+    "name": "Rovaniemi",
+    "geonameid": 638936,
+    "y": 66.5,
+    "x": 25.71667,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.71
+  },
+  "links": {
+   "geonames": 638936,
+   "qid": "Q103717"
+  },
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3539
+ },
+ {
+  "key": "finlande|saariselka|684:274",
+  "src": "nordiques-baltes.json#41",
+  "n": "Saariselkä",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ivalo (FI, 27.2 km)",
+   "ref": {
+    "name": "Ivalo",
+    "geonameid": 656220,
+    "y": 68.65986,
+    "x": 27.53891,
+    "km": 27.2,
+    "statedKm": 27
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3540
+ },
+ {
+  "key": "finlande|pallas-yllastunturi|681:241",
+  "src": "nordiques-baltes.json#40",
+  "n": "Parc national de Pallas-Yllästunturi",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Muonio (FI, 19.4 km)",
+   "ref": {
+    "name": "Muonio",
+    "geonameid": 645672,
+    "y": 67.95,
+    "x": 23.7,
+    "km": 19.4,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 11,
+   "val": 14,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3541
+ },
+ {
+  "key": "finlande|archipel-kvarken|632:212",
+  "src": "nordiques-baltes.json#44",
+  "n": "Archipel de Kvarken",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Replot (FI, 10.1 km)",
+   "ref": {
+    "name": "Vaasa",
+    "geonameid": null,
+    "y": 63.099984,
+    "x": 21.600015,
+    "km": 22.9,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 5,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3542
+ },
+ {
+  "key": "finlande|tampere|615:238",
+  "src": "nordiques-baltes.json#46",
+  "n": "Tampere",
+  "p": "Finlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tammerkoski (FI, 0.3 km)",
+   "ref": {
+    "name": "Tampere",
+    "geonameid": null,
+    "y": 61.500005,
+    "x": 23.750013,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.39
+  },
+  "links": {
+   "geonames": 634963,
+   "qid": "Q40840"
+  },
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3543
+ },
+ {
+  "key": "finlande|kuopio|629:277",
+  "src": "nordiques-baltes.json#49",
+  "n": "Kuopio",
+  "p": "Finlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kuopio (FI, 0.0 km)",
+   "ref": {
+    "name": "Kuopio",
+    "geonameid": 650224,
+    "y": 62.89238,
+    "x": 27.67703,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 650224,
+   "qid": "Q162279"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3544
+ },
+ {
+  "key": "finlande|punkaharju|618:294",
+  "src": "nordiques-baltes.json#50",
+  "n": "Punkaharju",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Punkaharju (FI, 0.3 km)",
+   "ref": {
+    "name": "Savonlinna",
+    "geonameid": null,
+    "y": 61.866623,
+    "x": 28.883343,
+    "km": 29.2,
+    "statedKm": 27
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3545
+ },
+ {
+  "key": "finlande|kastelholm|602:201",
+  "src": "nordiques-baltes.json#55",
+  "n": "Château de Kastelholm",
+  "p": "Finlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sund (AX, 2.9 km)",
+   "ref": {
+    "name": "Mariehamn",
+    "geonameid": null,
+    "y": 60.096996,
+    "x": 19.949005,
+    "km": 16.6,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3546
+ },
+ {
+  "key": "finlande|hamina|606:272",
+  "src": "nordiques-baltes.json#53",
+  "n": "Hamina",
+  "p": "Finlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.6,
+   "otherCountry": null,
+   "nearestLocality": "Hamina (FI, 0.0 km)",
+   "ref": {
+    "name": "Hamina",
+    "geonameid": 659169,
+    "y": 60.56974,
+    "x": 27.19794,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 659169
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3547
+ },
+ {
+  "key": "finlande|kristinestad|623:214",
+  "src": "nordiques-baltes.json#45",
+  "n": "Kristinestad",
+  "p": "Finlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kristinestad (FI, 0.1 km)",
+   "ref": {
+    "name": "Kristinestad",
+    "geonameid": 650769,
+    "y": 62.27429,
+    "x": 21.37596,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 650769
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3548
+ },
+ {
+  "key": "finlande|nauvo|602:219",
+  "src": "nordiques-baltes.json#54",
+  "n": "Nauvo",
+  "p": "Finlande",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "localité « Parainen » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.6,
+   "otherCountry": null,
+   "nearestLocality": "Nagu (FI, 0.1 km)",
+   "ref": {
+    "name": "Nagu",
+    "geonameid": 645165,
+    "y": 60.19375,
+    "x": 21.90972,
+    "km": 0.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 13,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 1,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3549
+ },
+ {
+  "key": "finlande|repovesi|612:269",
+  "src": "nordiques-baltes.json#58",
+  "n": "Parc national de Repovesi",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mäntyharju (FI, 25.4 km)",
+   "ref": {
+    "name": "Mäntyharju",
+    "geonameid": 646699,
+    "y": 61.41667,
+    "x": 26.88333,
+    "km": 25.4,
+    "statedKm": 26
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3550
+ },
+ {
+  "key": "finlande|helvetinkolu|620:239",
+  "src": "nordiques-baltes.json#47",
+  "n": "Helvetinkolu",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Virrat (FI, 23.9 km)",
+   "ref": {
+    "name": "Ruovesi",
+    "geonameid": 638691,
+    "y": 61.98575,
+    "x": 24.05714,
+    "km": 11.8,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3551
+ },
+ {
+  "key": "finlande|valamo|625:286",
+  "src": "nordiques-baltes.json#51",
+  "n": "Monastère de Valamo",
+  "p": "Finlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Heinävesi (FI, 6.2 km)",
+   "ref": {
+    "name": "Heinävesi",
+    "geonameid": 658318,
+    "y": 62.43333,
+    "x": 28.6,
+    "km": 6.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "finlande|hailuoto|650:246",
+  "src": "nordiques-baltes.json#43",
+  "n": "Hailuoto",
+  "p": "Finlande",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Hailuoto (FI, 8.0 km)",
+   "ref": {
+    "name": "Oulu",
+    "geonameid": 643492,
+    "y": 65.01236,
+    "x": 25.46816,
+    "km": 42.8,
+    "statedKm": 38
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "finlande|imatrankoski|612:288",
+  "src": "nordiques-baltes.json#52",
+  "n": "Imatrankoski",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Imatra (FI, 2.6 km)",
+   "ref": {
+    "name": "Imatra",
+    "geonameid": 656688,
+    "y": 61.17185,
+    "x": 28.75242,
+    "km": 2.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "finlande|nuuksio|603:245",
+  "src": "nordiques-baltes.json#36",
+  "n": "Parc national de Nuuksio",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vanha-Nuuksio-Nupuri (FI, 6.5 km)",
+   "ref": {
+    "name": "Espoo",
+    "geonameid": 660158,
+    "y": 60.2052,
+    "x": 24.6522,
+    "km": 11.4,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "finlande|pulkkilanharju|613:256",
+  "src": "nordiques-baltes.json#48",
+  "n": "Pulkkilanharju",
+  "p": "Finlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Vääksy » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Asikkala (FI, 7.8 km)",
+   "ref": {
+    "name": "Asikkala",
+    "geonameid": 660949,
+    "y": 61.21667,
+    "x": 25.5,
+    "km": 7.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "finlande|kalajoki|642:238",
+  "src": "nordiques-baltes.json#57",
+  "n": "Kalajoki",
+  "p": "Finlande",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": null,
+   "nearestLocality": "Kalajoki (FI, 7.0 km)",
+   "ref": {
+    "name": "Kalajoki",
+    "geonameid": 654837,
+    "y": 64.25,
+    "x": 23.95,
+    "km": 7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "finlande|yyteri|616:215",
+  "src": "nordiques-baltes.json#56",
+  "n": "Yyteri",
+  "p": "Finlande",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Noormarkku (FI, 17.9 km)",
+   "ref": {
+    "name": "Pori",
+    "geonameid": null,
+    "y": 61.478895,
+    "x": 21.774939,
+    "km": 15.9,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ }
+]

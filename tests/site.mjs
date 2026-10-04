@@ -7,10 +7,11 @@ import os from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { ROOT, loadPlaywright, serve, writeJson } from './lib/harness.mjs';
+import { catalogue } from '../build/planner.mjs';
 
 const args = process.argv.slice(2), opt = (f, d) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : d; };
 const out = path.resolve(opt('--out', 'test-results/site.json')), only = opt('--only', null)?.split(',');
-const FIX = path.join(ROOT, 'tests/fixtures/content'), DEMO = path.join(ROOT, 'tests/fixtures/content-demo');
+const FIX = path.join(ROOT, 'tests/fixtures/content'), DEMO = path.join(ROOT, 'tests/fixtures/content-demo'), VOY = path.join(ROOT, 'tests/fixtures/content-voyage');
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'atlas-site-'));
 const results = [], measures = {};
 const assert = (c, m) => { if (!c) throw new Error(m); };
@@ -21,12 +22,18 @@ const walk = (dir, base = '') => fs.readdirSync(path.join(dir, base), { withFile
 const htmlFiles = (dir) => walk(dir).filter((f) => f.endsWith('.html') && !f.startsWith('app' + path.sep));
 const read = (dir, f) => fs.readFileSync(path.join(dir, f), 'utf8');
 // Contenu temporaire : copie du contenu de test, modifiée par la fonction donnée (pour les cas de refus).
-const contentWith = (name, change) => { const dir = path.join(tmp, 'content-' + name); fs.cpSync(FIX, dir, { recursive: true }); change(dir); return dir; };
+const contentWith = (name, change, from = FIX) => { const dir = path.join(tmp, 'content-' + name); fs.cpSync(from, dir, { recursive: true }); change(dir); return dir; };
 const writeJsonFile = (file, value) => { fs.mkdirSync(path.dirname(file), { recursive: true }); fs.writeFileSync(file, typeof value === 'string' ? value : JSON.stringify(value)); };
 
 const PRIVATE_STRINGS = ['Voyage privé de test à ne jamais publier', 'Résumé privé du voyage de test', 'Paragraphe privé du voyage de test', 'Note privée de test à ne jamais publier', 'Contenu privé de la note de test',
   'Brouillon de test à ne jamais publier', 'Contenu du brouillon de test', 'Section privée de test', 'Phrase privée de la section à propos', 'privee.png'];
 const PERSONAL_STRINGS = ['Chez ma mère', 'Chez mes grands-parents', 'Chez une amie', 'Chez ma marraine', 'Maison des grands-parents', 'Milan (marraine)', 'marraine', 'grands-parents'];
+// Le site est construit ici même à partir des sources : nombres de lieux attendus (1 600 et 1 595 avant le lot v10).
+const N_ALL = catalogue('personal').app.lieux.length, N_PUB = catalogue('public').app.lieux.length;
+// Valeurs du catalogue public utilisées par les pages : itinéraires (25 avant le lot v10), lieux d'Italie sans la base
+// retirée (362 avant), écriture des nombres dans les pages (espace insécable entre les milliers).
+const CAT_PUB = catalogue('public').app, N_TRIPS = CAT_PUB.parcours.length, N_ITALIE = CAT_PUB.lieux.filter((p) => p.p === 'Italie').length;
+const numRe = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 const WIDTHS = [320, 360, 390, 430, 768, 820, 1024, 1280, 1440, 1920];
 
 console.log('construction des versions de test…');
@@ -34,11 +41,12 @@ const PUB = built('public', '--mode', 'public', '--content', FIX);
 const PERSO = built('personal', '--mode', 'personal', '--content', FIX);
 const BARE = built('bare', '--mode', 'public', '--content', path.join(tmp, 'aucun-contenu'));          // aucun contenu rédigé : le site doit tenir debout
 const URLED = built('url', '--mode', 'public', '--content', FIX, '--site-url', 'https://atlas.example');
-const KEY = ['index.html', 'destinations/index.html', 'destinations/italie/index.html', 'road-trips/index.html', 'road-trips/balkans-en-six-semaines/index.html', 'voyages/index.html', 'voyages/portugal-de-test/index.html',
+const VOYPUB = built('voyage-public', '--mode', 'public', '--content', VOY), VOYPERSO = built('voyage-personal', '--mode', 'personal', '--content', VOY);
+const KEY = ['index.html', 'voyage-en-cours/index.html', 'partage/index.html', 'destinations/index.html', 'destinations/italie/index.html', 'road-trips/index.html', 'road-trips/balkans-en-six-semaines/index.html', 'voyages/index.html', 'voyages/portugal-de-test/index.html',
   'carnet/index.html', 'carnet/une-nuit-a-nazare/index.html', 'guides/index.html', 'guides/regles-et-couts-par-pays/index.html', 'a-propos/index.html', 'confidentialite/index.html', 'mentions/index.html', 'recherche/index.html', '404.html'];
 
 const { chromium, firefox, webkit } = loadPlaywright();
-const server = await serve(PUB), personal = await serve(PERSO), bare = await serve(BARE);
+const server = await serve(PUB), personal = await serve(PERSO), bare = await serve(BARE), voyage = await serve(VOYPUB);
 const browser = await chromium.launch();
 async function open(base, file = 'index.html', { width = 1440, height = 900, mobile = false, storageState } = {}) {
   const context = await browser.newContext({ viewport: { width, height }, isMobile: mobile, hasTouch: mobile, deviceScaleFactor: mobile ? 2 : 1, locale: 'fr-FR', reducedMotion: 'reduce', ...(storageState ? { storageState } : {}) });
@@ -46,7 +54,8 @@ async function open(base, file = 'index.html', { width = 1440, height = 900, mob
   await context.route('**/*', (r) => { const u = r.request().url(); if (u.startsWith('http://127.0.0.1') || /^(data|blob):/.test(u)) return r.continue(); remote.push(u); return r.abort(); });
   const page = await context.newPage();
   page.on('pageerror', (e) => errors.push('pageerror: ' + e.message)); page.on('console', (m) => { if (m.type() === 'error') errors.push('console: ' + m.text().slice(0, 200)); });
-  page.on('requestfailed', (r) => { if (r.url().startsWith('http://127.0.0.1')) errors.push('échec: ' + r.url().replace(/^http:\/\/[^/]+/, '')); });
+  // Une image encore en chargement quand le test change de page est annulée (net::ERR_ABORTED) : ce n'est pas une erreur du site.
+  page.on('requestfailed', (r) => { if (r.url().startsWith('http://127.0.0.1') && !/ERR_ABORTED/.test(r.failure()?.errorText || '')) errors.push('échec: ' + r.url().replace(/^http:\/\/[^/]+/, '') + ' ' + (r.failure()?.errorText || '')); });
   page.on('response', (r) => { if (r.status() >= 400) errors.push(`HTTP ${r.status()}: ` + r.url().replace(/^http:\/\/[^/]+/, '')); });
   await page.goto(base + file, { waitUntil: 'load' });
   return { context, page, remote, errors };
@@ -60,18 +69,24 @@ group('pages', {
   '1 · accueil : un seul h1, première page, appels à l\'action, sections, aucune erreur': async () => {
     const a = await open(server.url);
     try {
-      const s = await a.page.evaluate(() => ({ h1: [...document.querySelectorAll('h1')].map((h) => h.textContent.trim()), hero: !!document.querySelector('.hero .plate'), cta: [...document.querySelectorAll('.hero-actions a')].map((x) => x.getAttribute('href')),
-        sections: [...document.querySelectorAll('main h2')].map((h) => h.textContent.trim()), title: document.title, lang: document.documentElement.lang, lead: document.querySelector('.hero-lead').textContent }));
-      eq([s.h1, s.hero, s.cta, s.lang], [['Atlas Van'], true, ['destinations/index.html', 'app/index.html'], 'fr'], 'structure de l\'accueil');
-      for (const t of ['Derniers voyages', 'Destinations', 'Road trips', 'Carnet', 'Guides pratiques', 'Préparer son propre voyage']) assert(s.sections.includes(t), 'section absente : ' + t);
-      assert(/1.595 lieux dans 34.pays, 25 itinéraires/.test(s.lead), 'chiffres tirés du catalogue : ' + s.lead); eq([a.errors, a.remote], [[], []], 'erreurs et requêtes tierces');
+      const s = await a.page.evaluate(() => ({ h1: [...document.querySelectorAll('h1')].map((h) => h.textContent.trim()), hero: !!document.querySelector('.hero .plate'), cta: [...document.querySelectorAll('.hero-actions a')].map((x) => [x.textContent.trim(), x.getAttribute('href')]),
+        tertiary: [...document.querySelectorAll('.hero-more a')].map((x) => [x.textContent.trim(), x.getAttribute('href')]),
+        sections: [...document.querySelectorAll('main h2')].map((h) => h.textContent.trim()), title: document.title, lang: document.documentElement.lang, lead: document.querySelector('.hero-lead').textContent,
+        atlas: [...document.querySelectorAll('main h2')].find((h) => /Explorer l’Atlas/.test(h.textContent))?.parentElement.querySelector('.section-lead').textContent || '' }));
+      eq([s.h1, s.hero, s.cta, s.tertiary, s.lang], [['Suivez mon voyage en van solo'], true, [['Suivre mon voyage', 'voyage-en-cours/index.html'], ['Voir mes voyages', 'voyages/index.html']], [['Préparer votre voyage', 'app/index.html']], 'fr'], 'structure de l\'accueil');
+      eq(s.lead, 'Je partage ici mes étapes, mes découvertes, mes photos et les routes parcourues au fil du voyage.', 'phrase d\'accroche');
+      // Ordre voulu : le voyage du propriétaire, puis l'Atlas, puis la communauté et le Planner, enfin l'à-propos.
+      const order = ['Dernier récit', 'Journal de route', 'En chiffres', 'Mes voyages', 'Explorer l’Atlas', 'Road trips', 'Partage', 'Guides pratiques', 'Préparer votre propre voyage', 'À propos'];
+      for (const t of order) assert(s.sections.includes(t), 'section absente : ' + t + ' — ' + s.sections.join(' | '));
+      eq(order.map((t) => s.sections.indexOf(t)).every((v, i, l) => !i || v > l[i - 1]), true, 'ordre des sections : ' + s.sections.join(' | '));
+      assert(new RegExp(numRe(N_PUB) + ' lieux dans 34.pays d’Europe et ' + N_TRIPS + ' itinéraires').test(s.atlas), 'chiffres tirés du catalogue : ' + s.atlas); eq([a.errors, a.remote], [[], []], 'erreurs et requêtes tierces');
     } finally { await a.context.close(); }
   },
-  '2 · navigation grand écran : six rubriques, rubrique courante signalée, retour à l\'accueil': async () => {
+  '2 · navigation grand écran : sept rubriques dont Partage, rubrique courante signalée, retour à l\'accueil': async () => {
     const a = await open(server.url);
     try {
       const links = await a.page.locator('.site-nav a').evaluateAll((l) => l.map((x) => [x.textContent, x.getAttribute('href')]));
-      eq(links.map((l) => l[0]), ['Voyages', 'Destinations', 'Road trips', 'Carnet', 'Guides', 'À propos'], 'rubriques');
+      eq(links.map((l) => l[0]), ['Mon voyage', 'Mes voyages', 'Destinations', 'Road trips', 'Partage', 'Guides', 'À propos'], 'rubriques');
       for (const [label, href] of links) { await a.page.goto(server.url + href); const s = await a.page.evaluate(() => [document.querySelectorAll('h1').length, document.querySelector('.site-nav [aria-current]')?.textContent]); eq(s, [1, label], 'page « ' + label + ' »'); }
       await a.page.click('.site-head .brand'); await a.page.waitForLoadState('load'); assert(await a.page.locator('.hero').count() === 1, 'la marque ramène à l\'accueil'); eq(a.errors, [], 'erreurs');
     } finally { await a.context.close(); }
@@ -84,7 +99,10 @@ group('pages', {
       const s = await a.page.evaluate(() => { const d = document.querySelector('#menu'), r = d.getBoundingClientRect(); return { full: r.width >= innerWidth - 1 && r.height >= innerHeight - 1, links: [...d.querySelectorAll('a')].map((x) => x.textContent.trim().replace(/\s+/g, ' ')), inside: d.contains(document.activeElement), expanded: document.querySelector('[data-menu-open]').getAttribute('aria-expanded'),
         small: [...d.querySelectorAll('a,button')].filter((e) => e.getBoundingClientRect().height < 44).length }; });
       eq([s.full, s.inside, s.expanded, s.small], [true, true, 'true', 0], 'menu ouvert'); assert(s.links.includes('Destinations') && s.links.some((l) => l.startsWith('Préparer mon voyage')), 'liens du menu : ' + s.links.join(', '));
-      for (let i = 0; i < 12; i++) await a.page.keyboard.press('Tab'); assert(await a.page.evaluate(() => document.querySelector('#menu').contains(document.activeElement)), 'le focus reste dans le menu');
+      // Fenêtre modale native : le focus parcourt le menu puis, après le dernier lien, passe au navigateur (document.body) avant de revenir au menu ;
+      // il ne doit jamais atteindre un élément de la page derrière le menu.
+      for (let i = 0; i < 30; i++) { await a.page.keyboard.press('Tab'); assert(await a.page.evaluate(() => document.querySelector('#menu').contains(document.activeElement) || document.activeElement === document.body), 'le focus reste dans le menu (arrêt ' + (i + 1) + ')'); }
+      assert(await a.page.evaluate(() => document.querySelector('#menu').contains(document.activeElement)) || (await a.page.keyboard.press('Tab'), await a.page.evaluate(() => document.querySelector('#menu').contains(document.activeElement))), 'le focus revient au menu');
       await a.page.keyboard.press('Escape'); await a.page.waitForTimeout(150);
       eq(await a.page.evaluate(() => [document.querySelector('#menu').open, document.activeElement === document.querySelector('[data-menu-open]'), document.querySelector('[data-menu-open]').getAttribute('aria-expanded')]), [false, true, 'false'], 'fermé par Échap, focus rendu au bouton');
       await a.page.locator('[data-menu-open]').tap(); await a.page.waitForSelector('#menu[open]'); await Promise.all([a.page.waitForURL(/road-trips\/index\.html$/, { timeout: 8000 }), a.page.locator('#menu a', { hasText: 'Road trips' }).tap()]); assert(await a.page.locator('h1').textContent() === 'Road trips', 'un lien du menu navigue');
@@ -110,17 +128,17 @@ group('pages', {
       await a.page.goto(server.url + 'destinations/italie/index.html');
       const s = await a.page.evaluate(() => ({ h1: document.querySelector('h1').textContent, badge: document.querySelector('.detail-intro .badge').textContent, lead: document.querySelector('.page-lead').textContent, h2: [...document.querySelectorAll('main h2')].map((h) => h.textContent),
         caveat: document.querySelector('.caveat')?.textContent || '', cta: document.querySelector('.detail-intro .btn-primary').getAttribute('href'), map: document.querySelector('.detail-art svg').getAttribute('aria-label') }));
-      eq([s.h1, s.badge, s.cta], ['Italie', 'Dans l’Atlas', '../../app/index.html#pays=italie'], 'page Italie'); assert(/362.lieux repérés/.test(s.lead), 'nombre de lieux (sans la base retirée) : ' + s.lead);
+      eq([s.h1, s.badge, s.cta], ['Italie', 'Dans l’Atlas', '../../app/index.html#pays=italie'], 'page Italie'); assert(new RegExp(numRe(N_ITALIE) + '.lieux repérés').test(s.lead), 'nombre de lieux (sans la base retirée) : ' + s.lead);
       for (const t of ['Incontournables de l’Atlas', 'Quand partir', 'Road trips qui y passent', 'Sur la route']) assert(s.h2.includes(t), 'section absente : ' + t);
       assert(/non sourcées/.test(s.caveat) && /Carte : Italie/.test(s.map), 'notes signalées comme non sourcées, carte décrite');
       await a.page.goto(server.url + 'destinations/portugal/index.html'); eq(await a.page.locator('.detail-intro .badge').textContent(), 'Raconté', 'pays d\'un voyage publié');
       eq(a.errors, [], 'erreurs');
     } finally { await a.context.close(); }
   },
-  '6 · road trips : 25 itinéraires, page d\'un itinéraire (étapes ordonnées, distance estimée, aucune durée inventée)': async () => {
+  '6 · road trips : tous les itinéraires, page d\'un itinéraire (étapes ordonnées, distance estimée, aucune durée inventée)': async () => {
     const a = await open(server.url, 'road-trips/index.html');
     try {
-      eq(await a.page.locator('.card').count(), 25, 'itinéraires listés');
+      eq(await a.page.locator('.card').count(), N_TRIPS, 'itinéraires listés');
       await a.page.goto(server.url + 'road-trips/balkans-en-six-semaines/index.html');
       const s = await a.page.evaluate(() => ({ h1: document.querySelector('h1').textContent, facts: [...document.querySelectorAll('.facts dt')].map((d) => d.textContent), stops: document.querySelectorAll('.stops-numbered > li').length, cta: document.querySelector('.detail-intro .btn-primary').getAttribute('href'), text: document.querySelector('main').textContent }));
       eq([s.h1, s.facts, s.stops, s.cta], ['Balkans en six semaines', ['Étapes', 'Distance estimée', 'Pays'], 28, '../../app/index.html#parcours=balkans-en-six-semaines'], 'page de l\'itinéraire');
@@ -178,7 +196,7 @@ group('planner', {
     const a = await open(server.url);
     try {
       await a.page.click('.head-row .btn-cta'); await plannerReady(a.page);
-      eq(await a.page.evaluate(() => [PTS.length, document.querySelectorAll('#map .poi').length, document.querySelectorAll('.tabs button').length, document.querySelector('.brand a').getAttribute('href')]), [1595, 1595, 5, '../index.html'], 'Planner public dans le site');
+      eq(await a.page.evaluate(() => [PTS.length, document.querySelectorAll('#map .poi').length, document.querySelectorAll('.tabs button').length, document.querySelector('.brand a').getAttribute('href')]), [N_PUB, N_PUB, 5, '../index.html'], 'Planner public dans le site');
       await a.page.click('.brand a'); await a.page.waitForLoadState('load'); assert(await a.page.locator('.hero').count() === 1, 'retour à l\'accueil du site'); eq(a.errors, [], 'erreurs');
     } finally { await a.context.close(); }
   },
@@ -186,7 +204,7 @@ group('planner', {
     const a = await open(server.url, 'destinations/italie/index.html');
     try {
       await a.page.click('.detail-intro .btn-primary'); await plannerReady(a.page); await a.page.waitForTimeout(300);
-      eq(await a.page.evaluate(() => [paysF, document.querySelector('#paysSel').value, document.querySelectorAll('#map .poi:not(.off)').length, location.hash]), ['Italie', 'Italie', 362, ''], 'depuis une destination : carte filtrée sur le pays');
+      eq(await a.page.evaluate(() => [paysF, document.querySelector('#paysSel').value, document.querySelectorAll('#map .poi:not(.off)').length, location.hash]), ['Italie', 'Italie', N_ITALIE, ''], 'depuis une destination : carte filtrée sur le pays');
       await a.page.goto(server.url + 'road-trips/balkans-en-six-semaines/index.html'); await a.page.click('.detail-intro .btn-primary'); await plannerReady(a.page); await a.page.waitForTimeout(400);
       eq(await a.page.evaluate(() => [route.length, document.querySelector('.pane.on').id]), [28, 'p3'], 'depuis un road trip : parcours chargé');
       await a.page.goto(server.url + 'carnet/une-nuit-a-nazare/index.html'); await a.page.click('.story-foot .btn'); await plannerReady(a.page); await a.page.waitForTimeout(400);
@@ -209,13 +227,13 @@ group('planner', {
       const a = await open(server.url, 'app/index.html' + hash);
       try { await plannerReady(a.page); await a.page.waitForTimeout(250);
         const s = await a.page.evaluate(() => ({ xss: window.__xss || 0, paysF, route: route.length, shown: document.querySelectorAll('#map .poi:not(.off)').length, imgs: document.querySelectorAll('img[onerror]').length }));
-        eq([s.xss, s.paysF, s.route, s.shown, s.imgs, a.errors], [0, '', 0, 1595, 0, []], 'lien ' + hash.slice(0, 40));
+        eq([s.xss, s.paysF, s.route, s.shown, s.imgs, a.errors], [0, '', 0, N_PUB, 0, []], 'lien ' + hash.slice(0, 40));
       } finally { await a.context.close(); }
     }
   },
-  'version personnelle : Planner complet (1 600 lieux) dans le site, pages marquées « noindex »': async () => {
+  'version personnelle : Planner complet (tous les lieux) dans le site, pages marquées « noindex »': async () => {
     const a = await open(personal.url, 'app/index.html');
-    try { await plannerReady(a.page); eq(await a.page.evaluate(() => [PTS.length, PTS.filter((p) => p.c === 'base').length]), [1600, 5], 'catalogue complet');
+    try { await plannerReady(a.page); eq(await a.page.evaluate(() => [PTS.length, PTS.filter((p) => p.c === 'base').length]), [N_ALL, 5], 'catalogue complet');
       for (const f of ['index.html', 'destinations/italie/index.html', 'carnet/note-privee/index.html']) assert(/<meta name="robots" content="noindex">/.test(read(PERSO, f)), 'noindex absent : ' + f); eq(a.errors, [], 'erreurs'); }
     finally { await a.context.close(); }
   }
@@ -331,8 +349,12 @@ group('securite', {
       const run = (...x) => spawnSync(process.execPath, [path.join(ROOT, 'build/import-articles.mjs'), ...x, '--content', dir], { encoding: 'utf8' });
       const r = run(file); assert(r.status === 0, 'import : ' + r.stderr);
       const saved = JSON.parse(fs.readFileSync(path.join(dir, 'articles/2026-06-14-un-matin-a-annecy.json'), 'utf8'));
-      eq([saved.visibility, saved.status, saved.cover.src, fs.existsSync(path.join(dir, 'media', saved.cover.src))], ['private', 'draft', 'carnet/2026-06-14-un-matin-a-annecy-1.png', true], 'importé en privé et brouillon même si le fichier prétend le contraire ; photo extraite');
-      assert(run(file).status === 1, 'second import : refus d\'écraser'); fs.writeFileSync(file, JSON.stringify({ type: 'atlas-van-articles', articles: [{ title: 'x', date: '2026-01-01', text: 'x', photos: [{ src: 'data:image/svg+xml;base64,PHN2Zz4=' }] }] })); assert(run(file).status === 1, 'photo SVG refusée');
+      // Nom de la photo : adresse de l'article, rang, empreinte du contenu (aucune image n'en écrase une autre).
+      eq([saved.visibility, saved.status, /^carnet\/2026-06-14-un-matin-a-annecy-1-[a-f0-9]{10}\.png$/.test(saved.cover.src), fs.existsSync(path.join(dir, 'media', saved.cover.src))], ['private', 'draft', true, true], 'importé en privé et brouillon même si le fichier prétend le contraire ; photo extraite');
+      // Second import du même fichier : idempotent (rien n'est réécrit ni dupliqué), au lieu de l'ancien refus.
+      const first = fs.readFileSync(path.join(dir, 'articles/2026-06-14-un-matin-a-annecy.json'), 'utf8'), again = run(file);
+      assert(again.status === 0 && /Déjà à jour/.test(again.stdout) && fs.readFileSync(path.join(dir, 'articles/2026-06-14-un-matin-a-annecy.json'), 'utf8') === first && fs.readdirSync(path.join(dir, 'articles')).length === 2, 'second import : rien d\'écrasé, aucun doublon');
+      fs.writeFileSync(file, JSON.stringify({ type: 'atlas-van-articles', version: 1, articles: [{ title: 'x', date: '2026-01-01', text: 'x', photos: [{ src: 'data:image/svg+xml;base64,PHN2Zz4=' }] }] })); const svg = run(file); assert(svg.status === 1 && /format refusé/.test(svg.stderr), 'photo SVG refusée');
       const pub = build('--mode', 'public', '--content', dir, '--dir', path.join(tmp, 'import-public')); assert(pub.status === 0 && !fs.existsSync(path.join(tmp, 'import-public/carnet/2026-06-14-un-matin-a-annecy')), 'article importé absent de la version publique tant qu\'il n\'est pas publié');
     } finally { await a.context.close(); }
   }
@@ -370,7 +392,7 @@ group('images-seo', {
     const a = await open(bare.url);
     try {
       eq(await a.page.evaluate(() => [...document.querySelectorAll('main h2')].map((h) => h.textContent).filter((t) => /voyages|Carnet/i.test(t))), [], 'accueil : pas de section vide');
-      for (const [f, text] of [['voyages/index.html', 'Aucun voyage n’est encore raconté ici'], ['carnet/index.html', 'Aucun récit publié pour l’instant']]) { await a.page.goto(bare.url + f); assert((await a.page.locator('.empty').textContent()).includes(text), f + ' : état vide'); eq(await a.page.locator('.todo').count(), 0, f + ' : rien « à compléter » en public'); }
+      for (const [f, text] of [['voyages/index.html', 'Aucun voyage n’est encore raconté ici'], ['carnet/index.html', 'Aucun récit publié pour l’instant'], ['voyage-en-cours/index.html', 'Aucun voyage en cours n’est publié']]) { await a.page.goto(bare.url + f); assert((await a.page.locator('.empty').textContent()).includes(text), f + ' : état vide'); eq(await a.page.locator('.todo').count(), 0, f + ' : rien « à compléter » en public'); }
       eq(a.errors, [], 'erreurs');
     } finally { await a.context.close(); }
     eq(htmlFiles(BARE).length, htmlFiles(PUB).length - 5, 'pages produites sans contenu rédigé (5 de moins : 1 voyage, 3 articles, 1 guide)');
@@ -383,8 +405,8 @@ group('accessibilite-responsive', {
     try {
       await a.page.keyboard.press('Tab'); eq(await a.page.evaluate(() => [document.activeElement.className, document.activeElement.getAttribute('href')]), ['skip-link', '#main'], 'premier arrêt : lien d\'évitement');
       await a.page.keyboard.press('Enter'); await a.page.waitForTimeout(100);
-      const order = []; for (let i = 0; i < 4; i++) { await a.page.keyboard.press('Tab'); order.push(await a.page.evaluate(() => { const e = document.activeElement, s = getComputedStyle(e); return [e.textContent.trim().replace(/\s+/g, ' ').slice(0, 26), s.outlineStyle !== 'none' && parseFloat(s.outlineWidth) >= 2]; })); }
-      eq(order.map((o) => o[0]).slice(0, 2), ['Parcourir les destinations', 'Préparer mon voyage'], 'après le lien d\'évitement : les deux actions de la première page'); assert(order.every((o) => o[1]), 'focus visible sur chaque arrêt');
+      const order = []; for (let i = 0; i < 4; i++) { await a.page.keyboard.press('Tab'); await a.page.waitForTimeout(150); /* le contour se lit une fois l'image suivante dessinée */ order.push(await a.page.evaluate(() => { const e = document.activeElement, s = getComputedStyle(e); return [e.textContent.trim().replace(/\s+/g, ' ').slice(0, 26), s.outlineStyle !== 'none' && parseFloat(s.outlineWidth) >= 2]; })); }
+      eq(order.map((o) => o[0]).slice(0, 2), ['Suivre mon voyage', 'Voir mes voyages'], 'après le lien d\'évitement : les deux actions de la première page'); assert(order.every((o) => o[1]), 'focus visible sur chaque arrêt');
       for (const f of KEY) { await a.page.goto(server.url + f); const bad = await a.page.evaluate(() => [...document.querySelectorAll('a,button,input')].filter((e) => !e.closest('dialog:not([open])') && !(e.textContent.trim() || e.getAttribute('aria-label') || e.getAttribute('aria-labelledby') || (e.id && document.querySelector('label[for="' + e.id + '"]')))).length);
         eq(bad, 0, f + ' : commandes sans nom'); eq(await a.page.evaluate(() => [document.querySelectorAll('header.site-head').length, document.querySelectorAll('main').length, document.querySelectorAll('footer.site-foot').length, document.querySelectorAll('nav:not([aria-label])').length]), [1, 1, 1, 0], f + ' : repères'); }
     } finally { await a.context.close(); }
@@ -425,11 +447,90 @@ group('accessibilite-responsive', {
     for (const [name, type] of [['chromium', chromium], ['firefox', firefox], ['webkit', webkit]]) {
       const b = await type.launch(); const page = await b.newPage(); const errors = []; page.on('pageerror', (e) => errors.push(e.message)); page.on('console', (m) => { if (m.type() === 'error') errors.push(m.text().slice(0, 120)); });
       try { await page.goto('file://' + path.join(PUB, 'index.html')); const css = await page.evaluate(() => getComputedStyle(document.querySelector('.hero-title')).fontSize); assert(parseFloat(css) > 30, name + ' : feuille de style appliquée');
-        await page.click('.hero-actions .btn-primary'); await page.waitForLoadState('load'); assert(await page.locator('.card').count() === 34, name + ' : lien relatif vers les destinations');
+        await page.click('.foot-nav a[href="destinations/index.html"]'); await page.waitForLoadState('load'); assert(await page.locator('.card').count() === 34, name + ' : lien relatif vers les destinations');
         await page.goto('file://' + path.join(PUB, 'voyages/portugal-de-test/index.html')); assert(await page.evaluate(() => document.querySelector('main img').naturalWidth) === 1200, name + ' : image locale affichée');
         await page.goto('file://' + path.join(PUB, 'destinations/italie/index.html')); await page.click('.detail-intro .btn-primary'); await plannerReady(page); await page.waitForTimeout(300);
-        eq(await page.evaluate(() => [PTS.length, paysF]), [1595, 'Italie'], name + ' : Planner ouvert et filtré depuis un fichier local'); eq(errors, [], name + ' : erreurs'); }
+        eq(await page.evaluate(() => [PTS.length, paysF]), [N_PUB, 'Italie'], name + ' : Planner ouvert et filtré depuis un fichier local'); eq(errors, [], name + ' : erreurs'); }
       finally { await b.close(); }
+    }
+  }
+});
+
+group('blog', {
+  'voyage en cours sur l\'accueil : accroche réglable, carte des étapes publiées, légende, alternative textuelle, dernière étape, chiffres fiables': async () => {
+    const a = await open(voyage.url);
+    try {
+      const s = await a.page.evaluate(() => { const sec = document.querySelector('.section-voyage'); return {
+        h1: document.querySelector('h1').textContent, lead: document.querySelector('.hero-lead').textContent, title: sec.querySelector('h2').textContent,
+        map: sec.querySelector('svg.plate').getAttribute('role'), label: sec.querySelector('svg.plate').getAttribute('aria-label'), legend: [...sec.querySelectorAll('.map-legend li')].map((l) => l.textContent),
+        last: sec.querySelector('.last-stage').textContent, stages: [...sec.querySelectorAll('.stage-list li a')].map((x) => [x.textContent, x.getAttribute('href')]),
+        drawn: [sec.querySelectorAll('.pl-route').length, sec.querySelectorAll('.pl-last').length, sec.querySelectorAll('.pl-planned').length],
+        latest: [...document.querySelectorAll('main h2')].find((h) => h.textContent === 'Dernière étape')?.closest('section').querySelector('a').getAttribute('href'),
+        stats: [...document.querySelectorAll('.stats div')].map((d) => [d.querySelector('dt').textContent, d.querySelector('dd').textContent.replace(/\s/g, ' ')]) }; });
+      eq([s.h1, s.lead, s.title, s.map], ['Titre d’accueil de test', 'Phrase d’accroche de test, réglée dans content/site.json.', 'Espagne de test', 'img'], 'accroche réglable et voyage en cours');
+      assert(/3 étapes publiées, de Saint-Sébastien à Bardenas Reales/.test(s.label) && /18 avril 2026/.test(s.label), 'carte décrite : ' + s.label);
+      eq(s.legend, ['Route parcourue, d’étape en étape', 'Dernière étape publiée', 'Étapes prévues (indicatives)'], 'légende'); eq(s.drawn, [1, 1, 1], 'route, dernière étape et prévu dessinés');
+      // Le récit retiré de la carte (Barcelone) et le brouillon (Madrid) ne sont pas des étapes.
+      eq(s.stages.map((x) => x[0]), ['Saint-Sébastien', 'Village de test', 'Bardenas Reales'], 'étapes publiées, dans l\'ordre'); eq(s.stages[2][1], 'carnet/etape-bardenas/index.html', 'lien vers le récit de l\'étape');
+      assert(/Bardenas Reales/.test(s.last) && /18 avril 2026/.test(s.last), 'dernière étape publiée : ' + s.last); eq(s.latest, 'carnet/etape-bardenas/index.html', 'section « Dernière étape »');
+      eq(s.stats, [['voyages racontés', '2'], ['pays traversés', '2'], ['récits publiés', '4'], ['kilomètres publiés', '1 200']], 'chiffres : seulement ce qui est publié'); eq([a.errors, a.remote], [[], []], 'erreurs et requêtes');
+    } finally { await a.context.close(); }
+  },
+  'page « voyage en cours » : faits, distance dite estimée, chronologie, prévu distinct, récits, liens vers l\'Atlas et le Planner': async () => {
+    const a = await open(voyage.url, 'voyage-en-cours/index.html');
+    try {
+      const s = await a.page.evaluate(() => ({ h1: document.querySelector('h1').textContent, badge: document.querySelector('.detail-intro .badge').textContent, robots: document.querySelector('meta[name=robots]')?.content || '',
+        facts: [...document.querySelectorAll('.facts > div')].map((d) => [d.querySelector('dt').textContent, d.querySelector('dd').textContent]),
+        timeline: [...document.querySelectorAll('.timeline > li')].map((li) => [li.querySelector('.stop-title').textContent, li.querySelector('time')?.getAttribute('datetime')]),
+        approx: document.querySelector('.timeline > li:nth-child(2) .stop-meta').textContent, planned: [...document.querySelectorAll('.plain-list li')].map((l) => l.textContent),
+        caveat: document.querySelector('.caveat')?.textContent || '', stories: document.querySelectorAll('.card-story').length, current: document.querySelector('.site-nav [aria-current]')?.textContent,
+        links: [...document.querySelectorAll('main a')].map((x) => x.getAttribute('href')) }));
+      eq([s.h1, s.badge, s.robots, s.current], ['Espagne de test', 'En cours', '', 'Mon voyage'], 'en-tête, indexable, rubrique courante');
+      const f = Object.fromEntries(s.facts); eq([f['Départ'], f['État'], f['Pays'], f['Étapes publiées']], ['10 avril 2026', 'En cours', 'Espagne', '3'], 'faits');
+      assert(/km/.test(f.Distance) && /estimée/.test(f.Distance), 'distance calculée dite estimée : ' + f.Distance); assert(/^9 jours/.test(f['Jours de voyage']) && /dernier récit publié/.test(f['Jours de voyage']), 'jours comptés jusqu\'au dernier récit : ' + f['Jours de voyage']);
+      eq(s.timeline, [['Saint-Sébastien', '2026-04-11'], ['Village de test', '2026-04-14'], ['Bardenas Reales', '2026-04-18']], 'chronologie'); assert(/position approximative/.test(s.approx), 'étape hors Atlas signalée comme approximative');
+      assert(s.planned.some((t) => /^Valence/.test(t)) && s.planned.some((t) => /^Séville/.test(t)) && /ne sont pas des étapes parcourues/.test(s.caveat), 'prévu distinct du parcouru');
+      eq(s.stories, 4, 'récits publiés du voyage'); assert(s.links.includes('../destinations/espagne/index.html') && s.links.includes('../app/index.html') && s.links.includes('../voyages/espagne-de-test/index.html'), 'liens vers l\'Atlas, le Planner, la page du voyage');
+      eq(a.errors, [], 'erreurs');
+    } finally { await a.context.close(); }
+  },
+  'confidentialité du voyage : brouillon absent, position arrondie, aucune position « en direct », prévu masqué par défaut': async () => {
+    for (const f of walk(VOYPUB).filter((x) => /\.(html|js|json|xml|txt)$/.test(x) && !x.startsWith('app'))) {
+      const body = read(VOYPUB, f);
+      assert(!/Brouillon d’étape|etape-brouillon/.test(body), f + ' : brouillon publié'); assert(!/42\.12|1\.98765|42\.123456/.test(body), f + ' : position précise publiée');
+      assert(!/position actuelle|en temps réel|géolocalisation en direct/i.test(body), f + ' : position présentée comme actuelle');
+    }
+    assert(/Brouillon d’étape/.test(read(VOYPERSO, 'carnet/etape-brouillon/index.html')), 'le brouillon reste visible dans la version personnelle');
+    const hidden = built('voyage-sans-prevu', '--mode', 'public', '--content', contentWith('sans-prevu', (dir) => { const f = path.join(dir, 'voyages/espagne-de-test.json'), v = JSON.parse(fs.readFileSync(f, 'utf8')); delete v.showPlanned; fs.writeFileSync(f, JSON.stringify(v)); }, VOY));
+    for (const f of ['index.html', 'voyage-en-cours/index.html']) assert(!/pl-planned|Étapes prévues|Valence/.test(read(hidden, f)), f + ' : étapes prévues montrées sans accord explicite');
+    const priv = contentWith('voyage-prive-en-cours', (dir) => { const f = path.join(dir, 'voyages/espagne-de-test.json'), v = JSON.parse(fs.readFileSync(f, 'utf8')); v.visibility = 'private'; fs.writeFileSync(f, JSON.stringify(v));
+      for (const n of fs.readdirSync(path.join(dir, 'articles'))) { const g = path.join(dir, 'articles', n), x = JSON.parse(fs.readFileSync(g, 'utf8')); delete x.voyage; fs.writeFileSync(g, JSON.stringify(x)); } }, VOY);
+    const privPub = built('voyage-prive-public', '--mode', 'public', '--content', priv), privPerso = built('voyage-prive-perso', '--mode', 'personal', '--content', priv);
+    assert(/Aucun voyage en cours n’est publié/.test(read(privPub, 'voyage-en-cours/index.html')) && /noindex/.test(read(privPub, 'voyage-en-cours/index.html')) && !/Espagne de test/.test(read(privPub, 'index.html')), 'voyage en cours privé : absent de la version publique');
+    assert(/Espagne de test/.test(read(privPerso, 'voyage-en-cours/index.html')) && /badge-private/.test(read(privPerso, 'voyage-en-cours/index.html')), 'voyage en cours privé : visible et signalé dans la version personnelle');
+  },
+  'Planner public : rien ne propose de publier sur le blog ; la version personnelle garde l\'export pour le site': async () => {
+    for (const [base, expected] of [[server.url, false], [personal.url, true]]) {
+      const a = await open(base, 'app/index.html');
+      try {
+        await plannerReady(a.page);
+        const s = await a.page.evaluate(() => { J.posts.push({ id: 'test', title: 'Récit de test', text: 'Texte', date: '2026-04-01', status: 'ready', created: 1, updated: 1, photos: [] }); journalExportDialog();
+          const d = document.querySelector('dialog[open]'); return { site: !!d.querySelector('#exportForSite'), file: !!d.querySelector('#exportJournalConfirm'), text: d.textContent, edition: document.documentElement.dataset.edition }; });
+        eq([s.site, s.file, s.edition], [expected, true, expected ? 'personal' : 'public'], base === server.url ? 'version publique' : 'version personnelle');
+        if (!expected) assert(!/site Atlas Van|pour le site/.test(s.text) && /publié nulle part/.test(s.text), 'texte du dialogue public : ' + s.text.slice(0, 200));
+        eq(a.errors, [], 'erreurs');
+      } finally { await a.context.close(); }
+    }
+  },
+  'réglages refusés : voyage en cours inconnu, clé de service pour Partage, adresse non https, clé inconnue': async () => {
+    const jwt = (role) => 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.' + Buffer.from(JSON.stringify({ role, iss: 'supabase' })).toString('base64url') + '.c2lnbmF0dXJl';
+    const cases = [['voyage inconnu', { currentVoyage: 'nulle-part' }, /voyage inconnu/], ['clé service JWT', { community: { url: 'https://exemple.supabase.co', anonKey: jwt('service_role') } }, /clé de service/],
+      ['clé secrète', { community: { url: 'https://exemple.supabase.co', anonKey: 'sb_secret_abcdefghijklmnop' } }, /clé de service/], ['http', { community: { url: 'http://exemple.supabase.co', anonKey: jwt('anon') } }, /https/],
+      ['secret en plus', { community: { url: 'https://exemple.supabase.co', anonKey: jwt('anon'), serviceKey: 'x' } }, /clé inconnue/], ['hero inconnu', { hero: { titre: 'x' } }, /clé inconnue/]];
+    for (const [name, extra, expected] of cases) {
+      const dir = contentWith('reglage-' + name.replace(/\W+/g, '-'), (d) => { const f = path.join(d, 'site.json'); fs.writeFileSync(f, JSON.stringify({ ...JSON.parse(fs.readFileSync(f, 'utf8')), ...extra })); }, VOY);
+      const r = build('--mode', 'public', '--content', dir, '--dir', path.join(tmp, 'refus-' + name.replace(/\W+/g, '-')));
+      assert(r.status === 1 && expected.test(r.stderr + r.stdout), `« ${name} » aurait dû être refusé : ${(r.stderr || r.stdout).trim().slice(0, 160)}`);
     }
   }
 });
@@ -446,7 +547,7 @@ try {
       console.log(`${status}  ${name} › ${title}${detail ? '\n        ' + detail : ''}`);
     }
   }
-} finally { await browser.close(); await server.close(); await personal.close(); await bare.close(); fs.rmSync(tmp, { recursive: true, force: true }); }
+} finally { await browser.close(); await server.close(); await personal.close(); await bare.close(); await voyage.close(); fs.rmSync(tmp, { recursive: true, force: true }); }
 const pass = results.filter((r) => r.status === 'PASS').length, fail = results.length - pass;
 writeJson(out, { generatedAt: new Date().toISOString(), durationS: Math.round((Date.now() - started) / 1000), totals: { tests: results.length, pass, fail }, measures, results });
 console.log(`\nsite : ${pass}/${results.length} PASS, ${fail} FAIL → ${path.relative(ROOT, out)}`);

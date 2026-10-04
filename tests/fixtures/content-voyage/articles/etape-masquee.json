@@ -1,0 +1,1 @@
+{ "slug": "etape-masquee", "title": "Récit publié mais retiré de la carte", "date": "2026-04-16", "excerpt": "Ce récit est publié, mais son lieu n’apparaît pas sur la carte.", "placeId": 82, "onMap": false, "voyage": "espagne-de-test", "text": "Texte du récit retiré de la carte.", "visibility": "public", "status": "published" }

@@ -1,0 +1,1702 @@
+[
+ {
+  "key": "belgique|han|501:52",
+  "src": "belgique-pays-bas.json#18",
+  "n": "Grottes de Han",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Han-sur-Lesse (BE, 0.2 km)",
+   "ref": {
+    "name": "Rochefort",
+    "geonameid": 2787948,
+    "y": 50.1631,
+    "x": 5.2216,
+    "km": 4.9,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2769
+ },
+ {
+  "key": "belgique|hautes-fagnes|505:61",
+  "src": "belgique-pays-bas.json#25",
+  "n": "Hautes Fagnes",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Monschau (DE, 12.0 km)",
+   "ref": {
+    "name": "Malmédy",
+    "geonameid": 2791834,
+    "y": 50.42686,
+    "x": 6.02794,
+    "km": 9.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2770
+ },
+ {
+  "key": "belgique|bouillon|498:51",
+  "src": "belgique-pays-bas.json#21",
+  "n": "Château de Bouillon",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bouillon (BE, 0.2 km)",
+   "ref": {
+    "name": "Bouillon",
+    "geonameid": 2801283,
+    "y": 49.79324,
+    "x": 5.06703,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2771
+ },
+ {
+  "key": "belgique|louvain|509:47",
+  "src": "belgique-pays-bas.json#5",
+  "n": "Louvain",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leuven (BE, 0.1 km)",
+   "ref": {
+    "name": "Leuven",
+    "geonameid": 2792482,
+    "y": 50.87959,
+    "x": 4.70093,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 2792482
+  },
+  "score": {
+   "tour": 17,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2772
+ },
+ {
+  "key": "belgique|butte-lion-waterloo|507:44",
+  "src": "belgique-pays-bas.json#29",
+  "n": "Butte du Lion de Waterloo",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Plancenoit (BE, 2.5 km)",
+   "ref": {
+    "name": "Braine-l'Alleud",
+    "geonameid": 2801154,
+    "y": 50.68363,
+    "x": 4.36784,
+    "km": 2.6,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2773
+ },
+ {
+  "key": "belgique|roche-ardenne|502:56",
+  "src": "belgique-pays-bas.json#20",
+  "n": "La Roche-en-Ardenne",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "La Roche-en-Ardenne (BE, 0.1 km)",
+   "ref": {
+    "name": "La Roche-en-Ardenne",
+    "geonameid": 2793279,
+    "y": 50.18361,
+    "x": 5.57547,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2793279
+  },
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2774
+ },
+ {
+  "key": "belgique|malines|510:45",
+  "src": "belgique-pays-bas.json#6",
+  "n": "Malines",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mechelen (BE, 0.3 km)",
+   "ref": {
+    "name": "Mechelen",
+    "geonameid": 2791537,
+    "y": 51.02574,
+    "x": 4.47762,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.3
+  },
+  "links": {
+   "geonames": 2791537
+  },
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 9,
+   "val": 13,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2775
+ },
+ {
+  "key": "belgique|liege|506:56",
+  "src": "belgique-pays-bas.json#31",
+  "n": "Liège",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Liège (BE, 1.3 km)",
+   "ref": {
+    "name": "Liège",
+    "geonameid": 2792413,
+    "y": 50.63373,
+    "x": 5.56749,
+    "km": 1.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.31
+  },
+  "links": {
+   "geonames": 2792413,
+   "qid": "Q3992"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2776
+ },
+ {
+  "key": "belgique|villers|506:45",
+  "src": "belgique-pays-bas.json#28",
+  "n": "Abbaye de Villers-la-Ville",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Villers-la-Ville (BE, 2.7 km)",
+   "ref": {
+    "name": "Villers-la-Ville",
+    "geonameid": 2784641,
+    "y": 50.56667,
+    "x": 4.51667,
+    "km": 2.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2777
+ },
+ {
+  "key": "belgique|durbuy|504:55",
+  "src": "belgique-pays-bas.json#19",
+  "n": "Durbuy",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Durbuy (BE, 0.0 km)",
+   "ref": {
+    "name": "Durbuy",
+    "geonameid": 2799047,
+    "y": 50.35291,
+    "x": 5.45631,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2799047
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2778
+ },
+ {
+  "key": "belgique|naturelle-zwin|514:34",
+  "src": "belgique-pays-bas.json#2",
+  "n": "Réserve naturelle du Zwin",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": "Netherlands",
+   "nearestLocality": "Knokke (BE, 5.3 km)",
+   "ref": {
+    "name": "Knokke-Heist",
+    "geonameid": 2794210,
+    "y": 51.35,
+    "x": 3.26667,
+    "km": 6.8,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2779
+ },
+ {
+  "key": "belgique|orval|496:53",
+  "src": "belgique-pays-bas.json#24",
+  "n": "Abbaye d'Orval",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Izel (BE, 6.3 km)",
+   "ref": {
+    "name": "Florenville",
+    "geonameid": 2798272,
+    "y": 49.69983,
+    "x": 5.3074,
+    "km": 7.3,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2780
+ },
+ {
+  "key": "belgique|audenarde|508:36",
+  "src": "belgique-pays-bas.json#8",
+  "n": "Audenarde",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Oudenaarde (BE, 0.8 km)",
+   "ref": {
+    "name": "Oudenaarde",
+    "geonameid": 2789529,
+    "y": 50.85168,
+    "x": 3.60891,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.82
+  },
+  "links": {
+   "geonames": 2789529
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2782
+ },
+ {
+  "key": "belgique|lierre|511:46",
+  "src": "belgique-pays-bas.json#7",
+  "n": "Lierre",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lier (BE, 0.0 km)",
+   "ref": {
+    "name": "Lier",
+    "geonameid": 2792397,
+    "y": 51.13128,
+    "x": 4.57041,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2792397
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2783
+ },
+ {
+  "key": "belgique|tongres|508:55",
+  "src": "belgique-pays-bas.json#10",
+  "n": "Tongres",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tongeren (BE, 0.1 km)",
+   "ref": {
+    "name": "Tongeren",
+    "geonameid": 2785389,
+    "y": 50.78054,
+    "x": 5.46484,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2785389,
+   "unesco": "https://whc.unesco.org/en/list/855"
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2781
+ },
+ {
+  "key": "belgique|atomium|509:43",
+  "src": "belgique-pays-bas.json#17",
+  "n": "Atomium",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Strombeek-Bever (BE, 2.0 km)",
+   "ref": {
+    "name": "Brussels",
+    "geonameid": null,
+    "y": 50.835263,
+    "x": 4.331371,
+    "km": 6.7,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 6,
+   "sing": 12,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2785
+ },
+ {
+  "key": "belgique|namur|505:49",
+  "src": "belgique-pays-bas.json#30",
+  "n": "Namur",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jambes (BE, 0.9 km)",
+   "ref": {
+    "name": "Namur",
+    "geonameid": 2790471,
+    "y": 50.4669,
+    "x": 4.86746,
+    "km": 0.9,
+    "statedKm": 1
+   },
+   "status": "vérifié",
+   "snapped": 0.93
+  },
+  "links": {
+   "geonames": 2790471,
+   "qid": "Q134121"
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 8,
+   "val": 11,
+   "acc": 5,
+   "rel": 9,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2784
+ },
+ {
+  "key": "belgique|mons|505:40",
+  "src": "belgique-pays-bas.json#32",
+  "n": "Mons",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mons (BE, 0.0 km)",
+   "ref": {
+    "name": "Mons",
+    "geonameid": 2790869,
+    "y": 50.45413,
+    "x": 3.95229,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2790869,
+   "qid": "Q83407"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2786
+ },
+ {
+  "key": "belgique|haute-campine|510:56",
+  "src": "belgique-pays-bas.json#11",
+  "n": "Parc national de la Haute Campine",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mechelen-aan-de-Maas (BE, 5.1 km)",
+   "ref": {
+    "name": "Maasmechelen",
+    "geonameid": 2791961,
+    "y": 50.96545,
+    "x": 5.69452,
+    "km": 5.3,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2788
+ },
+ {
+  "key": "belgique|spa|505:59",
+  "src": "belgique-pays-bas.json#34",
+  "n": "Spa",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Spa (BE, 0.9 km)",
+   "ref": {
+    "name": "Spa",
+    "geonameid": 2786318,
+    "y": 50.48375,
+    "x": 5.86674,
+    "km": 0.9,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.93
+  },
+  "links": {
+   "geonames": 2786318
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2787
+ },
+ {
+  "key": "belgique|breendonk|511:43",
+  "src": "belgique-pays-bas.json#14",
+  "n": "Fort de Breendonk",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Willebroek (BE, 1.4 km)",
+   "ref": {
+    "name": "Willebroek",
+    "geonameid": 2783632,
+    "y": 51.06041,
+    "x": 4.36019,
+    "km": 1.4,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2790
+ },
+ {
+  "key": "belgique|rochehaut|498:50",
+  "src": "belgique-pays-bas.json#23",
+  "n": "Rochehaut",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bouillon (BE, 6.6 km)",
+   "ref": {
+    "name": "Bouillon",
+    "geonameid": 2801283,
+    "y": 49.79324,
+    "x": 5.06703,
+    "km": 6.6,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2789
+ },
+ {
+  "key": "belgique|damme|513:33",
+  "src": "belgique-pays-bas.json#4",
+  "n": "Damme",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Damme (BE, 0.1 km)",
+   "ref": {
+    "name": "Damme",
+    "geonameid": 2799885,
+    "y": 51.25147,
+    "x": 3.28144,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 2799885
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2792
+ },
+ {
+  "key": "belgique|grammont|508:39",
+  "src": "belgique-pays-bas.json#9",
+  "n": "Grammont",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Geraardsbergen (BE, 0.1 km)",
+   "ref": {
+    "name": "Geraardsbergen",
+    "geonameid": 2797638,
+    "y": 50.77343,
+    "x": 3.88223,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 2797638
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 7,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2793
+ },
+ {
+  "key": "belgique|tombeau-geant|498:51",
+  "src": "belgique-pays-bas.json#22",
+  "n": "Tombeau du Géant",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bouillon (BE, 3.0 km)",
+   "ref": {
+    "name": "Bouillon",
+    "geonameid": 2801283,
+    "y": 49.79324,
+    "x": 5.06703,
+    "km": 3,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2791
+ },
+ {
+  "key": "belgique|westhoek|511:26",
+  "src": "belgique-pays-bas.json#3",
+  "n": "Réserve du Westhoek",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "De Panne (BE, 2.3 km)",
+   "ref": {
+    "name": "De Panne",
+    "geonameid": 2799577,
+    "y": 51.09793,
+    "x": 2.59368,
+    "km": 2.3,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 2794
+ },
+ {
+  "key": "belgique|chimay|500:43",
+  "src": "belgique-pays-bas.json#38",
+  "n": "Chimay",
+  "p": "Belgique",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chimay (BE, 0.1 km)",
+   "ref": {
+    "name": "Chimay",
+    "geonameid": 2800325,
+    "y": 50.04856,
+    "x": 4.31712,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 2800325
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2798
+ },
+ {
+  "key": "belgique|haan|513:30",
+  "src": "belgique-pays-bas.json#1",
+  "n": "De Haan",
+  "p": "Belgique",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "De Haan (BE, 0.1 km)",
+   "ref": {
+    "name": "De Haan",
+    "geonameid": 2799779,
+    "y": 51.27261,
+    "x": 3.03446,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2795
+ },
+ {
+  "key": "belgique|huy|505:52",
+  "src": "belgique-pays-bas.json#37",
+  "n": "Huy",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Huy (BE, 0.5 km)",
+   "ref": {
+    "name": "Huy",
+    "geonameid": 2795113,
+    "y": 50.51894,
+    "x": 5.23284,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.51
+  },
+  "links": {
+   "geonames": 2795113
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2796
+ },
+ {
+  "key": "belgique|memorial-mardasson|500:57",
+  "src": "belgique-pays-bas.json#42",
+  "n": "Mémorial du Mardasson",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bastogne (BE, 1.5 km)",
+   "ref": {
+    "name": "Bastogne",
+    "geonameid": 2802583,
+    "y": 50.00347,
+    "x": 5.71844,
+    "km": 1.5,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2797
+ },
+ {
+  "key": "belgique|coo|504:59",
+  "src": "belgique-pays-bas.json#36",
+  "n": "Cascade de Coo",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Trois-Ponts (BE, 2.3 km)",
+   "ref": {
+    "name": "Stavelot",
+    "geonameid": 2786185,
+    "y": 50.395,
+    "x": 5.93124,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2799
+ },
+ {
+  "key": "belgique|collegiale-gertrude-nivelles|506:43",
+  "src": "belgique-pays-bas.json#40",
+  "n": "Collégiale Sainte-Gertrude de Nivelles",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nivelles (BE, 0.3 km)",
+   "ref": {
+    "name": "Nivelles",
+    "geonameid": 2790101,
+    "y": 50.59833,
+    "x": 4.32848,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2800
+ },
+ {
+  "key": "belgique|barrage-gileppe|506:60",
+  "src": "belgique-pays-bas.json#27",
+  "n": "Barrage de la Gileppe",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Limbourg (BE, 3.3 km)",
+   "ref": {
+    "name": "Eupen",
+    "geonameid": 2798573,
+    "y": 50.6279,
+    "x": 6.03647,
+    "km": 6.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "belgique|maredsous|503:48",
+  "src": "belgique-pays-bas.json#35",
+  "n": "Abbaye de Maredsous",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bioul (BE, 4.2 km)",
+   "ref": {
+    "name": "Dinant",
+    "geonameid": 2799357,
+    "y": 50.25807,
+    "x": 4.91166,
+    "km": 11.3,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "belgique|ostende|512:29",
+  "src": "belgique-pays-bas.json#0",
+  "n": "Ostende",
+  "p": "Belgique",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "localité « Oostende » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ostend (BE, 1.8 km)",
+   "ref": {
+    "name": "Ostend",
+    "geonameid": 2789786,
+    "y": 51.21551,
+    "x": 2.927,
+    "km": 1.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 5,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "belgique|hubert|500:54",
+  "src": "belgique-pays-bas.json#39",
+  "n": "Saint-Hubert",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saint-Hubert (BE, 0.0 km)",
+   "ref": {
+    "name": "Saint-Hubert",
+    "geonameid": 2787407,
+    "y": 50.02668,
+    "x": 5.37401,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "belgique|averbode|510:50",
+  "src": "belgique-pays-bas.json#12",
+  "n": "Abbaye d'Averbode",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Scherpenheuvel-Zichem » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Averbode (BE, 0.1 km)",
+   "ref": {
+    "name": "Averbode",
+    "geonameid": null,
+    "y": 51.02887,
+    "x": 4.98067,
+    "km": 0.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "belgique|bel-il|505:37",
+  "src": "belgique-pays-bas.json#33",
+  "n": "Château de Belœil",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Belœil » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Beloeil (BE, 0.3 km)",
+   "ref": {
+    "name": "Beloeil",
+    "geonameid": 2802292,
+    "y": 50.55047,
+    "x": 3.73484,
+    "km": 0.3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "belgique|foret-soignes|508:44",
+  "src": "belgique-pays-bas.json#16",
+  "n": "Forêt de Soignes",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Watermael-Boitsfort (BE, 2.6 km)",
+   "ref": {
+    "name": "Hoeilaart",
+    "geonameid": 2795699,
+    "y": 50.7673,
+    "x": 4.46835,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 5,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "belgique|frontalier-kalmthout|514:44",
+  "src": "belgique-pays-bas.json#15",
+  "n": "Parc frontalier de Kalmthout",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kalmthout (BE, 3.4 km)",
+   "ref": {
+    "name": "Kalmthout",
+    "geonameid": 2794788,
+    "y": 51.38442,
+    "x": 4.47556,
+    "km": 3.4,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "belgique|gaasbeek|508:42",
+  "src": "belgique-pays-bas.json#13",
+  "n": "Château de Gaasbeek",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Lennik » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sint-Martens-Lennik (BE, 2.5 km)",
+   "ref": {
+    "name": "Sint-Martens-Lennik",
+    "geonameid": 2786587,
+    "y": 50.81158,
+    "x": 4.16965,
+    "km": 2.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 52
+ },
+ {
+  "key": "belgique|eau-heure|502:44",
+  "src": "belgique-pays-bas.json#26",
+  "n": "Lacs de l'Eau d'Heure",
+  "p": "Belgique",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cerfontaine (BE, 3.1 km)",
+   "ref": {
+    "name": "Cerfontaine",
+    "geonameid": 2800591,
+    "y": 50.17047,
+    "x": 4.41028,
+    "km": 3.1,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 52
+ },
+ {
+  "key": "belgique|torgny|495:55",
+  "src": "belgique-pays-bas.json#41",
+  "n": "Torgny",
+  "p": "Belgique",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rouvroy (BE, 3.7 km)",
+   "ref": {
+    "name": "Virton",
+    "geonameid": 2784555,
+    "y": 49.56824,
+    "x": 5.53259,
+    "km": 8.1,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 52
+ }
+]

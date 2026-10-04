@@ -1,0 +1,1375 @@
+[
+ {
+  "key": "pays-bas|haute-veluwe|521:58",
+  "src": "belgique-pays-bas.json#67",
+  "n": "Parc national de la Haute Veluwe",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Otterlo (NL, 3.1 km)",
+   "ref": {
+    "name": "Ede",
+    "geonameid": 2756429,
+    "y": 52.03333,
+    "x": 5.65833,
+    "km": 12.9,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2801
+ },
+ {
+  "key": "pays-bas|texel|531:48",
+  "src": "belgique-pays-bas.json#53",
+  "n": "Texel",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "De Koog (NL, 0.1 km)",
+   "ref": {
+    "name": "Den Burg",
+    "geonameid": 2757244,
+    "y": 53.05417,
+    "x": 4.79722,
+    "km": 5.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2802
+ },
+ {
+  "key": "pays-bas|bourtange|530:72",
+  "src": "belgique-pays-bas.json#44",
+  "n": "Bourtange",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vlagtwedde (NL, 6.0 km)",
+   "ref": {
+    "name": "Stadskanaal",
+    "geonameid": 2746860,
+    "y": 52.98947,
+    "x": 6.9504,
+    "km": 16.2,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2803
+ },
+ {
+  "key": "pays-bas|terschelling|534:52",
+  "src": "belgique-pays-bas.json#54",
+  "n": "Terschelling",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "West-Terschelling (NL, 0.2 km)",
+   "ref": {
+    "name": "West-Terschelling",
+    "geonameid": 2744608,
+    "y": 53.35911,
+    "x": 5.21482,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2804
+ },
+ {
+  "key": "pays-bas|enkhuizen|527:53",
+  "src": "belgique-pays-bas.json#59",
+  "n": "Enkhuizen",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Enkhuizen (NL, 0.1 km)",
+   "ref": {
+    "name": "Enkhuizen",
+    "geonameid": 2756077,
+    "y": 52.70333,
+    "x": 5.29167,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 2756077
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2805
+ },
+ {
+  "key": "pays-bas|groningue|532:66",
+  "src": "belgique-pays-bas.json#43",
+  "n": "Groningue",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Groningen (NL, 0.1 km)",
+   "ref": {
+    "name": "Groningen",
+    "geonameid": 2755251,
+    "y": 53.21917,
+    "x": 6.56667,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2755251,
+   "qid": "Q749"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2806
+ },
+ {
+  "key": "pays-bas|hunebedden-borger|529:68",
+  "src": "belgique-pays-bas.json#46",
+  "n": "Hunebedden de Borger",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Borger (NL, 0.0 km)",
+   "ref": {
+    "name": "Borger",
+    "geonameid": 2758621,
+    "y": 52.92333,
+    "x": 6.79306,
+    "km": 0,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2807
+ },
+ {
+  "key": "pays-bas|bois-duc|517:53",
+  "src": "belgique-pays-bas.json#73",
+  "n": "Bois-le-Duc",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "'s-Hertogenbosch (NL, 1.3 km)",
+   "ref": {
+    "name": "'s-Hertogenbosch",
+    "geonameid": null,
+    "y": 51.683337,
+    "x": 5.316661,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.26
+  },
+  "links": {
+   "geonames": 2747351,
+   "qid": "Q2766547"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2808
+ },
+ {
+  "key": "pays-bas|het-loo|522:59",
+  "src": "belgique-pays-bas.json#68",
+  "n": "Palais Het Loo",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Het Loo (NL, 0.5 km)",
+   "ref": {
+    "name": "Apeldoorn",
+    "geonameid": 2759706,
+    "y": 52.21,
+    "x": 5.96944,
+    "km": 3.1,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2809
+ },
+ {
+  "key": "pays-bas|thorn|512:58",
+  "src": "belgique-pays-bas.json#70",
+  "n": "Thorn",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Thorn (NL, 0.1 km)",
+   "ref": {
+    "name": "Roermond",
+    "geonameid": 2748000,
+    "y": 51.19417,
+    "x": 5.9875,
+    "km": 10.8,
+    "statedKm": 11
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2746342
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2810
+ },
+ {
+  "key": "pays-bas|deventer|523:62",
+  "src": "belgique-pays-bas.json#69",
+  "n": "Deventer",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Deventer (NL, 0.5 km)",
+   "ref": {
+    "name": "Deventer",
+    "geonameid": 2756987,
+    "y": 52.255,
+    "x": 6.16389,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.52
+  },
+  "links": {
+   "geonames": 2756987
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2813
+ },
+ {
+  "key": "pays-bas|leyde|522:45",
+  "src": "belgique-pays-bas.json#63",
+  "n": "Leyde",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leiden (NL, 0.2 km)",
+   "ref": {
+    "name": "Leiden",
+    "geonameid": 2751773,
+    "y": 52.15833,
+    "x": 4.49306,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.22
+  },
+  "links": {
+   "geonames": 2751773
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2811
+ },
+ {
+  "key": "pays-bas|naarden|523:52",
+  "src": "belgique-pays-bas.json#62",
+  "n": "Naarden",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Naarden (NL, 0.1 km)",
+   "ref": {
+    "name": "Naarden",
+    "geonameid": 2750521,
+    "y": 52.29583,
+    "x": 5.1625,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.14
+  },
+  "links": {
+   "geonames": 2750521
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2812
+ },
+ {
+  "key": "pays-bas|schokland|526:58",
+  "src": "belgique-pays-bas.json#51",
+  "n": "Schokland",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nagele (NL, 3.3 km)",
+   "ref": {
+    "name": "Ens",
+    "geonameid": 2756072,
+    "y": 52.63667,
+    "x": 5.82778,
+    "km": 3.8,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/739"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2814
+ },
+ {
+  "key": "pays-bas|afsluitdijk|531:53",
+  "src": "belgique-pays-bas.json#57",
+  "n": "Afsluitdijk",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Makkum (NL, 4.9 km)",
+   "ref": {
+    "name": "Harlingen",
+    "geonameid": 2754817,
+    "y": 53.17477,
+    "x": 5.42244,
+    "km": 12.8,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 12,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2816
+ },
+ {
+  "key": "pays-bas|haarlem|524:46",
+  "src": "belgique-pays-bas.json#60",
+  "n": "Haarlem",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Haarlem (NL, 0.0 km)",
+   "ref": {
+    "name": "Haarlem",
+    "geonameid": 2755003,
+    "y": 52.38084,
+    "x": 4.63683,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2755003,
+   "qid": "Q9920"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2815
+ },
+ {
+  "key": "pays-bas|valkenburg|509:58",
+  "src": "belgique-pays-bas.json#71",
+  "n": "Valkenburg",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Valkenburg (NL, 0.1 km)",
+   "ref": {
+    "name": "Valkenburg",
+    "geonameid": 2745874,
+    "y": 50.86523,
+    "x": 5.83205,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 2745874
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2817
+ },
+ {
+  "key": "pays-bas|biesbosch|517:48",
+  "src": "belgique-pays-bas.json#65",
+  "n": "Parc national De Biesbosch",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Geertruidenberg (NL, 5.0 km)",
+   "ref": {
+    "name": "Werkendam",
+    "geonameid": 2744827,
+    "y": 51.81,
+    "x": 4.89444,
+    "km": 9.3,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2820
+ },
+ {
+  "key": "pays-bas|veenhuizen|530:64",
+  "src": "belgique-pays-bas.json#49",
+  "n": "Veenhuizen",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Haulerwijk (NL, 4.8 km)",
+   "ref": {
+    "name": "Norg",
+    "geonameid": 2749796,
+    "y": 53.06667,
+    "x": 6.45833,
+    "km": 4.8,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2821
+ },
+ {
+  "key": "pays-bas|zaanse-schans|525:48",
+  "src": "belgique-pays-bas.json#58",
+  "n": "Zaanse Schans",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zaandijk (NL, 0.7 km)",
+   "ref": {
+    "name": "Zaandam",
+    "geonameid": 2744118,
+    "y": 52.43854,
+    "x": 4.82643,
+    "km": 4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2818
+ },
+ {
+  "key": "pays-bas|zierikzee|517:39",
+  "src": "belgique-pays-bas.json#76",
+  "n": "Zierikzee",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zierikzee (NL, 0.0 km)",
+   "ref": {
+    "name": "Zierikzee",
+    "geonameid": 2743913,
+    "y": 51.65,
+    "x": 3.91944,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2743913
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2819
+ },
+ {
+  "key": "pays-bas|heusden|517:51",
+  "src": "belgique-pays-bas.json#74",
+  "n": "Heusden",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Heusden (NL, 0.1 km)",
+   "ref": {
+    "name": "Drunen",
+    "geonameid": null,
+    "y": 51.68583,
+    "x": 5.13333,
+    "km": 5.4,
+    "statedKm": 5
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2754135
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2823
+ },
+ {
+  "key": "pays-bas|dwingelderveld|528:64",
+  "src": "belgique-pays-bas.json#47",
+  "n": "Parc national du Dwingelderveld",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dwingeloo (NL, 3.0 km)",
+   "ref": {
+    "name": "Dwingeloo",
+    "geonameid": 2756451,
+    "y": 52.83417,
+    "x": 6.36944,
+    "km": 3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2822
+ },
+ {
+  "key": "pays-bas|domburg|516:35",
+  "src": "belgique-pays-bas.json#77",
+  "n": "Domburg",
+  "p": "Pays-Bas",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Domburg (NL, 0.1 km)",
+   "ref": {
+    "name": "Middelburg",
+    "geonameid": null,
+    "y": 51.501996,
+    "x": 3.61,
+    "km": 10.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "pays-bas|vaalserberg|508:60",
+  "src": "belgique-pays-bas.json#72",
+  "n": "Vaalserberg",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.8,
+   "otherCountry": "Germany",
+   "nearestLocality": "Vaals (NL, 1.8 km)",
+   "ref": {
+    "name": "Vaals",
+    "geonameid": 2745906,
+    "y": 50.77083,
+    "x": 6.01806,
+    "km": 1.8,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 7,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "pays-bas|camp-westerbork|529:66",
+  "src": "belgique-pays-bas.json#48",
+  "n": "Camp de Westerbork",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Westerbork (NL, 7.5 km)",
+   "ref": {
+    "name": "Beilen",
+    "geonameid": 2759271,
+    "y": 52.86333,
+    "x": 6.51389,
+    "km": 8.6,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "pays-bas|harlingen|532:54",
+  "src": "belgique-pays-bas.json#55",
+  "n": "Harlingen",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Harlingen (NL, 0.3 km)",
+   "ref": {
+    "name": "Harlingen",
+    "geonameid": 2754817,
+    "y": 53.17477,
+    "x": 5.42244,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.31
+  },
+  "links": {
+   "geonames": 2754817
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "pays-bas|hindeloopen|529:54",
+  "src": "belgique-pays-bas.json#56",
+  "n": "Hindeloopen",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Koudum (NL, 4.3 km)",
+   "ref": {
+    "name": "Workum",
+    "geonameid": 2744179,
+    "y": 52.97969,
+    "x": 5.4471,
+    "km": 5.2,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "pays-bas|barrage-escaut-oriental|516:37",
+  "src": "belgique-pays-bas.json#75",
+  "n": "Barrage de l'Escaut oriental",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "hors des contours simplifiés (4.0 km) : côte ou île",
+   "localité « Burgh-Haamstede » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 4,
+   "otherCountry": null,
+   "nearestLocality": "Haamstede (NL, 6.6 km)",
+   "ref": {
+    "name": "Haamstede",
+    "geonameid": 2755023,
+    "y": 51.69682,
+    "x": 3.74299,
+    "km": 6.6,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "pays-bas|haar|521:50",
+  "src": "belgique-pays-bas.json#66",
+  "n": "Château de Haar",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Harmelen (NL, 3.9 km)",
+   "ref": {
+    "name": "Maarssen",
+    "geonameid": 2751316,
+    "y": 52.13917,
+    "x": 5.04167,
+    "km": 4.3,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "pays-bas|haye|521:43",
+  "src": "belgique-pays-bas.json#64",
+  "n": "La Haye",
+  "p": "Pays-Bas",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Den Haag » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "The Hague (NL, 1.1 km)",
+   "ref": {
+    "name": "The Hague",
+    "geonameid": 2747373,
+    "y": 52.07667,
+    "x": 4.29861,
+    "km": 1.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "pays-bas|oostvaardersplassen|525:54",
+  "src": "belgique-pays-bas.json#50",
+  "n": "Oostvaardersplassen",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Almere Stad (NL, 16.7 km)",
+   "ref": {
+    "name": "Lelystad",
+    "geonameid": 2751738,
+    "y": 52.50833,
+    "x": 5.475,
+    "km": 7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "pays-bas|urk|527:56",
+  "src": "belgique-pays-bas.json#52",
+  "n": "Urk",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Urk (NL, 0.1 km)",
+   "ref": {
+    "name": "Urk",
+    "geonameid": 2745932,
+    "y": 52.6625,
+    "x": 5.60139,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 2745932
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "pays-bas|menkemaborg|534:67",
+  "src": "belgique-pays-bas.json#45",
+  "n": "Menkemaborg",
+  "p": "Pays-Bas",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Uithuizen (NL, 0.6 km)",
+   "ref": {
+    "name": "Uithuizen",
+    "geonameid": 2745970,
+    "y": 53.4075,
+    "x": 6.67083,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "pays-bas|zuid-kennemerland|524:46",
+  "src": "belgique-pays-bas.json#61",
+  "n": "Parc national Zuid-Kennemerland",
+  "p": "Pays-Bas",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Overveen (NL, 2.5 km)",
+   "ref": {
+    "name": "Bloemendaal",
+    "geonameid": 2758804,
+    "y": 52.4025,
+    "x": 4.62222,
+    "km": 2.9,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ }
+]

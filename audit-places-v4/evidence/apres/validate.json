@@ -1,0 +1,358 @@
+{
+ "batch": "v10",
+ "ok": true,
+ "errors": [],
+ "warnings": [
+  "[geo] 306 « Chaussée des Géants » (Irlande) : point dans United Kingdom, à 27.1 km du pays annoncé",
+  "[geo] 506 « Gibraltar — carburant » (Royaume-Uni) : point à Infinity km du pays annoncé, sans localité du pays à proximité (mer ?)",
+  "[geo] 762 « Parc national de l'Archipel de Cabrera » (Espagne) : point à 14.8 km du pays annoncé, sans localité du pays à proximité (mer ?)",
+  "[geo] 859 « Monastère de Visoki Dečani » (Serbie) : point dans Kosovo, à 31.8 km du pays annoncé",
+  "[geo] 861 « Skellig Michael » (Irlande) : point à 13.3 km du pays annoncé, sans localité du pays à proximité (mer ?)",
+  "[geo] 887 « Église de la Vierge de Leviša » (Serbie) : point dans Kosovo, à 65.3 km du pays annoncé",
+  "[geo] 910 « Saint-Kilda » (Royaume-Uni) : point à 66.5 km du pays annoncé, sans localité du pays à proximité (mer ?)",
+  "[geo] 927 « Monuments médiévaux au Kosovo » (Serbie) : point dans Kosovo, à 19.6 km du pays annoncé",
+  "[geo] 936 « Chemin de fer rhétique dans les paysages de l'Albula et de la Bernina » (Italie) : point dans Switzerland, à 3.2 km du pays annoncé",
+  "[geo] 979 « Colonies de l’Église morave » (Danemark) : point dans United Kingdom, à Infinity km du pays annoncé",
+  "[geo] 988 « Patrimoine du mercure » (Espagne) : point dans Slovenia, à Infinity km du pays annoncé",
+  "[geo] 1419 « Štrbački buk » (Croatie) : point dans Bosnia and Herz., à 2.9 km du pays annoncé",
+  "[geo] 1514 « Lac de Neusiedl » (Hongrie) : point dans Austria, à 12.3 km du pays annoncé",
+  "[geo] 1546 « Prilepac » (Serbie) : point dans Kosovo, à 12.7 km du pays annoncé",
+  "[geo] 1559 « Siklawica » (Pologne) : point dans Slovakia, à 15.2 km du pays annoncé"
+ ],
+ "info": {
+  "originals": {
+   "expected": 1600,
+   "missing": 0,
+   "changed": 0
+  },
+  "quota": [
+   {
+    "p": "France",
+    "before": 259,
+    "min": 518,
+    "after": 535,
+    "ok": true
+   },
+   {
+    "p": "Espagne",
+    "before": 123,
+    "min": 246,
+    "after": 258,
+    "ok": true
+   },
+   {
+    "p": "Portugal",
+    "before": 66,
+    "min": 132,
+    "after": 140,
+    "ok": true
+   },
+   {
+    "p": "Italie",
+    "before": 363,
+    "min": 726,
+    "after": 745,
+    "ok": true
+   },
+   {
+    "p": "Suisse",
+    "before": 41,
+    "min": 82,
+    "after": 88,
+    "ok": true
+   },
+   {
+    "p": "Autriche",
+    "before": 31,
+    "min": 62,
+    "after": 67,
+    "ok": true
+   },
+   {
+    "p": "Allemagne",
+    "before": 59,
+    "min": 118,
+    "after": 126,
+    "ok": true
+   },
+   {
+    "p": "Belgique",
+    "before": 28,
+    "min": 56,
+    "after": 60,
+    "ok": true
+   },
+   {
+    "p": "Pays-Bas",
+    "before": 19,
+    "min": 38,
+    "after": 42,
+    "ok": true
+   },
+   {
+    "p": "Slovénie",
+    "before": 20,
+    "min": 40,
+    "after": 44,
+    "ok": true
+   },
+   {
+    "p": "Croatie",
+    "before": 29,
+    "min": 58,
+    "after": 63,
+    "ok": true
+   },
+   {
+    "p": "Bosnie",
+    "before": 21,
+    "min": 42,
+    "after": 46,
+    "ok": true
+   },
+   {
+    "p": "Monténégro",
+    "before": 10,
+    "min": 20,
+    "after": 25,
+    "ok": true
+   },
+   {
+    "p": "Albanie",
+    "before": 31,
+    "min": 62,
+    "after": 66,
+    "ok": true
+   },
+   {
+    "p": "Mac. du Nord",
+    "before": 17,
+    "min": 34,
+    "after": 38,
+    "ok": true
+   },
+   {
+    "p": "Serbie",
+    "before": 25,
+    "min": 50,
+    "after": 54,
+    "ok": true
+   },
+   {
+    "p": "Grèce",
+    "before": 65,
+    "min": 130,
+    "after": 138,
+    "ok": true
+   },
+   {
+    "p": "Hongrie",
+    "before": 19,
+    "min": 38,
+    "after": 42,
+    "ok": true
+   },
+   {
+    "p": "Slovaquie",
+    "before": 27,
+    "min": 54,
+    "after": 58,
+    "ok": true
+   },
+   {
+    "p": "Tchéquie",
+    "before": 31,
+    "min": 62,
+    "after": 67,
+    "ok": true
+   },
+   {
+    "p": "Pologne",
+    "before": 31,
+    "min": 62,
+    "after": 67,
+    "ok": true
+   },
+   {
+    "p": "Roumanie",
+    "before": 34,
+    "min": 68,
+    "after": 73,
+    "ok": true
+   },
+   {
+    "p": "Bulgarie",
+    "before": 25,
+    "min": 50,
+    "after": 54,
+    "ok": true
+   },
+   {
+    "p": "Danemark",
+    "before": 22,
+    "min": 44,
+    "after": 48,
+    "ok": true
+   },
+   {
+    "p": "Suède",
+    "before": 43,
+    "min": 86,
+    "after": 92,
+    "ok": true
+   },
+   {
+    "p": "Norvège",
+    "before": 45,
+    "min": 90,
+    "after": 96,
+    "ok": true
+   },
+   {
+    "p": "Royaume-Uni",
+    "before": 37,
+    "min": 74,
+    "after": 80,
+    "ok": true
+   },
+   {
+    "p": "Irlande",
+    "before": 22,
+    "min": 44,
+    "after": 48,
+    "ok": true
+   },
+   {
+    "p": "Luxembourg",
+    "before": 6,
+    "min": 12,
+    "after": 16,
+    "ok": true
+   },
+   {
+    "p": "Lituanie",
+    "before": 13,
+    "min": 26,
+    "after": 30,
+    "ok": true
+   },
+   {
+    "p": "Lettonie",
+    "before": 14,
+    "min": 28,
+    "after": 32,
+    "ok": true
+   },
+   {
+    "p": "Estonie",
+    "before": 9,
+    "min": 18,
+    "after": 23,
+    "ok": true
+   },
+   {
+    "p": "Andorre",
+    "before": 1,
+    "min": 2,
+    "after": 7,
+    "ok": true
+   },
+   {
+    "p": "Finlande",
+    "before": 14,
+    "min": 28,
+    "after": 32,
+    "ok": true
+   }
+  ],
+  "total": {
+   "before": 1600,
+   "after": 3400
+  },
+  "geo": {
+   "outside": [
+    306,
+    506,
+    762,
+    859,
+    861,
+    887,
+    910,
+    927,
+    936,
+    979,
+    988,
+    1419,
+    1514,
+    1546,
+    1559
+   ],
+   "swapped": [],
+   "tooFar": []
+  },
+  "fresh": {
+   "count": 1800,
+   "withSource": 708,
+   "withQid": 148,
+   "geoStatus": {
+    "vérifié": 1771,
+    "partiel": 29
+   }
+  },
+  "collisions": [
+   {
+    "a": 328,
+    "an": "Saint-Émilion",
+    "b": 457,
+    "bn": "Vendanges — Bordeaux",
+    "m": 0,
+    "fresh": false
+   },
+   {
+    "a": 407,
+    "an": "Luxembourg-ville",
+    "b": 504,
+    "bn": "Luxembourg — gazole",
+    "m": 0,
+    "fresh": false
+   },
+   {
+    "a": 459,
+    "an": "Vendanges — Val de Loire",
+    "b": 2453,
+    "bn": "Saumur",
+    "m": 185,
+    "fresh": true
+   },
+   {
+    "a": 493,
+    "an": "Olives — Jaén",
+    "b": 1721,
+    "bn": "Jaén",
+    "m": 90,
+    "fresh": true
+   },
+   {
+    "a": 495,
+    "an": "Saison été — Baléares",
+    "b": 1671,
+    "bn": "Palma",
+    "m": 71,
+    "fresh": true
+   }
+  ],
+  "public": {
+   "places": 3395,
+   "removed": 5
+  },
+  "categories": {
+   "base": 5,
+   "ville": 792,
+   "plage": 180,
+   "nature": 976,
+   "patrimoine": 1374,
+   "boulot": 50,
+   "pratique": 23
+  }
+ }
+}

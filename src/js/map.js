@@ -12,7 +12,11 @@ var countryLabels = Array.prototype.slice.call(gL.children), countryShown = [];
 
 /* ── Lieux ──
    Un seul élément SVG par lieu : une forme propre à sa catégorie (la couleur ne porte pas l'information à elle seule),
-   placée et dimensionnée par « transform ». Les noms vivent dans un calque à part et ne sont créés que s'ils s'affichent. */
+   dessinée directement à sa place et à sa taille, en coordonnées de carte. Les noms vivent dans un calque à part et ne
+   sont créés que s'ils s'affichent.
+   Pas de « transform » par marqueur : avec 3 400 lieux, un nœud de transformation par élément obligeait le navigateur à
+   recomposer chaque marqueur à chaque image d'un déplacement (étapes Layerize et Paint) ; un chemin en coordonnées
+   absolues ne coûte rien de plus quand seule la vue (viewBox) change. */
 function starPath(outer, inner) {
   var d = '';
   for (var i = 0; i < 10; i++) { var a = Math.PI * (i / 5 - .5), q = i % 2 ? inner : outer; d += (i ? 'L' : 'M') + (Math.cos(a) * q).toFixed(2) + ',' + (Math.sin(a) * q).toFixed(2); }
@@ -30,12 +34,47 @@ var SHAPES = {
   perso: 'M1.15,0A1.15,1.15 0 1 1 -1.15,0A1.15,1.15 0 1 1 1.15,0ZM.5,0A.5,.5 0 1 0 -.5,0A.5,.5 0 1 0 .5,0Z'   // anneau
 };
 var EXT = { ville: 1, patrimoine: 1.3, nature: 1.25, plage: 1.25, boulot: .9, pratique: 1.25, base: 1.5, perso: 1.15 };
+// Chaque forme est compilée une fois : un point de départ, puis la suite du tracé en commandes relatives (m, l, h, v, a, z).
+// Le chemin d'un marqueur = « M » + son point de départ en coordonnées de carte + une suite commune à tous les lieux de
+// la même forme et de la même taille, calculée une fois par taille. Chemins courts : moins de texte à écrire et à lire
+// pour le navigateur quand les 3 400 marqueurs changent de taille (zoom, démarrage).
+var SHAPE_FN = {};
+function compileShape(src) {
+  var cmds = [], rel = [], cx = 0, cy = 0, sx = 0, sy = 0, x0 = 0, y0 = 0;
+  src.replace(/([MLHVAZ])([^MLHVAZ]*)/g, function (m, c, a) { cmds.push([c, a.trim() ? a.trim().split(/[\s,]+/).map(Number) : []]); return m; });
+  cmds.forEach(function (cmd, i) {
+    var c = cmd[0], v = cmd[1];
+    if (c === 'M' && i === 0) { x0 = sx = cx = v[0]; y0 = sy = cy = v[1]; return; }
+    if (c === 'M') { rel.push(['m', [v[0] - cx, v[1] - cy]]); sx = cx = v[0]; sy = cy = v[1]; }
+    else if (c === 'L') { rel.push(['l', [v[0] - cx, v[1] - cy]]); cx = v[0]; cy = v[1]; }
+    else if (c === 'H') { rel.push(['h', [v[0] - cx]]); cx = v[0]; }
+    else if (c === 'V') { rel.push(['v', [v[0] - cy]]); cy = v[0]; }
+    else if (c === 'A') { rel.push(['a', [v[0], v[1], v[2], v[3], v[4], v[5] - cx, v[6] - cy], true]); cx = v[5]; cy = v[6]; }
+    else if (c === 'Z') { rel.push(['z', []]); cx = sx; cy = sy; }
+  });
+  var tails = {}, q = function (v) { return Math.round(v * 1e4) / 1e4; };
+  function tail(r) {
+    if (tails[r] == null) {
+      var keys = Object.keys(tails); if (keys.length > 40) tails = {};
+      tails[r] = rel.map(function (cmd) {
+        var v = cmd[1];
+        return cmd[0] + (cmd[2] ? q(v[0] * r) + ',' + q(v[1] * r) + ' ' + v[2] + ' ' + v[3] + ' ' + v[4] + ' ' + q(v[5] * r) + ',' + q(v[6] * r) : v.map(function (n) { return q(n * r); }).join(','));
+      }).join('');
+    }
+    return tails[r];
+  }
+  return function (x, y, r) { return 'M' + Math.round((x + x0 * r) * 1e3) / 1e3 + ',' + Math.round((y + y0 * r) * 1e3) / 1e3 + tail(r); };
+}
+function shapeKey(L) { return SHAPES[L.c] ? L.c : 'perso'; }
+function markerPath(L, r) { var k = shapeKey(L); return (SHAPE_FN[k] || (SHAPE_FN[k] = compileShape(SHAPES[k])))(L.px, L.py, r); }
 var byId = {}, nodes = {}, halos = {}, PTS = [], hov = null;
-function register(L) {
+// bulk : création au démarrage ; le chemin est alors écrit par le premier rescale(), qui connaît la taille à l'écran
+// (le calculer ici puis le réécrire aussitôt doublait le coût de création des 3 400 marqueurs).
+function register(L, bulk) {
   byId[L.i] = L; listOrder = null;
   var q = P(L.x, L.y); L.px = q[0]; L.py = q[1]; L._r = 0; L._off = false; L._dim = false; L._cls = 'poi ' + L.c; PTS.push(L);
   if (L.c === 'base') gH.appendChild(halos[L.i] = el('circle', { 'class': 'halo', cx: q[0], cy: q[1], r: 9 }));
-  gM.appendChild(nodes[L.i] = el('path', { 'class': L._cls, 'data-i': L.i, d: SHAPES[L.c] || SHAPES.perso, transform: 'translate(' + q[0] + ' ' + q[1] + ')' }));
+  gM.appendChild(nodes[L.i] = el('path', bulk ? { 'class': L._cls, 'data-i': L.i } : { 'class': L._cls, 'data-i': L.i, d: markerPath(L, 1) }));
 }
 function unregister(i) {
   gM.removeChild(nodes[i]); delete nodes[i];
@@ -45,7 +84,7 @@ function unregister(i) {
 // Après la modification d'une fiche : forme, halo et position suivent la catégorie et les coordonnées.
 function redrawMarker(L) {
   var q = P(L.x, L.y); L.px = q[0]; L.py = q[1]; L._r = 0;
-  nodes[L.i].setAttribute('d', SHAPES[L.c] || SHAPES.perso);
+  nodes[L.i].setAttribute('d', markerPath(L, 1));
   if (L.c === 'base' && !halos[L.i]) gH.appendChild(halos[L.i] = el('circle', { 'class': 'halo', r: 9 }));
   if (L.c !== 'base' && halos[L.i]) { gH.removeChild(halos[L.i]); delete halos[L.i]; }
   if (halos[L.i]) { halos[L.i].setAttribute('cx', q[0]); halos[L.i].setAttribute('cy', q[1]); }
@@ -59,10 +98,15 @@ function syncMarker(L) {
   if (halos[L.i]) halos[L.i].setAttribute('class', L._off ? 'halo off' : 'halo');
   if (L._r) paintStroke(L);
 }
-// Contour d'épaisseur constante à l'écran (1,2 px ; plus épais pour un lieu survolé, favori ou choisi).
-// Le marqueur étant agrandi par « scale », l'épaisseur est exprimée dans son unité : elle ne change que si sa taille relative change.
+// Contour d'épaisseur constante à l'écran, exprimée en unités de carte : 1,2 px pour tous les lieux, posé une fois sur
+// le calque des marqueurs (gM, hérité) ; plus épais pour un lieu survolé, favori ou choisi, posé sur ce seul marqueur.
+// Au zoom, une seule écriture pour le cas commun au lieu d'une par lieu.
+var strokeShown = 0;
+function strokeWidth(f) { return Math.round(f * vb[2] / W * 1e5) / 1e5; }
 function paintStroke(L) {
-  var w = Math.round((L.i === sel ? 2.6 : statOf(L.i) === 'fav' ? 2.4 : L.i === hov ? 2 : 1.2) * vb[2] / W / L._r * 1000) / 1000;
+  var f = L.i === sel ? 2.6 : statOf(L.i) === 'fav' ? 2.4 : L.i === hov ? 2 : 0;
+  if (!f) { if (L._sw) { L._sw = 0; nodes[L.i].removeAttribute('stroke-width'); } return; }
+  var w = strokeWidth(f);
   if (w !== L._sw) { L._sw = w; nodes[L.i].setAttribute('stroke-width', w); }
 }
 function markStat(L) { if (nodes[L.i]) syncMarker(L); }
@@ -70,10 +114,14 @@ var selShown = null;
 function paintSel() { var before = byId[selShown], now = byId[sel]; selShown = sel; if (before) syncMarker(before); if (now) syncMarker(now); }
 
 // Les fiches modifiées s'appliquent au catalogue avant le dessin. Appelé une fois, au démarrage.
+// Les calques des marqueurs et des halos sont remplis hors de la page, puis remis à leur place en une fois :
+// 3 400 insertions dans un calque détaché coûtent bien moins que dans la carte affichée.
 function drawPlaces() {
   mark('markers-start');
-  DATA.lieux.forEach(function (L) { var e = ST.edits[L.i]; if (e) for (var k in e) L[k] = e[k]; L.m = months(L.s); register(L); });
-  ST.custom.forEach(function (o) { if (byId[o.i]) return; var L = {}; for (var k in o) L[k] = o[k]; L.perso = true; L.m = months(L.s); register(L); });
+  var next = gM.nextSibling; svg.removeChild(gH); svg.removeChild(gM);
+  DATA.lieux.forEach(function (L) { var e = ST.edits[L.i]; if (e) for (var k in e) L[k] = e[k]; L.m = months(L.s); register(L, true); });
+  ST.custom.forEach(function (o) { if (byId[o.i]) return; var L = {}; for (var k in o) L[k] = o[k]; L.perso = true; L.m = months(L.s); register(L, true); });
+  svg.insertBefore(gH, next); svg.insertBefore(gM, next);
   mark('markers-end');
 }
 
@@ -85,10 +133,14 @@ var geoAccuracy = el('circle', { 'class': 'geo-accuracy' }), geoDot = el('circle
 geoLayer.appendChild(geoAccuracy); geoLayer.appendChild(geoDot); geoLayer.style.display = 'none';
 
 /* ── Vue ── */
-var W = 0, H = 0, vb = [0, 0, 1000, 700], viewFrame = 0, detailTimer = 0;
+var W = 0, H = 0, vb = [0, 0, 1000, 700], viewFrame = 0, detailTimer = 0, nearBox = [-Infinity, -Infinity, Infinity, Infinity];
 // Le cadrage suit le geste image par image ; tailles et noms sont recalculés une fois le geste posé.
 function applyVB() {
-  if (!viewFrame) viewFrame = requestAnimationFrame(function () { viewFrame = 0; svg.setAttribute('viewBox', vb.join(' ')); svg.classList.remove('loading'); scaleBar(); });
+  if (!viewFrame) viewFrame = requestAnimationFrame(function () {
+    viewFrame = 0; svg.setAttribute('viewBox', vb.join(' ')); svg.classList.remove('loading'); scaleBar();
+    // La vue sort de la zone où les marqueurs sont prêts (saut vers un lieu, long geste) : tout est recalculé tout de suite.
+    if (vb[0] < nearBox[0] || vb[1] < nearBox[1] || vb[0] + vb[2] > nearBox[2] || vb[1] + vb[3] > nearBox[3]) rescale();
+  });
   clearTimeout(detailTimer); detailTimer = setTimeout(rescale, 140);
 }
 function fitBox(x0, y0, x1, y1, pad) {
@@ -119,19 +171,54 @@ function toWorld(cx, cy) { var r = svg.getBoundingClientRect(); return [vb[0] + 
    Les marqueurs gardent une taille constante à l'écran, réduite en vue d'ensemble pour ne pas saturer la carte.
    Les noms sont placés par ordre de priorité, sans chevauchement ; les lieux moins importants se nomment en zoomant. */
 var showLabels = true, allLabels = false, showCountry = true, labels = [], labelsUsed = 0;
+// Largeur réelle d'un nom, pour une taille de police de 1 : mesurée une fois dans la police des noms (canevas hors page),
+// elle remplace l'estimation « nombre de lettres × 0,56 » qui sous-estimait les noms larges et laissait des noms se chevaucher.
+var labelCtx = null;
+// Police des noms lue dans la feuille de style (jeton --font-body), sans getComputedStyle : lire un style calculé
+// forcerait le navigateur à recalculer toute la page au démarrage, juste après la création des marqueurs.
+function labelFont() {
+  try {
+    for (var i = 0; i < document.styleSheets.length; i++) {
+      var rules = document.styleSheets[i].cssRules;
+      for (var j = 0; j < rules.length; j++) { var v = rules[j].style && rules[j].style.getPropertyValue('--font-body'); if (v) return v.trim(); }
+    }
+  } catch (e) { /* feuille illisible : police générique */ }
+  return 'sans-serif';
+}
+function labelWidth(L) {
+  if (L._twn !== L.n) {
+    L._twn = L.n; L._tw = L.n.length * .56;
+    try {
+      if (!labelCtx) { labelCtx = document.createElement('canvas').getContext('2d'); labelCtx.font = '600 100px ' + labelFont(); }
+      var w = labelCtx.measureText(L.n).width / 100; if (w > 0) L._tw = w;
+    } catch (e) { /* estimation conservée */ }
+  }
+  return L._tw;
+}
 function rescale() {
+  if (!gest) svg.classList.remove('zooming');   // fin d'un zoom à la molette : le liseré des marqueurs revient
   var k = vb[2] / Math.max(W, 320), fs = k * 12, kept = [], order = [], inRoute = new Set(route);
   // k = unités de carte par pixel : grand en vue d'ensemble (surtout sur petit écran), petit quand on zoome.
   var dense = Math.min(1, Math.max(.5, .62 / k + .22));
   var mx = vb[0] - vb[2] * .05, MX = vb[0] + vb[2] * 1.05, my = vb[1] - vb[3] * .05, MY = vb[1] + vb[3] * 1.05;
+  // Marqueurs lointains : au-delà d'une marge d'un écran et demi autour de la vue, ils sont masqués et leur taille n'est
+  // pas recalculée (elle le sera dès qu'ils reviennent près de la vue). Un geste ordinaire ne sort jamais de cette marge ;
+  // en vue rapprochée, la carte n'a plus à redessiner les marqueurs de toute l'Europe à chaque zoom.
+  var fx0 = vb[0] - vb[2] * 1.5, fx1 = vb[0] + vb[2] * 2.5, fy0 = vb[1] - vb[3] * 1.5, fy1 = vb[1] + vb[3] * 2.5;
+  nearBox = [fx0, fy0, fx1, fy1];
   var lim = allLabels ? 9 : (vb[2] > 700 ? 2 : vb[2] > 350 ? 3 : 4);
+  var common = strokeWidth(1.2);
+  if (common !== strokeShown) { strokeShown = common; gM.setAttribute('stroke-width', common); }
   for (var n = 0; n < PTS.length; n++) {
     var L = PTS[n];
     if (L._off) continue;
+    var far = L.px < fx0 || L.px > fx1 || L.py < fy0 || L.py > fy1;
+    if (far !== !!L._far) { L._far = far; nodes[L.i].style.display = far ? 'none' : ''; }
+    if (far) continue;
     var routed = inRoute.has(L.i), r = (L.c === 'base' ? k * 6 : (L.w === 1 ? k * 5.2 : (L.w === 2 ? k * 4 : k * 3.3))) * (L.i === sel ? 1.35 : routed ? 1 : dense);
     // Un déplacement de la carte ne change aucune taille : rien n'est réécrit dans ce cas.
     if (r !== L._r) {
-      L._r = r; nodes[L.i].setAttribute('transform', 'translate(' + L.px + ' ' + L.py + ') scale(' + r + ')');
+      L._r = r; nodes[L.i].setAttribute('d', markerPath(L, r));
       if (halos[L.i]) halos[L.i].setAttribute('r', k * 11);
     }
     paintStroke(L);
@@ -145,7 +232,7 @@ function rescale() {
   gT.setAttribute('font-size', fs); gT.setAttribute('stroke-width', k * 2.4);
   for (var o = 0; o < order.length; o++) {
     var p = order[o], ext = p._r * (EXT[p.c] || 1.15);
-    var x0 = p.px + ext, y0 = p.py - h * .62, x1 = x0 + p.n.length * fs * .56 + ext + k * 5, y1 = y0 + h, clash = false;
+    var x0 = p.px + ext, y0 = p.py - h * .62, x1 = x0 + labelWidth(p) * fs + ext + k * 5, y1 = y0 + h, clash = false;
     for (var j = 0; j < kept.length; j++) { var q = kept[j]; if (x0 < q[2] && x1 > q[0] && y0 < q[3] && y1 > q[1]) { clash = true; break; } }
     if (clash && p._prio > 1 && !allLabels) continue;
     kept.push([x0, y0, x1, y1]);
@@ -242,7 +329,7 @@ function selectPointAt(cx, cy) {
 var ptrs = {}, gest = null;
 function wireMapGestures() {
   svg.addEventListener('wheel', function (e) {
-    e.preventDefault(); geoFollow = false;
+    e.preventDefault(); geoFollow = false; svg.classList.add('zooming');
     var w = toWorld(e.clientX, e.clientY);
     zoomAt(w[0], w[1], Math.exp(Math.max(-100, Math.min(100, e.deltaY * (e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? H : 1))) * .002));
   }, { passive: false });
@@ -254,7 +341,7 @@ function wireMapGestures() {
     else if (ks.length === 2) {
       var a = ptrs[ks[0]], b = ptrs[ks[1]];
       gest = { mode: 'pinch', d0: Math.hypot(a.x - b.x, a.y - b.y), vb0: vb.slice(), c0: toWorld((a.x + b.x) / 2, (a.y + b.y) / 2) };
-      svg.classList.remove('drag');
+      svg.classList.remove('drag'); svg.classList.add('zooming');
     }
     hideTip();
   });
@@ -285,7 +372,7 @@ function wireMapGestures() {
     delete ptrs[e.pointerId];
     if (!Object.keys(ptrs).length) {
       if (tap && addMode) placeCustom(e.clientX, e.clientY); else if (tap) selectPointAt(e.clientX, e.clientY);
-      gest = null; svg.classList.remove('drag'); rescale(); scaleBar();
+      gest = null; svg.classList.remove('drag'); svg.classList.remove('zooming'); rescale(); scaleBar();
     } else { var rem = ptrs[Object.keys(ptrs)[0]]; gest = { mode: 'pan', x: rem.x, y: rem.y, vx: vb[0], vy: vb[1], moved: 99 }; }
   }
   svg.addEventListener('pointerup', up); svg.addEventListener('pointercancel', up);

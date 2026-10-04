@@ -1,0 +1,3634 @@
+[
+ {
+  "key": "allemagne|eltz|502:73",
+  "src": "allemagne-luxembourg.json#70",
+  "n": "Château d'Eltz",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Treis-Karden (DE, 4.4 km)",
+   "ref": {
+    "name": "Münstermaifeld",
+    "geonameid": 2867514,
+    "y": 50.24638,
+    "x": 7.36208,
+    "km": 5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 21,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 83,
+  "decision": "retenu",
+  "i": 2702
+ },
+ {
+  "key": "allemagne|sylt|549:83",
+  "src": "allemagne-luxembourg.json#15",
+  "n": "Île de Sylt",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Westerland (DE, 0.4 km)",
+   "ref": {
+    "name": "Westerland",
+    "geonameid": 2810284,
+    "y": 54.9079,
+    "x": 8.30326,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 21,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 2703
+ },
+ {
+  "key": "allemagne|schwerin|536:114",
+  "src": "allemagne-luxembourg.json#26",
+  "n": "Château de Schwerin",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Altstadt (DE, 0.5 km)",
+   "ref": {
+    "name": "Schwerin",
+    "geonameid": 2834282,
+    "y": 53.62937,
+    "x": 11.41316,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1705"
+  },
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 2704
+ },
+ {
+  "key": "allemagne|colline-wilhelmshohe|513:94",
+  "src": "allemagne-luxembourg.json#58",
+  "n": "Parc de la colline de Wilhelmshöhe",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Baunatal (DE, 7.2 km)",
+   "ref": {
+    "name": "Kassel",
+    "geonameid": 2892518,
+    "y": 51.31667,
+    "x": 9.5,
+    "km": 7.4,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1413"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2705
+ },
+ {
+  "key": "allemagne|stralsund|543:131",
+  "src": "allemagne-luxembourg.json#24",
+  "n": "Stralsund",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stralsund (DE, 0.8 km)",
+   "ref": {
+    "name": "Stralsund",
+    "geonameid": 2826287,
+    "y": 54.30911,
+    "x": 13.0818,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.84
+  },
+  "links": {
+   "geonames": 2826287,
+   "qid": "Q4065"
+  },
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2706
+ },
+ {
+  "key": "allemagne|lunebourg|532:104",
+  "src": "allemagne-luxembourg.json#0",
+  "n": "Lunebourg",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lüneburg (DE, 0.5 km)",
+   "ref": {
+    "name": "Lüneburg",
+    "geonameid": 2875115,
+    "y": 53.2509,
+    "x": 10.41409,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.53
+  },
+  "links": {
+   "geonames": 2875115
+  },
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2707
+ },
+ {
+  "key": "allemagne|hohenzollern|483:90",
+  "src": "allemagne-luxembourg.json#78",
+  "n": "Château de Hohenzollern",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hechingen (DE, 3.2 km)",
+   "ref": {
+    "name": "Hechingen",
+    "geonameid": 2908495,
+    "y": 48.35149,
+    "x": 8.96317,
+    "km": 3.2,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2708
+ },
+ {
+  "key": "allemagne|gorlitz|512:150",
+  "src": "allemagne-luxembourg.json#38",
+  "n": "Görlitz",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": "Poland",
+   "nearestLocality": "Görlitz (DE, 0.0 km)",
+   "ref": {
+    "name": "Görlitz",
+    "geonameid": 2918987,
+    "y": 51.15518,
+    "x": 14.98853,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2918987
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2709
+ },
+ {
+  "key": "allemagne|lande-lunebourg-wilsede|532:100",
+  "src": "allemagne-luxembourg.json#1",
+  "n": "Lande de Lunebourg — Wilsede",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bispingen (DE, 9.7 km)",
+   "ref": {
+    "name": "Bispingen",
+    "geonameid": 2948222,
+    "y": 53.08312,
+    "x": 9.99772,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2710
+ },
+ {
+  "key": "allemagne|nordlingen|489:105",
+  "src": "allemagne-luxembourg.json#89",
+  "n": "Nördlingen",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nördlingen (DE, 0.1 km)",
+   "ref": {
+    "name": "Nördlingen",
+    "geonameid": 2861914,
+    "y": 48.85122,
+    "x": 10.48868,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2861914
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2711
+ },
+ {
+  "key": "allemagne|brocken|518:106",
+  "src": "allemagne-luxembourg.json#47",
+  "n": "Brocken",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Braunlage (DE, 8.1 km)",
+   "ref": {
+    "name": "Ilsenburg",
+    "geonameid": 2896483,
+    "y": 51.86695,
+    "x": 10.67817,
+    "km": 8.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2712
+ },
+ {
+  "key": "allemagne|haithabu|545:96",
+  "src": "allemagne-luxembourg.json#19",
+  "n": "Haithabu",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dannewerk (DE, 4.3 km)",
+   "ref": {
+    "name": "Schleswig",
+    "geonameid": 2838634,
+    "y": 54.52156,
+    "x": 9.5586,
+    "km": 3.4,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2715
+ },
+ {
+  "key": "allemagne|hildesheim|522:99",
+  "src": "allemagne-luxembourg.json#3",
+  "n": "Hildesheim",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hildesheim (DE, 0.5 km)",
+   "ref": {
+    "name": "Hildesheim",
+    "geonameid": 2904789,
+    "y": 52.15077,
+    "x": 9.95112,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.55
+  },
+  "links": {
+   "geonames": 2904789,
+   "unesco": "https://whc.unesco.org/en/list/187"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2716
+ },
+ {
+  "key": "allemagne|leipzig|513:124",
+  "src": "allemagne-luxembourg.json#37",
+  "n": "Leipzig",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leipzig (DE, 0.3 km)",
+   "ref": {
+    "name": "Leipzig",
+    "geonameid": 2879139,
+    "y": 51.33962,
+    "x": 12.37129,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.26
+  },
+  "links": {
+   "geonames": 2879139,
+   "qid": "Q2079"
+  },
+  "score": {
+   "tour": 18,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2713
+ },
+ {
+  "key": "allemagne|passau|486:135",
+  "src": "allemagne-luxembourg.json#86",
+  "n": "Passau",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": "Austria",
+   "nearestLocality": "Passau (DE, 2.6 km)",
+   "ref": {
+    "name": "Passau",
+    "geonameid": null,
+    "y": 48.575462,
+    "x": 13.441179,
+    "km": 1.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 2.62
+  },
+  "links": {
+   "geonames": 2855328,
+   "qid": "Q4190"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2714
+ },
+ {
+  "key": "allemagne|weltenburg|489:118",
+  "src": "allemagne-luxembourg.json#88",
+  "n": "Abbaye de Weltenburg",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Essing (DE, 4.8 km)",
+   "ref": {
+    "name": "Kelheim",
+    "geonameid": 2891834,
+    "y": 48.91725,
+    "x": 11.88618,
+    "km": 5.4,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2718
+ },
+ {
+  "key": "allemagne|celle|526:101",
+  "src": "allemagne-luxembourg.json#2",
+  "n": "Celle",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Celle (DE, 0.3 km)",
+   "ref": {
+    "name": "Celle",
+    "geonameid": 2940213,
+    "y": 52.62264,
+    "x": 10.08047,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.25
+  },
+  "links": {
+   "geonames": 2940213
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2720
+ },
+ {
+  "key": "allemagne|fischland-darss-zingst|544:126",
+  "src": "allemagne-luxembourg.json#32",
+  "n": "Fischland-Darss-Zingst",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ostseebad Prerow (DE, 0.1 km)",
+   "ref": {
+    "name": "Zingst",
+    "geonameid": 2804135,
+    "y": 54.43572,
+    "x": 12.6888,
+    "km": 7.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2717
+ },
+ {
+  "key": "allemagne|rudesheim-rhein|500:79",
+  "src": "allemagne-luxembourg.json#60",
+  "n": "Rüdesheim am Rhein",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rüdesheim am Rhein (DE, 0.0 km)",
+   "ref": {
+    "name": "Rüdesheim am Rhein",
+    "geonameid": 2843395,
+    "y": 49.9789,
+    "x": 7.92442,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2843395
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2721
+ },
+ {
+  "key": "allemagne|wismar|539:115",
+  "src": "allemagne-luxembourg.json#25",
+  "n": "Wismar",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Wismar (DE, 0.8 km)",
+   "ref": {
+    "name": "Wismar",
+    "geonameid": 2807465,
+    "y": 53.89314,
+    "x": 11.45286,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.81
+  },
+  "links": {
+   "geonames": 2807465,
+   "unesco": "https://whc.unesco.org/en/list/1067"
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2719
+ },
+ {
+  "key": "allemagne|baden-baden|488:82",
+  "src": "allemagne-luxembourg.json#84",
+  "n": "Baden-Baden",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Baden-Baden (DE, 0.1 km)",
+   "ref": {
+    "name": "Baden-Baden",
+    "geonameid": 2953504,
+    "y": 48.7606,
+    "x": 8.23975,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 2953504
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2722
+ },
+ {
+  "key": "allemagne|greetsiel|535:71",
+  "src": "allemagne-luxembourg.json#5",
+  "n": "Greetsiel",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Greetsiel (DE, 0.2 km)",
+   "ref": {
+    "name": "Norden",
+    "geonameid": 2862118,
+    "y": 53.59552,
+    "x": 7.20639,
+    "km": 12.7,
+    "statedKm": 13
+   },
+   "status": "vérifié",
+   "snapped": 0.21
+  },
+  "links": {
+   "geonames": null
+  },
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2723
+ },
+ {
+  "key": "allemagne|peter-ording|543:86",
+  "src": "allemagne-luxembourg.json#16",
+  "n": "Sankt Peter-Ording",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sankt Peter-Ording (DE, 0.2 km)",
+   "ref": {
+    "name": "Sankt Peter-Ording",
+    "geonameid": 2841484,
+    "y": 54.30363,
+    "x": 8.64138,
+    "km": 0.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 12,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2724
+ },
+ {
+  "key": "allemagne|ulm|484:100",
+  "src": "allemagne-luxembourg.json#79",
+  "n": "Ulm",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ulm (DE, 0.0 km)",
+   "ref": {
+    "name": "Ulm",
+    "geonameid": 2820256,
+    "y": 48.39841,
+    "x": 9.99155,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2820256,
+   "qid": "Q3012"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2725
+ },
+ {
+  "key": "allemagne|dinkelsbuhl|491:103",
+  "src": "allemagne-luxembourg.json#90",
+  "n": "Dinkelsbühl",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dinkelsbühl (DE, 0.1 km)",
+   "ref": {
+    "name": "Dinkelsbühl",
+    "geonameid": 2936886,
+    "y": 49.06942,
+    "x": 10.31985,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2936886
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2727
+ },
+ {
+  "key": "allemagne|meissen|512:135",
+  "src": "allemagne-luxembourg.json#39",
+  "n": "Meissen",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Meißen » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Meissen (DE, 0.5 km)",
+   "ref": {
+    "name": "Meissen",
+    "geonameid": 2872155,
+    "y": 51.16158,
+    "x": 13.4737,
+    "km": 0.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.53
+  },
+  "links": {
+   "geonames": 2872155
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2728
+ },
+ {
+  "key": "allemagne|muritz|535:127",
+  "src": "allemagne-luxembourg.json#29",
+  "n": "Parc national de la Müritz",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Waren (DE, 0.5 km)",
+   "ref": {
+    "name": "Waren",
+    "geonameid": 2814131,
+    "y": 53.5204,
+    "x": 12.67985,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 13,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2726
+ },
+ {
+  "key": "allemagne|wittenberg|519:126",
+  "src": "allemagne-luxembourg.json#50",
+  "n": "Wittenberg",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Lutherstadt Wittenberg » absente du gazetier : contrôle par la localité la plus proche",
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Wittenberg (DE, 0.5 km)",
+   "ref": {
+    "name": "Wittenberg",
+    "geonameid": 7303020,
+    "y": 51.8661,
+    "x": 12.64973,
+    "km": 0.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.46
+  },
+  "links": {
+   "geonames": 7303020
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2729
+ },
+ {
+  "key": "allemagne|bad-doberan|541:119",
+  "src": "allemagne-luxembourg.json#28",
+  "n": "Bad Doberan",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bad Doberan (DE, 0.4 km)",
+   "ref": {
+    "name": "Bad Doberan",
+    "geonameid": 2953528,
+    "y": 54.10712,
+    "x": 11.90051,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2734
+ },
+ {
+  "key": "allemagne|bautzen|512:144",
+  "src": "allemagne-luxembourg.json#43",
+  "n": "Bautzen",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bautzen (DE, 0.7 km)",
+   "ref": {
+    "name": "Bautzen",
+    "geonameid": 2951881,
+    "y": 51.18035,
+    "x": 14.43494,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.7
+  },
+  "links": {
+   "geonames": 2951881
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2735
+ },
+ {
+  "key": "allemagne|lichtenstein|484:93",
+  "src": "allemagne-luxembourg.json#80",
+  "n": "Château de Lichtenstein",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Unterhausen (DE, 2.7 km)",
+   "ref": {
+    "name": "Pfullingen",
+    "geonameid": 2853928,
+    "y": 48.46458,
+    "x": 9.22796,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2736
+ },
+ {
+  "key": "allemagne|moritzburg|512:137",
+  "src": "allemagne-luxembourg.json#40",
+  "n": "Château de Moritzburg",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Moritzburg (DE, 1.0 km)",
+   "ref": {
+    "name": "Moritzburg",
+    "geonameid": 2869244,
+    "y": 51.15922,
+    "x": 13.68021,
+    "km": 1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2733
+ },
+ {
+  "key": "allemagne|cuxhaven|539:87",
+  "src": "allemagne-luxembourg.json#7",
+  "n": "Cuxhaven",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cuxhaven (DE, 0.6 km)",
+   "ref": {
+    "name": "Cuxhaven",
+    "geonameid": 2939658,
+    "y": 53.86828,
+    "x": 8.69902,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié",
+   "snapped": 0.56
+  },
+  "links": {
+   "geonames": 2939658
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2731
+ },
+ {
+  "key": "allemagne|munster|520:76",
+  "src": "allemagne-luxembourg.json#66",
+  "n": "Münster",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Münster (DE, 0.0 km)",
+   "ref": {
+    "name": "Münster",
+    "geonameid": 2867543,
+    "y": 51.96236,
+    "x": 7.62571,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2867543,
+   "qid": "Q2742"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2732
+ },
+ {
+  "key": "allemagne|foret-bavaroise|489:135",
+  "src": "allemagne-luxembourg.json#87",
+  "n": "Parc national de la Forêt bavaroise",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Neuschönau (DE, 0.3 km)",
+   "ref": {
+    "name": "Grafenau",
+    "geonameid": 2918365,
+    "y": 48.85768,
+    "x": 13.3974,
+    "km": 6.7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2730
+ },
+ {
+  "key": "allemagne|bernkastel-kues|499:71",
+  "src": "allemagne-luxembourg.json#72",
+  "n": "Bernkastel-Kues",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bernkastel-Kues (DE, 0.5 km)",
+   "ref": {
+    "name": "Bernkastel-Kues",
+    "geonameid": 2949998,
+    "y": 49.91602,
+    "x": 7.07664,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.48
+  },
+  "links": {
+   "geonames": 2949998
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2742
+ },
+ {
+  "key": "allemagne|blautopf|484:98",
+  "src": "allemagne-luxembourg.json#81",
+  "n": "Blautopf",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Blaubeuren (DE, 0.5 km)",
+   "ref": {
+    "name": "Blaubeuren",
+    "geonameid": 2947949,
+    "y": 48.41215,
+    "x": 9.78427,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2737
+ },
+ {
+  "key": "allemagne|clausthal-zellerfeld|518:103",
+  "src": "allemagne-luxembourg.json#8",
+  "n": "Clausthal-Zellerfeld",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Clausthal-Zellerfeld (DE, 0.1 km)",
+   "ref": {
+    "name": "Clausthal-Zellerfeld",
+    "geonameid": 2939995,
+    "y": 51.80949,
+    "x": 10.33821,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 2939995,
+   "unesco": "https://whc.unesco.org/en/list/623"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2743
+ },
+ {
+  "key": "allemagne|konigstein|509:141",
+  "src": "allemagne-luxembourg.json#44",
+  "n": "Forteresse de Königstein",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Königstein (DE, 0.4 km)",
+   "ref": {
+    "name": "Pirna",
+    "geonameid": 2853572,
+    "y": 50.95843,
+    "x": 13.93702,
+    "km": 10.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2740
+ },
+ {
+  "key": "allemagne|hamelin|521:94",
+  "src": "allemagne-luxembourg.json#4",
+  "n": "Hamelin",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hameln (DE, 0.0 km)",
+   "ref": {
+    "name": "Hameln",
+    "geonameid": 2911271,
+    "y": 52.10397,
+    "x": 9.35623,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2911271
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2744
+ },
+ {
+  "key": "allemagne|norderney|537:72",
+  "src": "allemagne-luxembourg.json#6",
+  "n": "Île de Norderney",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Norderney (DE, 0.6 km)",
+   "ref": {
+    "name": "Norderney",
+    "geonameid": 2862041,
+    "y": 53.70828,
+    "x": 7.15819,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2738
+ },
+ {
+  "key": "allemagne|maars-daun|502:68",
+  "src": "allemagne-luxembourg.json#73",
+  "n": "Maars de Daun",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Daun (DE, 2.2 km)",
+   "ref": {
+    "name": "Daun",
+    "geonameid": 2938714,
+    "y": 50.19716,
+    "x": 6.82942,
+    "km": 2.2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2739
+ },
+ {
+  "key": "allemagne|tangermunde|525:120",
+  "src": "allemagne-luxembourg.json#52",
+  "n": "Tangermünde",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tangermünde (DE, 0.5 km)",
+   "ref": {
+    "name": "Tangermünde",
+    "geonameid": 2824254,
+    "y": 52.54463,
+    "x": 11.97647,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.53
+  },
+  "links": {
+   "geonames": 2824254
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2745
+ },
+ {
+  "key": "allemagne|wernigerode|518:108",
+  "src": "allemagne-luxembourg.json#48",
+  "n": "Wernigerode",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Wernigerode (DE, 0.3 km)",
+   "ref": {
+    "name": "Wernigerode",
+    "geonameid": 2810808,
+    "y": 51.83652,
+    "x": 10.78216,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.26
+  },
+  "links": {
+   "geonames": 2810808
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2741
+ },
+ {
+  "key": "allemagne|maria-laach|504:73",
+  "src": "allemagne-luxembourg.json#74",
+  "n": "Abbaye de Maria Laach",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Wassenach (DE, 2.2 km)",
+   "ref": {
+    "name": "Mendig",
+    "geonameid": 2871979,
+    "y": 50.36667,
+    "x": 7.28333,
+    "km": 5.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2751
+ },
+ {
+  "key": "allemagne|burghausen|482:128",
+  "src": "allemagne-luxembourg.json#91",
+  "n": "Château de Burghausen",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": "Austria",
+   "nearestLocality": "Burghausen (DE, 0.7 km)",
+   "ref": {
+    "name": "Burghausen",
+    "geonameid": 2941279,
+    "y": 48.16925,
+    "x": 12.83139,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2752
+ },
+ {
+  "key": "allemagne|drachenfels|507:72",
+  "src": "allemagne-luxembourg.json#67",
+  "n": "Drachenfels",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Königswinter (DE, 2.7 km)",
+   "ref": {
+    "name": "Königswinter",
+    "geonameid": 2885734,
+    "y": 50.68376,
+    "x": 7.18675,
+    "km": 2.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2750
+ },
+ {
+  "key": "allemagne|fosse-messel|499:88",
+  "src": "allemagne-luxembourg.json#62",
+  "n": "Fosse de Messel",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Messel (DE, 2.6 km)",
+   "ref": {
+    "name": "Messel",
+    "geonameid": 2871636,
+    "y": 49.93833,
+    "x": 8.74056,
+    "km": 2.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/720"
+  },
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2746
+ },
+ {
+  "key": "allemagne|bode|517:110",
+  "src": "allemagne-luxembourg.json#49",
+  "n": "Gorges de la Bode",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Thale (DE, 0.9 km)",
+   "ref": {
+    "name": "Thale",
+    "geonameid": 2823141,
+    "y": 51.74861,
+    "x": 11.041,
+    "km": 0.9,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2747
+ },
+ {
+  "key": "allemagne|gotha|509:107",
+  "src": "allemagne-luxembourg.json#56",
+  "n": "Gotha",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gotha (DE, 0.5 km)",
+   "ref": {
+    "name": "Gotha",
+    "geonameid": 2918752,
+    "y": 50.94823,
+    "x": 10.70193,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.49
+  },
+  "links": {
+   "geonames": 2918752
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2753
+ },
+ {
+  "key": "allemagne|haute-danube-beuron|481:90",
+  "src": "allemagne-luxembourg.json#82",
+  "n": "Haute vallée du Danube — Beuron",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fridingen an der Donau (DE, 4.9 km)",
+   "ref": {
+    "name": "Fridingen an der Donau",
+    "geonameid": 2924820,
+    "y": 48.01955,
+    "x": 8.92322,
+    "km": 4.9,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2748
+ },
+ {
+  "key": "allemagne|monument-kyffhauser|514:111",
+  "src": "allemagne-luxembourg.json#53",
+  "n": "Monument du Kyffhäuser",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kelbra (DE, 5.2 km)",
+   "ref": {
+    "name": "Bad Frankenhausen",
+    "geonameid": 2953459,
+    "y": 51.35609,
+    "x": 11.09977,
+    "km": 6.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2754
+ },
+ {
+  "key": "allemagne|cretes-foret-noire-mummelsee|486:82",
+  "src": "allemagne-luxembourg.json#85",
+  "n": "Route des Crêtes de la Forêt-Noire — Mummelsee",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Seebach (DE, 3.3 km)",
+   "ref": {
+    "name": "Achern",
+    "geonameid": 2959686,
+    "y": 48.63115,
+    "x": 8.07607,
+    "km": 9.9,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 13,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2749
+ },
+ {
+  "key": "allemagne|stade|536:95",
+  "src": "allemagne-luxembourg.json#12",
+  "n": "Stade",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hansestadt Stade (DE, 0.8 km)",
+   "ref": {
+    "name": "Stade",
+    "geonameid": 2829901,
+    "y": 53.59337,
+    "x": 9.47629,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.85
+  },
+  "links": {
+   "geonames": 2829901
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2755
+ },
+ {
+  "key": "allemagne|annaberg-buchholz|506:130",
+  "src": "allemagne-luxembourg.json#42",
+  "n": "Annaberg-Buchholz",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Annaberg-Buchholz (DE, 0.2 km)",
+   "ref": {
+    "name": "Annaberg-Buchholz",
+    "geonameid": 2956005,
+    "y": 50.57953,
+    "x": 13.00627,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 2956005
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2759
+ },
+ {
+  "key": "allemagne|flensbourg|548:94",
+  "src": "allemagne-luxembourg.json#20",
+  "n": "Flensbourg",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Flensburg (DE, 0.2 km)",
+   "ref": {
+    "name": "Flensburg",
+    "geonameid": null,
+    "y": 54.783748,
+    "x": 9.433315,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.23
+  },
+  "links": {
+   "geonames": 2926271,
+   "qid": "Q3798"
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2757
+ },
+ {
+  "key": "allemagne|husum|545:91",
+  "src": "allemagne-luxembourg.json#18",
+  "n": "Husum",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Husum (DE, 1.1 km)",
+   "ref": {
+    "name": "Husum",
+    "geonameid": 2897132,
+    "y": 54.4858,
+    "x": 9.05239,
+    "km": 1.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.09
+  },
+  "links": {
+   "geonames": 2897132
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2758
+ },
+ {
+  "key": "allemagne|lorelei|501:77",
+  "src": "allemagne-luxembourg.json#71",
+  "n": "Lorelei",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sankt Goar (DE, 1.8 km)",
+   "ref": {
+    "name": "Sankt Goar",
+    "geonameid": 2841611,
+    "y": 50.14878,
+    "x": 7.7072,
+    "km": 1.8,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2756
+ },
+ {
+  "key": "allemagne|oybin|508:147",
+  "src": "allemagne-luxembourg.json#45",
+  "n": "Oybin",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kurort Oybin (DE, 0.1 km)",
+   "ref": {
+    "name": "Zittau",
+    "geonameid": 2804008,
+    "y": 50.89772,
+    "x": 14.80764,
+    "km": 7.8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2760
+ },
+ {
+  "key": "allemagne|bremerhaven|535:86",
+  "src": "allemagne-luxembourg.json#14",
+  "n": "Bremerhaven",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bremerhaven (DE, 1.2 km)",
+   "ref": {
+    "name": "Bremerhaven",
+    "geonameid": null,
+    "y": 53.550438,
+    "x": 8.579983,
+    "km": 1.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.19
+  },
+  "links": {
+   "geonames": 2944368,
+   "qid": "Q2706"
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2761
+ },
+ {
+  "key": "allemagne|fehmarn|544:112",
+  "src": "allemagne-luxembourg.json#22",
+  "n": "Île de Fehmarn",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fehmarn (DE, 0.0 km)",
+   "ref": {
+    "name": "Fehmarn",
+    "geonameid": 8051091,
+    "y": 54.4378,
+    "x": 11.19352,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 8,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2763
+ },
+ {
+  "key": "allemagne|plon-suisse-holstein|542:104",
+  "src": "allemagne-luxembourg.json#21",
+  "n": "Plön & Suisse du Holstein",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Plön (DE, 0.2 km)",
+   "ref": {
+    "name": "Plön",
+    "geonameid": 2853162,
+    "y": 54.16241,
+    "x": 10.42333,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2762
+ },
+ {
+  "key": "allemagne|warnemunde|542:121",
+  "src": "allemagne-luxembourg.json#27",
+  "n": "Warnemünde",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Warnemünde (DE, 0.4 km)",
+   "ref": {
+    "name": "Rostock",
+    "geonameid": 2844588,
+    "y": 54.0887,
+    "x": 12.14049,
+    "km": 10.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 8,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2764
+ },
+ {
+  "key": "allemagne|wasserkuppe|505:99",
+  "src": "allemagne-luxembourg.json#63",
+  "n": "Wasserkuppe",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Poppenhausen (DE, 5.1 km)",
+   "ref": {
+    "name": "Gersfeld",
+    "geonameid": 2920926,
+    "y": 50.45138,
+    "x": 9.91422,
+    "km": 5.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2765
+ },
+ {
+  "key": "allemagne|externsteine|519:89",
+  "src": "allemagne-luxembourg.json#65",
+  "n": "Externsteine",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Horn-Bad Meinberg » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Horn (DE, 1.9 km)",
+   "ref": {
+    "name": "Horn",
+    "geonameid": 2898924,
+    "y": 51.87151,
+    "x": 8.9451,
+    "km": 1.9,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2766
+ },
+ {
+  "key": "allemagne|hainich|511:104",
+  "src": "allemagne-luxembourg.json#55",
+  "n": "Parc national du Hainich",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mihla (DE, 7.6 km)",
+   "ref": {
+    "name": "Bad Langensalza",
+    "geonameid": 2953413,
+    "y": 51.10771,
+    "x": 10.646,
+    "km": 14.7,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 5,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2767
+ },
+ {
+  "key": "allemagne|boucle-sarre|495:65",
+  "src": "allemagne-luxembourg.json#77",
+  "n": "Boucle de la Sarre",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Orscholz (DE, 0.9 km)",
+   "ref": {
+    "name": "Mettlach",
+    "geonameid": 2871538,
+    "y": 49.49489,
+    "x": 6.58562,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2768
+ },
+ {
+  "key": "allemagne|hann-munden|514:97",
+  "src": "allemagne-luxembourg.json#10",
+  "n": "Hann. Münden",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Hann. Münden » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hannoversch Münden (DE, 0.2 km)",
+   "ref": {
+    "name": "Hannoversch Münden",
+    "geonameid": 2867613,
+    "y": 51.41505,
+    "x": 9.65046,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.21
+  },
+  "links": {
+   "geonames": 2867613
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "allemagne|goltzsch|506:122",
+  "src": "allemagne-luxembourg.json#46",
+  "n": "Pont de la Göltzsch",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Netzschkau (DE, 1.0 km)",
+   "ref": {
+    "name": "Netzschkau",
+    "geonameid": 2866304,
+    "y": 50.61411,
+    "x": 12.24382,
+    "km": 1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "allemagne|ratzebourg|537:108",
+  "src": "allemagne-luxembourg.json#23",
+  "n": "Ratzebourg",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ratzeburg (DE, 0.1 km)",
+   "ref": {
+    "name": "Ratzeburg",
+    "geonameid": 2850132,
+    "y": 53.69965,
+    "x": 10.77256,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2850132
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "allemagne|ascenseur-bateaux-niederfinow|528:139",
+  "src": "allemagne-luxembourg.json#34",
+  "n": "Ascenseur à bateaux de Niederfinow",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Falkenberg (DE, 5.0 km)",
+   "ref": {
+    "name": "Eberswalde",
+    "geonameid": 2933882,
+    "y": 52.83492,
+    "x": 13.81951,
+    "km": 8.4,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "allemagne|rheinsberg|531:129",
+  "src": "allemagne-luxembourg.json#35",
+  "n": "Château de Rheinsberg",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rheinsberg (DE, 0.3 km)",
+   "ref": {
+    "name": "Rheinsberg",
+    "geonameid": 2847612,
+    "y": 53.09972,
+    "x": 12.89885,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "allemagne|paysager-duisbourg-nord|515:68",
+  "src": "allemagne-luxembourg.json#68",
+  "n": "Parc paysager de Duisbourg-Nord",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Meiderich (DE, 1.9 km)",
+   "ref": {
+    "name": "Duisburg",
+    "geonameid": 2934691,
+    "y": 51.43247,
+    "x": 6.76516,
+    "km": 5.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "allemagne|eberbach|500:80",
+  "src": "allemagne-luxembourg.json#61",
+  "n": "Abbaye d'Eberbach",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Eltville am Rhein » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kiedrich (DE, 2.7 km)",
+   "ref": {
+    "name": "Kiedrich",
+    "geonameid": 2891205,
+    "y": 50.03965,
+    "x": 8.08531,
+    "km": 2.7,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "allemagne|usedom-stations-imperiales|539:142",
+  "src": "allemagne-luxembourg.json#30",
+  "n": "Usedom — stations impériales",
+  "p": "Allemagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "« Heringsdorf » ne correspond qu'à un homonyme lointain : contrôle par Seebad Heringsdorf (1.9 km)",
+   "localité « Heringsdorf » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Seebad Heringsdorf (DE, 1.9 km)",
+   "ref": {
+    "name": "Seebad Heringsdorf",
+    "geonameid": 2833988,
+    "y": 53.95379,
+    "x": 14.16852,
+    "km": 1.9,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "allemagne|chorin|529:139",
+  "src": "allemagne-luxembourg.json#33",
+  "n": "Abbaye de Chorin",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chorin (DE, 1.3 km)",
+   "ref": {
+    "name": "Eberswalde",
+    "geonameid": 2933882,
+    "y": 52.83492,
+    "x": 13.81951,
+    "km": 7.6,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "allemagne|bauhaus-dessau|518:122",
+  "src": "allemagne-luxembourg.json#51",
+  "n": "Bauhaus de Dessau",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Dessau-Roßlau » absente du gazetier : contrôle par la localité la plus proche",
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dessau (DE, 1.3 km)",
+   "ref": {
+    "name": "Dessau",
+    "geonameid": 2937959,
+    "y": 51.83864,
+    "x": 12.24555,
+    "km": 1.3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "allemagne|trifels|492:80",
+  "src": "allemagne-luxembourg.json#75",
+  "n": "Château de Trifels",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Annweiler am Trifels (DE, 1.2 km)",
+   "ref": {
+    "name": "Annweiler am Trifels",
+    "geonameid": 2955951,
+    "y": 49.20613,
+    "x": 7.97527,
+    "km": 1.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "allemagne|phare-westerhever|544:86",
+  "src": "allemagne-luxembourg.json#17",
+  "n": "Phare de Westerhever",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tating (DE, 6.7 km)",
+   "ref": {
+    "name": "Sankt Peter-Ording",
+    "geonameid": 2841484,
+    "y": 54.30363,
+    "x": 8.64138,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 3,
+   "rel": 9,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "allemagne|steinhuder|525:94",
+  "src": "allemagne-luxembourg.json#9",
+  "n": "Steinhuder Meer",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hagenburg (DE, 3.1 km)",
+   "ref": {
+    "name": "Wunstorf",
+    "geonameid": 2805761,
+    "y": 52.42377,
+    "x": 9.43585,
+    "km": 6.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "allemagne|worpswede|532:89",
+  "src": "allemagne-luxembourg.json#11",
+  "n": "Worpswede",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Worpswede (DE, 0.6 km)",
+   "ref": {
+    "name": "Worpswede",
+    "geonameid": 2806108,
+    "y": 53.21667,
+    "x": 8.93333,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "allemagne|xanten|517:64",
+  "src": "allemagne-luxembourg.json#69",
+  "n": "Xanten",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Xanten (DE, 1.0 km)",
+   "ref": {
+    "name": "Xanten",
+    "geonameid": 2805385,
+    "y": 51.65877,
+    "x": 6.45297,
+    "km": 1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "allemagne|triberg|481:82",
+  "src": "allemagne-luxembourg.json#83",
+  "n": "Cascades de Triberg",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Triberg im Schwarzwald » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Triberg (DE, 0.2 km)",
+   "ref": {
+    "name": "Triberg",
+    "geonameid": 2821216,
+    "y": 48.13175,
+    "x": 8.23317,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "allemagne|fees-saalfeld|506:114",
+  "src": "allemagne-luxembourg.json#54",
+  "n": "Grottes des fées de Saalfeld",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saalfeld (DE, 1.4 km)",
+   "ref": {
+    "name": "Saalfeld",
+    "geonameid": 2842688,
+    "y": 50.64826,
+    "x": 11.36536,
+    "km": 1.4,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "allemagne|kalkriese|524:81",
+  "src": "allemagne-luxembourg.json#13",
+  "n": "Kalkriese",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ostercappeln (DE, 9.6 km)",
+   "ref": {
+    "name": "Bramsche",
+    "geonameid": 2945474,
+    "y": 52.40881,
+    "x": 7.97288,
+    "km": 10.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "allemagne|eder|512:91",
+  "src": "allemagne-luxembourg.json#64",
+  "n": "Lac de l'Eder",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Waldeck (DE, 0.1 km)",
+   "ref": {
+    "name": "Bad Wildungen",
+    "geonameid": 2953317,
+    "y": 51.11963,
+    "x": 9.12475,
+    "km": 10.5,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "allemagne|marbourg|508:88",
+  "src": "allemagne-luxembourg.json#59",
+  "n": "Marbourg",
+  "p": "Allemagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Marburg » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Marburg an der Lahn (DE, 0.1 km)",
+   "ref": {
+    "name": "Marburg an der Lahn",
+    "geonameid": 2873759,
+    "y": 50.80904,
+    "x": 8.77069,
+    "km": 0.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "allemagne|peenemunde|541:138",
+  "src": "allemagne-luxembourg.json#31",
+  "n": "Peenemünde",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kröslin (DE, 3.2 km)",
+   "ref": {
+    "name": "Wolgast",
+    "geonameid": 2806501,
+    "y": 54.05275,
+    "x": 13.77201,
+    "km": 9.9,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "allemagne|foret-thuringe-oberhof|507:107",
+  "src": "allemagne-luxembourg.json#57",
+  "n": "Forêt de Thuringe — Oberhof",
+  "p": "Allemagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Oberhof (DE, 0.1 km)",
+   "ref": {
+    "name": "Zella-Mehlis",
+    "geonameid": 2804867,
+    "y": 50.65642,
+    "x": 10.66046,
+    "km": 7.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "allemagne|branitz|517:144",
+  "src": "allemagne-luxembourg.json#36",
+  "n": "Parc de Branitz",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cottbus (DE, 3.2 km)",
+   "ref": {
+    "name": "Cottbus",
+    "geonameid": 2939811,
+    "y": 51.75769,
+    "x": 14.32888,
+    "km": 3.2,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "allemagne|idar-oberstein|497:73",
+  "src": "allemagne-luxembourg.json#76",
+  "n": "Idar-Oberstein",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Idar-Oberstein (DE, 0.6 km)",
+   "ref": {
+    "name": "Idar-Oberstein",
+    "geonameid": 2896753,
+    "y": 49.71443,
+    "x": 7.30776,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "allemagne|muskau|515:147",
+  "src": "allemagne-luxembourg.json#41",
+  "n": "Parc de Muskau",
+  "p": "Allemagne",
+  "c": "patrimoine",
+  "issues": [
+   "doublon : fiche 850 « Parc de Muskau » (0.2 km)"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.4,
+   "otherCountry": "Poland",
+   "nearestLocality": "Bad Muskau (DE, 1.0 km)",
+   "ref": {
+    "name": "Bad Muskau",
+    "geonameid": 2953397,
+    "y": 51.55051,
+    "x": 14.7124,
+    "km": 1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1127"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "rejeté",
+  "reason": "doublon : fiche 850 « Parc de Muskau » (0.2 km)"
+ }
+]

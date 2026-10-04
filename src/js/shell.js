@@ -58,6 +58,8 @@ function openMapFilters() { var d = $('#filtersDialog'); if (!d.open) showDialog
    Rien de ce qui vient de l'adresse n'est écrit dans la page ; une valeur inconnue est ignorée. */
 function readDeepLink() {
   var raw = location.hash.replace(/^#/, ''), out = {};
+  // Lien venu de Partage : une seule clé, plus longue (circuit encodé), contrôlée champ par champ dans community.js.
+  if (/^partage=[A-Za-z0-9_-]{1,16000}$/.test(raw)) return { partage: raw.slice(8) };
   if (!raw || raw.length > 300) return out;
   raw.split('&').forEach(function (part) {
     var i = part.indexOf('='), key = i > 0 ? part.slice(0, i) : '';
@@ -71,6 +73,7 @@ function applyDeepLink() {
   if (!Object.keys(link).length) return;
   // Le lien a servi : l'adresse redevient celle de l'application (un rechargement ne le rejoue pas).
   try { history.replaceState(history.state, '', location.pathname + location.search); } catch (e) { /* adresse non modifiable : sans gravité */ }
+  if (link.partage != null) return applyPartageLink(link.partage);
   if (link.lieu != null && /^(\d{1,6}|c\d{1,9})$/.test(link.lieu)) {
     var id = idValue(link.lieu);
     if (Object.prototype.hasOwnProperty.call(byId, id)) { setMobileView('map'); show(id); flyTo(byId[id], 80); }

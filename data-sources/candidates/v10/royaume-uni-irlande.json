@@ -1,0 +1,2779 @@
+[
+ {
+  "n": "Belfast",
+  "alt": [],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Capitale régionale",
+  "region": "Irlande du Nord (Antrim)",
+  "y": 54.5973,
+  "x": -5.9301,
+  "pt": "centre-ville (hôtel de ville)",
+  "near": "Belfast",
+  "nearKm": 0,
+  "d": "Capitale de l'Irlande du Nord, ancien grand port de construction navale où fut bâti le Titanic. Centre victorien, quartier du Titanic et fresques politiques racontent son histoire.",
+  "v": "Titanic Belfast et les cales de construction · l'hôtel de ville et le Cathedral Quarter · les fresques de Falls Road et Shankill Road · Crumlin Road Gaol",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Derry",
+  "alt": [
+   "Londonderry",
+   "Doire"
+  ],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Ville fortifiée",
+  "region": "Irlande du Nord (Londonderry)",
+  "y": 54.9966,
+  "x": -7.3086,
+  "pt": "vieille ville intra-muros",
+  "near": "Derry",
+  "nearKm": 0,
+  "d": "Seule ville d'Irlande dont l'enceinte du XVIIe siècle est restée intacte, praticable à pied sur tout son tour. Les fresques du Bogside et le Peace Bridge racontent les Troubles.",
+  "v": "Le tour des remparts · les fresques du Bogside · le Peace Bridge sur la Foyle · la Guildhall",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pont de corde de Carrick-a-Rede",
+  "alt": [
+   "Carrick-a-Rede Rope Bridge",
+   "Carrick-a-Rede"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Pont de corde et falaises",
+  "region": "Irlande du Nord (Antrim)",
+  "y": 55.2397,
+  "x": -6.3322,
+  "pt": "pont de corde",
+  "near": "Ballycastle",
+  "nearKm": 7,
+  "d": "Passerelle de corde tendue au-dessus d'un gouffre marin vers un îlot rocheux de la côte d'Antrim, jadis utilisée par les pêcheurs de saumon. Vue sur l'île de Rathlin et l'Écosse.",
+  "v": "La traversée du pont · le sentier côtier depuis Ballintoy · la vue sur l'île de Rathlin",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Dunluce",
+  "alt": [
+   "Dunluce Castle",
+   "Dunluce"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château en ruine",
+  "region": "Irlande du Nord (Antrim)",
+  "y": 55.2109,
+  "x": -6.5792,
+  "pt": "ruines du château",
+  "near": "Portrush",
+  "nearKm": 5,
+  "d": "Ruines d'un château médiéval agrippé au bord d'une falaise basaltique de la côte d'Antrim, ancien siège des MacDonnell. L'une des images les plus célèbres d'Irlande du Nord.",
+  "v": "Les ruines et les vestiges de la ville disparue · les points de vue depuis la route côtière · la côte vers Portrush et White Rocks",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Temple de Mussenden",
+  "alt": [
+   "Mussenden Temple",
+   "Downhill Demesne"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Folie architecturale",
+  "region": "Irlande du Nord (Londonderry)",
+  "y": 55.1677,
+  "x": -6.81,
+  "pt": "temple",
+  "near": "Portstewart",
+  "nearKm": 6,
+  "d": "Petite rotonde néoclassique du XVIIIe siècle perchée au bord d'une falaise du domaine de Downhill, dominant l'immense plage de Downhill et Benone.",
+  "v": "Le temple et les ruines de Downhill House · la vue sur la plage de Downhill · le jardin du domaine",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Glenariff",
+  "alt": [
+   "Glenariff Forest Park",
+   "Glens d'Antrim",
+   "Glens of Antrim"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Vallée et cascades",
+  "region": "Irlande du Nord (Antrim)",
+  "y": 55.021,
+  "x": -6.117,
+  "pt": "parc forestier de Glenariff",
+  "near": "Ballymena",
+  "nearKm": 20,
+  "d": "La « reine des Glens d'Antrim » : vallée glaciaire en auge descendant vers la mer, avec un sentier en passerelles longeant gorges et cascades boisées.",
+  "v": "Le Waterfall Walkway · le belvédère sur la vallée · la route côtière des Glens par Cushendall",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Montagnes de Mourne",
+  "alt": [
+   "Mourne Mountains",
+   "Slieve Donard"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Massif montagneux",
+  "region": "Irlande du Nord (Down)",
+  "y": 54.1803,
+  "x": -5.9205,
+  "pt": "sommet du Slieve Donard",
+  "near": "Newcastle",
+  "nearKm": 5,
+  "d": "Massif de granite compact plongeant vers la mer d'Irlande, dominé par le Slieve Donard, point culminant d'Irlande du Nord. Le Mourne Wall, mur de pierre sèche, relie les sommets.",
+  "v": "L'ascension du Slieve Donard depuis Newcastle · le Mourne Wall · le réservoir de Silent Valley · Tollymore Forest Park",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Grottes de Marble Arch",
+  "alt": [
+   "Marble Arch Caves"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Grotte visitable",
+  "region": "Irlande du Nord (Fermanagh)",
+  "y": 54.2588,
+  "x": -7.8115,
+  "pt": "entrée des grottes",
+  "near": "Enniskillen",
+  "nearKm": 15,
+  "d": "Réseau de grottes calcaires parcouru à pied et en barque sur une rivière souterraine, au cœur d'un géoparc transfrontalier. Galeries ornées de stalactites et de draperies.",
+  "v": "La visite guidée avec passage en bateau · le sentier du Cladagh Glen · la passerelle de la tourbière de Cuilcagh",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Mount Stewart",
+  "alt": [
+   "Domaine de Mount Stewart"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Demeure et jardins",
+  "region": "Irlande du Nord (Down)",
+  "y": 54.5527,
+  "x": -5.6017,
+  "pt": "demeure",
+  "near": "Newtownards",
+  "nearKm": 7,
+  "d": "Demeure néoclassique des marquis de Londonderry au bord du Strangford Lough, entourée de jardins comptés parmi les plus beaux du Royaume-Uni grâce au climat doux de la presqu'île d'Ards.",
+  "v": "Les jardins à l'italienne et le Shamrock Garden · la maison et ses collections · le Temple of the Winds · les rives du Strangford Lough",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Carrickfergus",
+  "alt": [
+   "Carrickfergus Castle"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château normand",
+  "region": "Irlande du Nord (Antrim)",
+  "y": 54.7133,
+  "x": -5.8066,
+  "pt": "château",
+  "near": "Carrickfergus",
+  "nearKm": 0,
+  "d": "Château normand de la fin du XIIe siècle dressé sur un rocher au bord du Belfast Lough, l'un des mieux conservés d'Irlande, assiégé à maintes reprises jusqu'au XVIIIe siècle.",
+  "v": "Le donjon et la grande salle · les remparts face au lough · le port et la vieille ville",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 8,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "St Davids",
+  "alt": [
+   "Tyddewi",
+   "Cathédrale de St Davids"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Petite cité et cathédrale",
+  "region": "Pays de Galles (Pembrokeshire)",
+  "y": 51.8818,
+  "x": -5.269,
+  "pt": "cathédrale",
+  "near": "Haverfordwest",
+  "nearKm": 22,
+  "d": "Plus petite cité du Royaume-Uni, née autour du saint patron du pays de Galles : cathédrale médiévale nichée dans un vallon et palais épiscopal en ruine, au cœur du parc national côtier du Pembrokeshire.",
+  "v": "La cathédrale et le Bishop's Palace · le sentier côtier vers St Non's · la plage de Whitesands · St Davids Head",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Tenby",
+  "alt": [
+   "Dinbych-y-pysgod"
+  ],
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "q": "Station balnéaire fortifiée",
+  "region": "Pays de Galles (Pembrokeshire)",
+  "y": 51.6727,
+  "x": -4.7034,
+  "pt": "vieille ville",
+  "near": "Tenby",
+  "nearKm": 0,
+  "d": "Station balnéaire aux maisons colorées enfermée dans ses remparts médiévaux, entre deux grandes plages de sable, sur la côte sud du Pembrokeshire.",
+  "v": "Les remparts et la porte Five Arches · le port et North Beach · Castle Hill · le bateau pour l'île de Caldey",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Parc national des Bannau Brycheiniog",
+  "alt": [
+   "Brecon Beacons",
+   "Pen y Fan"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Parc national",
+  "region": "Pays de Galles (Powys)",
+  "y": 51.8838,
+  "x": -3.4365,
+  "pt": "sommet du Pen y Fan",
+  "near": "Brecon",
+  "nearKm": 8,
+  "d": "Hautes collines de grès rouge du sud du pays de Galles, aux crêtes herbeuses culminant au Pen y Fan, point le plus haut du sud de la Grande-Bretagne.",
+  "v": "L'ascension du Pen y Fan et du Corn Du · les cascades du Waterfall Country autour d'Ystradfellte · la petite ville de Brecon",
+  "s": "avr-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 12,
+   "sing": 9,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Baie de Rhossili",
+  "alt": [
+   "Rhossili Bay",
+   "Worms Head",
+   "Gower"
+  ],
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "q": "Plage et péninsule",
+  "region": "Pays de Galles (Swansea, péninsule de Gower)",
+  "y": 51.569,
+  "x": -4.291,
+  "pt": "village de Rhossili, au-dessus de la baie",
+  "near": "Swansea",
+  "nearKm": 25,
+  "d": "Immense arc de sable au bout de la péninsule de Gower, premier site britannique classé pour sa beauté naturelle, fermé au sud par l'îlot tidal de Worms Head.",
+  "v": "La plage et l'épave du Helvetia · Worms Head à marée basse · la crête de Rhossili Down",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Portmeirion",
+  "alt": [],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Village architectural",
+  "region": "Pays de Galles (Gwynedd)",
+  "y": 52.9136,
+  "x": -4.0985,
+  "pt": "centre du village",
+  "near": "Porthmadog",
+  "nearKm": 3,
+  "d": "Village à l'italienne imaginé par l'architecte Clough Williams-Ellis entre 1925 et 1975 au bord d'un estuaire boisé, décor de la série Le Prisonnier.",
+  "v": "Les places et façades colorées · les bois du Gwyllt · l'estuaire de la Dwyryd à marée basse",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 13,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Caerphilly",
+  "alt": [
+   "Caerphilly Castle",
+   "Castell Caerffili"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château fort",
+  "region": "Pays de Galles (Caerphilly)",
+  "y": 51.5762,
+  "x": -3.2204,
+  "pt": "château",
+  "near": "Caerphilly",
+  "nearKm": 0,
+  "d": "Le plus grand château du pays de Galles, forteresse du XIIIe siècle entourée de lacs artificiels et d'enceintes concentriques ; sa tour penchée est plus inclinée que celle de Pise.",
+  "v": "Les douves et barrages fortifiés · la tour penchée · la grande salle",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 7,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Cardiff",
+  "alt": [
+   "Caerdydd"
+  ],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Capitale régionale",
+  "region": "Pays de Galles (Cardiff)",
+  "y": 51.4816,
+  "x": -3.1791,
+  "pt": "centre-ville (château)",
+  "near": "Cardiff",
+  "nearKm": 0,
+  "d": "Capitale du pays de Galles, réaménagée autour de son ancien port charbonnier. Un château aux intérieurs néogothiques fastueux voisine avec la baie de Cardiff et ses bâtiments modernes.",
+  "v": "Le château de Cardiff · la baie et le Wales Millennium Centre · les galeries couvertes victoriennes · le Musée national",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Abbaye de Tintern",
+  "alt": [
+   "Tintern Abbey"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Abbaye cistercienne",
+  "region": "Pays de Galles (Monmouthshire)",
+  "y": 51.6971,
+  "x": -2.6773,
+  "pt": "ruines de l'abbaye",
+  "near": "Chepstow",
+  "nearKm": 6,
+  "d": "Ruines gothiques d'une abbaye cistercienne fondée en 1131 dans la vallée boisée de la Wye, célébrées par Wordsworth et peintes par Turner.",
+  "v": "La nef sans toit et ses grandes baies · le méandre de la Wye · le belvédère du Devil's Pulpit",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Vallée de l'Elan",
+  "alt": [
+   "Elan Valley",
+   "Cwm Elan"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Vallée de barrages",
+  "region": "Pays de Galles (Powys)",
+  "y": 52.27,
+  "x": -3.568,
+  "pt": "barrage de Caban Coch et centre d'accueil",
+  "near": "Rhayader",
+  "nearKm": 5,
+  "d": "Chapelet de lacs de barrage victoriens dans les monts Cambriens, construits pour alimenter Birmingham en eau ; la route longe des barrages de pierre et des landes sauvages.",
+  "v": "Le barrage de Craig Goch · la route de la vallée · le barrage de Caban Coch",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "South Stack",
+  "alt": [
+   "Ynys Lawd",
+   "Phare de South Stack"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Phare et falaises",
+  "region": "Pays de Galles (Anglesey)",
+  "y": 53.3068,
+  "x": -4.6988,
+  "pt": "phare",
+  "near": "Holyhead",
+  "nearKm": 4,
+  "d": "Phare blanc juché sur un îlot relié par une passerelle aux hautes falaises de l'ouest d'Anglesey, où nichent macareux, guillemots et petits pingouins dans une réserve ornithologique.",
+  "v": "Les marches vers le phare · la réserve d'oiseaux et Ellin's Tower · la montée à Holyhead Mountain",
+  "s": "avr-sept",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Péninsule de Llŷn",
+  "alt": [
+   "Llŷn Peninsula",
+   "Aberdaron"
+  ],
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "q": "Péninsule côtière",
+  "region": "Pays de Galles (Gwynedd)",
+  "y": 52.8045,
+  "x": -4.7126,
+  "pt": "village d'Aberdaron",
+  "near": "Pwllheli",
+  "nearKm": 22,
+  "d": "Péninsule rurale et galloisante du nord-ouest du pays de Galles, aux côtes protégées ; Aberdaron, à son extrémité, était la dernière étape des pèlerins vers l'île de Bardsey.",
+  "v": "Aberdaron et l'église St Hywyn · Porthdinllaen et sa plage · les sables de Porthor · le cap de Braich y Pwll",
+  "s": "mai-sept",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Glen Coe",
+  "alt": [
+   "Glencoe",
+   "Three Sisters"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Vallée glaciaire",
+  "region": "Écosse (Highland)",
+  "y": 56.667,
+  "x": -5.04,
+  "pt": "belvédère des Three Sisters sur l'A82",
+  "near": "Fort William",
+  "nearKm": 17,
+  "d": "Vallée glaciaire sauvage encadrée de sommets abrupts, traversée par la route A82 ; théâtre du massacre de 1692 et l'un des paysages les plus emblématiques des Highlands.",
+  "v": "Les Three Sisters · la Lost Valley · le Glencoe Visitor Centre · le Buachaille Etive Mòr à l'entrée de Rannoch Moor",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 1,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 21,
+   "van": 13,
+   "sing": 12,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Ben Nevis et Glen Nevis",
+  "alt": [
+   "Ben Nevis",
+   "Glen Nevis"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Montagne",
+  "region": "Écosse (Highland)",
+  "y": 56.7969,
+  "x": -5.0036,
+  "pt": "sommet du Ben Nevis",
+  "near": "Fort William",
+  "nearKm": 7,
+  "d": "Point culminant des îles Britanniques, dominant Fort William ; le Glen Nevis à ses pieds offre gorges, cascade de Steall et sentiers de tous niveaux.",
+  "v": "L'ascension par le Mountain Track · la gorge et la cascade de Steall · la face nord vue depuis le Nevis Range",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 11,
+   "sing": 10,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Viaduc de Glenfinnan",
+  "alt": [
+   "Glenfinnan Viaduct",
+   "Glenfinnan"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Viaduc ferroviaire",
+  "region": "Écosse (Highland)",
+  "y": 56.8762,
+  "x": -5.4316,
+  "pt": "viaduc",
+  "near": "Fort William",
+  "nearKm": 21,
+  "d": "Viaduc ferroviaire courbe en béton de 21 arches au fond du Loch Shiel, emprunté par le train à vapeur Jacobite ; le monument jacobite de 1815 se dresse au bord du lac.",
+  "v": "Le belvédère au-dessus du viaduc · le Glenfinnan Monument · le passage du train à vapeur · la Road to the Isles vers Mallaig",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château d'Eilean Donan",
+  "alt": [
+   "Eilean Donan Castle",
+   "Eilean Donan"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château sur îlot",
+  "region": "Écosse (Highland)",
+  "y": 57.274,
+  "x": -5.5162,
+  "pt": "château",
+  "near": "Portree",
+  "nearKm": 44,
+  "d": "Château écossais emblématique posé sur un îlot à la rencontre de trois lochs marins et relié par un pont de pierre ; détruit en 1719, il fut reconstruit au début du XXe siècle.",
+  "v": "Le pont et la vue depuis la rive · les intérieurs restaurés · la route vers Skye et le village de Plockton",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château d'Urquhart",
+  "alt": [
+   "Urquhart Castle",
+   "Loch Ness"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château en ruine sur loch",
+  "region": "Écosse (Highland)",
+  "y": 57.324,
+  "x": -4.4417,
+  "pt": "ruines du château",
+  "near": "Inverness",
+  "nearKm": 21,
+  "d": "Ruines d'un château médiéval sur un promontoire de la rive ouest du Loch Ness, long lac profond du Great Glen ; le meilleur point de vue sur le loch.",
+  "v": "La Grant Tower · le belvédère sur le Loch Ness · la route de la rive sud par Foyers et sa cascade",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château de Stirling",
+  "alt": [
+   "Stirling Castle",
+   "Stirling"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château royal",
+  "region": "Écosse (Stirling)",
+  "y": 56.1238,
+  "x": -3.9473,
+  "pt": "château",
+  "near": "Stirling",
+  "nearKm": 1,
+  "d": "Forteresse royale sur un piton volcanique verrouillant le passage entre Lowlands et Highlands, résidence des Stuart, face au champ de bataille de Stirling Bridge et au monument à William Wallace.",
+  "v": "Le palais royal Renaissance · la Great Hall · le National Wallace Monument · la vieille ville",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 8,
+   "sing": 10,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Glasgow",
+  "alt": [
+   "Glaschu"
+  ],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Grande ville",
+  "region": "Écosse (Glasgow)",
+  "y": 55.8642,
+  "x": -4.2518,
+  "pt": "centre-ville (George Square)",
+  "near": "Glasgow",
+  "nearKm": 0,
+  "d": "Plus grande ville d'Écosse, ancien port industriel devenu métropole culturelle : architecture victorienne, cathédrale médiévale, œuvre de Charles Rennie Mackintosh et grands musées.",
+  "v": "La cathédrale et la Necropolis · Kelvingrove Art Gallery and Museum · le patrimoine Mackintosh · le Riverside Museum",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Loch Lomond",
+  "alt": [
+   "Parc national du Loch Lomond et des Trossachs",
+   "Luss"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Lac",
+  "region": "Écosse (Argyll and Bute / Stirling)",
+  "y": 56.101,
+  "x": -4.638,
+  "pt": "village de Luss, rive ouest",
+  "near": "Helensburgh",
+  "nearKm": 12,
+  "d": "Le plus grand lac de Grande-Bretagne par sa superficie, parsemé d'îles et bordé de montagnes, porte d'entrée du parc national du Loch Lomond et des Trossachs.",
+  "v": "Le village de Luss · l'ascension du Ben Lomond · Balmaha et Conic Hill · les Trossachs et le Loch Katrine",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 11,
+   "sing": 8,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Bealach na Bà",
+  "alt": [
+   "Route d'Applecross",
+   "Applecross"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Écosse (Highland, Wester Ross)",
+  "y": 57.4183,
+  "x": -5.6935,
+  "pt": "col",
+  "near": "Portree",
+  "nearKm": 30,
+  "d": "Route en lacets à forte pente montant depuis la mer jusqu'à un col face aux îles de Skye et Raasay, puis redescendant sur le village isolé d'Applecross.",
+  "v": "Le belvédère du col · le village et la plage d'Applecross · la route côtière vers Shieldaig",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 14,
+   "sing": 12,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Grotte de Smoo",
+  "alt": [
+   "Smoo Cave",
+   "Durness"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Grotte marine",
+  "region": "Écosse (Highland, Sutherland)",
+  "y": 58.5634,
+  "x": -4.7193,
+  "pt": "entrée de la grotte",
+  "near": "Thurso",
+  "nearKm": 69,
+  "d": "Vaste grotte creusée à la fois par la mer et par une rivière qui s'y jette en cascade, près de Durness, sur la côte nord sauvage parcourue par la North Coast 500.",
+  "v": "La grande caverne et la salle de la cascade · les plages de Durness et de Balnakeil · le littoral de la North Coast 500",
+  "s": "mai-sept",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 12,
+   "sing": 11,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Château d'Ardvreck",
+  "alt": [
+   "Ardvreck Castle",
+   "Loch Assynt",
+   "Assynt"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château en ruine",
+  "region": "Écosse (Highland, Sutherland)",
+  "y": 58.1667,
+  "x": -4.9958,
+  "pt": "ruines au bord du Loch Assynt",
+  "near": "Ullapool",
+  "nearKm": 32,
+  "d": "Ruine d'un château du XVIe siècle des MacLeod sur une presqu'île du Loch Assynt, au milieu des montagnes isolées de l'Assynt (Quinag, Suilven, Stac Pollaidh).",
+  "v": "Les ruines au bord du loch · les sommets de Quinag et Suilven · la route côtière vers Lochinver et la plage d'Achmelvich",
+  "s": "mai-sept",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Skara Brae",
+  "alt": [
+   "Cœur néolithique des Orcades",
+   "Orcades"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Village néolithique",
+  "region": "Écosse (Orcades)",
+  "y": 59.0487,
+  "x": -3.3418,
+  "pt": "site de Skara Brae",
+  "near": "Stromness",
+  "nearKm": 10,
+  "d": "Village néolithique remarquablement préservé, maisons et mobilier de pierre compris, sur l'archipel des Orcades accessible en ferry ; près des cercles de Brodgar et Stenness et du tumulus de Maeshowe.",
+  "v": "Les maisons de Skara Brae · le cercle de Brodgar · les pierres de Stenness · le tumulus de Maeshowe",
+  "s": "mai-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 10,
+   "sing": 14,
+   "val": 15,
+   "acc": 2
+  }
+ },
+ {
+  "n": "Pierres de Callanish",
+  "alt": [
+   "Calanais",
+   "Callanish Standing Stones"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Mégalithes",
+  "region": "Écosse (Hébrides extérieures, Lewis)",
+  "y": 58.1975,
+  "x": -6.7453,
+  "pt": "cercle principal",
+  "near": "Stornoway",
+  "nearKm": 21,
+  "d": "Menhirs disposés en croix autour d'un cercle central, érigés il y a environ 5 000 ans sur l'île de Lewis, accessible en ferry depuis Ullapool.",
+  "v": "Le cercle principal et ses alignements · les cercles secondaires · le broch de Dun Carloway · les plages de Harris au sud",
+  "s": "mai-sept",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 2
+  }
+ },
+ {
+  "n": "Île de Mull",
+  "alt": [
+   "Isle of Mull",
+   "Tobermory"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Île",
+  "region": "Écosse (Argyll and Bute)",
+  "y": 56.6227,
+  "x": -6.0681,
+  "pt": "port de Tobermory",
+  "near": "Oban",
+  "nearKm": 43,
+  "d": "Grande île des Hébrides intérieures accessible en ferry depuis Oban, aux côtes sauvages fréquentées par les pygargues ; Tobermory et ses façades colorées en est le port principal.",
+  "v": "Tobermory et son port coloré · la plage de Calgary Bay · le château de Duart · l'excursion vers Iona",
+  "s": "mai-sept",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 2
+  }
+ },
+ {
+  "n": "St Andrews",
+  "alt": [
+   "Saint Andrews"
+  ],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Ville universitaire historique",
+  "region": "Écosse (Fife)",
+  "y": 56.3398,
+  "x": -2.7967,
+  "pt": "centre-ville",
+  "near": "St Andrews",
+  "nearKm": 0,
+  "d": "Petite ville de la côte du Fife, berceau du golf et siège de la plus ancienne université d'Écosse ; ruines de la cathédrale médiévale et du château au bord de la mer.",
+  "v": "Les ruines de la cathédrale et la tour St Rule · le château · l'Old Course · la plage de West Sands",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château de Dunnottar",
+  "alt": [
+   "Dunnottar Castle"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château en ruine",
+  "region": "Écosse (Aberdeenshire)",
+  "y": 56.946,
+  "x": -2.1973,
+  "pt": "ruines du château",
+  "near": "Stonehaven",
+  "nearKm": 2,
+  "d": "Ruines d'une forteresse sur un promontoire rocheux presque détaché de la côte de la mer du Nord, où les Honneurs d'Écosse furent cachés lors du siège de 1651-1652.",
+  "v": "La descente vers le château · la tour-maison et le palais · la vue depuis le sentier côtier de Stonehaven",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château de Culzean",
+  "alt": [
+   "Culzean Castle"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château et parc",
+  "region": "Écosse (South Ayrshire)",
+  "y": 55.3549,
+  "x": -4.7894,
+  "pt": "château",
+  "near": "Maybole",
+  "nearKm": 7,
+  "d": "Château remanié par Robert Adam à la fin du XVIIIe siècle, perché sur une falaise du Firth of Clyde, au milieu d'un vaste parc boisé avec vue sur l'île d'Arran.",
+  "v": "L'escalier ovale et le salon circulaire · le parc et le Swan Pond · la vue sur Ailsa Craig et Arran",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Melrose",
+  "alt": [
+   "Melrose Abbey",
+   "Melrose"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Abbaye cistercienne",
+  "region": "Écosse (Scottish Borders)",
+  "y": 55.5985,
+  "x": -2.7177,
+  "pt": "ruines de l'abbaye",
+  "near": "Melrose",
+  "nearKm": 0,
+  "d": "Ruines gothiques finement sculptées d'une abbaye cistercienne fondée en 1136 par David Ier, où serait inhumé le cœur de Robert Bruce. Étape majeure des abbayes des Borders.",
+  "v": "Les sculptures et gargouilles · le musée de la Commendator's House · les abbayes voisines de Dryburgh et Jedburgh · les collines Eildon",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 7,
+   "sing": 9,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Torridon",
+  "alt": [
+   "Glen Torridon",
+   "Liathach",
+   "Beinn Eighe"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Massif montagneux",
+  "region": "Écosse (Highland, Wester Ross)",
+  "y": 57.5446,
+  "x": -5.5138,
+  "pt": "village de Torridon",
+  "near": "Portree",
+  "nearKm": 43,
+  "d": "Montagnes de grès parmi les plus anciennes roches d'Europe, aux flancs en gradins, dominant le Loch Torridon ; la route du Glen Torridon passe au pied du Liathach et de la réserve de Beinn Eighe.",
+  "v": "Le Glen Torridon au pied du Liathach · la réserve naturelle de Beinn Eighe · le Loch Maree · la route côtière vers Applecross",
+  "s": "mai-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Château de Bamburgh",
+  "alt": [
+   "Bamburgh Castle",
+   "Bamburgh"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château fort",
+  "region": "Angleterre (Northumberland)",
+  "y": 55.609,
+  "x": -1.71,
+  "pt": "château",
+  "near": "Alnwick",
+  "nearKm": 22,
+  "d": "Imposante forteresse dressée sur un affleurement de dolérite au-dessus d'une immense plage bordée de dunes, à l'emplacement de l'ancienne capitale du royaume de Northumbrie.",
+  "v": "Le donjon et les salles · la plage au pied du château · les îles Farne au large de Seahouses",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Lindisfarne",
+  "alt": [
+   "Holy Island",
+   "Île sainte de Lindisfarne"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Île tidale et prieuré",
+  "region": "Angleterre (Northumberland)",
+  "y": 55.669,
+  "x": -1.801,
+  "pt": "village et prieuré",
+  "near": "Berwick-upon-Tweed",
+  "nearKm": 17,
+  "d": "Île reliée au continent par une chaussée submersible à marée haute, berceau du christianisme anglo-saxon : ruines du prieuré et petit château Tudor sur un rocher.",
+  "v": "La traversée de la chaussée · les ruines du prieuré · le château de Lindisfarne · les dunes de la réserve naturelle",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Durham",
+  "alt": [],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Ville cathédrale",
+  "region": "Angleterre (County Durham)",
+  "y": 54.7738,
+  "x": -1.5764,
+  "pt": "cathédrale",
+  "near": "Durham",
+  "nearKm": 0,
+  "d": "Ville médiévale lovée dans un méandre de la Wear, dominée par sa cathédrale romane normande et son château, ensemble classé au patrimoine mondial.",
+  "v": "La cathédrale et le tombeau de saint Cuthbert · le château · les berges boisées de la Wear · le Prebends Bridge",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 7,
+   "sing": 11,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Whitby",
+  "alt": [],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Port historique",
+  "region": "Angleterre (North Yorkshire)",
+  "y": 54.4858,
+  "x": -0.6206,
+  "pt": "port",
+  "near": "Whitby",
+  "nearKm": 0,
+  "d": "Port de pêche de la côte du Yorkshire dominé par les ruines de son abbaye, d'où partit le capitaine Cook et qui inspira Dracula à Bram Stoker.",
+  "v": "Les 199 marches et l'abbaye · le vieux port et ses ruelles · le Captain Cook Memorial Museum · Robin Hood's Bay au sud",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Malham Cove",
+  "alt": [
+   "Malham",
+   "Yorkshire Dales"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Falaise calcaire",
+  "region": "Angleterre (North Yorkshire, Yorkshire Dales)",
+  "y": 54.0726,
+  "x": -2.1582,
+  "pt": "pied de la falaise",
+  "near": "Settle",
+  "nearKm": 8,
+  "d": "Gigantesque falaise calcaire en amphithéâtre coiffée d'un lapiaz, au cœur du parc national des Yorkshire Dales ; boucle à pied avec la gorge de Gordale Scar et la cascade de Janet's Foss.",
+  "v": "Le lapiaz au sommet de la falaise · Gordale Scar · Janet's Foss · le village de Malham",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Abbaye de Rievaulx",
+  "alt": [
+   "Rievaulx Abbey"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Abbaye cistercienne",
+  "region": "Angleterre (North Yorkshire)",
+  "y": 54.2577,
+  "x": -1.1168,
+  "pt": "ruines de l'abbaye",
+  "near": "Kirkbymoorside",
+  "nearKm": 12,
+  "d": "Ruines grandioses de l'une des premières et plus puissantes abbayes cisterciennes d'Angleterre, fondée en 1132 dans une vallée boisée des North York Moors.",
+  "v": "Le chœur gothique · le réfectoire · la Rievaulx Terrace et ses temples au-dessus de l'abbaye",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Parc national du Peak District",
+  "alt": [
+   "Peak District",
+   "Castleton",
+   "Mam Tor"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Parc national",
+  "region": "Angleterre (Derbyshire)",
+  "y": 53.3437,
+  "x": -1.7766,
+  "pt": "village de Castleton",
+  "near": "Chapel-en-le-Frith",
+  "nearKm": 10,
+  "d": "Premier parc national britannique, entre landes de gritstone du Dark Peak et vallées calcaires du White Peak ; Castleton, au pied du Mam Tor, est entouré de grottes visitables.",
+  "v": "La crête du Mam Tor · les grottes de Castleton (Peak Cavern, Speedwell) · le Winnats Pass · Dovedale",
+  "s": "avr-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 12,
+   "sing": 9,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Lincoln",
+  "alt": [],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Ville cathédrale",
+  "region": "Angleterre (Lincolnshire)",
+  "y": 53.2344,
+  "x": -0.5383,
+  "pt": "cathédrale et château",
+  "near": "Lincoln",
+  "nearKm": 0,
+  "d": "Ville perchée sur une colline au-dessus de la Witham, dominée par une cathédrale gothique majeure et un château normand qui conserve un exemplaire original de la Magna Carta.",
+  "v": "La cathédrale · le château et le chemin de ronde · la rue Steep Hill · le Brayford Waterfront",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 7,
+   "sing": 9,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Chester",
+  "alt": [],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Ville fortifiée",
+  "region": "Angleterre (Cheshire)",
+  "y": 53.191,
+  "x": -2.8908,
+  "pt": "centre historique",
+  "near": "Chester",
+  "nearKm": 0,
+  "d": "Ancienne cité romaine dont l'enceinte est la plus complète d'Angleterre ; ses Rows, galeries marchandes médiévales à deux niveaux, et sa cathédrale de grès rouge forment un ensemble unique.",
+  "v": "Le tour des remparts · les Rows · la cathédrale · l'amphithéâtre romain",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 7,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Canterbury",
+  "alt": [
+   "Cantorbéry"
+  ],
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "q": "Ville cathédrale",
+  "region": "Angleterre (Kent)",
+  "y": 51.2798,
+  "x": 1.0828,
+  "pt": "cathédrale",
+  "near": "Canterbury",
+  "nearKm": 0,
+  "d": "Siège du primat de l'Église d'Angleterre, dont la cathédrale, où fut assassiné Thomas Becket, fut un grand lieu de pèlerinage ; vieille ville en partie enclose de remparts médiévaux.",
+  "v": "La cathédrale et la chapelle de la Trinité · l'abbaye Saint-Augustin · les remparts · les quais de la Stour",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 8,
+   "sing": 11,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Falaises blanches de Douvres",
+  "alt": [
+   "White Cliffs of Dover",
+   "Douvres"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Falaises de craie",
+  "region": "Angleterre (Kent)",
+  "y": 51.133,
+  "x": 1.338,
+  "pt": "belvédère de Langdon Cliffs",
+  "near": "Dover",
+  "nearKm": 2,
+  "d": "Falaises de craie blanche dominant le pas de Calais, symbole de l'Angleterre vu depuis la mer ; le sentier de crête mène au phare de South Foreland.",
+  "v": "Le sentier des falaises · le phare de South Foreland · le château de Douvres · la vue sur la France par temps clair",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Seven Sisters",
+  "alt": [
+   "Falaises des Seven Sisters",
+   "Birling Gap",
+   "Beachy Head"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Falaises de craie",
+  "region": "Angleterre (East Sussex)",
+  "y": 50.7426,
+  "x": 0.2016,
+  "pt": "Birling Gap",
+  "near": "Eastbourne",
+  "nearKm": 7,
+  "d": "Succession de falaises de craie ondulées plongeant dans la Manche, dans le parc national des South Downs, entre l'estuaire de Cuckmere Haven et le phare de Beachy Head.",
+  "v": "Le point de vue de Cuckmere Haven · la plage de galets de Birling Gap · Beachy Head et son phare · la marche sur la crête",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "St Michael's Mount",
+  "alt": [
+   "Mont Saint-Michel de Cornouailles",
+   "Karrek Loos yn Koos"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Île tidale et château",
+  "region": "Angleterre (Cornouailles)",
+  "y": 50.1167,
+  "x": -5.4778,
+  "pt": "château sur l'île",
+  "near": "Penzance",
+  "nearKm": 4,
+  "d": "Îlot rocheux couronné d'un château et d'une ancienne église de prieuré, relié à Marazion par une chaussée submersible : le pendant britannique du Mont-Saint-Michel.",
+  "v": "La traversée de la chaussée à marée basse · le château et ses jardins en terrasses · le petit port de l'île",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Tintagel",
+  "alt": [
+   "Tintagel Castle",
+   "Tintagel"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Château en ruine",
+  "region": "Angleterre (Cornouailles)",
+  "y": 50.6683,
+  "x": -4.7596,
+  "pt": "ruines sur le promontoire",
+  "near": "Camelford",
+  "nearKm": 7,
+  "d": "Ruines d'un château du XIIIe siècle réparties sur un promontoire de la côte nord des Cornouailles, associé à la légende du roi Arthur ; une passerelle relie le continent à l'île.",
+  "v": "La passerelle et l'île · la grotte de Merlin · le vieux bureau de poste du village · le sentier côtier",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Parc national du Dartmoor",
+  "alt": [
+   "Dartmoor",
+   "Haytor"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Parc national",
+  "region": "Angleterre (Devon)",
+  "y": 50.5797,
+  "x": -3.7546,
+  "pt": "Haytor Rocks",
+  "near": "Bovey Tracey",
+  "nearKm": 6,
+  "d": "Vaste plateau de landes granitiques hérissé de tors rocheux, parcouru de poneys en liberté et semé de vestiges de l'âge du bronze et de ponts de dalles médiévaux.",
+  "v": "Haytor Rocks · le pont à dalles de Postbridge · Widecombe-in-the-Moor · Hound Tor",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Parc national d'Exmoor",
+  "alt": [
+   "Exmoor",
+   "Lynmouth",
+   "Lynton"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Parc national côtier",
+  "region": "Angleterre (Devon / Somerset)",
+  "y": 51.232,
+  "x": -3.829,
+  "pt": "Lynmouth",
+  "near": "Ilfracombe",
+  "nearKm": 20,
+  "d": "Landes et vallées boisées plongeant dans le canal de Bristol par de très hautes falaises ; Lynmouth et Lynton, en contre-haut, sont reliés par un funiculaire victorien à contrepoids d'eau.",
+  "v": "La Valley of Rocks · le funiculaire Lynton-Lynmouth · les gorges de Watersmeet · la route côtière vers Porlock",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gorges de Cheddar",
+  "alt": [
+   "Cheddar Gorge"
+  ],
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "q": "Gorge calcaire",
+  "region": "Angleterre (Somerset)",
+  "y": 51.284,
+  "x": -2.762,
+  "pt": "fond de la gorge",
+  "near": "Cheddar",
+  "nearKm": 1,
+  "d": "La plus grande gorge d'Angleterre, entaillée dans le calcaire des Mendip Hills, avec des grottes visitables où fut découvert le plus ancien squelette humain complet de Grande-Bretagne.",
+  "v": "La route au fond de la gorge · la grotte de Gough · le sentier des crêtes · la cathédrale de Wells à proximité",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Cotswolds",
+  "alt": [
+   "Cotswold Hills",
+   "Bourton-on-the-Water"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Région de villages historiques",
+  "region": "Angleterre (Gloucestershire)",
+  "y": 51.8852,
+  "x": -1.7587,
+  "pt": "village de Bourton-on-the-Water",
+  "near": "Bourton-on-the-Water",
+  "nearKm": 0,
+  "d": "Collines calcaires semées de villages de pierre dorée enrichis au Moyen Âge par le commerce de la laine : cottages, églises et halles de marché composent une Angleterre de carte postale.",
+  "v": "Bourton-on-the-Water · Bibury et Arlington Row · Chipping Campden · Stow-on-the-Wold",
+  "s": "toute l'année",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 11,
+   "sing": 9,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Cathédrale de Salisbury",
+  "alt": [
+   "Salisbury Cathedral",
+   "Salisbury"
+  ],
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "q": "Cathédrale gothique",
+  "region": "Angleterre (Wiltshire)",
+  "y": 51.0652,
+  "x": -1.7973,
+  "pt": "cathédrale",
+  "near": "Salisbury",
+  "nearKm": 0,
+  "d": "Cathédrale gothique du XIIIe siècle bâtie d'un seul jet, à la flèche la plus haute d'Angleterre, au milieu d'un vaste close ; elle conserve l'un des quatre exemplaires originaux de la Magna Carta.",
+  "v": "La nef et le cloître · la Magna Carta dans la salle capitulaire · le Cathedral Close · le site d'Old Sarum au nord",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 8,
+   "sing": 10,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Plage de Holkham",
+  "alt": [
+   "Holkham Bay",
+   "Holkham Beach"
+  ],
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "q": "Plage et dunes",
+  "region": "Angleterre (Norfolk)",
+  "y": 52.972,
+  "x": 0.808,
+  "pt": "plage",
+  "near": "Wells-next-the-Sea",
+  "nearKm": 4,
+  "d": "Immense plage de sable bordée de dunes et de pinèdes sur la côte nord du Norfolk, au sein d'une réserve naturelle riche en oiseaux, près du palais palladien de Holkham Hall.",
+  "v": "La plage et les pinèdes · Holkham Hall et son parc · le port de Wells-next-the-Sea",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Dingle",
+  "alt": [
+   "An Daingean",
+   "Daingean Uí Chúis"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Port de pêche",
+  "region": "Munster (Kerry)",
+  "y": 52.1408,
+  "x": -10.269,
+  "pt": "port",
+  "near": "Dingle",
+  "nearKm": 0,
+  "d": "Port de pêche coloré de la péninsule de Dingle, dans le Gaeltacht du Kerry, réputé pour ses pubs de musique traditionnelle ; base pour la route de Slea Head et le col de Conor Pass.",
+  "v": "Le port et les rues colorées · les pubs à musique · le col de Conor Pass · Inch Beach",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Slea Head",
+  "alt": [
+   "Ceann Sléibhe",
+   "Slea Head Drive"
+  ],
+  "p": "Irlande",
+  "c": "plage",
+  "q": "Route côtière",
+  "region": "Munster (Kerry)",
+  "y": 52.0985,
+  "x": -10.451,
+  "pt": "cap de Slea Head",
+  "near": "Dingle",
+  "nearKm": 13,
+  "d": "Pointe extrême de la péninsule de Dingle, contournée par une route côtière face aux îles Blasket et jalonnée de huttes de pierre sèche en encorbellement.",
+  "v": "Le belvédère sur les Blasket · les clocháns de Fahan · la crique de Coumeenoole · l'oratoire de Gallarus",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 18,
+   "van": 13,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gap of Dunloe",
+  "alt": [
+   "Dunloe"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Défilé glaciaire",
+  "region": "Munster (Kerry)",
+  "y": 52.023,
+  "x": -9.635,
+  "pt": "milieu du défilé",
+  "near": "Killarney",
+  "nearKm": 10,
+  "d": "Étroit défilé glaciaire entre les MacGillycuddy's Reeks et la Purple Mountain, ponctué de petits lacs et de ponts de pierre, parcouru à pied, à vélo ou en carriole.",
+  "v": "La traversée depuis Kate Kearney's Cottage · le Wishing Bridge · la descente vers la Black Valley",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Péninsule de Beara",
+  "alt": [
+   "Beara",
+   "Allihies",
+   "Healy Pass"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Péninsule côtière",
+  "region": "Munster (Cork / Kerry)",
+  "y": 51.6383,
+  "x": -10.0442,
+  "pt": "village d'Allihies",
+  "near": "Bantry",
+  "nearKm": 41,
+  "d": "Péninsule la plus sauvage et la moins fréquentée du sud-ouest, entre les baies de Bantry et de Kenmare : route côtière, anciennes mines de cuivre d'Allihies et téléphérique vers l'île de Dursey.",
+  "v": "Le col de Healy Pass · Allihies et ses mines de cuivre · le téléphérique de Dursey · le port de Castletownbere",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 13,
+   "sing": 10,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Mizen Head",
+  "alt": [
+   "Carn Uí Néid"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Cap",
+  "region": "Munster (Cork)",
+  "y": 51.4497,
+  "x": -9.8182,
+  "pt": "station de signalisation",
+  "near": "Bantry",
+  "nearKm": 36,
+  "d": "Pointe extrême sud-ouest de l'Irlande, où une passerelle franchit un gouffre pour atteindre l'ancienne station de signalisation, au-dessus de falaises battues par l'Atlantique.",
+  "v": "La passerelle sur le gouffre · la station de signalisation et son musée · la plage de Barleycove",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Kinsale",
+  "alt": [
+   "Cionn tSáile"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Port historique",
+  "region": "Munster (Cork)",
+  "y": 51.7059,
+  "x": -8.5222,
+  "pt": "port",
+  "near": "Kinsale",
+  "nearKm": 0,
+  "d": "Port coloré à l'embouchure de la Bandon, réputé pour sa gastronomie, gardé par le fort en étoile de Charles Fort ; la bataille décisive de 1601 s'y déroula.",
+  "v": "Les ruelles et le port · Charles Fort · le sentier du Scilly Walk · le cap d'Old Head of Kinsale",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Cobh",
+  "alt": [
+   "An Cóbh",
+   "Queenstown"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Port historique",
+  "region": "Munster (Cork)",
+  "y": 51.8503,
+  "x": -8.2943,
+  "pt": "front de mer",
+  "near": "Cobh",
+  "nearKm": 0,
+  "d": "Port en terrasses sur Great Island, dans la rade de Cork, dernière escale du Titanic et point de départ de millions d'émigrants, dominé par la cathédrale néogothique Saint-Colman.",
+  "v": "La cathédrale Saint-Colman · le Cobh Heritage Centre · les maisons colorées du Deck of Cards · l'île de Spike Island",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Cork",
+  "alt": [
+   "Corcaigh"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Grande ville",
+  "region": "Munster (Cork)",
+  "y": 51.8985,
+  "x": -8.4756,
+  "pt": "centre-ville",
+  "near": "Cork",
+  "nearKm": 0,
+  "d": "Deuxième ville de la République, bâtie sur une île entre deux bras de la Lee : marché couvert de l'English Market, cathédrale néogothique Saint-Fin Barre et quartiers animés.",
+  "v": "L'English Market · la cathédrale Saint-Fin Barre · le clocher de Shandon · la Crawford Art Gallery",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 7,
+   "sing": 8,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château de Blarney",
+  "alt": [
+   "Blarney Castle",
+   "Pierre de Blarney"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Munster (Cork)",
+  "y": 51.9291,
+  "x": -8.5709,
+  "pt": "château",
+  "near": "Blarney",
+  "nearKm": 1,
+  "d": "Tour-maison du XVe siècle célèbre pour sa pierre de l'éloquence, que l'on embrasse la tête en arrière au sommet des créneaux, entourée de vastes jardins.",
+  "v": "La pierre de Blarney · les jardins et le Poison Garden · Blarney House",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Gougane Barra",
+  "alt": [
+   "Guagán Barra"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Munster (Cork)",
+  "y": 51.8389,
+  "x": -9.3186,
+  "pt": "îlot de l'oratoire",
+  "near": "Bantry",
+  "nearKm": 20,
+  "d": "Petit lac encaissé dans un cirque de montagnes à la source de la Lee, où un oratoire de pierre sur un îlot marque l'ermitage de saint Finbarr ; forêt domaniale aux sentiers balisés.",
+  "v": "L'oratoire Saint-Finbarr sur l'îlot · les sentiers du parc forestier · le col de Keimaneigh",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Château de Cahir",
+  "alt": [
+   "Cahir Castle",
+   "Caisleán na Cathrach"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Munster (Tipperary)",
+  "y": 52.3748,
+  "x": -7.9265,
+  "pt": "château",
+  "near": "Cahir",
+  "nearKm": 0,
+  "d": "L'un des plus grands et des mieux conservés des châteaux médiévaux d'Irlande, bâti sur un îlot rocheux de la Suir au cœur de la petite ville de Cahir.",
+  "v": "Le donjon et les cours · la vue sur la Suir · le Swiss Cottage · le Rock of Cashel à proximité",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Waterford",
+  "alt": [
+   "Port Láirge"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Munster (Waterford)",
+  "y": 52.2593,
+  "x": -7.1101,
+  "pt": "triangle viking",
+  "near": "Waterford",
+  "nearKm": 0,
+  "d": "Plus ancienne ville d'Irlande, fondée par les Vikings ; son « triangle viking » réunit la tour de Reginald, des musées médiévaux et la célèbre cristallerie.",
+  "v": "Reginald's Tower · le Medieval Museum et le Bishop's Palace · la House of Waterford Crystal · la Waterford Greenway",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Loop Head",
+  "alt": [
+   "Ceann Léime"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Cap et phare",
+  "region": "Munster (Clare)",
+  "y": 52.5612,
+  "x": -9.9303,
+  "pt": "phare",
+  "near": "Kilrush",
+  "nearKm": 31,
+  "d": "Pointe sauvage du comté de Clare entre l'estuaire du Shannon et l'Atlantique, couronnée d'un phare, avec falaises, stacks et arches naturelles comme les Bridges of Ross.",
+  "v": "Le phare · le stack de Diarmuid et Gráinne · les Bridges of Ross · les falaises de Kilkee",
+  "s": "avr-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Adare",
+  "alt": [
+   "Áth Dara"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Munster (Limerick)",
+  "y": 52.5645,
+  "x": -8.7911,
+  "pt": "rue principale",
+  "near": "Limerick",
+  "nearKm": 15,
+  "d": "Village aux cottages à toit de chaume alignés le long de la rue principale, avec plusieurs abbayes médiévales et un château des Desmond en ruine au bord de la Maigue.",
+  "v": "Les cottages de chaume · le prieuré augustin et l'abbaye trinitaire · le château de Desmond",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Galway",
+  "alt": [
+   "Gaillimh"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Ville culturelle",
+  "region": "Connacht (Galway)",
+  "y": 53.2707,
+  "x": -9.0568,
+  "pt": "Latin Quarter",
+  "near": "Galway",
+  "nearKm": 0,
+  "d": "Ville universitaire animée à l'embouchure de la Corrib, capitale culturelle de l'ouest irlandais, réputée pour ses pubs musicaux et son Latin Quarter, porte d'entrée du Connemara.",
+  "v": "Le Latin Quarter et Shop Street · le Spanish Arch · la cathédrale · la promenade de Salthill",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Abbaye de Kylemore",
+  "alt": [
+   "Kylemore Abbey"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Château néogothique",
+  "region": "Connacht (Galway, Connemara)",
+  "y": 53.5614,
+  "x": -9.8894,
+  "pt": "château au bord du lac",
+  "near": "Westport",
+  "nearKm": 36,
+  "d": "Château néogothique du XIXe siècle se reflétant dans un lac au pied des montagnes du Connemara, devenu abbaye bénédictine ; jardin clos victorien et église néogothique miniature.",
+  "v": "Le château au bord du lac · le jardin clos victorien · l'église néogothique",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Westport",
+  "alt": [
+   "Cathair na Mart"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Ville géorgienne",
+  "region": "Connacht (Mayo)",
+  "y": 53.8008,
+  "x": -9.5248,
+  "pt": "centre-ville (The Octagon)",
+  "near": "Westport",
+  "nearKm": 0,
+  "d": "Ville géorgienne planifiée au fond de la baie de Clew, aux rues bordées d'arbres le long d'une rivière canalisée ; base pour le Croagh Patrick, Achill et la Great Western Greenway.",
+  "v": "The Mall et Westport House · le port (The Quay) · la Great Western Greenway",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Croagh Patrick",
+  "alt": [
+   "Cruach Phádraig"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Montagne sacrée",
+  "region": "Connacht (Mayo)",
+  "y": 53.7597,
+  "x": -9.6585,
+  "pt": "sommet",
+  "near": "Westport",
+  "nearKm": 10,
+  "d": "Montagne conique dominant la baie de Clew et ses îlots, où saint Patrick aurait jeûné quarante jours ; haut lieu de pèlerinage avec une chapelle au sommet.",
+  "v": "L'ascension depuis Murrisk · la vue sur la baie de Clew · le National Famine Memorial au pied",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Île d'Achill",
+  "alt": [
+   "Achill Island",
+   "Acaill",
+   "Keem Bay"
+  ],
+  "p": "Irlande",
+  "c": "plage",
+  "q": "Île reliée par un pont",
+  "region": "Connacht (Mayo)",
+  "y": 53.9687,
+  "x": -10.195,
+  "pt": "plage de Keem Bay",
+  "near": "Westport",
+  "nearKm": 48,
+  "d": "Plus grande île d'Irlande, reliée au continent par un pont : falaises parmi les plus hautes d'Europe, landes de tourbe et plages de sable clair comme Keem Bay, au bout de l'Atlantic Drive.",
+  "v": "La plage de Keem Bay · l'Atlantic Drive · le village abandonné de Slievemore · la plage de Keel",
+  "s": "mai-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Downpatrick Head",
+  "alt": [
+   "Dún Briste"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Cap et aiguille marine",
+  "region": "Connacht (Mayo)",
+  "y": 54.3245,
+  "x": -9.346,
+  "pt": "pointe",
+  "near": "Ballina",
+  "nearKm": 26,
+  "d": "Promontoire de falaises face à Dún Briste, imposant pilier rocheux détaché de la côte, avec un trou souffleur ; étape de la Wild Atlantic Way sur la côte nord du Mayo.",
+  "v": "L'aiguille de Dún Briste · le trou souffleur de Poll na Seantainne · les vestiges de l'église Saint-Patrick",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Céide Fields",
+  "alt": [
+   "Achaidh Chéide"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Site néolithique",
+  "region": "Connacht (Mayo)",
+  "y": 54.3069,
+  "x": -9.458,
+  "pt": "centre d'interprétation",
+  "near": "Ballina",
+  "nearKm": 29,
+  "d": "Le plus vaste ensemble connu de champs néolithiques délimités par des murets de pierre, préservé sous la tourbière, au-dessus de falaises spectaculaires.",
+  "v": "Les murets fossiles sous la tourbe · le centre d'interprétation · le belvédère sur les falaises",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Benbulben",
+  "alt": [
+   "Binn Ghulbain",
+   "Ben Bulben"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Montagne tabulaire",
+  "region": "Connacht (Sligo)",
+  "y": 54.3667,
+  "x": -8.473,
+  "pt": "versant ouest",
+  "near": "Sligo",
+  "nearKm": 10,
+  "d": "Table calcaire aux flancs striés dominant la plaine côtière de Sligo, cœur du « pays de Yeats » ; le poète repose à son pied, dans le cimetière de Drumcliff.",
+  "v": "Le Benbulben Forest Walk · la tombe de Yeats à Drumcliff · Mullaghmore et la côte",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Carrowmore",
+  "alt": [
+   "Nécropole de Carrowmore",
+   "Ceathrú Mhór"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Nécropole mégalithique",
+  "region": "Connacht (Sligo)",
+  "y": 54.2508,
+  "x": -8.5186,
+  "pt": "nécropole",
+  "near": "Sligo",
+  "nearKm": 4,
+  "d": "L'un des plus grands et des plus anciens ensembles de tombes mégalithiques d'Irlande : dolmens et cercles de pierres dispersés dans la campagne, face au cairn de Knocknarea.",
+  "v": "Les dolmens et cercles · la tombe centrale de Listoghil · l'ascension de Knocknarea et le cairn de la reine Maeve",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Clonmacnoise",
+  "alt": [
+   "Cluain Mhic Nóis"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Site monastique",
+  "region": "Leinster (Offaly)",
+  "y": 53.3266,
+  "x": -7.9868,
+  "pt": "site monastique",
+  "near": "Athlone",
+  "nearKm": 11,
+  "d": "Monastère fondé par saint Ciarán au VIe siècle sur les rives du Shannon, grand foyer de l'Irlande médiévale : églises en ruine, tours rondes et hautes croix sculptées.",
+  "v": "La Cross of the Scriptures · les tours rondes · la cathédrale en ruine · les prairies inondables du Shannon",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Falaises de Slieve League",
+  "alt": [
+   "Sliabh Liag",
+   "Slieve League"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Falaises",
+  "region": "Ulster (Donegal)",
+  "y": 54.629,
+  "x": -8.683,
+  "pt": "belvédère de Bunglass",
+  "near": "Donegal",
+  "nearKm": 37,
+  "d": "Parmi les plus hautes falaises marines d'Europe, plongeant dans l'Atlantique depuis le sommet du Sliabh Liag ; le belvédère de Bunglass offre une vue frontale sur leurs parois colorées.",
+  "v": "Le belvédère de Bunglass · le sentier du One Man's Pass · le village de Teelin · Glencolmcille à proximité",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 17,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Malin Head",
+  "alt": [
+   "Cionn Mhálanna"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Cap",
+  "region": "Ulster (Donegal)",
+  "y": 55.3815,
+  "x": -7.374,
+  "pt": "Banba's Crown",
+  "near": "Buncrana",
+  "nearKm": 28,
+  "d": "Point le plus septentrional de l'île d'Irlande, au bout de la péninsule d'Inishowen ; tour de guet du début du XIXe siècle et côtes déchiquetées battues par l'Atlantique.",
+  "v": "Banba's Crown et sa tour · le gouffre de Hell's Hole · la boucle routière de l'Inishowen 100",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Phare de Fanad Head",
+  "alt": [
+   "Fanad Head",
+   "Fánaid"
+  ],
+  "p": "Irlande",
+  "c": "nature",
+  "q": "Phare",
+  "region": "Ulster (Donegal)",
+  "y": 55.2757,
+  "x": -7.6327,
+  "pt": "phare",
+  "near": "Buncrana",
+  "nearKm": 20,
+  "d": "Phare blanc du XIXe siècle dressé sur un promontoire rocheux entre le Lough Swilly et la baie de Mulroy, souvent cité parmi les plus beaux phares du monde.",
+  "v": "Le phare et sa vue · la route panoramique du Fanad Drive · la plage de Ballymastocker",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Grianán of Aileach",
+  "alt": [
+   "Grianán Ailigh"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Fort de pierre",
+  "region": "Ulster (Donegal)",
+  "y": 55.0237,
+  "x": -7.4284,
+  "pt": "fort",
+  "near": "Buncrana",
+  "nearKm": 12,
+  "d": "Fort circulaire en pierre sèche au sommet d'une colline, ancien siège royal des Uí Néill, offrant un panorama sur le Lough Swilly, le Lough Foyle et l'Inishowen.",
+  "v": "L'intérieur du fort et ses terrasses · le panorama sur les deux loughs · l'église ronde de Burt au pied",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Kilkenny",
+  "alt": [
+   "Cill Chainnigh"
+  ],
+  "p": "Irlande",
+  "c": "ville",
+  "q": "Ville médiévale",
+  "region": "Leinster (Kilkenny)",
+  "y": 52.6541,
+  "x": -7.2448,
+  "pt": "centre historique",
+  "near": "Kilkenny",
+  "nearKm": 0,
+  "d": "Ville médiévale bien conservée, dominée par son château normand au bord de la Nore et par la cathédrale Saint-Canice et sa tour ronde, reliés par le « Medieval Mile ».",
+  "v": "Le château de Kilkenny · la cathédrale et la tour ronde Saint-Canice · le Medieval Mile · la Black Abbey",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Abbaye de Jerpoint",
+  "alt": [
+   "Jerpoint Abbey"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Abbaye cistercienne",
+  "region": "Leinster (Kilkenny)",
+  "y": 52.511,
+  "x": -7.1583,
+  "pt": "ruines de l'abbaye",
+  "near": "Thomastown",
+  "nearKm": 2,
+  "d": "Ruines d'une abbaye cistercienne du XIIe siècle, réputée pour les sculptures de son cloître : chevaliers, saints et créatures fantastiques ornent les piliers.",
+  "v": "Le cloître sculpté · les tombeaux et gisants · la tour centrale",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Phare de Hook Head",
+  "alt": [
+   "Hook Head",
+   "Rinn Duáin"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Phare médiéval",
+  "region": "Leinster (Wexford)",
+  "y": 52.1238,
+  "x": -6.9294,
+  "pt": "phare",
+  "near": "Tramore",
+  "nearKm": 16,
+  "d": "L'un des plus anciens phares en activité au monde, tour massive de près de huit siècles au bout de la péninsule de Hook, entourée de dalles calcaires riches en fossiles.",
+  "v": "La visite de la tour · les fossiles des dalles calcaires · le fort de Duncannon · l'abbaye de Tintern (Wexford)",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Trim",
+  "alt": [
+   "Trim Castle"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Château normand",
+  "region": "Leinster (Meath)",
+  "y": 53.5546,
+  "x": -6.7906,
+  "pt": "château",
+  "near": "Trim",
+  "nearKm": 0,
+  "d": "Le plus grand château anglo-normand d'Irlande, au bord de la Boyne, dont le donjon cruciforme et l'enceinte servirent de décor au film Braveheart.",
+  "v": "Le donjon et la courtine · les berges de la Boyne · la Yellow Steeple · la colline de Tara à proximité",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monasterboice",
+  "alt": [
+   "Mainistir Bhuithe"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Site monastique",
+  "region": "Leinster (Louth)",
+  "y": 53.7776,
+  "x": -6.4178,
+  "pt": "cimetière et croix",
+  "near": "Drogheda",
+  "nearKm": 8,
+  "d": "Ancien site monastique avec une tour ronde et deux des plus belles hautes croix d'Irlande, dont la croix de Muiredach du Xe siècle, aux scènes bibliques finement sculptées.",
+  "v": "La croix de Muiredach · la West Cross · la tour ronde · l'abbaye de Mellifont voisine",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rock of Dunamase",
+  "alt": [
+   "Dún Másc",
+   "Dunamase"
+  ],
+  "p": "Irlande",
+  "c": "patrimoine",
+  "q": "Château en ruine",
+  "region": "Leinster (Laois)",
+  "y": 53.032,
+  "x": -7.211,
+  "pt": "ruines au sommet",
+  "near": "Portlaoise",
+  "nearKm": 6,
+  "d": "Ruines d'un château normand sur un piton rocheux isolé dominant la plaine des Midlands, longtemps disputé pour sa position stratégique.",
+  "v": "Les vestiges de la forteresse · le panorama sur les Slieve Bloom",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ }
+]

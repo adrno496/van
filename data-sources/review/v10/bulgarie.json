@@ -1,0 +1,1534 @@
+[
+ {
+  "key": "bulgarie|kaliakra|434:285",
+  "src": "serbie-bulgarie-roumanie.json#39",
+  "n": "Cap Kaliakra",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.8,
+   "otherCountry": null,
+   "nearestLocality": "Balgarevo (BG, 6.3 km)",
+   "ref": {
+    "name": "Kavarna",
+    "geonameid": 730518,
+    "y": 43.43601,
+    "x": 28.33953,
+    "km": 13.1,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3246
+ },
+ {
+  "key": "bulgarie|sept-rila|422:233",
+  "src": "serbie-bulgarie-roumanie.json#74",
+  "n": "Sept lacs de Rila",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sapareva Banya (BG, 9.9 km)",
+   "ref": {
+    "name": "Sapareva Banya",
+    "geonameid": 727441,
+    "y": 42.28333,
+    "x": 23.26667,
+    "km": 9.9,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 12,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3245
+ },
+ {
+  "key": "bulgarie|sozopol|424:277",
+  "src": "serbie-bulgarie-roumanie.json#44",
+  "n": "Sozopol",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sozopol (BG, 0.1 km)",
+   "ref": {
+    "name": "Sozopol",
+    "geonameid": 726963,
+    "y": 42.41801,
+    "x": 27.6956,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 726963
+  },
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3247
+ },
+ {
+  "key": "bulgarie|pobiti-kamani|432:277",
+  "src": "serbie-bulgarie-roumanie.json#41",
+  "n": "Pobiti Kamani",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Beloslav (BG, 4.0 km)",
+   "ref": {
+    "name": "Beloslav",
+    "geonameid": 725213,
+    "y": 43.1896,
+    "x": 27.70429,
+    "km": 4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3248
+ },
+ {
+  "key": "bulgarie|perperikon|417:255",
+  "src": "serbie-bulgarie-roumanie.json#71",
+  "n": "Perperikon",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kardzhali (BG, 11.1 km)",
+   "ref": {
+    "name": "Kardzhali",
+    "geonameid": 729794,
+    "y": 41.65,
+    "x": 25.36667,
+    "km": 11.1,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3249
+ },
+ {
+  "key": "bulgarie|melnik|415:234",
+  "src": "serbie-bulgarie-roumanie.json#72",
+  "n": "Melnik",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Polenitsa (BG, 9.1 km)",
+   "ref": {
+    "name": "Sandanski",
+    "geonameid": 727447,
+    "y": 41.56667,
+    "x": 23.28333,
+    "km": 10.3,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3250
+ },
+ {
+  "key": "bulgarie|trigrad-diable|416:244",
+  "src": "serbie-bulgarie-roumanie.json#67",
+  "n": "Trigrad et la Gorge du Diable",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gyovren (BG, 5.4 km)",
+   "ref": {
+    "name": "Devin",
+    "geonameid": 732285,
+    "y": 41.74327,
+    "x": 24.40003,
+    "km": 14.4,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3252
+ },
+ {
+  "key": "bulgarie|varna|432:279",
+  "src": "serbie-bulgarie-roumanie.json#38",
+  "n": "Varna",
+  "p": "Bulgarie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Varna (BG, 0.3 km)",
+   "ref": {
+    "name": "Varna",
+    "geonameid": 726050,
+    "y": 43.21667,
+    "x": 27.91667,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.33
+  },
+  "links": {
+   "geonames": 726050,
+   "qid": "Q6506"
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3251
+ },
+ {
+  "key": "bulgarie|bouzloudja|427:254",
+  "src": "serbie-bulgarie-roumanie.json#61",
+  "n": "Bouzloudja",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Shipka (BG, 5.4 km)",
+   "ref": {
+    "name": "Kazanlak",
+    "geonameid": 730496,
+    "y": 42.61667,
+    "x": 25.4,
+    "km": 13.3,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3253
+ },
+ {
+  "key": "bulgarie|bachkovo|419:248",
+  "src": "serbie-bulgarie-roumanie.json#64",
+  "n": "Monastère de Bachkovo",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Laki (BG, 10.6 km)",
+   "ref": {
+    "name": "Asenovgrad",
+    "geonameid": 733618,
+    "y": 42.01667,
+    "x": 24.86667,
+    "km": 8.4,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3254
+ },
+ {
+  "key": "bulgarie|arbanasi|431:257",
+  "src": "serbie-bulgarie-roumanie.json#77",
+  "n": "Arbanasi",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Veliko Tŭrnovo (BG, 3.7 km)",
+   "ref": {
+    "name": "Turnovo",
+    "geonameid": null,
+    "y": 43.086245,
+    "x": 25.655529,
+    "km": 1.8,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3255
+ },
+ {
+  "key": "bulgarie|tryavna|429:255",
+  "src": "serbie-bulgarie-roumanie.json#58",
+  "n": "Tryavna",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dryanovo (BG, 12.5 km)",
+   "ref": {
+    "name": "Tryavna",
+    "geonameid": 726287,
+    "y": 42.86667,
+    "x": 25.5,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.68
+  },
+  "links": {
+   "geonames": 726287
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3256
+ },
+ {
+  "key": "bulgarie|balchik|434:282",
+  "src": "serbie-bulgarie-roumanie.json#40",
+  "n": "Balchik",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Balchik (BG, 2.1 km)",
+   "ref": {
+    "name": "Balchik",
+    "geonameid": 733515,
+    "y": 43.42166,
+    "x": 28.15848,
+    "km": 2.1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3259
+ },
+ {
+  "key": "bulgarie|chipka|427:253",
+  "src": "serbie-bulgarie-roumanie.json#60",
+  "n": "Col de Chipka",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Shipka (BG, 3.7 km)",
+   "ref": {
+    "name": "Kazanlak",
+    "geonameid": 730496,
+    "y": 42.61667,
+    "x": 25.4,
+    "km": 16,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3258
+ },
+ {
+  "key": "bulgarie|sinemorets-embouchure-veleka|421:280",
+  "src": "serbie-bulgarie-roumanie.json#45",
+  "n": "Sinemorets et embouchure de la Veleka",
+  "p": "Bulgarie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ahtopol (BG, 5.0 km)",
+   "ref": {
+    "name": "Tsarevo",
+    "geonameid": 729125,
+    "y": 42.16955,
+    "x": 27.84541,
+    "km": 16.1,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3257
+ },
+ {
+  "key": "bulgarie|monument-fondateurs-etat-bulgare|433:269",
+  "src": "serbie-bulgarie-roumanie.json#49",
+  "n": "Monument des Fondateurs de l'État bulgare",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Shumen (BG, 0.2 km)",
+   "ref": {
+    "name": "Shumen",
+    "geonameid": 727233,
+    "y": 43.27064,
+    "x": 26.92286,
+    "km": 0.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3260
+ },
+ {
+  "key": "bulgarie|ledenika|432:235",
+  "src": "serbie-bulgarie-roumanie.json#54",
+  "n": "Grotte de Ledenika",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Varshets (BG, 16.8 km)",
+   "ref": {
+    "name": "Vratsa",
+    "geonameid": 725712,
+    "y": 43.21,
+    "x": 23.5625,
+    "km": 5.7,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3262
+ },
+ {
+  "key": "bulgarie|ruse|438:260",
+  "src": "serbie-bulgarie-roumanie.json#50",
+  "n": "Ruse",
+  "p": "Bulgarie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ruse (BG, 0.2 km)",
+   "ref": {
+    "name": "Ruse",
+    "geonameid": 727523,
+    "y": 43.84872,
+    "x": 25.9534,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 727523,
+   "qid": "Q160173"
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3261
+ },
+ {
+  "key": "bulgarie|baba-vida|440:229",
+  "src": "serbie-bulgarie-roumanie.json#52",
+  "n": "Forteresse Baba Vida",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vidin (BG, 0.5 km)",
+   "ref": {
+    "name": "Vidin",
+    "geonameid": 725905,
+    "y": 43.99159,
+    "x": 22.88236,
+    "km": 0.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3264
+ },
+ {
+  "key": "bulgarie|hisarya|425:247",
+  "src": "serbie-bulgarie-roumanie.json#66",
+  "n": "Hisarya",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hisarya (BG, 0.5 km)",
+   "ref": {
+    "name": "Hisarya",
+    "geonameid": 730419,
+    "y": 42.5,
+    "x": 24.7,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.45
+  },
+  "links": {
+   "geonames": 730419
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3265
+ },
+ {
+  "key": "bulgarie|aladzha|433:280",
+  "src": "serbie-bulgarie-roumanie.json#42",
+  "n": "Monastère d'Aladzha",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zlatni Pyasatsi (BG, 3.0 km)",
+   "ref": {
+    "name": "Varna",
+    "geonameid": 726050,
+    "y": 43.21667,
+    "x": 27.91667,
+    "km": 9.9,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3263
+ },
+ {
+  "key": "bulgarie|bansko|418:235",
+  "src": "serbie-bulgarie-roumanie.json#73",
+  "n": "Bansko",
+  "p": "Bulgarie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bansko (BG, 0.1 km)",
+   "ref": {
+    "name": "Bansko",
+    "geonameid": 733462,
+    "y": 41.8383,
+    "x": 23.48851,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 733462
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3266
+ },
+ {
+  "key": "bulgarie|merveilleux|418:246",
+  "src": "serbie-bulgarie-roumanie.json#68",
+  "n": "Ponts merveilleux",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chepelare (BG, 12.8 km)",
+   "ref": {
+    "name": "Chepelare",
+    "geonameid": 732627,
+    "y": 41.73333,
+    "x": 24.68333,
+    "km": 12.8,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3267
+ },
+ {
+  "key": "bulgarie|veliki-preslav|432:268",
+  "src": "serbie-bulgarie-roumanie.json#48",
+  "n": "Veliki Preslav",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Veliki Preslav (BG, 1.9 km)",
+   "ref": {
+    "name": "Veliki Preslav",
+    "geonameid": 727987,
+    "y": 43.16667,
+    "x": 26.81667,
+    "km": 1.9,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3268
+ },
+ {
+  "key": "bulgarie|yailata|434:285",
+  "src": "serbie-bulgarie-roumanie.json#47",
+  "n": "Yailata",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Shabla (BG, 11.1 km)",
+   "ref": {
+    "name": "Shabla",
+    "geonameid": 727329,
+    "y": 43.53983,
+    "x": 28.53429,
+    "km": 11.1,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3269
+ },
+ {
+  "key": "bulgarie|asen|420:249",
+  "src": "serbie-bulgarie-roumanie.json#65",
+  "n": "Forteresse d'Asen",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Laki (BG, 15.9 km)",
+   "ref": {
+    "name": "Asenovgrad",
+    "geonameid": 733618,
+    "y": 42.01667,
+    "x": 24.86667,
+    "km": 3.3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3270
+ },
+ {
+  "key": "bulgarie|emine|427:279",
+  "src": "serbie-bulgarie-roumanie.json#43",
+  "n": "Cap Emine",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.9,
+   "otherCountry": null,
+   "nearestLocality": "Sveti Vlas (BG, 11.2 km)",
+   "ref": {
+    "name": "Obzor",
+    "geonameid": 728674,
+    "y": 42.81998,
+    "x": 27.88007,
+    "km": 13.1,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3272
+ },
+ {
+  "key": "bulgarie|sinite-kamani|427:264",
+  "src": "serbie-bulgarie-roumanie.json#62",
+  "n": "Sinite Kamani",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sliven (BG, 3.3 km)",
+   "ref": {
+    "name": "Sliven",
+    "geonameid": 727079,
+    "y": 42.68583,
+    "x": 26.32917,
+    "km": 3.3,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3273
+ },
+ {
+  "key": "bulgarie|vitosha|426:233",
+  "src": "serbie-bulgarie-roumanie.json#76",
+  "n": "Vitosha",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sofia (BG, 12.8 km)",
+   "ref": {
+    "name": "Sofia",
+    "geonameid": null,
+    "y": 42.685295,
+    "x": 23.314708,
+    "km": 11.3,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3271
+ },
+ {
+  "key": "bulgarie|cherven|436:260",
+  "src": "serbie-bulgarie-roumanie.json#51",
+  "n": "Forteresse de Cherven",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tsar Kaloyan (BG, 18.2 km)",
+   "ref": {
+    "name": "Dve Mogili",
+    "geonameid": 731771,
+    "y": 43.59258,
+    "x": 25.87486,
+    "km": 12.2,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "bulgarie|kovachevitsa|417:238",
+  "src": "serbie-bulgarie-roumanie.json#70",
+  "n": "Kovachevitsa",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Garmen (BG, 8.9 km)",
+   "ref": {
+    "name": "Gotse Delchev",
+    "geonameid": 731108,
+    "y": 41.56667,
+    "x": 23.73333,
+    "km": 14.8,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "bulgarie|troyan|429:248",
+  "src": "serbie-bulgarie-roumanie.json#55",
+  "n": "Monastère de Troyan",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Troyan (BG, 7.7 km)",
+   "ref": {
+    "name": "Troyan",
+    "geonameid": 726320,
+    "y": 42.89427,
+    "x": 24.71589,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "bulgarie|ropotamo|423:277",
+  "src": "serbie-bulgarie-roumanie.json#46",
+  "n": "Réserve de Ropotamo",
+  "p": "Bulgarie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Primorsko (BG, 6.4 km)",
+   "ref": {
+    "name": "Primorsko",
+    "geonameid": 727964,
+    "y": 42.26791,
+    "x": 27.75611,
+    "km": 6.4,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "bulgarie|chiprovtsi|434:229",
+  "src": "serbie-bulgarie-roumanie.json#53",
+  "n": "Chiprovtsi",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chiprovtsi (BG, 0.0 km)",
+   "ref": {
+    "name": "Montana",
+    "geonameid": 729114,
+    "y": 43.4125,
+    "x": 23.225,
+    "km": 28,
+    "statedKm": 28
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 732456
+  },
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "bulgarie|etara|428:254",
+  "src": "serbie-bulgarie-roumanie.json#56",
+  "n": "Etara",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gabrovo (BG, 8.6 km)",
+   "ref": {
+    "name": "Gabrovo",
+    "geonameid": 731549,
+    "y": 42.87472,
+    "x": 25.33417,
+    "km": 8.6,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "bulgarie|zemen|425:227",
+  "src": "serbie-bulgarie-roumanie.json#75",
+  "n": "Monastère de Zemen",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zemen (BG, 1.6 km)",
+   "ref": {
+    "name": "Radomir",
+    "geonameid": 727832,
+    "y": 42.54565,
+    "x": 22.96553,
+    "km": 20.8,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "bulgarie|zheravna|428:265",
+  "src": "serbie-bulgarie-roumanie.json#63",
+  "n": "Zheravna",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kotel (BG, 5.6 km)",
+   "ref": {
+    "name": "Kotel",
+    "geonameid": 730073,
+    "y": 42.88333,
+    "x": 26.45,
+    "km": 5.6,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "bulgarie|dryanovo|430:254",
+  "src": "serbie-bulgarie-roumanie.json#59",
+  "n": "Monastère de Dryanovo",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dryanovo (BG, 3.7 km)",
+   "ref": {
+    "name": "Dryanovo",
+    "geonameid": 731882,
+    "y": 42.97897,
+    "x": 25.4785,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "bulgarie|shiroka-laka|417:246",
+  "src": "serbie-bulgarie-roumanie.json#69",
+  "n": "Shiroka Laka",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chepelare (BG, 10.0 km)",
+   "ref": {
+    "name": "Smolyan",
+    "geonameid": 727030,
+    "y": 41.57439,
+    "x": 24.71204,
+    "km": 16.2,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "bulgarie|bozhentsi|429:254",
+  "src": "serbie-bulgarie-roumanie.json#57",
+  "n": "Bozhentsi",
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gabrovo (BG, 8.2 km)",
+   "ref": {
+    "name": "Tryavna",
+    "geonameid": 726287,
+    "y": 42.86667,
+    "x": 25.5,
+    "km": 5.3,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ }
+]

@@ -1,0 +1,4606 @@
+{
+ "source": "@worldwideview/wwv-plugin-unesco-sites@1.0.0 (instantané de la liste UNESCO, 2026-08-23)",
+ "fetched": "2026-10-04",
+ "sites": [
+  {
+   "id": "1133",
+   "name": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+   "countries": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+   "category": "natural",
+   "year": 2007,
+   "url": "https://whc.unesco.org/en/list/1133",
+   "y": 38.132,
+   "x": 15.961
+  },
+  {
+   "id": "99",
+   "name": "Natural and Cultural Heritage of the Ohrid region",
+   "countries": "Albania,North Macedonia",
+   "category": "mixed",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/99",
+   "y": 40.9672933093,
+   "x": 20.6761045412
+  },
+  {
+   "id": "1613",
+   "name": "The Great Spa Towns of Europe",
+   "countries": "Austria,Belgium,Czechia,France,Germany,Italy,United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1613",
+   "y": 43.8872164768,
+   "x": 10.7749785403
+  },
+  {
+   "id": "1363",
+   "name": "Prehistoric Pile Dwellings around the Alps",
+   "countries": "Austria,France,Germany,Italy,Slovenia,Switzerland",
+   "category": "cultural",
+   "year": 2011,
+   "url": "https://whc.unesco.org/en/list/1363",
+   "y": 45.107651,
+   "x": 10.392976
+  },
+  {
+   "id": "1608",
+   "name": "Frontiers of the Roman Empire – The Danube Limes (Western Segment)",
+   "countries": "Austria,Germany,Slovakia",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1608",
+   "y": 47.7449972222,
+   "x": 18.1981916666
+  },
+  {
+   "id": "772",
+   "name": "Fertö / Neusiedlersee Cultural Landscape",
+   "countries": "Austria,Hungary",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/772",
+   "y": 47.71927778,
+   "x": 16.72272222
+  },
+  {
+   "id": "1187",
+   "name": "Struve Geodetic Arc",
+   "countries": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+   "category": "cultural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/1187",
+   "y": 45.3325962,
+   "x": 28.9278807
+  },
+  {
+   "id": "33",
+   "name": "Białowieża Forest",
+   "countries": "Belarus,Poland",
+   "category": "natural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/33",
+   "y": 52.7275,
+   "x": 23.8991666667
+  },
+  {
+   "id": "943",
+   "name": "Belfries of Belgium and France",
+   "countries": "Belgium,France",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/943",
+   "y": 49.8958333333,
+   "x": 2.2963888889
+  },
+  {
+   "id": "1567",
+   "name": "Funerary and memory sites of the First World War (Western Front)",
+   "countries": "Belgium,France",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1567",
+   "y": 48.742418,
+   "x": 7.034498
+  },
+  {
+   "id": "1555",
+   "name": "Colonies of Benevolence",
+   "countries": "Belgium,Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1555",
+   "y": 51.4028305556,
+   "x": 4.8243055556
+  },
+  {
+   "id": "1504",
+   "name": "Stećci Medieval Tombstone Graveyards",
+   "countries": "Bosnia and Herzegovina,Croatia,Montenegro,Serbia",
+   "category": "cultural",
+   "year": 2016,
+   "url": "https://whc.unesco.org/en/list/1504",
+   "y": 42.5417833333,
+   "x": 18.4223805556
+  },
+  {
+   "id": "1533",
+   "name": "Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar",
+   "countries": "Croatia,Italy,Montenegro",
+   "category": "cultural",
+   "year": 2017,
+   "url": "https://whc.unesco.org/en/list/1533",
+   "y": 42.4236111111,
+   "x": 18.7719444444
+  },
+  {
+   "id": "1478",
+   "name": "Erzgebirge/Krušnohoří Mining Region",
+   "countries": "Czechia,Germany",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1478",
+   "y": 50.3289555556,
+   "x": 12.9534083333
+  },
+  {
+   "id": "1314",
+   "name": "Wadden Sea",
+   "countries": "Denmark,Germany,Netherlands (Kingdom of the)",
+   "category": "natural",
+   "year": 2009,
+   "url": "https://whc.unesco.org/en/list/1314",
+   "y": 53.2752777778,
+   "x": 7.1636111111
+  },
+  {
+   "id": "898",
+   "name": "High Coast / Kvarken Archipelago",
+   "countries": "Finland,Sweden",
+   "category": "natural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/898",
+   "y": 62.9666666667,
+   "x": 20.95
+  },
+  {
+   "id": "773",
+   "name": "Pyrénées - Mont Perdu",
+   "countries": "France,Spain",
+   "category": "mixed",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/773",
+   "y": 42.68542,
+   "x": -0.0005
+  },
+  {
+   "id": "1631",
+   "name": "Frontiers of the Roman Empire – The Lower German Limes",
+   "countries": "Germany,Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1631",
+   "y": 50.578,
+   "x": 7.234
+  },
+  {
+   "id": "1127",
+   "name": "Muskauer Park / Park Mużakowski",
+   "countries": "Germany,Poland",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1127",
+   "y": 51.547653,
+   "x": 14.729389
+  },
+  {
+   "id": "430",
+   "name": "Frontiers of the Roman Empire",
+   "countries": "Germany,United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/430",
+   "y": 48.786406,
+   "x": 9.778607
+  },
+  {
+   "id": "91",
+   "name": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+   "countries": "Holy See,Italy",
+   "category": "cultural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/91",
+   "y": 41.858056,
+   "x": 12.476111
+  },
+  {
+   "id": "725",
+   "name": "Caves of Aggtelek Karst and Slovak Karst",
+   "countries": "Hungary,Slovakia",
+   "category": "natural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/725",
+   "y": 48.3632185937,
+   "x": 20.6255304505
+  },
+  {
+   "id": "1276",
+   "name": "Rhaetian Railway in the Albula / Bernina Landscapes",
+   "countries": "Italy,Switzerland",
+   "category": "cultural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1276",
+   "y": 46.4983333333,
+   "x": 9.8463888889
+  },
+  {
+   "id": "1090",
+   "name": "Monte San Giorgio",
+   "countries": "Italy,Switzerland",
+   "category": "natural",
+   "year": 2003,
+   "url": "https://whc.unesco.org/en/list/1090",
+   "y": 45.902,
+   "x": 8.923
+  },
+  {
+   "id": "994",
+   "name": "Curonian Spit",
+   "countries": "Lithuania,Russian Federation",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/994",
+   "y": 55.27458,
+   "x": 20.96239
+  },
+  {
+   "id": "1424",
+   "name": "Wooden Tserkvas of the Carpathian Region in Poland and Ukraine",
+   "countries": "Poland,Ukraine",
+   "category": "cultural",
+   "year": 2013,
+   "url": "https://whc.unesco.org/en/list/1424",
+   "y": 48.2551388889,
+   "x": 24.3445833333
+  },
+  {
+   "id": "866",
+   "name": "Prehistoric Rock Art Sites in the Côa Valley and Siega Verde",
+   "countries": "Portugal,Spain",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/866",
+   "y": 40.6975,
+   "x": -6.6611111111
+  },
+  {
+   "id": "1313",
+   "name": "Heritage of Mercury. Almadén and Idrija",
+   "countries": "Slovenia,Spain",
+   "category": "cultural",
+   "year": 2012,
+   "url": "https://whc.unesco.org/en/list/1313",
+   "y": 38.7718055556,
+   "x": -4.8341666667
+  },
+  {
+   "id": "570",
+   "name": "Butrint",
+   "countries": "Albania",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/570",
+   "y": 39.745732,
+   "x": 20.02095
+  },
+  {
+   "id": "569",
+   "name": "Historic Centres of Berat and Gjirokastra",
+   "countries": "Albania",
+   "category": "cultural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/569",
+   "y": 40.0741666667,
+   "x": 20.1408333333
+  },
+  {
+   "id": "1160",
+   "name": "Madriu-Perafita-Claror Valley",
+   "countries": "Andorra",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1160",
+   "y": 42.49472222,
+   "x": 1.595555556
+  },
+  {
+   "id": "784",
+   "name": "Historic Centre of the City of Salzburg",
+   "countries": "Austria",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/784",
+   "y": 47.80055556,
+   "x": 13.04333333
+  },
+  {
+   "id": "785",
+   "name": "Semmering Railway",
+   "countries": "Austria",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/785",
+   "y": 47.64877778,
+   "x": 15.82797222
+  },
+  {
+   "id": "786",
+   "name": "Palace and Gardens of Schönbrunn",
+   "countries": "Austria",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/786",
+   "y": 48.18666667,
+   "x": 16.31333333
+  },
+  {
+   "id": "1033",
+   "name": "Historic Centre of Vienna",
+   "countries": "Austria",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1033",
+   "y": 48.2094,
+   "x": 16.3699
+  },
+  {
+   "id": "931",
+   "name": "City of Graz – Historic Centre and Schloss Eggenberg",
+   "countries": "Austria",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/931",
+   "y": 47.0730555556,
+   "x": 15.4386111111
+  },
+  {
+   "id": "806",
+   "name": "Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+   "countries": "Austria",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/806",
+   "y": 47.55944444,
+   "x": 13.64638889
+  },
+  {
+   "id": "970",
+   "name": "Wachau Cultural Landscape",
+   "countries": "Austria",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/970",
+   "y": 48.36444444,
+   "x": 15.43416667
+  },
+  {
+   "id": "625",
+   "name": "Mir Castle Complex",
+   "countries": "Belarus",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/625",
+   "y": 53.45108333,
+   "x": 26.47272222
+  },
+  {
+   "id": "1196",
+   "name": "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",
+   "countries": "Belarus",
+   "category": "cultural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/1196",
+   "y": 53.22278,
+   "x": 26.69139
+  },
+  {
+   "id": "855",
+   "name": "Flemish Béguinages",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/855",
+   "y": 50.7789722222,
+   "x": 5.4691388889
+  },
+  {
+   "id": "856",
+   "name": "The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/856",
+   "y": 50.48111,
+   "x": 4.13722
+  },
+  {
+   "id": "857",
+   "name": "La Grand-Place, Brussels",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/857",
+   "y": 50.84668,
+   "x": 4.35242
+  },
+  {
+   "id": "996",
+   "name": "Historic Centre of Brugge",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/996",
+   "y": 51.20891,
+   "x": 3.22527
+  },
+  {
+   "id": "1005",
+   "name": "Major Town Houses of the Architect Victor Horta (Brussels)",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/1005",
+   "y": 50.8242222222,
+   "x": 4.3556666667
+  },
+  {
+   "id": "1006",
+   "name": "Neolithic Flint Mines at Spiennes (Mons)",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/1006",
+   "y": 50.4201134823,
+   "x": 3.9822689106
+  },
+  {
+   "id": "1009",
+   "name": "Notre-Dame Cathedral in Tournai",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/1009",
+   "y": 50.60603,
+   "x": 3.38926
+  },
+  {
+   "id": "1185",
+   "name": "Plantin-Moretus House-Workshops-Museum Complex",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/1185",
+   "y": 51.21833,
+   "x": 4.39778
+  },
+  {
+   "id": "1298",
+   "name": "Stoclet House",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 2009,
+   "url": "https://whc.unesco.org/en/list/1298",
+   "y": 50.835,
+   "x": 4.4161111111
+  },
+  {
+   "id": "1344",
+   "name": "Major Mining Sites of Wallonia",
+   "countries": "Belgium",
+   "category": "cultural",
+   "year": 2012,
+   "url": "https://whc.unesco.org/en/list/1344",
+   "y": 50.3777777778,
+   "x": 4.4408333333
+  },
+  {
+   "id": "946",
+   "name": "Old Bridge Area of the Old City of Mostar",
+   "countries": "Bosnia and Herzegovina",
+   "category": "cultural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/946",
+   "y": 43.3373055556,
+   "x": 17.815
+  },
+  {
+   "id": "1260",
+   "name": "Mehmed Paša Sokolović Bridge in Višegrad",
+   "countries": "Bosnia and Herzegovina",
+   "category": "cultural",
+   "year": 2007,
+   "url": "https://whc.unesco.org/en/list/1260",
+   "y": 43.7814444444,
+   "x": 19.288025
+  },
+  {
+   "id": "1673",
+   "name": "Vjetrenica Cave, Ravno",
+   "countries": "Bosnia and Herzegovina",
+   "category": "natural",
+   "year": 2024,
+   "url": "https://whc.unesco.org/en/list/1673",
+   "y": 42.845,
+   "x": 17.9888888889
+  },
+  {
+   "id": "44",
+   "name": "Thracian Tomb of Kazanlak",
+   "countries": "Bulgaria",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/44",
+   "y": 42.625774,
+   "x": 25.399172
+  },
+  {
+   "id": "45",
+   "name": "Rock-Hewn Churches of Ivanovo",
+   "countries": "Bulgaria",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/45",
+   "y": 43.694858,
+   "x": 25.987893
+  },
+  {
+   "id": "216",
+   "name": "Rila Monastery",
+   "countries": "Bulgaria",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/216",
+   "y": 42.1148458508,
+   "x": 23.3085522023
+  },
+  {
+   "id": "219",
+   "name": "Srebarna Nature Reserve",
+   "countries": "Bulgaria",
+   "category": "natural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/219",
+   "y": 44.11444,
+   "x": 27.07806
+  },
+  {
+   "id": "225",
+   "name": "Pirin National Park",
+   "countries": "Bulgaria",
+   "category": "natural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/225",
+   "y": 41.7427222222,
+   "x": 23.4304722222
+  },
+  {
+   "id": "217",
+   "name": "Ancient City of Nessebar",
+   "countries": "Bulgaria",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/217",
+   "y": 42.6591111111,
+   "x": 27.7360277778
+  },
+  {
+   "id": "42",
+   "name": "Boyana Church",
+   "countries": "Bulgaria",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/42",
+   "y": 42.6446707809,
+   "x": 23.2661877076
+  },
+  {
+   "id": "43",
+   "name": "Madara Rider",
+   "countries": "Bulgaria",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/43",
+   "y": 43.2774166667,
+   "x": 27.1189444444
+  },
+  {
+   "id": "359",
+   "name": "Thracian Tomb of Sveshtari",
+   "countries": "Bulgaria",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/359",
+   "y": 43.7449166667,
+   "x": 26.7665277778
+  },
+  {
+   "id": "97",
+   "name": "Historical Complex of Split with the Palace of Diocletian",
+   "countries": "Croatia",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/97",
+   "y": 43.5088888889,
+   "x": 16.4391666667
+  },
+  {
+   "id": "809",
+   "name": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+   "countries": "Croatia",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/809",
+   "y": 45.2285833333,
+   "x": 13.5933333333
+  },
+  {
+   "id": "810",
+   "name": "Historic City of Trogir",
+   "countries": "Croatia",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/810",
+   "y": 43.5170833333,
+   "x": 16.2513611111
+  },
+  {
+   "id": "963",
+   "name": "The Cathedral of St James in Šibenik",
+   "countries": "Croatia",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/963",
+   "y": 43.7356919539,
+   "x": 15.8891302403
+  },
+  {
+   "id": "1240",
+   "name": "Stari Grad Plain",
+   "countries": "Croatia",
+   "category": "cultural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1240",
+   "y": 43.1816666667,
+   "x": 16.6386111111
+  },
+  {
+   "id": "95",
+   "name": "Old City of Dubrovnik",
+   "countries": "Croatia",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/95",
+   "y": 42.6289444445,
+   "x": 18.1180555556
+  },
+  {
+   "id": "98",
+   "name": "Plitvice Lakes National Park",
+   "countries": "Croatia",
+   "category": "natural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/98",
+   "y": 44.87778,
+   "x": 15.61444
+  },
+  {
+   "id": "617",
+   "name": "Historic Centre of Český Krumlov",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/617",
+   "y": 48.8106944444,
+   "x": 14.3150277778
+  },
+  {
+   "id": "621",
+   "name": "Historic Centre of Telč",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/621",
+   "y": 49.1841388889,
+   "x": 15.4539722222
+  },
+  {
+   "id": "690",
+   "name": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/690",
+   "y": 49.5802,
+   "x": 15.9420583333
+  },
+  {
+   "id": "732",
+   "name": "Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/732",
+   "y": 49.949976,
+   "x": 15.267402
+  },
+  {
+   "id": "859",
+   "name": "Holy Trinity Column in Olomouc",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/859",
+   "y": 49.5939361111,
+   "x": 17.2504583333
+  },
+  {
+   "id": "860",
+   "name": "Gardens and Castle at Kroměříž",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/860",
+   "y": 49.296474,
+   "x": 17.38186
+  },
+  {
+   "id": "861",
+   "name": "Holašovice Historic Village",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/861",
+   "y": 48.9696388889,
+   "x": 14.2726111111
+  },
+  {
+   "id": "901",
+   "name": "Litomyšl Castle",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/901",
+   "y": 49.87361,
+   "x": 16.31444
+  },
+  {
+   "id": "1052",
+   "name": "Tugendhat Villa in Brno",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1052",
+   "y": 49.2071833333,
+   "x": 16.6160555556
+  },
+  {
+   "id": "616",
+   "name": "Historic Centre of Prague",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/616",
+   "y": 49.9894444444,
+   "x": 14.55
+  },
+  {
+   "id": "1078",
+   "name": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 2003,
+   "url": "https://whc.unesco.org/en/list/1078",
+   "y": 49.2169138889,
+   "x": 15.8734694445
+  },
+  {
+   "id": "1558",
+   "name": "Žatec and the Landscape of Saaz Hops",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1558",
+   "y": 50.3202777778,
+   "x": 13.62
+  },
+  {
+   "id": "1589",
+   "name": "Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1589",
+   "y": 50.05665,
+   "x": 15.4842583333
+  },
+  {
+   "id": "763",
+   "name": "Lednice-Valtice Cultural Landscape",
+   "countries": "Czechia",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/763",
+   "y": 48.7999444444,
+   "x": 16.8033861111
+  },
+  {
+   "id": "695",
+   "name": "Roskilde Cathedral",
+   "countries": "Denmark",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/695",
+   "y": 55.6426654094,
+   "x": 12.0798998457
+  },
+  {
+   "id": "696",
+   "name": "Kronborg Castle",
+   "countries": "Denmark",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/696",
+   "y": 56.03889,
+   "x": 12.62083333
+  },
+  {
+   "id": "1416",
+   "name": "Stevns Klint",
+   "countries": "Denmark",
+   "category": "natural",
+   "year": 2014,
+   "url": "https://whc.unesco.org/en/list/1416",
+   "y": 55.2672222222,
+   "x": 12.4233333333
+  },
+  {
+   "id": "1469",
+   "name": "The par force hunting landscape in North Zealand",
+   "countries": "Denmark",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1469",
+   "y": 55.8,
+   "x": 12.5666666667
+  },
+  {
+   "id": "697",
+   "name": "Jelling Mounds, Runic Stones and Church",
+   "countries": "Denmark",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/697",
+   "y": 55.75638889,
+   "x": 9.42
+  },
+  {
+   "id": "1660",
+   "name": "Viking-Age Ring Fortresses",
+   "countries": "Denmark",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1660",
+   "y": 55.3913888889,
+   "x": 10.3891666666
+  },
+  {
+   "id": "1728",
+   "name": "Møns Klint",
+   "countries": "Denmark",
+   "category": "natural",
+   "year": 2025,
+   "url": "https://whc.unesco.org/en/list/1728",
+   "y": 54.9791666667,
+   "x": 12.4983333333
+  },
+  {
+   "id": "1758",
+   "name": "The Bony Fish Fossils of the Western Limfjord – Evolution and Climate Adaptation in the Earliest Eocene",
+   "countries": "Denmark",
+   "category": "natural",
+   "year": 2026,
+   "url": "https://whc.unesco.org/en/list/1758",
+   "y": 56.838216,
+   "x": 8.964653
+  },
+  {
+   "id": "822",
+   "name": "Historic Centre (Old Town) of Tallinn",
+   "countries": "Estonia",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/822",
+   "y": 59.437,
+   "x": 24.74
+  },
+  {
+   "id": "579",
+   "name": "Bronze Age Burial Site of Sammallahdenmäki",
+   "countries": "Finland",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/579",
+   "y": 61.12056,
+   "x": 21.7775
+  },
+  {
+   "id": "583",
+   "name": "Fortress of Suomenlinna",
+   "countries": "Finland",
+   "category": "cultural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/583",
+   "y": 60.14722,
+   "x": 24.98722
+  },
+  {
+   "id": "584",
+   "name": "Petäjävesi Old Church",
+   "countries": "Finland",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/584",
+   "y": 62.25,
+   "x": 25.18333
+  },
+  {
+   "id": "751",
+   "name": "Verla Groundwood and Board Mill",
+   "countries": "Finland",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/751",
+   "y": 61.06194,
+   "x": 26.64083
+  },
+  {
+   "id": "582",
+   "name": "Old Rauma",
+   "countries": "Finland",
+   "category": "cultural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/582",
+   "y": 61.12806,
+   "x": 21.51167
+  },
+  {
+   "id": "1752",
+   "name": "Aalto Works",
+   "countries": "Finland",
+   "category": "cultural",
+   "year": 2026,
+   "url": "https://whc.unesco.org/en/list/1752",
+   "y": 60.1760927778,
+   "x": 24.9333925
+  },
+  {
+   "id": "228",
+   "name": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/228",
+   "y": 43.95277778,
+   "x": 4.806111111
+  },
+  {
+   "id": "258",
+   "name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+   "countries": "France",
+   "category": "natural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/258",
+   "y": 42.32519444,
+   "x": 8.628833333
+  },
+  {
+   "id": "345",
+   "name": "Historic Fortified City of Carcassonne",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/345",
+   "y": 43.2070631,
+   "x": 2.3636562
+  },
+  {
+   "id": "601",
+   "name": "Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/601",
+   "y": 49.254,
+   "x": 4.034
+  },
+  {
+   "id": "770",
+   "name": "Canal du Midi",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/770",
+   "y": 43.61,
+   "x": 1.416
+  },
+  {
+   "id": "872",
+   "name": "Historic Site of Lyon",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/872",
+   "y": 45.76722,
+   "x": 4.83333
+  },
+  {
+   "id": "873",
+   "name": "Provins, Town of Medieval Fairs",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/873",
+   "y": 48.55972222,
+   "x": 3.298888889
+  },
+  {
+   "id": "932",
+   "name": "Jurisdiction of Saint-Emilion",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/932",
+   "y": 44.89472222,
+   "x": -0.1552777778
+  },
+  {
+   "id": "1181",
+   "name": "Le Havre, the City Rebuilt by Auguste Perret",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/1181",
+   "y": 49.49278,
+   "x": 0.1075
+  },
+  {
+   "id": "1256",
+   "name": "Bordeaux, Port of the Moon",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2007,
+   "url": "https://whc.unesco.org/en/list/1256",
+   "y": 44.8388888889,
+   "x": -0.5722222222
+  },
+  {
+   "id": "1283",
+   "name": "Fortifications of Vauban",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1283",
+   "y": 42.51,
+   "x": 2.1197222222
+  },
+  {
+   "id": "165",
+   "name": "Cistercian Abbey of Fontenay",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1981,
+   "url": "https://whc.unesco.org/en/list/165",
+   "y": 47.63944,
+   "x": 4.38911
+  },
+  {
+   "id": "344",
+   "name": "Pont du Gard (Roman Aqueduct)",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/344",
+   "y": 43.94722222,
+   "x": 4.535277778
+  },
+  {
+   "id": "163",
+   "name": "Roman Theatre and its Surroundings and the \"Triumphal Arch\" of Orange",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1981,
+   "url": "https://whc.unesco.org/en/list/163",
+   "y": 44.1357222222,
+   "x": 4.8084166667
+  },
+  {
+   "id": "83",
+   "name": "Palace and Park of Versailles",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/83",
+   "y": 48.805,
+   "x": 2.119444444
+  },
+  {
+   "id": "84",
+   "name": "Vézelay, Church and Hill",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/84",
+   "y": 47.4581305447,
+   "x": 3.7359678117
+  },
+  {
+   "id": "203",
+   "name": "From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1982,
+   "url": "https://whc.unesco.org/en/list/203",
+   "y": 46.9375,
+   "x": 5.8763888889
+  },
+  {
+   "id": "1337",
+   "name": "Episcopal City of Albi",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2010,
+   "url": "https://whc.unesco.org/en/list/1337",
+   "y": 43.9291666667,
+   "x": 2.1441666667
+  },
+  {
+   "id": "81",
+   "name": "Chartres Cathedral",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/81",
+   "y": 48.4475,
+   "x": 1.487222222
+  },
+  {
+   "id": "1360",
+   "name": "Nord-Pas de Calais Mining Basin",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2012,
+   "url": "https://whc.unesco.org/en/list/1360",
+   "y": 50.3147222222,
+   "x": 3.3572222222
+  },
+  {
+   "id": "1153",
+   "name": "The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2011,
+   "url": "https://whc.unesco.org/en/list/1153",
+   "y": 44.2202777778,
+   "x": 3.4730555556
+  },
+  {
+   "id": "162",
+   "name": "Amiens Cathedral",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1981,
+   "url": "https://whc.unesco.org/en/list/162",
+   "y": 49.895,
+   "x": 2.301666667
+  },
+  {
+   "id": "635",
+   "name": "Bourges Cathedral",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/635",
+   "y": 47.08222222,
+   "x": 2.398333333
+  },
+  {
+   "id": "1426",
+   "name": "Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2014,
+   "url": "https://whc.unesco.org/en/list/1426",
+   "y": 44.3875,
+   "x": 4.4161111111
+  },
+  {
+   "id": "1425",
+   "name": "The Climats, terroirs of Burgundy",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1425",
+   "y": 47.0580555556,
+   "x": 4.8644444444
+  },
+  {
+   "id": "1465",
+   "name": "Champagne Hillsides, Houses and Cellars",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1465",
+   "y": 49.0408333333,
+   "x": 3.9613888889
+  },
+  {
+   "id": "495",
+   "name": "Strasbourg, Grande-Île and Neustadt",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/495",
+   "y": 48.5844444444,
+   "x": 7.7488888889
+  },
+  {
+   "id": "229",
+   "name": "Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/229",
+   "y": 48.69361111,
+   "x": 6.183333333
+  },
+  {
+   "id": "933",
+   "name": "The Loire Valley between Sully-sur-Loire and Chalonnes",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/933",
+   "y": 47.39889,
+   "x": 0.70278
+  },
+  {
+   "id": "1434",
+   "name": "Chaîne des Puys - Limagne fault tectonic arena",
+   "countries": "France",
+   "category": "natural",
+   "year": 2018,
+   "url": "https://whc.unesco.org/en/list/1434",
+   "y": 45.7793888889,
+   "x": 2.9651111111
+  },
+  {
+   "id": "80",
+   "name": "Mont-Saint-Michel and its Bay",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/80",
+   "y": 48.58525,
+   "x": -1.5061388889
+  },
+  {
+   "id": "1625",
+   "name": "Cordouan Lighthouse",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1625",
+   "y": 45.5863055556,
+   "x": -1.1733333333
+  },
+  {
+   "id": "1635",
+   "name": "Nice, Winter Resort Town of the Riviera",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1635",
+   "y": 43.7016944444,
+   "x": 7.2723055556
+  },
+  {
+   "id": "1569",
+   "name": "The Maison Carrée of Nîmes",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1569",
+   "y": 43.8382222222,
+   "x": 4.3561944444
+  },
+  {
+   "id": "85",
+   "name": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/85",
+   "y": 44.9246944444,
+   "x": 1.0205833333
+  },
+  {
+   "id": "1725",
+   "name": "Megaliths of Carnac and of the shores of Morbihan",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2025,
+   "url": "https://whc.unesco.org/en/list/1725",
+   "y": 47.5044444444,
+   "x": -3.1297222223
+  },
+  {
+   "id": "230",
+   "name": "Abbey Church of Saint-Savin sur Gartempe",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/230",
+   "y": 46.56472,
+   "x": 0.86611
+  },
+  {
+   "id": "600",
+   "name": "Paris, Banks of the Seine",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/600",
+   "y": 48.8655,
+   "x": 2.3211388889
+  },
+  {
+   "id": "1755",
+   "name": "Royal Capetian Fortresses of Languedoc",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2026,
+   "url": "https://whc.unesco.org/en/list/1755",
+   "y": 42.8038055556,
+   "x": 2.2996138889
+  },
+  {
+   "id": "1581",
+   "name": "Beaches of the D-Day Landings, Normandy, 1944",
+   "countries": "France",
+   "category": "cultural",
+   "year": 2026,
+   "url": "https://whc.unesco.org/en/list/1581",
+   "y": 49.2961111111,
+   "x": -0.2911111111
+  },
+  {
+   "id": "868",
+   "name": "Routes of Santiago de Compostela in France",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/868",
+   "y": 45.184055555,
+   "x": -0.722944444
+  },
+  {
+   "id": "160",
+   "name": "Palace and Park of Fontainebleau",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1981,
+   "url": "https://whc.unesco.org/en/list/160",
+   "y": 48.40194444,
+   "x": 2.698055556
+  },
+  {
+   "id": "164",
+   "name": "Arles, Roman and Romanesque Monuments",
+   "countries": "France",
+   "category": "cultural",
+   "year": 1981,
+   "url": "https://whc.unesco.org/en/list/164",
+   "y": 43.67763889,
+   "x": 4.630694444
+  },
+  {
+   "id": "168",
+   "name": "Speyer Cathedral",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1981,
+   "url": "https://whc.unesco.org/en/list/168",
+   "y": 49.3172222222,
+   "x": 8.4423888889
+  },
+  {
+   "id": "367",
+   "name": "Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/367",
+   "y": 49.7091666667,
+   "x": 6.5495277777
+  },
+  {
+   "id": "532",
+   "name": "Palaces and Parks of Potsdam and Berlin",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1990,
+   "url": "https://whc.unesco.org/en/list/532",
+   "y": 52.4,
+   "x": 13.03333333
+  },
+  {
+   "id": "535",
+   "name": "Collegiate Church, Castle and Old Town of Quedlinburg",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/535",
+   "y": 51.7847222222,
+   "x": 11.1302777778
+  },
+  {
+   "id": "624",
+   "name": "Town of Bamberg",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/624",
+   "y": 49.89166667,
+   "x": 10.88888889
+  },
+  {
+   "id": "687",
+   "name": "Völklingen Ironworks",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/687",
+   "y": 49.2487222222,
+   "x": 6.8442222222
+  },
+  {
+   "id": "783",
+   "name": "Luther Memorials in Eisleben and Wittenberg",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/783",
+   "y": 51.5269166667,
+   "x": 11.5503333333
+  },
+  {
+   "id": "846",
+   "name": "Classical Weimar",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/846",
+   "y": 50.9775,
+   "x": 11.32861
+  },
+  {
+   "id": "896",
+   "name": "Museumsinsel (Museum Island), Berlin",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/896",
+   "y": 52.51972222,
+   "x": 13.39861111
+  },
+  {
+   "id": "897",
+   "name": "Wartburg Castle",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/897",
+   "y": 50.96677778,
+   "x": 10.307
+  },
+  {
+   "id": "974",
+   "name": "Monastic Island of Reichenau",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/974",
+   "y": 47.69872222,
+   "x": 9.061305556
+  },
+  {
+   "id": "975",
+   "name": "Zollverein Coal Mine Industrial Complex in Essen",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/975",
+   "y": 51.49138889,
+   "x": 7.046111111
+  },
+  {
+   "id": "1066",
+   "name": "Upper Middle Rhine Valley",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2002,
+   "url": "https://whc.unesco.org/en/list/1066",
+   "y": 50.17361111,
+   "x": 7.694166667
+  },
+  {
+   "id": "1067",
+   "name": "Historic Centres of Stralsund and Wismar",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2002,
+   "url": "https://whc.unesco.org/en/list/1067",
+   "y": 53.8833333333,
+   "x": 11.4666666667
+  },
+  {
+   "id": "1087",
+   "name": "Town Hall and Roland on the Marketplace of Bremen",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1087",
+   "y": 53.07597222,
+   "x": 8.807472222
+  },
+  {
+   "id": "1155",
+   "name": "Old town of Regensburg with Stadtamhof",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2006,
+   "url": "https://whc.unesco.org/en/list/1155",
+   "y": 49.02055556,
+   "x": 12.09916667
+  },
+  {
+   "id": "623",
+   "name": "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/623",
+   "y": 51.82,
+   "x": 10.34
+  },
+  {
+   "id": "187",
+   "name": "St Mary's Cathedral and St Michael's Church at Hildesheim",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/187",
+   "y": 52.1488888889,
+   "x": 9.9472222222
+  },
+  {
+   "id": "292",
+   "name": "Cologne Cathedral",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/292",
+   "y": 50.94111111,
+   "x": 6.957222222
+  },
+  {
+   "id": "272",
+   "name": "Hanseatic City of Lübeck",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/272",
+   "y": 53.8625,
+   "x": 10.6833333333
+  },
+  {
+   "id": "720",
+   "name": "Messel Pit Fossil Site",
+   "countries": "Germany",
+   "category": "natural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/720",
+   "y": 49.918,
+   "x": 8.757
+  },
+  {
+   "id": "169",
+   "name": "Würzburg Residence with the Court Gardens and Residence Square",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1981,
+   "url": "https://whc.unesco.org/en/list/169",
+   "y": 49.7927777778,
+   "x": 9.9388888889
+  },
+  {
+   "id": "1368",
+   "name": "Fagus Factory in Alfeld",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2011,
+   "url": "https://whc.unesco.org/en/list/1368",
+   "y": 51.9838888889,
+   "x": 9.8122222222
+  },
+  {
+   "id": "1379",
+   "name": "Margravial Opera House Bayreuth",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2012,
+   "url": "https://whc.unesco.org/en/list/1379",
+   "y": 49.9443931107,
+   "x": 11.5784979437
+  },
+  {
+   "id": "271",
+   "name": "Pilgrimage Church of Wies",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/271",
+   "y": 47.6806460297,
+   "x": 10.9000214547
+  },
+  {
+   "id": "515",
+   "name": "Abbey and Altenmünster of Lorsch",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/515",
+   "y": 49.6536944444,
+   "x": 8.5685833333
+  },
+  {
+   "id": "1413",
+   "name": "Bergpark Wilhelmshöhe",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2013,
+   "url": "https://whc.unesco.org/en/list/1413",
+   "y": 51.3158333333,
+   "x": 9.3930555556
+  },
+  {
+   "id": "3",
+   "name": "Aachen Cathedral",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1978,
+   "url": "https://whc.unesco.org/en/list/3",
+   "y": 50.7747468537,
+   "x": 6.083919968
+  },
+  {
+   "id": "1447",
+   "name": "Carolingian Westwork and Civitas Corvey",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2014,
+   "url": "https://whc.unesco.org/en/list/1447",
+   "y": 51.7782777778,
+   "x": 9.41025
+  },
+  {
+   "id": "1467",
+   "name": "Speicherstadt and Kontorhaus District with Chilehaus",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1467",
+   "y": 53.5455555556,
+   "x": 9.9994444444
+  },
+  {
+   "id": "1527",
+   "name": "Caves and Ice Age Art in the Swabian Jura",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2017,
+   "url": "https://whc.unesco.org/en/list/1527",
+   "y": 48.3877777778,
+   "x": 9.7655555556
+  },
+  {
+   "id": "729",
+   "name": "Bauhaus and its Sites in Weimar, Dessau and Bernau",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/729",
+   "y": 50.9738852126,
+   "x": 11.3396692937
+  },
+  {
+   "id": "1553",
+   "name": "Archaeological Border complex of Hedeby and the Danevirke",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2018,
+   "url": "https://whc.unesco.org/en/list/1553",
+   "y": 54.4556388889,
+   "x": 9.3468333333
+  },
+  {
+   "id": "1580",
+   "name": "Water Management System of Augsburg",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1580",
+   "y": 48.3654722222,
+   "x": 10.902
+  },
+  {
+   "id": "1470",
+   "name": "Naumburg Cathedral",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2018,
+   "url": "https://whc.unesco.org/en/list/1470",
+   "y": 51.1548055556,
+   "x": 11.804
+  },
+  {
+   "id": "1614",
+   "name": "Mathildenhöhe Darmstadt",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1614",
+   "y": 49.875,
+   "x": 8.6638888889
+  },
+  {
+   "id": "534",
+   "name": "Garden Kingdom of Dessau-Wörlitz",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/534",
+   "y": 51.8066777238,
+   "x": 12.14983026
+  },
+  {
+   "id": "546",
+   "name": "Maulbronn Monastery Complex",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/546",
+   "y": 48.9918277777,
+   "x": 8.79775
+  },
+  {
+   "id": "1636",
+   "name": "ShUM Sites of Speyer, Worms and Mainz",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1636",
+   "y": 49.3162055556,
+   "x": 8.4395444444
+  },
+  {
+   "id": "1656",
+   "name": "Jewish-Medieval Heritage of Erfurt",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1656",
+   "y": 50.9782805556,
+   "x": 11.0299
+  },
+  {
+   "id": "1705",
+   "name": "Schwerin Residence Ensemble",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2024,
+   "url": "https://whc.unesco.org/en/list/1705",
+   "y": 53.6241666667,
+   "x": 11.4188888889
+  },
+  {
+   "id": "1726",
+   "name": "The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2025,
+   "url": "https://whc.unesco.org/en/list/1726",
+   "y": 47.4197222223,
+   "x": 11.1127777778
+  },
+  {
+   "id": "288",
+   "name": "Castles of Augustusburg and Falkenlust at Brühl",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 1984,
+   "url": "https://whc.unesco.org/en/list/288",
+   "y": 50.82502778,
+   "x": 6.909777778
+  },
+  {
+   "id": "1239",
+   "name": "Berlin Modernism Housing Estates",
+   "countries": "Germany",
+   "category": "cultural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1239",
+   "y": 52.4108333333,
+   "x": 13.5666666667
+  },
+  {
+   "id": "392",
+   "name": "Temple of Apollo Epicurius at Bassae",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/392",
+   "y": 37.43498,
+   "x": 21.89694
+  },
+  {
+   "id": "393",
+   "name": "Archaeological Site of Delphi",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/393",
+   "y": 38.48149,
+   "x": 22.49617
+  },
+  {
+   "id": "404",
+   "name": "Acropolis, Athens",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/404",
+   "y": 37.97087,
+   "x": 23.72618
+  },
+  {
+   "id": "454",
+   "name": "Mount Athos",
+   "countries": "Greece",
+   "category": "mixed",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/454",
+   "y": 40.26667,
+   "x": 24.21667
+  },
+  {
+   "id": "455",
+   "name": "Meteora",
+   "countries": "Greece",
+   "category": "mixed",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/455",
+   "y": 39.71667,
+   "x": 21.63333
+  },
+  {
+   "id": "456",
+   "name": "Paleochristian and Byzantine Monuments of Thessalonika",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/456",
+   "y": 40.6389722222,
+   "x": 22.9703055556
+  },
+  {
+   "id": "491",
+   "name": "Sanctuary of Asklepios at Epidaurus",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/491",
+   "y": 37.6,
+   "x": 23.0805555556
+  },
+  {
+   "id": "493",
+   "name": "Medieval City of Rhodes",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/493",
+   "y": 36.44722,
+   "x": 28.22778
+  },
+  {
+   "id": "511",
+   "name": "Archaeological Site of Mystras",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1989,
+   "url": "https://whc.unesco.org/en/list/511",
+   "y": 37.08056,
+   "x": 22.36667
+  },
+  {
+   "id": "517",
+   "name": "Archaeological Site of Olympia",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1989,
+   "url": "https://whc.unesco.org/en/list/517",
+   "y": 37.64,
+   "x": 21.634
+  },
+  {
+   "id": "530",
+   "name": "Delos",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1990,
+   "url": "https://whc.unesco.org/en/list/530",
+   "y": 37.4,
+   "x": 25.26667
+  },
+  {
+   "id": "537",
+   "name": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1990,
+   "url": "https://whc.unesco.org/en/list/537",
+   "y": 38.0130816013,
+   "x": 23.6366237875
+  },
+  {
+   "id": "595",
+   "name": "Pythagoreion and Heraion of Samos",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/595",
+   "y": 37.6733333333,
+   "x": 26.8894444444
+  },
+  {
+   "id": "780",
+   "name": "Archaeological Site of Aigai (modern name Vergina)",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/780",
+   "y": 40.4713888889,
+   "x": 22.3183333333
+  },
+  {
+   "id": "941",
+   "name": "Archaeological Sites of Mycenae and Tiryns",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/941",
+   "y": 37.6,
+   "x": 22.8
+  },
+  {
+   "id": "942",
+   "name": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/942",
+   "y": 37.3,
+   "x": 26.55
+  },
+  {
+   "id": "978",
+   "name": "Old Town of Corfu",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 2007,
+   "url": "https://whc.unesco.org/en/list/978",
+   "y": 39.6239413889,
+   "x": 19.9275
+  },
+  {
+   "id": "1517",
+   "name": "Archaeological Site of Philippi",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 2016,
+   "url": "https://whc.unesco.org/en/list/1517",
+   "y": 41.0147222222,
+   "x": 24.2852777778
+  },
+  {
+   "id": "1695",
+   "name": "Zagori Cultural Landscape",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1695",
+   "y": 39.9052777778,
+   "x": 20.8197222222
+  },
+  {
+   "id": "1733",
+   "name": "Minoan Palatial Centres",
+   "countries": "Greece",
+   "category": "cultural",
+   "year": 2025,
+   "url": "https://whc.unesco.org/en/list/1733",
+   "y": 35.0511111111,
+   "x": 24.8141666667
+  },
+  {
+   "id": "1719",
+   "name": "The wider area of Mount Olympus",
+   "countries": "Greece",
+   "category": "mixed",
+   "year": 2026,
+   "url": "https://whc.unesco.org/en/list/1719",
+   "y": 40.099916,
+   "x": 22.390969
+  },
+  {
+   "id": "286",
+   "name": "Vatican City",
+   "countries": "Holy See",
+   "category": "cultural",
+   "year": 1984,
+   "url": "https://whc.unesco.org/en/list/286",
+   "y": 41.90216,
+   "x": 12.45736
+  },
+  {
+   "id": "400",
+   "name": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+   "countries": "Hungary",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/400",
+   "y": 47.497047,
+   "x": 19.0428833
+  },
+  {
+   "id": "401",
+   "name": "Old Village of Hollókő and its Surroundings",
+   "countries": "Hungary",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/401",
+   "y": 47.99444,
+   "x": 19.52917
+  },
+  {
+   "id": "474",
+   "name": "Hortobágy National Park - the Puszta",
+   "countries": "Hungary",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/474",
+   "y": 47.59458,
+   "x": 21.15678
+  },
+  {
+   "id": "758",
+   "name": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+   "countries": "Hungary",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/758",
+   "y": 47.55889,
+   "x": 17.78444
+  },
+  {
+   "id": "853",
+   "name": "Early Christian Necropolis of Pécs (Sopianae)",
+   "countries": "Hungary",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/853",
+   "y": 46.07444,
+   "x": 18.22778
+  },
+  {
+   "id": "1063",
+   "name": "Tokaj Wine Region Historic Cultural Landscape",
+   "countries": "Hungary",
+   "category": "cultural",
+   "year": 2002,
+   "url": "https://whc.unesco.org/en/list/1063",
+   "y": 48.15,
+   "x": 21.35
+  },
+  {
+   "id": "1152",
+   "name": "Þingvellir National Park",
+   "countries": "Iceland",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1152",
+   "y": 64.25380556,
+   "x": -21.03725
+  },
+  {
+   "id": "1267",
+   "name": "Surtsey",
+   "countries": "Iceland",
+   "category": "natural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1267",
+   "y": 63.3030555556,
+   "x": -20.6022222222
+  },
+  {
+   "id": "1604",
+   "name": "Vatnajökull National Park - Dynamic Nature of Fire and Ice",
+   "countries": "Iceland",
+   "category": "natural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1604",
+   "y": 64.577363,
+   "x": -16.8815404444
+  },
+  {
+   "id": "659",
+   "name": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+   "countries": "Ireland",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/659",
+   "y": 53.6946944444,
+   "x": -6.4755
+  },
+  {
+   "id": "757",
+   "name": "Sceilg Mhichíl",
+   "countries": "Ireland",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/757",
+   "y": 51.77194,
+   "x": -10.53861
+  },
+  {
+   "id": "93",
+   "name": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/93",
+   "y": 45.466,
+   "x": 9.171
+  },
+  {
+   "id": "94",
+   "name": "Rock Drawings in Valcamonica",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/94",
+   "y": 45.888503,
+   "x": 10.180469
+  },
+  {
+   "id": "394",
+   "name": "Venice and its Lagoon",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/394",
+   "y": 45.43430556,
+   "x": 12.33894444
+  },
+  {
+   "id": "398",
+   "name": "Castel del Monte",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/398",
+   "y": 41.08480556,
+   "x": 16.27094444
+  },
+  {
+   "id": "549",
+   "name": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/549",
+   "y": 41.07333,
+   "x": 14.32639
+  },
+  {
+   "id": "550",
+   "name": "Historic Centre of San Gimignano",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1990,
+   "url": "https://whc.unesco.org/en/list/550",
+   "y": 43.46806,
+   "x": 11.04167
+  },
+  {
+   "id": "670",
+   "name": "The Sassi and the Park of the Rupestrian Churches of Matera",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/670",
+   "y": 40.66638889,
+   "x": 16.61027778
+  },
+  {
+   "id": "712",
+   "name": "City of Vicenza and the Palladian Villas of the Veneto",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/712",
+   "y": 45.0308002094,
+   "x": 11.6407034424
+  },
+  {
+   "id": "717",
+   "name": "Historic Centre of Siena",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/717",
+   "y": 43.31861111,
+   "x": 11.33166667
+  },
+  {
+   "id": "730",
+   "name": "Crespi d'Adda",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/730",
+   "y": 45.59333,
+   "x": 9.53833
+  },
+  {
+   "id": "733",
+   "name": "Ferrara, City of the Renaissance, and its Po Delta",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/733",
+   "y": 44.8372418244,
+   "x": 11.6197696436
+  },
+  {
+   "id": "787",
+   "name": "The Trulli of Alberobello",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/787",
+   "y": 40.7822171383,
+   "x": 17.2369443548
+  },
+  {
+   "id": "788",
+   "name": "Early Christian Monuments of Ravenna",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/788",
+   "y": 44.3802987918,
+   "x": 12.2331114233
+  },
+  {
+   "id": "789",
+   "name": "Historic Centre of the City of Pienza",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/789",
+   "y": 43.07694444,
+   "x": 11.67861111
+  },
+  {
+   "id": "797",
+   "name": "City of Verona",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/797",
+   "y": 45.43861111,
+   "x": 10.99388889
+  },
+  {
+   "id": "824",
+   "name": "Botanical Garden (Orto Botanico), Padua",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/824",
+   "y": 45.39911111,
+   "x": 11.88066667
+  },
+  {
+   "id": "827",
+   "name": "Cathedral, Torre Civica and Piazza Grande, Modena",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/827",
+   "y": 44.64624,
+   "x": 10.92568
+  },
+  {
+   "id": "828",
+   "name": "Historic Centre of Urbino",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/828",
+   "y": 43.7261395291,
+   "x": 12.635924895
+  },
+  {
+   "id": "830",
+   "name": "Costiera Amalfitana",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/830",
+   "y": 40.6333333333,
+   "x": 14.6027777778
+  },
+  {
+   "id": "831",
+   "name": "Archaeological Area of Agrigento",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/831",
+   "y": 37.28972222,
+   "x": 13.59333333
+  },
+  {
+   "id": "832",
+   "name": "Villa Romana del Casale",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/832",
+   "y": 37.36611,
+   "x": 14.33417
+  },
+  {
+   "id": "833",
+   "name": "Su Nuraxi di Barumini",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/833",
+   "y": 39.70583333,
+   "x": 8.991388889
+  },
+  {
+   "id": "842",
+   "name": "Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/842",
+   "y": 40.0666666667,
+   "x": 15.4333333333
+  },
+  {
+   "id": "907",
+   "name": "Villa Adriana (Tivoli)",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/907",
+   "y": 41.94416667,
+   "x": 12.77197222
+  },
+  {
+   "id": "908",
+   "name": "Isole Eolie (Aeolian Islands)",
+   "countries": "Italy",
+   "category": "natural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/908",
+   "y": 38.48786111,
+   "x": 14.94558333
+  },
+  {
+   "id": "990",
+   "name": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/990",
+   "y": 43.0580555556,
+   "x": 12.5802777778
+  },
+  {
+   "id": "1024",
+   "name": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2002,
+   "url": "https://whc.unesco.org/en/list/1024",
+   "y": 36.7924166667,
+   "x": 14.7057222222
+  },
+  {
+   "id": "1025",
+   "name": "Villa d'Este, Tivoli",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1025",
+   "y": 41.96391667,
+   "x": 12.79625
+  },
+  {
+   "id": "1026",
+   "name": "Val d'Orcia",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1026",
+   "y": 43.06666667,
+   "x": 11.55
+  },
+  {
+   "id": "1068",
+   "name": "Sacri Monti of Piedmont and Lombardy",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2003,
+   "url": "https://whc.unesco.org/en/list/1068",
+   "y": 45.0947222222,
+   "x": 8.2697222222
+  },
+  {
+   "id": "1158",
+   "name": "Etruscan Necropolises of Cerveteri and Tarquinia",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1158",
+   "y": 42.0068333333,
+   "x": 12.1018888889
+  },
+  {
+   "id": "1200",
+   "name": "Syracuse and the Rocky Necropolis of Pantalica",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/1200",
+   "y": 37.0594444444,
+   "x": 15.2930555556
+  },
+  {
+   "id": "1211",
+   "name": "Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2006,
+   "url": "https://whc.unesco.org/en/list/1211",
+   "y": 44.412,
+   "x": 8.93
+  },
+  {
+   "id": "1287",
+   "name": "Mantua and Sabbioneta",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1287",
+   "y": 44.9983333333,
+   "x": 10.4902777778
+  },
+  {
+   "id": "395",
+   "name": "Piazza del Duomo, Pisa",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/395",
+   "y": 43.72305556,
+   "x": 10.39638889
+  },
+  {
+   "id": "1237",
+   "name": "The Dolomites",
+   "countries": "Italy",
+   "category": "natural",
+   "year": 2009,
+   "url": "https://whc.unesco.org/en/list/1237",
+   "y": 46.1641666667,
+   "x": 10.9025
+  },
+  {
+   "id": "823",
+   "name": "Residences of the Royal House of Savoy",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/823",
+   "y": 44.6833055556,
+   "x": 7.8949722222
+  },
+  {
+   "id": "1318",
+   "name": "Longobards in Italy. Places of the Power (568-774 A.D.)",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2011,
+   "url": "https://whc.unesco.org/en/list/1318",
+   "y": 41.1305555556,
+   "x": 14.7813888889
+  },
+  {
+   "id": "726",
+   "name": "Historic Centre of Naples",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/726",
+   "y": 40.7956944444,
+   "x": 14.1920527778
+  },
+  {
+   "id": "175",
+   "name": "Medici Villas and Gardens in Tuscany",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2013,
+   "url": "https://whc.unesco.org/en/list/175",
+   "y": 43.7488888889,
+   "x": 11.2477777778
+  },
+  {
+   "id": "1427",
+   "name": "Mount Etna",
+   "countries": "Italy",
+   "category": "natural",
+   "year": 2013,
+   "url": "https://whc.unesco.org/en/list/1427",
+   "y": 37.7561111111,
+   "x": 14.9966666667
+  },
+  {
+   "id": "1390",
+   "name": "Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2014,
+   "url": "https://whc.unesco.org/en/list/1390",
+   "y": 44.6086111111,
+   "x": 7.9636111111
+  },
+  {
+   "id": "1487",
+   "name": "Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1487",
+   "y": 38.04,
+   "x": 14.0233333333
+  },
+  {
+   "id": "1571",
+   "name": "Le Colline del Prosecco di Conegliano e Valdobbiadene",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1571",
+   "y": 45.9530277778,
+   "x": 12.2261111111
+  },
+  {
+   "id": "1623",
+   "name": "Padua’s fourteenth-century fresco cycles",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1623",
+   "y": 45.4013527778,
+   "x": 11.8690805556
+  },
+  {
+   "id": "1650",
+   "name": "The Porticoes of Bologna",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1650",
+   "y": 44.4853888889,
+   "x": 11.3019166667
+  },
+  {
+   "id": "1538",
+   "name": "Ivrea, industrial city of the 20th century",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2018,
+   "url": "https://whc.unesco.org/en/list/1538",
+   "y": 45.4575,
+   "x": 7.8691666667
+  },
+  {
+   "id": "826",
+   "name": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/826",
+   "y": 44.0236111111,
+   "x": 9.8510277778
+  },
+  {
+   "id": "1692",
+   "name": "Evaporitic Karst and Caves of Northern Apennines",
+   "countries": "Italy",
+   "category": "natural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1692",
+   "y": 43.875,
+   "x": 12.5475
+  },
+  {
+   "id": "174",
+   "name": "Historic Centre of Florence",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1982,
+   "url": "https://whc.unesco.org/en/list/174",
+   "y": 43.77306,
+   "x": 11.25611
+  },
+  {
+   "id": "829",
+   "name": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/829",
+   "y": 40.7511111111,
+   "x": 14.4861111111
+  },
+  {
+   "id": "1708",
+   "name": "Via Appia. Regina Viarum",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2024,
+   "url": "https://whc.unesco.org/en/list/1708",
+   "y": 40.4711972223,
+   "x": 17.2421083333
+  },
+  {
+   "id": "1730",
+   "name": "Funerary Tradition in the Prehistory of Sardinia – The domus de janas",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2025,
+   "url": "https://whc.unesco.org/en/list/1730",
+   "y": 39.1343305555,
+   "x": 8.6673638889
+  },
+  {
+   "id": "1762",
+   "name": "The system of Italian-style condominio theatres of the 18th and 19th centuries in Central Italy",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 2026,
+   "url": "https://whc.unesco.org/en/list/1762",
+   "y": 42.7355777777,
+   "x": 12.7352666666
+  },
+  {
+   "id": "825",
+   "name": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+   "countries": "Italy",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/825",
+   "y": 45.76833333,
+   "x": 13.3675
+  },
+  {
+   "id": "852",
+   "name": "Historic Centre of Riga",
+   "countries": "Latvia",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/852",
+   "y": 56.95417,
+   "x": 24.11667
+  },
+  {
+   "id": "1658",
+   "name": "Old town of Kuldīga",
+   "countries": "Latvia",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1658",
+   "y": 56.96775,
+   "x": 21.9715277778
+  },
+  {
+   "id": "1137",
+   "name": "Kernavė Archaeological Site (Cultural Reserve of Kernavė)",
+   "countries": "Lithuania",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1137",
+   "y": 54.879,
+   "x": 24.853
+  },
+  {
+   "id": "541",
+   "name": "Vilnius Historic Centre",
+   "countries": "Lithuania",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/541",
+   "y": 54.68667,
+   "x": 25.29306
+  },
+  {
+   "id": "1661",
+   "name": "Modernist Kaunas: Architecture of Optimism, 1919-1939",
+   "countries": "Lithuania",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1661",
+   "y": 54.8969444444,
+   "x": 23.9291666667
+  },
+  {
+   "id": "699",
+   "name": "City of Luxembourg: its Old Quarters and Fortifications",
+   "countries": "Luxembourg",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/699",
+   "y": 49.61,
+   "x": 6.13333
+  },
+  {
+   "id": "130",
+   "name": "Ħal Saflieni Hypogeum",
+   "countries": "Malta",
+   "category": "cultural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/130",
+   "y": 35.8695900049,
+   "x": 14.5068833733
+  },
+  {
+   "id": "131",
+   "name": "City of Valletta",
+   "countries": "Malta",
+   "category": "cultural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/131",
+   "y": 35.90056,
+   "x": 14.51444
+  },
+  {
+   "id": "132",
+   "name": "Megalithic Temples of Malta",
+   "countries": "Malta",
+   "category": "cultural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/132",
+   "y": 35.826737653,
+   "x": 14.4367730611
+  },
+  {
+   "id": "100",
+   "name": "Durmitor National Park",
+   "countries": "Montenegro",
+   "category": "natural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/100",
+   "y": 43.133,
+   "x": 19.0166
+  },
+  {
+   "id": "125",
+   "name": "Natural and Culturo-Historical Region of Kotor",
+   "countries": "Montenegro",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/125",
+   "y": 42.48333,
+   "x": 18.7
+  },
+  {
+   "id": "739",
+   "name": "Schokland and Surroundings",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/739",
+   "y": 52.63861111,
+   "x": 5.771666667
+  },
+  {
+   "id": "818",
+   "name": "Mill Network at Kinderdijk-Elshout",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/818",
+   "y": 51.8825,
+   "x": 4.649444444
+  },
+  {
+   "id": "867",
+   "name": "Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/867",
+   "y": 52.84583,
+   "x": 5.67889
+  },
+  {
+   "id": "899",
+   "name": "Droogmakerij de Beemster (Beemster Polder)",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/899",
+   "y": 52.54888889,
+   "x": 4.911111111
+  },
+  {
+   "id": "965",
+   "name": "Rietveld Schröderhuis (Rietveld Schröder House)",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/965",
+   "y": 52.0853333333,
+   "x": 5.1475555556
+  },
+  {
+   "id": "1349",
+   "name": "Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 2010,
+   "url": "https://whc.unesco.org/en/list/1349",
+   "y": 52.365,
+   "x": 4.8877777778
+  },
+  {
+   "id": "1441",
+   "name": "Van Nellefabriek",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 2014,
+   "url": "https://whc.unesco.org/en/list/1441",
+   "y": 51.9244444444,
+   "x": 4.4325
+  },
+  {
+   "id": "759",
+   "name": "Dutch Water Defence Lines",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/759",
+   "y": 51.8764444445,
+   "x": 5.4072666667
+  },
+  {
+   "id": "1683",
+   "name": "Eisinga Planetarium in Franeker",
+   "countries": "Netherlands (Kingdom of the)",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1683",
+   "y": 53.187375,
+   "x": 5.5437527778
+  },
+  {
+   "id": "58",
+   "name": "Urnes Stave Church",
+   "countries": "Norway",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/58",
+   "y": 61.2982594908,
+   "x": 7.322678289
+  },
+  {
+   "id": "59",
+   "name": "Bryggen",
+   "countries": "Norway",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/59",
+   "y": 60.395917,
+   "x": 5.325905
+  },
+  {
+   "id": "352",
+   "name": "Rock Art of Alta",
+   "countries": "Norway",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/352",
+   "y": 69.948,
+   "x": 23.187
+  },
+  {
+   "id": "1195",
+   "name": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+   "countries": "Norway",
+   "category": "natural",
+   "year": 2005,
+   "url": "https://whc.unesco.org/en/list/1195",
+   "y": 60.9166666667,
+   "x": 7
+  },
+  {
+   "id": "55",
+   "name": "Røros Mining Town and the Circumference",
+   "countries": "Norway",
+   "category": "cultural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/55",
+   "y": 62.3219444444,
+   "x": 11.8338888889
+  },
+  {
+   "id": "1486",
+   "name": "Rjukan-Notodden Industrial Heritage Site",
+   "countries": "Norway",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1486",
+   "y": 59.8786111111,
+   "x": 8.5936111111
+  },
+  {
+   "id": "1143",
+   "name": "Vegaøyan – The Vega Archipelago",
+   "countries": "Norway",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1143",
+   "y": 65.61667,
+   "x": 11.75
+  },
+  {
+   "id": "31",
+   "name": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/31",
+   "y": 50.0238888889,
+   "x": 19.205
+  },
+  {
+   "id": "564",
+   "name": "Old City of Zamość",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/564",
+   "y": 50.7169444444,
+   "x": 23.2527777778
+  },
+  {
+   "id": "835",
+   "name": "Medieval Town of Toruń",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/835",
+   "y": 53.0105555556,
+   "x": 18.6041666667
+  },
+  {
+   "id": "847",
+   "name": "Castle of the Teutonic Order in Malbork",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/847",
+   "y": 54.041,
+   "x": 19.0297222222
+  },
+  {
+   "id": "905",
+   "name": "Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/905",
+   "y": 49.86668,
+   "x": 19.676361
+  },
+  {
+   "id": "1054",
+   "name": "Churches of Peace in Jawor and Świdnica",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1054",
+   "y": 50.8465040556,
+   "x": 16.4918123577
+  },
+  {
+   "id": "1165",
+   "name": "Centennial Hall in Wrocław",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 2006,
+   "url": "https://whc.unesco.org/en/list/1165",
+   "y": 51.1069472222,
+   "x": 17.0770138888
+  },
+  {
+   "id": "1053",
+   "name": "Wooden Churches of Southern Małopolska",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 2003,
+   "url": "https://whc.unesco.org/en/list/1053",
+   "y": 49.4666666667,
+   "x": 20.2166666667
+  },
+  {
+   "id": "29",
+   "name": "Historic Centre of Kraków",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1978,
+   "url": "https://whc.unesco.org/en/list/29",
+   "y": 50.0613888889,
+   "x": 19.9372222222
+  },
+  {
+   "id": "32",
+   "name": "Wieliczka and Bochnia Royal Salt Mines",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1978,
+   "url": "https://whc.unesco.org/en/list/32",
+   "y": 49.9691666667,
+   "x": 20.4175
+  },
+  {
+   "id": "30",
+   "name": "Historic Centre of Warsaw",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 1980,
+   "url": "https://whc.unesco.org/en/list/30",
+   "y": 52.25,
+   "x": 21.013
+  },
+  {
+   "id": "1539",
+   "name": "Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 2017,
+   "url": "https://whc.unesco.org/en/list/1539",
+   "y": 50.4426972222,
+   "x": 18.8512277778
+  },
+  {
+   "id": "1599",
+   "name": "Krzemionki Prehistoric Striped Flint Mining Region",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1599",
+   "y": 50.8843027777,
+   "x": 21.5288888889
+  },
+  {
+   "id": "1715",
+   "name": "Gdynia Modernist City Centre",
+   "countries": "Poland",
+   "category": "cultural",
+   "year": 2026,
+   "url": "https://whc.unesco.org/en/list/1715",
+   "y": 54.5193611111,
+   "x": 18.5425277777
+  },
+  {
+   "id": "264",
+   "name": "Monastery of Batalha",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/264",
+   "y": 39.65778,
+   "x": -8.82694
+  },
+  {
+   "id": "265",
+   "name": "Convent of Christ in Tomar",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/265",
+   "y": 39.60472,
+   "x": -8.4175
+  },
+  {
+   "id": "361",
+   "name": "Historic Centre of Évora",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/361",
+   "y": 38.57306,
+   "x": -7.90778
+  },
+  {
+   "id": "505",
+   "name": "Monastery of Alcobaça",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 1989,
+   "url": "https://whc.unesco.org/en/list/505",
+   "y": 39.55,
+   "x": -8.97667
+  },
+  {
+   "id": "723",
+   "name": "Cultural Landscape of Sintra",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/723",
+   "y": 38.78333,
+   "x": -9.41667
+  },
+  {
+   "id": "755",
+   "name": "Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/755",
+   "y": 41.14166667,
+   "x": -8.616666667
+  },
+  {
+   "id": "1046",
+   "name": "Alto Douro Wine Region",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1046",
+   "y": 41.10166667,
+   "x": -7.798888889
+  },
+  {
+   "id": "263",
+   "name": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/263",
+   "y": 38.6915965311,
+   "x": -9.2159801015
+  },
+  {
+   "id": "1367",
+   "name": "Garrison Border Town of Elvas and its Fortifications",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 2012,
+   "url": "https://whc.unesco.org/en/list/1367",
+   "y": 38.8712055556,
+   "x": -7.1546666667
+  },
+  {
+   "id": "1573",
+   "name": "Royal Building of Mafra – Palace, Basilica, Convent, Cerco Garden and Hunting Park (Tapada)",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1573",
+   "y": 38.9371666667,
+   "x": -9.3255277778
+  },
+  {
+   "id": "1590",
+   "name": "Sanctuary of Bom Jesus do Monte in Braga",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1590",
+   "y": 41.5549444444,
+   "x": -8.3770277778
+  },
+  {
+   "id": "1387",
+   "name": "University of Coimbra – Alta and Sofia",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 2013,
+   "url": "https://whc.unesco.org/en/list/1387",
+   "y": 40.2078111111,
+   "x": -8.425775
+  },
+  {
+   "id": "1031",
+   "name": "Historic Centre of Guimarães and Couros Zone",
+   "countries": "Portugal",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1031",
+   "y": 41.443,
+   "x": -8.2927777778
+  },
+  {
+   "id": "588",
+   "name": "Danube Delta",
+   "countries": "Romania",
+   "category": "natural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/588",
+   "y": 45.08333,
+   "x": 29.5
+  },
+  {
+   "id": "596",
+   "name": "Villages with Fortified Churches in Transylvania",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/596",
+   "y": 45.7225,
+   "x": 25.7755555556
+  },
+  {
+   "id": "597",
+   "name": "Monastery of Horezu",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/597",
+   "y": 45.1697222222,
+   "x": 24.0072222222
+  },
+  {
+   "id": "902",
+   "name": "Historic Centre of Sighişoara",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/902",
+   "y": 46.21777778,
+   "x": 24.79222222
+  },
+  {
+   "id": "904",
+   "name": "Wooden Churches of Maramureş",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/904",
+   "y": 47.47,
+   "x": 23.9283333333
+  },
+  {
+   "id": "906",
+   "name": "Dacian Fortresses of the Orastie Mountains",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/906",
+   "y": 45.4666666667,
+   "x": 23.2166666667
+  },
+  {
+   "id": "598",
+   "name": "Churches of Moldavia",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/598",
+   "y": 47.3833333333,
+   "x": 27.5
+  },
+  {
+   "id": "1552",
+   "name": "Roșia Montană Mining Landscape",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1552",
+   "y": 46.3061111111,
+   "x": 23.1305555556
+  },
+  {
+   "id": "1718",
+   "name": "Frontiers of the Roman Empire – Dacia",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 2024,
+   "url": "https://whc.unesco.org/en/list/1718",
+   "y": 43.7333333333,
+   "x": 24.9666666667
+  },
+  {
+   "id": "1473",
+   "name": "Brâncuși Monumental Ensemble of Târgu Jiu",
+   "countries": "Romania",
+   "category": "cultural",
+   "year": 2024,
+   "url": "https://whc.unesco.org/en/list/1473",
+   "y": 45.0382777778,
+   "x": 23.2787777778
+  },
+  {
+   "id": "604",
+   "name": "Historic Monuments of Novgorod and Surroundings",
+   "countries": "Russian Federation",
+   "category": "cultural",
+   "year": 1992,
+   "url": "https://whc.unesco.org/en/list/604",
+   "y": 58.4734325752,
+   "x": 31.2746248771
+  },
+  {
+   "id": "540",
+   "name": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+   "countries": "Russian Federation",
+   "category": "cultural",
+   "year": 1990,
+   "url": "https://whc.unesco.org/en/list/540",
+   "y": 59.5531025003,
+   "x": 30.1211424909
+  },
+  {
+   "id": "1523",
+   "name": "Churches of the Pskov School of Architecture",
+   "countries": "Russian Federation",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1523",
+   "y": 57.8053583333,
+   "x": 28.3340527777
+  },
+  {
+   "id": "1245",
+   "name": "San Marino Historic Centre and Mount Titano",
+   "countries": "San Marino",
+   "category": "cultural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1245",
+   "y": 43.9327777778,
+   "x": 12.4519444444
+  },
+  {
+   "id": "96",
+   "name": "Stari Ras and Sopoćani",
+   "countries": "Serbia",
+   "category": "cultural",
+   "year": 1979,
+   "url": "https://whc.unesco.org/en/list/96",
+   "y": 43.1188888889,
+   "x": 20.4227777778
+  },
+  {
+   "id": "389",
+   "name": "Studenica Monastery",
+   "countries": "Serbia",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/389",
+   "y": 43.4865277778,
+   "x": 20.5316666667
+  },
+  {
+   "id": "724",
+   "name": "Medieval Monuments in Kosovo",
+   "countries": "Serbia",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/724",
+   "y": 42.2,
+   "x": 20.7333333333
+  },
+  {
+   "id": "1253",
+   "name": "Gamzigrad-Romuliana, Palace of Galerius",
+   "countries": "Serbia",
+   "category": "cultural",
+   "year": 2007,
+   "url": "https://whc.unesco.org/en/list/1253",
+   "y": 43.8993055556,
+   "x": 22.1861111111
+  },
+  {
+   "id": "618",
+   "name": "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+   "countries": "Slovakia",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/618",
+   "y": 48.46111,
+   "x": 18.9
+  },
+  {
+   "id": "622",
+   "name": "Vlkolínec",
+   "countries": "Slovakia",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/622",
+   "y": 49.0391666667,
+   "x": 19.2783333333
+  },
+  {
+   "id": "973",
+   "name": "Bardejov Town Conservation Reserve",
+   "countries": "Slovakia",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/973",
+   "y": 49.2927777778,
+   "x": 21.2755555556
+  },
+  {
+   "id": "1273",
+   "name": "Wooden Churches of the Slovak part of the Carpathian Mountain Area",
+   "countries": "Slovakia",
+   "category": "cultural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1273",
+   "y": 48.6488888889,
+   "x": 19.1547222222
+  },
+  {
+   "id": "620",
+   "name": "Levoča, Spišský Hrad and the Associated Cultural Monuments",
+   "countries": "Slovakia",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/620",
+   "y": 48.9994444444,
+   "x": 20.7675
+  },
+  {
+   "id": "390",
+   "name": "Škocjan Caves",
+   "countries": "Slovenia",
+   "category": "natural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/390",
+   "y": 45.66667,
+   "x": 14
+  },
+  {
+   "id": "1643",
+   "name": "The works of Jože Plečnik in Ljubljana – Human Centred Urban Design",
+   "countries": "Slovenia",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1643",
+   "y": 46.0122222222,
+   "x": 14.5058333333
+  },
+  {
+   "id": "312",
+   "name": "Monuments of Oviedo and the Kingdom of the Asturias",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/312",
+   "y": 43.1272783474,
+   "x": -5.814316048
+  },
+  {
+   "id": "313",
+   "name": "Historic Centre of Cordoba",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1984,
+   "url": "https://whc.unesco.org/en/list/313",
+   "y": 37.87919444,
+   "x": -4.779722222
+  },
+  {
+   "id": "314",
+   "name": "Alhambra, Generalife and Albayzín, Granada",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1984,
+   "url": "https://whc.unesco.org/en/list/314",
+   "y": 37.1767777778,
+   "x": -3.5899166667
+  },
+  {
+   "id": "318",
+   "name": "Monastery and Site of the Escurial, Madrid",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1984,
+   "url": "https://whc.unesco.org/en/list/318",
+   "y": 40.5853055555,
+   "x": -4.1580277778
+  },
+  {
+   "id": "320",
+   "name": "Works of Antoni Gaudí",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1984,
+   "url": "https://whc.unesco.org/en/list/320",
+   "y": 41.3638839363,
+   "x": 2.0279446455
+  },
+  {
+   "id": "347",
+   "name": "Santiago de Compostela (Old Town)",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/347",
+   "y": 42.8610833333,
+   "x": -8.5553888889
+  },
+  {
+   "id": "379",
+   "name": "Historic City of Toledo",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/379",
+   "y": 39.8569444444,
+   "x": -4.0244444444
+  },
+  {
+   "id": "381",
+   "name": "Old City of Salamanca",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/381",
+   "y": 40.9618888889,
+   "x": -5.6602777778
+  },
+  {
+   "id": "417",
+   "name": "Ibiza, Biodiversity and Culture",
+   "countries": "Spain",
+   "category": "mixed",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/417",
+   "y": 38.7925277778,
+   "x": 1.4451944444
+  },
+  {
+   "id": "518",
+   "name": "Poblet Monastery",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/518",
+   "y": 41.38083,
+   "x": 1.0825
+  },
+  {
+   "id": "522",
+   "name": "Renaissance Monumental Ensembles of Úbeda and Baeza",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2003,
+   "url": "https://whc.unesco.org/en/list/522",
+   "y": 37.991,
+   "x": -3.469
+  },
+  {
+   "id": "664",
+   "name": "Archaeological Ensemble of Mérida",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/664",
+   "y": 38.7847327917,
+   "x": -6.2435718419
+  },
+  {
+   "id": "665",
+   "name": "Royal Monastery of Santa María de Guadalupe",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/665",
+   "y": 39.45285,
+   "x": -5.3275
+  },
+  {
+   "id": "685",
+   "name": "Doñana National Park",
+   "countries": "Spain",
+   "category": "natural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/685",
+   "y": 36.9477,
+   "x": -6.358861
+  },
+  {
+   "id": "781",
+   "name": "Historic Walled Town of Cuenca",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/781",
+   "y": 40.074,
+   "x": -2.131
+  },
+  {
+   "id": "782",
+   "name": "La Lonja de la Seda de Valencia",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/782",
+   "y": 39.47441667,
+   "x": -0.378444444
+  },
+  {
+   "id": "803",
+   "name": "Las Médulas",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/803",
+   "y": 42.4288055556,
+   "x": -6.7761388889
+  },
+  {
+   "id": "805",
+   "name": "San Millán Yuso and Suso Monasteries",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/805",
+   "y": 42.3258333333,
+   "x": -2.865
+  },
+  {
+   "id": "874",
+   "name": "Rock Art of the Mediterranean Basin on the Iberian Peninsula",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/874",
+   "y": 37.5818055556,
+   "x": -1.2021666667
+  },
+  {
+   "id": "875",
+   "name": "Archaeological Ensemble of Tarraco",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/875",
+   "y": 41.1135,
+   "x": 1.2477777778
+  },
+  {
+   "id": "876",
+   "name": "University and Historic Precinct of Alcalá de Henares",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/876",
+   "y": 40.48138889,
+   "x": -3.368055556
+  },
+  {
+   "id": "930",
+   "name": "Palmeral of Elche",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/930",
+   "y": 38.26666667,
+   "x": -0.716666667
+  },
+  {
+   "id": "987",
+   "name": "Roman Walls of Lugo",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/987",
+   "y": 43.0106407944,
+   "x": -7.5530699413
+  },
+  {
+   "id": "988",
+   "name": "Catalan Romanesque Churches of the Vall de Boí",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/988",
+   "y": 42.4431388889,
+   "x": 0.7455277778
+  },
+  {
+   "id": "989",
+   "name": "Archaeological Site of Atapuerca",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/989",
+   "y": 42.3497222222,
+   "x": -3.5152777778
+  },
+  {
+   "id": "1044",
+   "name": "Aranjuez Cultural Landscape",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1044",
+   "y": 40.03645,
+   "x": -3.60934
+  },
+  {
+   "id": "1217",
+   "name": "Vizcaya Bridge",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2006,
+   "url": "https://whc.unesco.org/en/list/1217",
+   "y": 43.323175,
+   "x": -3.0168333333
+  },
+  {
+   "id": "310",
+   "name": "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/310",
+   "y": 43.2358794,
+   "x": -2.2753798
+  },
+  {
+   "id": "348",
+   "name": "Old Town of Ávila with its Extra-Muros Churches",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/348",
+   "y": 40.6502777778,
+   "x": -4.6885
+  },
+  {
+   "id": "1312",
+   "name": "Tower of Hercules",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2009,
+   "url": "https://whc.unesco.org/en/list/1312",
+   "y": 43.3858333333,
+   "x": -8.4063888889
+  },
+  {
+   "id": "804",
+   "name": "Palau de la Música Catalana and Hospital de Sant Pau, Barcelona",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/804",
+   "y": 41.3877777778,
+   "x": 2.175
+  },
+  {
+   "id": "383",
+   "name": "Cathedral, Alcázar and Archivo de Indias in Seville",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/383",
+   "y": 37.3838333333,
+   "x": -5.9915555556
+  },
+  {
+   "id": "1371",
+   "name": "Cultural Landscape of the Serra de Tramuntana",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2011,
+   "url": "https://whc.unesco.org/en/list/1371",
+   "y": 39.7308333333,
+   "x": 2.6947222222
+  },
+  {
+   "id": "669",
+   "name": "Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/669",
+   "y": 42.589273,
+   "x": -2.842439
+  },
+  {
+   "id": "316",
+   "name": "Burgos Cathedral",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1984,
+   "url": "https://whc.unesco.org/en/list/316",
+   "y": 42.3407333333,
+   "x": -3.7040111111
+  },
+  {
+   "id": "1501",
+   "name": "Antequera Dolmens Site",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2016,
+   "url": "https://whc.unesco.org/en/list/1501",
+   "y": 36.9646111111,
+   "x": -4.5406388889
+  },
+  {
+   "id": "311",
+   "name": "Old Town of Segovia and its Aqueduct",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/311",
+   "y": 40.94847222,
+   "x": -4.11675
+  },
+  {
+   "id": "378",
+   "name": "Mudejar Architecture of Aragon",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/378",
+   "y": 40.3419722222,
+   "x": -1.108
+  },
+  {
+   "id": "384",
+   "name": "Old Town of Cáceres",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/384",
+   "y": 39.47444,
+   "x": -6.37
+  },
+  {
+   "id": "1560",
+   "name": "Caliphate City of Medina Azahara",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2018,
+   "url": "https://whc.unesco.org/en/list/1560",
+   "y": 37.8858888889,
+   "x": -4.8676944444
+  },
+  {
+   "id": "1528",
+   "name": "Talayotic Menorca",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1528",
+   "y": 39.8738888889,
+   "x": 4.2661111111
+  },
+  {
+   "id": "1618",
+   "name": "Paseo del Prado and Buen Retiro, a landscape of Arts and Sciences",
+   "countries": "Spain",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1618",
+   "y": 40.4153333333,
+   "x": -3.6870555556
+  },
+  {
+   "id": "555",
+   "name": "Birka and Hovgården",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/555",
+   "y": 59.3351388889,
+   "x": 17.5426388889
+  },
+  {
+   "id": "556",
+   "name": "Engelsberg Ironworks",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1993,
+   "url": "https://whc.unesco.org/en/list/556",
+   "y": 59.97,
+   "x": 16.01
+  },
+  {
+   "id": "557",
+   "name": "Rock Carvings in Tanum",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/557",
+   "y": 58.70111,
+   "x": 11.34111
+  },
+  {
+   "id": "558",
+   "name": "Skogskyrkogården",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1994,
+   "url": "https://whc.unesco.org/en/list/558",
+   "y": 59.27556,
+   "x": 18.09944
+  },
+  {
+   "id": "731",
+   "name": "Hanseatic Town of Visby",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/731",
+   "y": 57.64167,
+   "x": 18.29583
+  },
+  {
+   "id": "762",
+   "name": "Church Town of Gammelstad, Luleå",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/762",
+   "y": 65.64611,
+   "x": 22.02861
+  },
+  {
+   "id": "774",
+   "name": "Laponian Area",
+   "countries": "Sweden",
+   "category": "mixed",
+   "year": 1996,
+   "url": "https://whc.unesco.org/en/list/774",
+   "y": 67.33333,
+   "x": 17.58333
+  },
+  {
+   "id": "871",
+   "name": "Naval Port of Karlskrona",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/871",
+   "y": 56.1077777778,
+   "x": 15.5880555556
+  },
+  {
+   "id": "968",
+   "name": "Agricultural Landscape of Southern Öland",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/968",
+   "y": 56.325,
+   "x": 16.48333
+  },
+  {
+   "id": "1027",
+   "name": "Mining Area of the Great Copper Mountain in Falun",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1027",
+   "y": 60.60472,
+   "x": 15.63083
+  },
+  {
+   "id": "1134",
+   "name": "Grimeton Radio Station, Varberg",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 2004,
+   "url": "https://whc.unesco.org/en/list/1134",
+   "y": 57.1,
+   "x": 12.38333333
+  },
+  {
+   "id": "1282",
+   "name": "Decorated Farmhouses of Hälsingland",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 2012,
+   "url": "https://whc.unesco.org/en/list/1282",
+   "y": 61.2722222222,
+   "x": 16.9933333333
+  },
+  {
+   "id": "559",
+   "name": "Royal Domain of Drottningholm",
+   "countries": "Sweden",
+   "category": "cultural",
+   "year": 1991,
+   "url": "https://whc.unesco.org/en/list/559",
+   "y": 59.32306,
+   "x": 17.88333
+  },
+  {
+   "id": "267",
+   "name": "Old City of Berne",
+   "countries": "Switzerland",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/267",
+   "y": 46.94806,
+   "x": 7.45028
+  },
+  {
+   "id": "268",
+   "name": "Abbey of St Gall",
+   "countries": "Switzerland",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/268",
+   "y": 47.42333,
+   "x": 9.37778
+  },
+  {
+   "id": "269",
+   "name": "Benedictine Convent of St John at Müstair",
+   "countries": "Switzerland",
+   "category": "cultural",
+   "year": 1983,
+   "url": "https://whc.unesco.org/en/list/269",
+   "y": 46.62945,
+   "x": 10.44765
+  },
+  {
+   "id": "1037",
+   "name": "Swiss Alps Jungfrau-Aletsch",
+   "countries": "Switzerland",
+   "category": "natural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1037",
+   "y": 46.5,
+   "x": 8.0333333333
+  },
+  {
+   "id": "1243",
+   "name": "Lavaux, Vineyard Terraces",
+   "countries": "Switzerland",
+   "category": "cultural",
+   "year": 2007,
+   "url": "https://whc.unesco.org/en/list/1243",
+   "y": 46.4919444444,
+   "x": 6.7461111111
+  },
+  {
+   "id": "1179",
+   "name": "Swiss Tectonic Arena Sardona",
+   "countries": "Switzerland",
+   "category": "natural",
+   "year": 2008,
+   "url": "https://whc.unesco.org/en/list/1179",
+   "y": 46.9166666667,
+   "x": 9.25
+  },
+  {
+   "id": "1302",
+   "name": "La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning",
+   "countries": "Switzerland",
+   "category": "cultural",
+   "year": 2009,
+   "url": "https://whc.unesco.org/en/list/1302",
+   "y": 47.0581888889,
+   "x": 6.7495694444
+  },
+  {
+   "id": "884",
+   "name": "Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona",
+   "countries": "Switzerland",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/884",
+   "y": 46.188143,
+   "x": 9.0300303
+  },
+  {
+   "id": "484",
+   "name": "Xanthos-Letoon",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/484",
+   "y": 36.3268333333,
+   "x": 29.2976388889
+  },
+  {
+   "id": "485",
+   "name": "Hierapolis-Pamukkale",
+   "countries": "Türkiye",
+   "category": "mixed",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/485",
+   "y": 37.92389,
+   "x": 29.12333
+  },
+  {
+   "id": "849",
+   "name": "Archaeological Site of Troy",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/849",
+   "y": 39.95644,
+   "x": 26.239
+  },
+  {
+   "id": "1366",
+   "name": "Selimiye Mosque and its Social Complex",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2011,
+   "url": "https://whc.unesco.org/en/list/1366",
+   "y": 41.6777777778,
+   "x": 26.5594444444
+  },
+  {
+   "id": "1452",
+   "name": "Bursa and Cumalıkızık: the Birth of the Ottoman Empire",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2014,
+   "url": "https://whc.unesco.org/en/list/1452",
+   "y": 40.175,
+   "x": 29.1730555556
+  },
+  {
+   "id": "1457",
+   "name": "Pergamon and its Multi-Layered Cultural Landscape",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2014,
+   "url": "https://whc.unesco.org/en/list/1457",
+   "y": 39.1033,
+   "x": 27.1696277778
+  },
+  {
+   "id": "1018",
+   "name": "Ephesus",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1018",
+   "y": 37.9116666667,
+   "x": 27.3336111111
+  },
+  {
+   "id": "1519",
+   "name": "Aphrodisias",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2017,
+   "url": "https://whc.unesco.org/en/list/1519",
+   "y": 37.7083333333,
+   "x": 28.7236111111
+  },
+  {
+   "id": "356",
+   "name": "Historic Areas of Istanbul",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 1985,
+   "url": "https://whc.unesco.org/en/list/356",
+   "y": 41.0083333333,
+   "x": 28.9833333333
+  },
+  {
+   "id": "1669",
+   "name": "Gordion",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1669",
+   "y": 39.6433333333,
+   "x": 31.9861111111
+  },
+  {
+   "id": "1694",
+   "name": "Wooden Hypostyle Mosques of Medieval Anatolia",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1694",
+   "y": 37.6834666666,
+   "x": 31.7186083334
+  },
+  {
+   "id": "1731",
+   "name": "Sardis and the Lydian Tumuli of Bin Tepe",
+   "countries": "Türkiye",
+   "category": "cultural",
+   "year": 2025,
+   "url": "https://whc.unesco.org/en/list/1731",
+   "y": 38.4819444445,
+   "x": 28.0452777777
+  },
+  {
+   "id": "865",
+   "name": "L'viv – the Ensemble of the Historic Centre",
+   "countries": "Ukraine",
+   "category": "cultural",
+   "year": 1998,
+   "url": "https://whc.unesco.org/en/list/865",
+   "y": 49.8386111111,
+   "x": 24.0144444444
+  },
+  {
+   "id": "1330",
+   "name": "Residence of Bukovinian and Dalmatian Metropolitans",
+   "countries": "Ukraine",
+   "category": "cultural",
+   "year": 2011,
+   "url": "https://whc.unesco.org/en/list/1330",
+   "y": 48.2966666667,
+   "x": 25.9247222222
+  },
+  {
+   "id": "527",
+   "name": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+   "countries": "Ukraine",
+   "category": "cultural",
+   "year": 1990,
+   "url": "https://whc.unesco.org/en/list/527",
+   "y": 50.4339333333,
+   "x": 30.558375
+  },
+  {
+   "id": "1703",
+   "name": "The Historic Centre of Odesa",
+   "countries": "Ukraine",
+   "category": "cultural",
+   "year": 2023,
+   "url": "https://whc.unesco.org/en/list/1703",
+   "y": 46.48645,
+   "x": 30.7416138889
+  },
+  {
+   "id": "371",
+   "name": "Ironbridge Gorge",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/371",
+   "y": 52.62638889,
+   "x": -2.472777778
+  },
+  {
+   "id": "374",
+   "name": "Castles and Town Walls of King Edward in Gwynedd",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/374",
+   "y": 52.86,
+   "x": -4.109
+  },
+  {
+   "id": "425",
+   "name": "Blenheim Palace",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/425",
+   "y": 51.84194444,
+   "x": -1.361388889
+  },
+  {
+   "id": "428",
+   "name": "City of Bath",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/428",
+   "y": 51.3813055556,
+   "x": -2.3590555556
+  },
+  {
+   "id": "429",
+   "name": "New Lanark",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/429",
+   "y": 55.66333333,
+   "x": -3.783055556
+  },
+  {
+   "id": "488",
+   "name": "Tower of London",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/488",
+   "y": 51.50805556,
+   "x": -0.076111111
+  },
+  {
+   "id": "496",
+   "name": "Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1988,
+   "url": "https://whc.unesco.org/en/list/496",
+   "y": 51.2782777778,
+   "x": 1.094
+  },
+  {
+   "id": "728",
+   "name": "Old and New Towns of Edinburgh",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1995,
+   "url": "https://whc.unesco.org/en/list/728",
+   "y": 55.95,
+   "x": -3.216666667
+  },
+  {
+   "id": "795",
+   "name": "Maritime Greenwich",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1997,
+   "url": "https://whc.unesco.org/en/list/795",
+   "y": 51.4811666667,
+   "x": -0.0037777778
+  },
+  {
+   "id": "984",
+   "name": "Blaenavon Industrial Landscape",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2000,
+   "url": "https://whc.unesco.org/en/list/984",
+   "y": 51.77638889,
+   "x": -3.088055556
+  },
+  {
+   "id": "1028",
+   "name": "Saltaire",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1028",
+   "y": 53.83916667,
+   "x": -1.788333333
+  },
+  {
+   "id": "1029",
+   "name": "Dorset and East Devon Coast",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "natural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1029",
+   "y": 50.5957777778,
+   "x": -2.4582222222
+  },
+  {
+   "id": "1030",
+   "name": "Derwent Valley Mills",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2001,
+   "url": "https://whc.unesco.org/en/list/1030",
+   "y": 53.02888889,
+   "x": -1.488055556
+  },
+  {
+   "id": "1084",
+   "name": "Royal Botanic Gardens, Kew",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2003,
+   "url": "https://whc.unesco.org/en/list/1084",
+   "y": 51.48194444,
+   "x": -0.2940277778
+  },
+  {
+   "id": "1215",
+   "name": "Cornwall and West Devon Mining Landscape",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2006,
+   "url": "https://whc.unesco.org/en/list/1215",
+   "y": 50.0938888889,
+   "x": -5.3647222222
+  },
+  {
+   "id": "1303",
+   "name": "Pontcysyllte Aqueduct and Canal",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2009,
+   "url": "https://whc.unesco.org/en/list/1303",
+   "y": 52.9702777778,
+   "x": -3.0877777778
+  },
+  {
+   "id": "373",
+   "name": "Stonehenge, Avebury and Associated Sites",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/373",
+   "y": 51.1788611111,
+   "x": -1.8254444445
+  },
+  {
+   "id": "370",
+   "name": "Durham Castle and Cathedral",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/370",
+   "y": 54.77472222,
+   "x": -1.576111111
+  },
+  {
+   "id": "426",
+   "name": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1987,
+   "url": "https://whc.unesco.org/en/list/426",
+   "y": 51.499,
+   "x": -0.127
+  },
+  {
+   "id": "372",
+   "name": "Studley Royal Park including the Ruins of Fountains Abbey",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/372",
+   "y": 54.1088888889,
+   "x": -1.5883333333
+  },
+  {
+   "id": "1485",
+   "name": "The Forth Bridge",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2015,
+   "url": "https://whc.unesco.org/en/list/1485",
+   "y": 56.0011111111,
+   "x": -3.3888888889
+  },
+  {
+   "id": "1500",
+   "name": "Gorham's Cave Complex",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2016,
+   "url": "https://whc.unesco.org/en/list/1500",
+   "y": 36.1226694444,
+   "x": -5.3420611111
+  },
+  {
+   "id": "514",
+   "name": "Heart of Neolithic Orkney",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 1999,
+   "url": "https://whc.unesco.org/en/list/514",
+   "y": 58.9941805296,
+   "x": -3.2080578668
+  },
+  {
+   "id": "422",
+   "name": "The English Lake District",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2017,
+   "url": "https://whc.unesco.org/en/list/422",
+   "y": 54.4766111111,
+   "x": -3.0824166667
+  },
+  {
+   "id": "369",
+   "name": "Giant's Causeway and Causeway Coast",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "natural",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/369",
+   "y": 55.2408333333,
+   "x": -6.5116666667
+  },
+  {
+   "id": "387",
+   "name": "St Kilda",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "mixed",
+   "year": 1986,
+   "url": "https://whc.unesco.org/en/list/387",
+   "y": 57.81722222,
+   "x": -8.576666667
+  },
+  {
+   "id": "1594",
+   "name": "Jodrell Bank Observatory",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2019,
+   "url": "https://whc.unesco.org/en/list/1594",
+   "y": 53.2339166667,
+   "x": -2.3038611111
+  },
+  {
+   "id": "1633",
+   "name": "The Slate Landscape of Northwest Wales",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "cultural",
+   "year": 2021,
+   "url": "https://whc.unesco.org/en/list/1633",
+   "y": 52.6383333333,
+   "x": -3.9658333333
+  },
+  {
+   "id": "1722",
+   "name": "The Flow Country",
+   "countries": "United Kingdom of Great Britain and Northern Ireland",
+   "category": "natural",
+   "year": 2024,
+   "url": "https://whc.unesco.org/en/list/1722",
+   "y": 58.1686111111,
+   "x": -4.1072222222
+  }
+ ]
+}

@@ -61,7 +61,8 @@ function renderPlace(L) {
       '<button type="button" data-st="fav" aria-pressed="' + (st === 'fav') + '" class="' + (st === 'fav' ? 'on' : '') + '">' + ic('star') + 'Favori</button>' +
       '<button type="button" data-st="done" aria-pressed="' + (st === 'done') + '" class="' + (st === 'done' ? 'on' : '') + '">' + ic('check') + 'Fait</button></div>' +
     (official[i] ? '<p class="place-links">' + extLink(official[i], 'Office de tourisme ↗') + '</p>' : '') +
-    (source ? '<p class="place-links">' + extLink(source, 'Source du lieu ↗') + ' · Coordonnées de repérage, pas une entrée ni un parking.</p>' : '') +
+    (source ? '<p class="place-links">' + extLink(source, 'Source du lieu ↗') + ' · Coordonnées de repérage, pas une entrée ni un parking.</p>' :
+      L.coordinateNote ? '<p class="place-links">Coordonnées de repérage, pas une entrée ni un parking.</p>' : '') +
     '</article>';
 
   // À voir sur place

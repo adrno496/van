@@ -3,13 +3,13 @@
 // Chaque moteur déroule le même mini-parcours : démarrage, recherche, fiche, trajet, carnet, rechargement.
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { ROOT, loadPlaywright, serve, writeJson } from './lib/harness.mjs';
+import { ROOT, loadPlaywright, serve, writeJson, shippedCatalogue } from './lib/harness.mjs';
 
 const args = process.argv.slice(2);
 const opt = (f, d) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : d; };
 const file = path.resolve(opt('--file', path.join(ROOT, 'index.html')));
 const out = path.resolve(opt('--out', 'test-results/smoke.json'));
-const places = Number(opt('--places', 1600));   // 1595 pour la version publique
+const places = Number(opt('--places', shippedCatalogue(file).places));   // par défaut : le nombre de lieux contenus dans le fichier testé
 const pw = loadPlaywright();
 const server = await serve(path.dirname(file));
 const results = [];

@@ -115,8 +115,8 @@ function common(file, raw, contentDir) {
     demo: raw.demo === true, updatedAt: day(file, raw.updatedAt, 'updatedAt'), cover: media(file, raw.cover, 'cover', contentDir) };
 }
 const KEYS = {
-  voyage: ['slug', 'title', 'visibility', 'status', 'demo', 'updatedAt', 'cover', 'summary', 'countries', 'dateStart', 'dateEnd', 'distanceKm', 'placeIds', 'gallery', 'text'],
-  article: ['slug', 'title', 'visibility', 'status', 'demo', 'updatedAt', 'cover', 'excerpt', 'date', 'placeId', 'voyage', 'photos', 'text'],
+  voyage: ['slug', 'title', 'visibility', 'status', 'demo', 'updatedAt', 'cover', 'summary', 'countries', 'dateStart', 'dateEnd', 'distanceKm', 'placeIds', 'gallery', 'text', 'state', 'planned', 'showPlanned'],
+  article: ['slug', 'title', 'visibility', 'status', 'demo', 'updatedAt', 'cover', 'excerpt', 'date', 'placeId', 'voyage', 'photos', 'text', 'place', 'onMap', 'source'],
   guide: ['slug', 'title', 'visibility', 'status', 'demo', 'updatedAt', 'cover', 'summary', 'text', 'sources']
 };
 function known(file, raw, kind) {
@@ -133,6 +133,32 @@ function gallery(file, list, field, contentDir) {
   return list.map((item, i) => media(file, item, `${field}[${i}]`, contentDir)).filter(Boolean);
 }
 
+// Lieu d'un récit absent du catalogue (une étape personnelle) : nom, pays et position, arrondie ici au dixième de degré
+// (environ 10 km) quelle que soit la précision fournie. Le site ne publie jamais une position exacte ni « en direct ».
+export const PLACE_PRECISION = 0.1;
+export const roundCoord = (v) => Math.round(v / PLACE_PRECISION) * PLACE_PRECISION;
+function approxPlace(file, raw, ctx) {
+  if (raw == null) return null;
+  if (typeof raw !== 'object' || Array.isArray(raw)) fail(file, '« place » doit être un objet { name, country, lat, lon }');
+  for (const k of Object.keys(raw)) if (!['name', 'country', 'lat', 'lon'].includes(k)) fail(file, `« place » : clé inconnue « ${k.slice(0, 40)} »`);
+  const name = text(file, raw.name, 'place.name', LIMITS.name, { required: true });
+  if (raw.country != null && (typeof raw.country !== 'string' || !ctx.countries.has(raw.country))) fail(file, '« place.country » : pays inconnu de l’Atlas');
+  const lat = raw.lat, lon = raw.lon;
+  if (!(Number.isFinite(lat) && Number.isFinite(lon) && lat >= 34 && lat <= 72 && lon >= -25 && lon <= 45)) fail(file, '« place » : latitude et longitude en Europe (nombres) obligatoires');
+  return { name, country: raw.country || null, lat: Number(roundCoord(lat).toFixed(1)), lon: Number(roundCoord(lon).toFixed(1)) };
+}
+// Origine d'un article importé du carnet : identifiant stable de la note et empreinte du contenu importé.
+// Sert à reconnaître une note déjà importée et à ne jamais écraser une modification faite à la main.
+function carnetSource(file, raw) {
+  if (raw == null) return null;
+  if (typeof raw !== 'object' || Array.isArray(raw)) fail(file, '« source » invalide');
+  for (const k of Object.keys(raw)) if (!['kind', 'id', 'hash', 'importedAt'].includes(k)) fail(file, `« source » : clé inconnue « ${k.slice(0, 40)} »`);
+  if (raw.kind !== 'carnet') fail(file, '« source.kind » vaut "carnet"');
+  if (typeof raw.id !== 'string' || !/^[A-Za-z0-9_-]{1,64}$/.test(raw.id)) fail(file, '« source.id » invalide');
+  if (typeof raw.hash !== 'string' || !/^[a-f0-9]{64}$/.test(raw.hash)) fail(file, '« source.hash » doit être une empreinte SHA-256');
+  return { kind: 'carnet', id: raw.id, hash: raw.hash, importedAt: day(file, raw.importedAt, 'source.importedAt') };
+}
+
 const readers = {
   voyage(file, raw, ctx) {
     known(file, raw, 'voyage');
@@ -143,15 +169,23 @@ const readers = {
     if (km != null && !(Number.isFinite(km) && km >= 0 && km < 1e6)) fail(file, '« distanceKm » doit être un nombre positif');
     const dateStart = day(file, raw.dateStart, 'dateStart'), dateEnd = day(file, raw.dateEnd, 'dateEnd');
     if (dateStart && dateEnd && dateEnd < dateStart) fail(file, '« dateEnd » précède « dateStart »');
-    return { ...base, kind: 'voyage', summary: text(file, raw.summary, 'summary', LIMITS.summary), countries, dateStart, dateEnd, distanceKm: km,
-      placeIds: places(file, raw.placeIds, 'placeIds', ctx.placeIds), gallery: gallery(file, raw.gallery, 'gallery', ctx.contentDir), text: text(file, raw.text, 'text', LIMITS.text) };
+    // État du voyage : en cours, terminé ou à venir. Sans indication : terminé s'il a une date de fin, en cours sinon.
+    const state = raw.state == null ? (dateEnd ? 'finished' : 'ongoing') : raw.state;
+    if (!['ongoing', 'finished', 'planned'].includes(state)) fail(file, '« state » vaut "ongoing", "finished" ou "planned"');
+    if (raw.showPlanned != null && typeof raw.showPlanned !== 'boolean') fail(file, '« showPlanned » vaut true ou false');
+    return { ...base, kind: 'voyage', summary: text(file, raw.summary, 'summary', LIMITS.summary), countries, dateStart, dateEnd, distanceKm: km, state,
+      placeIds: places(file, raw.placeIds, 'placeIds', ctx.placeIds), gallery: gallery(file, raw.gallery, 'gallery', ctx.contentDir), text: text(file, raw.text, 'text', LIMITS.text),
+      // Étapes prévues : jamais montrées sans « showPlanned »: true (choix explicite du propriétaire).
+      planned: places(file, raw.planned, 'planned', ctx.placeIds), showPlanned: raw.showPlanned === true };
   },
   article(file, raw, ctx) {
     known(file, raw, 'article');
     const base = common(file, raw, ctx.contentDir);
     const placeId = raw.placeId == null ? null : places(file, [raw.placeId], 'placeId', ctx.placeIds)[0];
     if (raw.voyage != null && (typeof raw.voyage !== 'string' || !SLUG.test(raw.voyage))) fail(file, '« voyage » doit être le slug d’un voyage');
+    if (raw.onMap != null && typeof raw.onMap !== 'boolean') fail(file, '« onMap » vaut true ou false');
     return { ...base, kind: 'article', excerpt: text(file, raw.excerpt, 'excerpt', LIMITS.excerpt), date: day(file, raw.date, 'date', true), placeId, voyage: raw.voyage || null,
+      place: approxPlace(file, raw.place, ctx), onMap: raw.onMap !== false, source: carnetSource(file, raw.source),
       photos: gallery(file, raw.photos, 'photos', ctx.contentDir), text: text(file, raw.text, 'text', LIMITS.text, { required: true }) };
   },
   guide(file, raw, ctx) {
@@ -164,7 +198,28 @@ const readers = {
   }
 };
 
-const SITE_DEFAULTS = { name: 'Atlas Van', descriptor: 'Atlas de l’Europe en van', siteUrl: null, about: [], legal: null, social: [] };
+export const HERO_DEFAULTS = { eyebrow: '', title: 'Suivez mon voyage en van solo', lead: 'Je partage ici mes étapes, mes découvertes, mes photos et les routes parcourues au fil du voyage.',
+  primary: 'Suivre mon voyage', secondary: 'Voir mes voyages', tertiary: 'Préparer votre voyage' };
+const SITE_DEFAULTS = { name: 'Atlas Van', descriptor: 'Atlas de l’Europe en van', siteUrl: null, about: [], legal: null, social: [], hero: HERO_DEFAULTS, currentVoyage: null, community: null };
+// Clés publiques acceptées pour l'espace « Partage ». Une clé de service (accès sans contrôle RLS) ne doit jamais atteindre le navigateur :
+// la construction s'arrête si on en fournit une, sous l'une ou l'autre de ses formes connues.
+export function isServiceKey(key) {
+  if (typeof key !== 'string') return false;
+  if (/^sb_secret_/i.test(key) || /service_role/i.test(key)) return true;
+  const parts = key.split('.');
+  if (parts.length === 3) { try { const p = JSON.parse(Buffer.from(parts[1].replace(/-/g, '+').replace(/_/g, '/'), 'base64').toString('utf8')); return !!p && p.role !== 'anon'; } catch { return true; } }
+  return false;
+}
+export function communityUrl(value) {
+  if (typeof value !== 'string') return '';
+  try {
+    const u = new URL(value);
+    const loopback = /^(127\.0\.0\.1|localhost|\[::1\])$/.test(u.hostname);
+    if (u.protocol !== 'https:' && !(u.protocol === 'http:' && loopback)) return '';
+    if (u.username || u.password || u.search || u.hash) return '';
+    return u.origin + u.pathname.replace(/\/+$/, '');
+  } catch { return ''; }
+}
 function readSite(file, raw) {
   if (raw == null) return { ...SITE_DEFAULTS };
   if (typeof raw !== 'object' || Array.isArray(raw)) fail(file, 'le fichier doit contenir un objet');
@@ -183,6 +238,25 @@ function readSite(file, raw) {
   const social = raw.social == null ? [] : raw.social;
   if (!Array.isArray(social) || social.length > 10) fail(file, '« social » : 10 liens au plus');
   site.social = social.map((s, i) => { const url = safeUrl(s && s.url); if (!url) fail(file, `« social[${i}].url » doit être une adresse http(s)`); return { url, label: text(file, s.label, `social[${i}].label`, 60, { required: true }) }; });
+  if (raw.hero != null) {
+    if (typeof raw.hero !== 'object' || Array.isArray(raw.hero)) fail(file, '« hero » invalide');
+    for (const k of Object.keys(raw.hero)) if (!Object.keys(HERO_DEFAULTS).includes(k)) fail(file, `« hero » : clé inconnue « ${k.slice(0, 40)} »`);
+    site.hero = Object.fromEntries(Object.entries(HERO_DEFAULTS).map(([k, v]) => [k, text(file, raw.hero[k], 'hero.' + k, k === 'lead' ? 300 : 120) || v]));
+  }
+  if (raw.currentVoyage != null) {
+    if (typeof raw.currentVoyage !== 'string' || !SLUG.test(raw.currentVoyage)) fail(file, '« currentVoyage » doit être le slug d’un voyage');
+    site.currentVoyage = raw.currentVoyage;
+  }
+  if (raw.community != null) {
+    const c = raw.community;
+    if (!c || typeof c !== 'object' || Array.isArray(c)) fail(file, '« community » invalide');
+    for (const k of Object.keys(c)) if (!['url', 'anonKey'].includes(k)) fail(file, `« community » : clé inconnue « ${k.slice(0, 40)} » (aucun secret n’a sa place ici)`);
+    const url = communityUrl(c.url);
+    if (!url) fail(file, '« community.url » doit être une adresse https (http seulement pour 127.0.0.1 ou localhost), sans identifiant ni paramètre');
+    if (typeof c.anonKey !== 'string' || c.anonKey.length > 2000 || !/^[A-Za-z0-9._-]+$/.test(c.anonKey)) fail(file, '« community.anonKey » : clé publique (anon) attendue');
+    if (isServiceKey(c.anonKey)) fail(file, '« community.anonKey » est une clé de service : elle ne doit jamais être publiée. Utiliser la clé publique « anon ».');
+    site.community = { url, anonKey: c.anonKey };
+  }
   return site;
 }
 
@@ -205,6 +279,7 @@ export function loadContent(contentDir, ctx) {
   }
   const voyageSlugs = new Set(out.voyages.map((v) => v.slug));
   for (const a of out.articles) if (a.voyage && !voyageSlugs.has(a.voyage)) fail(`articles/${a.slug}.json`, `voyage inconnu « ${a.voyage} »`);
+  if (out.site.currentVoyage && !voyageSlugs.has(out.site.currentVoyage)) fail('site.json', `« currentVoyage » : voyage inconnu « ${out.site.currentVoyage} »`);
   out.voyages.sort((a, b) => String(b.dateStart || '').localeCompare(String(a.dateStart || '')));
   out.articles.sort((a, b) => b.date.localeCompare(a.date));
   return out;
@@ -212,8 +287,11 @@ export function loadContent(contentDir, ctx) {
 // Ce qu'une version a le droit de montrer. Version publique : seulement ce qui est explicitement public et publié, jamais une démo.
 export function visibleContent(content, mode, { demo = false } = {}) {
   const keep = (item) => (mode === 'public' ? item.isPublic && !item.demo : (demo || !item.demo));
-  return { ...content, voyages: content.voyages.filter(keep), articles: content.articles.filter(keep), guides: content.guides.filter(keep),
-    site: { ...content.site, about: content.site.about.filter((s) => mode !== 'public' || s.visibility === 'public') } };
+  const voyages = content.voyages.filter(keep);
+  // Le voyage en cours n'est montré que si le voyage désigné est lui-même visible dans cette version.
+  const current = voyages.find((v) => v.slug === content.site.currentVoyage) || null;
+  return { ...content, voyages, articles: content.articles.filter(keep), guides: content.guides.filter(keep),
+    site: { ...content.site, currentVoyage: current ? current.slug : null, about: content.site.about.filter((s) => mode !== 'public' || s.visibility === 'public') } };
 }
 // Tout ce que la version publique ne doit contenir sous aucune forme : sert au contrôle de confidentialité.
 export function privateStrings(content) {
@@ -222,7 +300,7 @@ export function privateStrings(content) {
   const lines = (s) => String(s || '').split(/\n+/).forEach(add);
   for (const item of [...content.voyages, ...content.articles, ...content.guides]) {
     if (item.isPublic && !item.demo) continue;
-    add(item.title); add(item.summary); add(item.excerpt); lines(item.text);
+    add(item.title); add(item.summary); add(item.excerpt); lines(item.text); if (item.place) add(item.place.name);
     for (const p of [item.cover, ...(item.gallery || []), ...(item.photos || [])]) if (p) { add(p.caption); add(p.alt); }
   }
   for (const s of content.site.about) if (s.visibility !== 'public') { add(s.title); lines(s.text); }

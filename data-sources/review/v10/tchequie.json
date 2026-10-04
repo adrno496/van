@@ -1,0 +1,1862 @@
+[
+ {
+  "key": "tchequie|karlstejn|499:142",
+  "src": "pologne-tchequie.json#51",
+  "n": "Château de Karlštejn",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Řevnice (CZ, 4.4 km)",
+   "ref": {
+    "name": "Beroun",
+    "geonameid": 3079467,
+    "y": 49.96382,
+    "x": 14.072,
+    "km": 8.7,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 83,
+  "decision": "retenu",
+  "i": 3134
+ },
+ {
+  "key": "tchequie|rochers-adrspach-teplice|506:161",
+  "src": "pologne-tchequie.json#89",
+  "n": "Rochers d'Adršpach-Teplice",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Teplice nad Metují (CZ, 4.7 km)",
+   "ref": {
+    "name": "Police nad Metují",
+    "geonameid": 3067885,
+    "y": 50.53687,
+    "x": 16.2335,
+    "km": 12.2,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 11,
+   "sing": 14,
+   "val": 14,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3135
+ },
+ {
+  "key": "tchequie|hluboka|491:144",
+  "src": "pologne-tchequie.json#68",
+  "n": "Château de Hluboká",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hluboká nad Vltavou (CZ, 0.6 km)",
+   "ref": {
+    "name": "Hluboká nad Vltavou",
+    "geonameid": 3075731,
+    "y": 49.05225,
+    "x": 14.43427,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 9,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 3136
+ },
+ {
+  "key": "tchequie|gouffre-macocha|494:167",
+  "src": "pologne-tchequie.json#76",
+  "n": "Gouffre de Macocha",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ostrov u Macochy (CZ, 2.6 km)",
+   "ref": {
+    "name": "Blansko",
+    "geonameid": 3079273,
+    "y": 49.36304,
+    "x": 16.64446,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 14,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3137
+ },
+ {
+  "key": "tchequie|pernstejn|495:163",
+  "src": "pologne-tchequie.json#75",
+  "n": "Château de Pernštejn",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nedvědice (CZ, 1.3 km)",
+   "ref": {
+    "name": "Bystřice nad Pernštejnem",
+    "geonameid": 3078288,
+    "y": 49.52295,
+    "x": 16.26147,
+    "km": 9,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3138
+ },
+ {
+  "key": "tchequie|jested|507:150",
+  "src": "pologne-tchequie.json#91",
+  "n": "Ještěd",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Osečná (CZ, 6.1 km)",
+   "ref": {
+    "name": "Liberec",
+    "geonameid": 3071961,
+    "y": 50.76711,
+    "x": 15.05619,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3139
+ },
+ {
+  "key": "tchequie|hopital-kuks|504:159",
+  "src": "pologne-tchequie.json#88",
+  "n": "Hôpital de Kuks",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jaroměř (CZ, 5.5 km)",
+   "ref": {
+    "name": "Dvůr Králové nad Labem",
+    "geonameid": 3061284,
+    "y": 50.43172,
+    "x": 15.81402,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3140
+ },
+ {
+  "key": "tchequie|marianske-lazne|500:127",
+  "src": "pologne-tchequie.json#59",
+  "n": "Mariánské Lázně",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mariánské Lázně (CZ, 0.6 km)",
+   "ref": {
+    "name": "Mariánské Lázně",
+    "geonameid": 3071024,
+    "y": 49.96459,
+    "x": 12.70118,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.6
+  },
+  "links": {
+   "geonames": 3071024
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3141
+ },
+ {
+  "key": "tchequie|pustevny-radhost|495:183",
+  "src": "pologne-tchequie.json#85",
+  "n": "Pustevny et Radhošť",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Prostřední Bečva (CZ, 6.0 km)",
+   "ref": {
+    "name": "Rožnov pod Radhoštěm",
+    "geonameid": 3066651,
+    "y": 49.45853,
+    "x": 18.14302,
+    "km": 9.6,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3142
+ },
+ {
+  "key": "tchequie|trebon|490:148",
+  "src": "pologne-tchequie.json#70",
+  "n": "Třeboň",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Třeboň (CZ, 0.0 km)",
+   "ref": {
+    "name": "Třeboň",
+    "geonameid": 3064079,
+    "y": 49.00364,
+    "x": 14.77065,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 3064079
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3143
+ },
+ {
+  "key": "tchequie|bouzov|497:169",
+  "src": "pologne-tchequie.json#74",
+  "n": "Château de Bouzov",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bouzov (CZ, 0.1 km)",
+   "ref": {
+    "name": "Litovel",
+    "geonameid": 3071669,
+    "y": 49.70121,
+    "x": 17.07615,
+    "km": 13.3,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3147
+ },
+ {
+  "key": "tchequie|konopiste|498:147",
+  "src": "pologne-tchequie.json#52",
+  "n": "Château de Konopiště",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Benešov (CZ, 2.2 km)",
+   "ref": {
+    "name": "Benešov",
+    "geonameid": 3079508,
+    "y": 49.78162,
+    "x": 14.68697,
+    "km": 2.2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3148
+ },
+ {
+  "key": "tchequie|loket|502:128",
+  "src": "pologne-tchequie.json#62",
+  "n": "Loket",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loket (CZ, 0.1 km)",
+   "ref": {
+    "name": "Loket",
+    "geonameid": 3071627,
+    "y": 50.186,
+    "x": 12.75405,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3071627
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3144
+ },
+ {
+  "key": "tchequie|mikulov|488:166",
+  "src": "pologne-tchequie.json#77",
+  "n": "Mikulov",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mikulov (CZ, 0.0 km)",
+   "ref": {
+    "name": "Mikulov",
+    "geonameid": 3070720,
+    "y": 48.80556,
+    "x": 16.6378,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 3070720
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3146
+ },
+ {
+  "key": "tchequie|znojmo|489:160",
+  "src": "pologne-tchequie.json#79",
+  "n": "Znojmo",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Znojmo (CZ, 0.0 km)",
+   "ref": {
+    "name": "Znojmo",
+    "geonameid": 3061344,
+    "y": 48.8555,
+    "x": 16.0488,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 3061344
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3145
+ },
+ {
+  "key": "tchequie|plzen|497:134",
+  "src": "pologne-tchequie.json#63",
+  "n": "Plzeň",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pilsen (CZ, 0.0 km)",
+   "ref": {
+    "name": "Pizen",
+    "geonameid": null,
+    "y": 49.740438,
+    "x": 13.360001,
+    "km": 1.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3068160,
+   "qid": "Q43453"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3149
+ },
+ {
+  "key": "tchequie|praded|501:172",
+  "src": "pologne-tchequie.json#87",
+  "n": "Praděd",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bělá pod Pradědem (CZ, 9.3 km)",
+   "ref": {
+    "name": "Vrbno pod Pradědem",
+    "geonameid": 3062446,
+    "y": 50.12095,
+    "x": 17.38316,
+    "km": 11.6,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3150
+ },
+ {
+  "key": "tchequie|slavonice|490:154",
+  "src": "pologne-tchequie.json#73",
+  "n": "Slavonice",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Slavonice (CZ, 0.0 km)",
+   "ref": {
+    "name": "Slavonice",
+    "geonameid": 3065818,
+    "y": 48.99753,
+    "x": 15.35154,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3065818
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3151
+ },
+ {
+  "key": "tchequie|vranov-nad-dyji|489:158",
+  "src": "pologne-tchequie.json#80",
+  "n": "Château de Vranov nad Dyjí",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hardegg (AT, 5.6 km)",
+   "ref": {
+    "name": "Znojmo",
+    "geonameid": 3061344,
+    "y": 48.8555,
+    "x": 16.0488,
+    "km": 18,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3153
+ },
+ {
+  "key": "tchequie|jindrichuv-hradec|491:150",
+  "src": "pologne-tchequie.json#72",
+  "n": "Jindřichův Hradec",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jindřichův Hradec (CZ, 0.1 km)",
+   "ref": {
+    "name": "Jindřichův Hradec",
+    "geonameid": 3074149,
+    "y": 49.14404,
+    "x": 15.00301,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 3074149
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3154
+ },
+ {
+  "key": "tchequie|noir-sumava|492:132",
+  "src": "pologne-tchequie.json#64",
+  "n": "Lac Noir de Šumava",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lohberg (DE, 5.8 km)",
+   "ref": {
+    "name": "Železná Ruda",
+    "geonameid": 3061567,
+    "y": 49.13743,
+    "x": 13.2352,
+    "km": 6.1,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3152
+ },
+ {
+  "key": "tchequie|kokorin|504:146",
+  "src": "pologne-tchequie.json#55",
+  "n": "Château de Kokořín",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mšeno (CZ, 3.9 km)",
+   "ref": {
+    "name": "Mělník",
+    "geonameid": 3070862,
+    "y": 50.3505,
+    "x": 14.47411,
+    "km": 11.8,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3158
+ },
+ {
+  "key": "tchequie|krivoklat|500:139",
+  "src": "pologne-tchequie.json#53",
+  "n": "Château de Křivoklát",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Roztoky (CZ, 1.3 km)",
+   "ref": {
+    "name": "Rakovník",
+    "geonameid": 3067051,
+    "y": 50.1037,
+    "x": 13.7334,
+    "km": 12.3,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3156
+ },
+ {
+  "key": "tchequie|dolni-vitkovice|498:183",
+  "src": "pologne-tchequie.json#86",
+  "n": "Dolní Vítkovice",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ostrava (CZ, 1.6 km)",
+   "ref": {
+    "name": "Ostrava",
+    "geonameid": 3068799,
+    "y": 49.83465,
+    "x": 18.28204,
+    "km": 1.6,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3157
+ },
+ {
+  "key": "tchequie|tabor|494:147",
+  "src": "pologne-tchequie.json#71",
+  "n": "Tábor",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tábor (CZ, 0.0 km)",
+   "ref": {
+    "name": "Tábor",
+    "geonameid": 3064379,
+    "y": 49.41441,
+    "x": 14.6578,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 3064379
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3155
+ },
+ {
+  "key": "tchequie|orlik|495:142",
+  "src": "pologne-tchequie.json#58",
+  "n": "Château d'Orlík",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kovářov (CZ, 7.8 km)",
+   "ref": {
+    "name": "Milevsko",
+    "geonameid": 3070678,
+    "y": 49.45089,
+    "x": 14.36,
+    "km": 15.3,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3160
+ },
+ {
+  "key": "tchequie|luhacovice|491:178",
+  "src": "pologne-tchequie.json#96",
+  "n": "Luhačovice",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Luhačovice (CZ, 0.0 km)",
+   "ref": {
+    "name": "Luhačovice",
+    "geonameid": 3071407,
+    "y": 49.09982,
+    "x": 17.75747,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 3071407
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3159
+ },
+ {
+  "key": "tchequie|cheb|501:124",
+  "src": "pologne-tchequie.json#61",
+  "n": "Cheb",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cheb (CZ, 0.1 km)",
+   "ref": {
+    "name": "Cheb",
+    "geonameid": 3077835,
+    "y": 50.07963,
+    "x": 12.37392,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 3077835
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3161
+ },
+ {
+  "key": "tchequie|valaque-plein-air|495:181",
+  "src": "pologne-tchequie.json#84",
+  "n": "Musée valaque en plein air",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rožnov pod Radhoštěm (CZ, 0.4 km)",
+   "ref": {
+    "name": "Rožnov pod Radhoštěm",
+    "geonameid": 3066651,
+    "y": 49.45853,
+    "x": 18.14302,
+    "km": 0.4,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3162
+ },
+ {
+  "key": "tchequie|ceske-budejovice|490:145",
+  "src": "pologne-tchequie.json#69",
+  "n": "České Budějovice",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "České Budějovice (CZ, 0.0 km)",
+   "ref": {
+    "name": "České Budějovice",
+    "geonameid": 3077916,
+    "y": 48.97447,
+    "x": 14.47434,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 3077916,
+   "qid": "Q16506"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3163
+ },
+ {
+  "key": "tchequie|bezdez|505:147",
+  "src": "pologne-tchequie.json#92",
+  "n": "Château de Bezděz",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Doksy (CZ, 5.4 km)",
+   "ref": {
+    "name": "Doksy",
+    "geonameid": 3076972,
+    "y": 50.56471,
+    "x": 14.65553,
+    "km": 5.4,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3165
+ },
+ {
+  "key": "tchequie|collines-palava|489:167",
+  "src": "pologne-tchequie.json#78",
+  "n": "Collines de Pálava",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Šakvice (CZ, 3.9 km)",
+   "ref": {
+    "name": "Mikulov",
+    "geonameid": 3070720,
+    "y": 48.80556,
+    "x": 16.6378,
+    "km": 8.1,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3164
+ },
+ {
+  "key": "tchequie|frantiskovy-lazne|501:124",
+  "src": "pologne-tchequie.json#60",
+  "n": "Františkovy Lázně",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Františkovy Lázně (CZ, 0.0 km)",
+   "ref": {
+    "name": "Františkovy Lázně",
+    "geonameid": 3076136,
+    "y": 50.12033,
+    "x": 12.35174,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 3076136
+  },
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3166
+ },
+ {
+  "key": "tchequie|melnik|504:145",
+  "src": "pologne-tchequie.json#56",
+  "n": "Mělník",
+  "p": "Tchéquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mělník (CZ, 0.0 km)",
+   "ref": {
+    "name": "Mělník",
+    "geonameid": 3070862,
+    "y": 50.3505,
+    "x": 14.47411,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 3070862
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3167
+ },
+ {
+  "key": "tchequie|milesovka|506:139",
+  "src": "pologne-tchequie.json#94",
+  "n": "Milešovka",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Velemín (CZ, 3.7 km)",
+   "ref": {
+    "name": "Lovosice",
+    "geonameid": 3071480,
+    "y": 50.51504,
+    "x": 14.05103,
+    "km": 9.5,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3168
+ },
+ {
+  "key": "tchequie|lipno|486:142",
+  "src": "pologne-tchequie.json#66",
+  "n": "Lac de Lipno",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loučovice (CZ, 2.6 km)",
+   "ref": {
+    "name": "Vyšší Brod",
+    "geonameid": 3062184,
+    "y": 48.61598,
+    "x": 14.31183,
+    "km": 6.4,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 12,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 3169
+ },
+ {
+  "key": "tchequie|buchlov|491:173",
+  "src": "pologne-tchequie.json#83",
+  "n": "Château de Buchlov",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Buchlovice (CZ, 3.0 km)",
+   "ref": {
+    "name": "Buchlovice",
+    "geonameid": 3078513,
+    "y": 49.08627,
+    "x": 17.33852,
+    "km": 3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "tchequie|kasperk|491:136",
+  "src": "pologne-tchequie.json#65",
+  "n": "Château de Kašperk",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kašperské Hory (CZ, 0.5 km)",
+   "ref": {
+    "name": "Sušice",
+    "geonameid": 3064662,
+    "y": 49.23106,
+    "x": 13.52018,
+    "km": 9.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "tchequie|champ-bataille-austerlitz|491:168",
+  "src": "pologne-tchequie.json#81",
+  "n": "Champ de bataille d'Austerlitz",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Újezd u Brna (CZ, 2.7 km)",
+   "ref": {
+    "name": "Šlapanice",
+    "geonameid": 3065901,
+    "y": 49.16863,
+    "x": 16.72731,
+    "km": 5.1,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "tchequie|velehrad|491:174",
+  "src": "pologne-tchequie.json#82",
+  "n": "Velehrad",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Velehrad (CZ, 0.0 km)",
+   "ref": {
+    "name": "Staré Město",
+    "geonameid": 3065335,
+    "y": 49.07515,
+    "x": 17.43338,
+    "km": 4.4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "tchequie|broumov|506:163",
+  "src": "pologne-tchequie.json#90",
+  "n": "Monastère de Broumov",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Broumov (CZ, 0.1 km)",
+   "ref": {
+    "name": "Broumov",
+    "geonameid": 3078577,
+    "y": 50.58566,
+    "x": 16.33181,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "tchequie|lipnice|496:154",
+  "src": "pologne-tchequie.json#98",
+  "n": "Château de Lipnice",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Okrouhlice (CZ, 5.8 km)",
+   "ref": {
+    "name": "Světlá nad Sázavou",
+    "geonameid": 3064510,
+    "y": 49.66801,
+    "x": 15.40393,
+    "km": 6,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "tchequie|rozmberk|487:144",
+  "src": "pologne-tchequie.json#67",
+  "n": "Château de Rožmberk",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vyšší Brod (CZ, 5.9 km)",
+   "ref": {
+    "name": "Vyšší Brod",
+    "geonameid": 3062184,
+    "y": 48.61598,
+    "x": 14.31183,
+    "km": 5.9,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "tchequie|rip|504:143",
+  "src": "pologne-tchequie.json#57",
+  "n": "Mont Říp",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Straškov-Vodochody (CZ, 3.8 km)",
+   "ref": {
+    "name": "Roudnice nad Labem",
+    "geonameid": 3066727,
+    "y": 50.42528,
+    "x": 14.26175,
+    "km": 4.7,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "tchequie|kuneticka-hora|501:158",
+  "src": "pologne-tchequie.json#97",
+  "n": "Château de Kunětická hora",
+  "p": "Tchéquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Staré Hradiště (CZ, 2.8 km)",
+   "ref": {
+    "name": "Pardubice",
+    "geonameid": 3068582,
+    "y": 50.04075,
+    "x": 15.77659,
+    "km": 5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "tchequie|koneprusy|499:141",
+  "src": "pologne-tchequie.json#54",
+  "n": "Grottes de Koněprusy",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Králův Dvůr (CZ, 4.5 km)",
+   "ref": {
+    "name": "Beroun",
+    "geonameid": 3079467,
+    "y": 49.96382,
+    "x": 14.072,
+    "km": 5.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "tchequie|tiske-steny|508:140",
+  "src": "pologne-tchequie.json#95",
+  "n": "Tiské stěny",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Libouchec (CZ, 3.4 km)",
+   "ref": {
+    "name": "Jílové",
+    "geonameid": 3074181,
+    "y": 50.76082,
+    "x": 14.10383,
+    "km": 6.1,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "tchequie|panska-skala|508:145",
+  "src": "pologne-tchequie.json#93",
+  "n": "Panská skála",
+  "p": "Tchéquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kamenický Šenov (CZ, 0.9 km)",
+   "ref": {
+    "name": "Kamenický Šenov",
+    "geonameid": 3073928,
+    "y": 50.77359,
+    "x": 14.47287,
+    "km": 0.9,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ }
+]

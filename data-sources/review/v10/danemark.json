@@ -1,0 +1,1320 @@
+[
+ {
+  "key": "danemark|m-ns-klint|550:125",
+  "src": "nordiques-baltes.json#0",
+  "n": "Møns Klint",
+  "p": "Danemark",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stege (DK, 16.9 km)",
+   "ref": {
+    "name": "Stege",
+    "geonameid": 2612689,
+    "y": 54.98704,
+    "x": 12.28461,
+    "km": 16.9,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 21,
+   "van": 12,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 87,
+  "decision": "retenu",
+  "i": 3274
+ },
+ {
+  "key": "danemark|ribe|553:88",
+  "src": "nordiques-baltes.json#1",
+  "n": "Ribe",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ribe (DK, 0.7 km)",
+   "ref": {
+    "name": "Ribe",
+    "geonameid": 2614813,
+    "y": 55.33051,
+    "x": 8.76966,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.66
+  },
+  "links": {
+   "geonames": 2614813
+  },
+  "score": {
+   "tour": 19,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 84,
+  "decision": "retenu",
+  "i": 3275
+ },
+ {
+  "key": "danemark|phare-rubjerg-knude|574:98",
+  "src": "nordiques-baltes.json#5",
+  "n": "Phare de Rubjerg Knude",
+  "p": "Danemark",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Løkken (DK, 9.5 km)",
+   "ref": {
+    "name": "Hjørring",
+    "geonameid": 2620214,
+    "y": 57.46417,
+    "x": 9.98229,
+    "km": 12.6,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3276
+ },
+ {
+  "key": "danemark|rabjerg-mile|577:104",
+  "src": "nordiques-baltes.json#4",
+  "n": "Råbjerg Mile",
+  "p": "Danemark",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ålbæk (DK, 6.9 km)",
+   "ref": {
+    "name": "Skagen",
+    "geonameid": 2613939,
+    "y": 57.72093,
+    "x": 10.58394,
+    "km": 12.9,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3277
+ },
+ {
+  "key": "danemark|frederiksborg|559:123",
+  "src": "nordiques-baltes.json#23",
+  "n": "Château de Frederiksborg",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hillerød (DK, 0.7 km)",
+   "ref": {
+    "name": "Hillerød",
+    "geonameid": 2620320,
+    "y": 55.92791,
+    "x": 12.30081,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3279
+ },
+ {
+  "key": "danemark|hammershus|553:148",
+  "src": "nordiques-baltes.json#20",
+  "n": "Hammershus",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Allinge (DK, 2.7 km)",
+   "ref": {
+    "name": "Rønne",
+    "geonameid": 2614553,
+    "y": 55.10091,
+    "x": 14.70664,
+    "km": 19.2,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3278
+ },
+ {
+  "key": "danemark|r-sk-bing|549:104",
+  "src": "nordiques-baltes.json#26",
+  "n": "Ærøskøbing",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ærøskøbing (DK, 0.0 km)",
+   "ref": {
+    "name": "Marstal",
+    "geonameid": 2617030,
+    "y": 54.85621,
+    "x": 10.51726,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2625001
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3280
+ },
+ {
+  "key": "danemark|aarhus|562:102",
+  "src": "nordiques-baltes.json#2",
+  "n": "Aarhus",
+  "p": "Danemark",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Århus (DK, 0.0 km)",
+   "ref": {
+    "name": "Århus",
+    "geonameid": null,
+    "y": 56.157204,
+    "x": 10.210684,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2624652,
+   "qid": "Q25319"
+  },
+  "score": {
+   "tour": 18,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3281
+ },
+ {
+  "key": "danemark|blavandshuk|556:81",
+  "src": "nordiques-baltes.json#11",
+  "n": "Blåvandshuk",
+  "p": "Danemark",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.6,
+   "otherCountry": null,
+   "nearestLocality": "Oksbøl (DK, 14.8 km)",
+   "ref": {
+    "name": "Oksbøl",
+    "geonameid": 2615859,
+    "y": 55.6268,
+    "x": 8.28757,
+    "km": 14.8,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3282
+ },
+ {
+  "key": "danemark|lindholm-h-je|571:99",
+  "src": "nordiques-baltes.json#6",
+  "n": "Lindholm Høje",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nørresundby (DK, 2.3 km)",
+   "ref": {
+    "name": "Nørresundby",
+    "geonameid": 2616235,
+    "y": 57.05877,
+    "x": 9.92284,
+    "km": 2.3,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3283
+ },
+ {
+  "key": "danemark|himmelbjerget|561:97",
+  "src": "nordiques-baltes.json#15",
+  "n": "Himmelbjerget",
+  "p": "Danemark",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Svejbæk (DK, 4.5 km)",
+   "ref": {
+    "name": "Ry",
+    "geonameid": 2614387,
+    "y": 56.09038,
+    "x": 9.76505,
+    "km": 5.3,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3284
+ },
+ {
+  "key": "danemark|phare-lyngvig|560:81",
+  "src": "nordiques-baltes.json#10",
+  "n": "Phare de Lyngvig",
+  "p": "Danemark",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Ringkøbing (DK, 9.8 km)",
+   "ref": {
+    "name": "Hvide Sande",
+    "geonameid": 2619537,
+    "y": 55.99866,
+    "x": 8.12605,
+    "km": 5.8,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3285
+ },
+ {
+  "key": "danemark|ebeltoft|562:107",
+  "src": "nordiques-baltes.json#19",
+  "n": "Ebeltoft",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ebeltoft (DK, 0.1 km)",
+   "ref": {
+    "name": "Ebeltoft",
+    "geonameid": 2622793,
+    "y": 56.19442,
+    "x": 10.6821,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 2622793
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3286
+ },
+ {
+  "key": "danemark|louisiana|560:125",
+  "src": "nordiques-baltes.json#24",
+  "n": "Louisiana Museum",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Humlebæk (DK, 1.0 km)",
+   "ref": {
+    "name": "Humlebæk",
+    "geonameid": 2619669,
+    "y": 55.9618,
+    "x": 12.5341,
+    "km": 1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 6,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3287
+ },
+ {
+  "key": "danemark|odense|554:104",
+  "src": "nordiques-baltes.json#3",
+  "n": "Odense",
+  "p": "Danemark",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Odense (DK, 0.0 km)",
+   "ref": {
+    "name": "Odense",
+    "geonameid": 2615876,
+    "y": 55.39594,
+    "x": 10.38831,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 2615876,
+   "qid": "Q25331"
+  },
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3288
+ },
+ {
+  "key": "danemark|rebild-bakker|568:98",
+  "src": "nordiques-baltes.json#17",
+  "n": "Rebild Bakker",
+  "p": "Danemark",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Skørping (DK, 3.2 km)",
+   "ref": {
+    "name": "Skørping",
+    "geonameid": 2613672,
+    "y": 56.83626,
+    "x": 9.89255,
+    "km": 3.2,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3289
+ },
+ {
+  "key": "danemark|dueodde|550:151",
+  "src": "nordiques-baltes.json#22",
+  "n": "Dueodde",
+  "p": "Danemark",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Nexø (DK, 8.5 km)",
+   "ref": {
+    "name": "Nexø",
+    "geonameid": 2616504,
+    "y": 55.06067,
+    "x": 15.13058,
+    "km": 8.5,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3290
+ },
+ {
+  "key": "danemark|notre-dame-kalundborg|557:111",
+  "src": "nordiques-baltes.json#31",
+  "n": "Église Notre-Dame de Kalundborg",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kalundborg (DK, 0.2 km)",
+   "ref": {
+    "name": "Kalundborg",
+    "geonameid": 2619154,
+    "y": 55.67954,
+    "x": 11.08864,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 6,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3291
+ },
+ {
+  "key": "danemark|ronde-sterlars|552:150",
+  "src": "nordiques-baltes.json#21",
+  "n": "Église ronde d'Østerlars",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Åkirkeby (DK, 10.8 km)",
+   "ref": {
+    "name": "Nexø",
+    "geonameid": 2616504,
+    "y": 55.06067,
+    "x": 15.13058,
+    "km": 14.7,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3292
+ },
+ {
+  "key": "danemark|koldinghus|555:95",
+  "src": "nordiques-baltes.json#14",
+  "n": "Koldinghus",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kolding (DK, 0.1 km)",
+   "ref": {
+    "name": "Kolding",
+    "geonameid": 2618528,
+    "y": 55.4904,
+    "x": 9.47216,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3293
+ },
+ {
+  "key": "danemark|m-gelt-nder|549:88",
+  "src": "nordiques-baltes.json#12",
+  "n": "Møgeltønder",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tønder (DK, 4.2 km)",
+   "ref": {
+    "name": "Tønder",
+    "geonameid": 2611497,
+    "y": 54.93306,
+    "x": 8.86674,
+    "km": 4.2,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3296
+ },
+ {
+  "key": "danemark|s-nderho|554:85",
+  "src": "nordiques-baltes.json#29",
+  "n": "Sønderho",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Nordby (DK, 11.3 km)",
+   "ref": {
+    "name": "Esbjerg",
+    "geonameid": null,
+    "y": 55.467039,
+    "x": 8.450016,
+    "km": 12.6,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3294
+ },
+ {
+  "key": "danemark|viborg|565:94",
+  "src": "nordiques-baltes.json#16",
+  "n": "Viborg",
+  "p": "Danemark",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Viborg (DK, 0.3 km)",
+   "ref": {
+    "name": "Viborg",
+    "geonameid": 2610319,
+    "y": 56.45319,
+    "x": 9.40201,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.25
+  },
+  "links": {
+   "geonames": 2610319,
+   "qid": "Q21176"
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3295
+ },
+ {
+  "key": "danemark|mariager|566:100",
+  "src": "nordiques-baltes.json#18",
+  "n": "Mariager",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mariager (DK, 0.1 km)",
+   "ref": {
+    "name": "Mariager",
+    "geonameid": 2617076,
+    "y": 56.64985,
+    "x": 9.97515,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2617076
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3297
+ },
+ {
+  "key": "danemark|phare-bovbjerg|565:81",
+  "src": "nordiques-baltes.json#9",
+  "n": "Phare de Bovbjerg",
+  "p": "Danemark",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lemvig (DK, 12.0 km)",
+   "ref": {
+    "name": "Lemvig",
+    "geonameid": 2617812,
+    "y": 56.54856,
+    "x": 8.31019,
+    "km": 12,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3298
+ },
+ {
+  "key": "danemark|faaborg|551:102",
+  "src": "nordiques-baltes.json#27",
+  "n": "Faaborg",
+  "p": "Danemark",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Faaborg (DK, 0.0 km)",
+   "ref": {
+    "name": "Faaborg",
+    "geonameid": 2622383,
+    "y": 55.0951,
+    "x": 10.24226,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2622383
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3299
+ },
+ {
+  "key": "danemark|vordingborg|550:119",
+  "src": "nordiques-baltes.json#33",
+  "n": "Vordingborg",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vordingborg (DK, 0.2 km)",
+   "ref": {
+    "name": "Vordingborg",
+    "geonameid": 2610020,
+    "y": 55.00801,
+    "x": 11.91057,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "danemark|dybb-banke|549:97",
+  "src": "nordiques-baltes.json#13",
+  "n": "Dybbøl Banke",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dybbøl (DK, 0.6 km)",
+   "ref": {
+    "name": "Sønderborg",
+    "geonameid": 2613102,
+    "y": 54.90896,
+    "x": 9.78917,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "danemark|bulbjerg|572:90",
+  "src": "nordiques-baltes.json#8",
+  "n": "Bulbjerg",
+  "p": "Danemark",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fjerritslev (DK, 16.1 km)",
+   "ref": {
+    "name": "Fjerritslev",
+    "geonameid": 2622139,
+    "y": 57.08822,
+    "x": 9.26622,
+    "km": 16.1,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "danemark|drag-r|556:127",
+  "src": "nordiques-baltes.json#32",
+  "n": "Dragør",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.6,
+   "otherCountry": null,
+   "nearestLocality": "Dragør (DK, 0.2 km)",
+   "ref": {
+    "name": "Dragør",
+    "geonameid": 2622937,
+    "y": 55.5928,
+    "x": 12.67221,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.18
+  },
+  "links": {
+   "geonames": 2622937
+  },
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "danemark|navire-ladby|554:106",
+  "src": "nordiques-baltes.json#28",
+  "n": "Navire de Ladby",
+  "p": "Danemark",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Munkebo (DK, 3.6 km)",
+   "ref": {
+    "name": "Kerteminde",
+    "geonameid": 2618944,
+    "y": 55.44903,
+    "x": 10.65769,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "danemark|aalborg|570:99",
+  "src": "nordiques-baltes.json#7",
+  "n": "Aalborg",
+  "p": "Danemark",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aalborg (DK, 0.2 km)",
+   "ref": {
+    "name": "Aalborg",
+    "geonameid": 2624886,
+    "y": 57.048,
+    "x": 9.9187,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.2
+  },
+  "links": {
+   "geonames": 2624886,
+   "qid": "Q25410"
+  },
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "danemark|marielyst|547:120",
+  "src": "nordiques-baltes.json#25",
+  "n": "Marielyst",
+  "p": "Danemark",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Væggerløse (DK, 5.2 km)",
+   "ref": {
+    "name": "Nykøbing Falster",
+    "geonameid": 2615961,
+    "y": 54.76906,
+    "x": 11.87425,
+    "km": 12.3,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 6,
+   "val": 7,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "danemark|carrieres-m-nsted|565:92",
+  "src": "nordiques-baltes.json#30",
+  "n": "Carrières de Mønsted",
+  "p": "Danemark",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stoholm (DK, 4.3 km)",
+   "ref": {
+    "name": "Viborg",
+    "geonameid": 2610319,
+    "y": 56.45319,
+    "x": 9.40201,
+    "km": 12.8,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ }
+]

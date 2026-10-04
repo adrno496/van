@@ -1,0 +1,3 @@
+build : 345 ms
+build --mode public: 1002 ms
+build --mode personal: 852 ms

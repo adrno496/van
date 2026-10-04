@@ -1,0 +1,857 @@
+[
+ {
+  "key": "lettonie|rundale|564:240",
+  "src": "nordiques-baltes.json#79",
+  "n": "Palais de Rundāle",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pilsrundāle (LV, 0.7 km)",
+   "ref": {
+    "name": "Bauska",
+    "geonameid": 461114,
+    "y": 56.40794,
+    "x": 24.19443,
+    "km": 10.5,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 9,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 3496
+ },
+ {
+  "key": "lettonie|turaida|572:249",
+  "src": "nordiques-baltes.json#81",
+  "n": "Château de Turaida",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sigulda (LV, 3.3 km)",
+   "ref": {
+    "name": "Sigulda",
+    "geonameid": 455718,
+    "y": 57.15375,
+    "x": 24.85953,
+    "km": 3.3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3497
+ },
+ {
+  "key": "lettonie|liepaja|565:210",
+  "src": "nordiques-baltes.json#83",
+  "n": "Liepāja",
+  "p": "Lettonie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Liepāja (LV, 0.0 km)",
+   "ref": {
+    "name": "Liepāja",
+    "geonameid": 457954,
+    "y": 56.50474,
+    "x": 21.01085,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 457954,
+   "qid": "Q167668"
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3498
+ },
+ {
+  "key": "lettonie|kolka|578:226",
+  "src": "nordiques-baltes.json#85",
+  "n": "Cap Kolka",
+  "p": "Lettonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Roja (LV, 31.1 km)",
+   "ref": {
+    "name": "Roja",
+    "geonameid": 456107,
+    "y": 57.50146,
+    "x": 22.80881,
+    "km": 31.1,
+    "statedKm": 31
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3499
+ },
+ {
+  "key": "lettonie|jurmala|570:238",
+  "src": "nordiques-baltes.json#80",
+  "n": "Jūrmala",
+  "p": "Lettonie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jūrmala (LV, 1.4 km)",
+   "ref": {
+    "name": "Jūrmala",
+    "geonameid": 459201,
+    "y": 56.968,
+    "x": 23.77038,
+    "km": 1.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3500
+ },
+ {
+  "key": "lettonie|pavilosta|569:212",
+  "src": "nordiques-baltes.json#84",
+  "n": "Pāvilosta",
+  "p": "Lettonie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pāvilosta (LV, 0.0 km)",
+   "ref": {
+    "name": "Aizpute",
+    "geonameid": 461602,
+    "y": 56.72108,
+    "x": 21.60156,
+    "km": 31.4,
+    "statedKm": 31
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 456827
+  },
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3501
+ },
+ {
+  "key": "lettonie|ventspils|574:216",
+  "src": "nordiques-baltes.json#82",
+  "n": "Ventspils",
+  "p": "Lettonie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ventspils (LV, 0.2 km)",
+   "ref": {
+    "name": "Ventspils",
+    "geonameid": 454310,
+    "y": 57.39485,
+    "x": 21.56121,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 454310,
+   "qid": "Q104036"
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3502
+ },
+ {
+  "key": "lettonie|daugavpils|559:265",
+  "src": "nordiques-baltes.json#87",
+  "n": "Forteresse de Daugavpils",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Daugavpils (LV, 1.2 km)",
+   "ref": {
+    "name": "Daugavpils",
+    "geonameid": null,
+    "y": 55.87996,
+    "x": 26.509999,
+    "km": 1.1,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3503
+ },
+ {
+  "key": "lettonie|aluksne|574:270",
+  "src": "nordiques-baltes.json#91",
+  "n": "Alūksne",
+  "p": "Lettonie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alūksne (LV, 0.1 km)",
+   "ref": {
+    "name": "Alūksne",
+    "geonameid": 461528,
+    "y": 57.42162,
+    "x": 27.04662,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 461528
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3504
+ },
+ {
+  "key": "lettonie|aglona|561:270",
+  "src": "nordiques-baltes.json#88",
+  "n": "Basilique d'Aglona",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aglona (LV, 0.2 km)",
+   "ref": {
+    "name": "Preiļi",
+    "geonameid": 456530,
+    "y": 56.29444,
+    "x": 26.72459,
+    "km": 25.2,
+    "statedKm": 25
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3505
+ },
+ {
+  "key": "lettonie|kandava|570:228",
+  "src": "nordiques-baltes.json#95",
+  "n": "Kandava",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kandava (LV, 0.7 km)",
+   "ref": {
+    "name": "Kandava",
+    "geonameid": 459031,
+    "y": 57.04087,
+    "x": 22.77466,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.7
+  },
+  "links": {
+   "geonames": 459031
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3506
+ },
+ {
+  "key": "lettonie|ludza|565:277",
+  "src": "nordiques-baltes.json#89",
+  "n": "Ludza",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ludza (LV, 0.7 km)",
+   "ref": {
+    "name": "Ludza",
+    "geonameid": 457776,
+    "y": 56.53958,
+    "x": 27.71891,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.71
+  },
+  "links": {
+   "geonames": 457776
+  },
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3508
+ },
+ {
+  "key": "lettonie|jelgava|567:237",
+  "src": "nordiques-baltes.json#86",
+  "n": "Palais de Jelgava",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jelgava (LV, 1.4 km)",
+   "ref": {
+    "name": "Jelgava",
+    "geonameid": null,
+    "y": 56.652704,
+    "x": 23.712806,
+    "km": 1.3,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3507
+ },
+ {
+  "key": "lettonie|pape|562:210",
+  "src": "nordiques-baltes.json#100",
+  "n": "Parc naturel de Pape",
+  "p": "Lettonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rucava (LV, 8.6 km)",
+   "ref": {
+    "name": "Liepāja",
+    "geonameid": 457954,
+    "y": 56.50474,
+    "x": 21.01085,
+    "km": 38.8,
+    "statedKm": 39
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3509
+ },
+ {
+  "key": "lettonie|falaises-rouges-veczemji|576:244",
+  "src": "nordiques-baltes.json#90",
+  "n": "Falaises rouges de Veczemji",
+  "p": "Lettonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Salacgrīva (LV, 15.5 km)",
+   "ref": {
+    "name": "Salacgrīva",
+    "geonameid": 455910,
+    "y": 57.75312,
+    "x": 24.35895,
+    "km": 15.5,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3510
+ },
+ {
+  "key": "lettonie|valmiera|575:254",
+  "src": "nordiques-baltes.json#98",
+  "n": "Valmiera",
+  "p": "Lettonie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Valmiera (LV, 0.4 km)",
+   "ref": {
+    "name": "Valmiera",
+    "geonameid": 453754,
+    "y": 57.54108,
+    "x": 25.42751,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.35
+  },
+  "links": {
+   "geonames": 453754
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3511
+ },
+ {
+  "key": "lettonie|koknese|566:254",
+  "src": "nordiques-baltes.json#93",
+  "n": "Ruines du château de Koknese",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Koknese (LV, 1.5 km)",
+   "ref": {
+    "name": "Koknese",
+    "geonameid": 458687,
+    "y": 56.65163,
+    "x": 25.43637,
+    "km": 1.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3512
+ },
+ {
+  "key": "lettonie|cesvaine|570:263",
+  "src": "nordiques-baltes.json#99",
+  "n": "Palais de Cesvaine",
+  "p": "Lettonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cesvaine (LV, 0.2 km)",
+   "ref": {
+    "name": "Madona",
+    "geonameid": 457714,
+    "y": 56.85329,
+    "x": 26.21698,
+    "km": 14,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 3513
+ },
+ {
+  "key": "lettonie|dune-blanche-saulkrasti|573:244",
+  "src": "nordiques-baltes.json#94",
+  "n": "Dune blanche de Saulkrasti",
+  "p": "Lettonie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": null,
+   "nearestLocality": "Saulkrasti (LV, 2.0 km)",
+   "ref": {
+    "name": "Saulkrasti",
+    "geonameid": 455812,
+    "y": 57.26224,
+    "x": 24.41471,
+    "km": 2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "lettonie|skanaiskalns|579:250",
+  "src": "nordiques-baltes.json#96",
+  "n": "Skaņaiskalns",
+  "p": "Lettonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mazsalaca (LV, 1.0 km)",
+   "ref": {
+    "name": "Rūjiena",
+    "geonameid": 456008,
+    "y": 57.89752,
+    "x": 25.33155,
+    "km": 17.8,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "lettonie|tervete|565:234",
+  "src": "nordiques-baltes.json#97",
+  "n": "Tērvete",
+  "p": "Lettonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tērvete (LV, 1.1 km)",
+   "ref": {
+    "name": "Dobele",
+    "geonameid": 460312,
+    "y": 56.62372,
+    "x": 23.2751,
+    "km": 16.4,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "lettonie|gaizinkalns|569:260",
+  "src": "nordiques-baltes.json#92",
+  "n": "Gaiziņkalns",
+  "p": "Lettonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ērgļi (LV, 20.0 km)",
+   "ref": {
+    "name": "Madona",
+    "geonameid": 457714,
+    "y": 56.85329,
+    "x": 26.21698,
+    "km": 15.6,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ }
+]

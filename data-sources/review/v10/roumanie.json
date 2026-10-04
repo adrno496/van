@@ -1,0 +1,2027 @@
+[
+ {
+  "key": "roumanie|peles|454:255",
+  "src": "serbie-bulgarie-roumanie.json#112",
+  "n": "Château de Peleș",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sinaia (RO, 1.2 km)",
+   "ref": {
+    "name": "Sinaia",
+    "geonameid": 667091,
+    "y": 45.35,
+    "x": 25.55,
+    "km": 1.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 83,
+  "decision": "retenu",
+  "i": 3206
+ },
+ {
+  "key": "roumanie|transalpina|453:237",
+  "src": "serbie-bulgarie-roumanie.json#102",
+  "n": "Transalpina",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Novaci (RO, 11.9 km)",
+   "ref": {
+    "name": "Novaci",
+    "geonameid": 672151,
+    "y": 45.18333,
+    "x": 23.66667,
+    "km": 11.9,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 15,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 82,
+  "decision": "retenu",
+  "i": 3207
+ },
+ {
+  "key": "roumanie|cimetiere-joyeux-sapanta|480:237",
+  "src": "serbie-bulgarie-roumanie.json#84",
+  "n": "Cimetière joyeux de Săpânța",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Săpânţa (RO, 0.6 km)",
+   "ref": {
+    "name": "Sighetu Marmaţiei",
+    "geonameid": 667227,
+    "y": 47.93195,
+    "x": 23.88603,
+    "km": 14.9,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 15,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3208
+ },
+ {
+  "key": "roumanie|biertan|461:245",
+  "src": "serbie-bulgarie-roumanie.json#97",
+  "n": "Biertan",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Biertan (RO, 0.4 km)",
+   "ref": {
+    "name": "Mediaş",
+    "geonameid": 673634,
+    "y": 46.16667,
+    "x": 24.35,
+    "km": 13.6,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3209
+ },
+ {
+  "key": "roumanie|fortifiee-prejmer|457:258",
+  "src": "serbie-bulgarie-roumanie.json#99",
+  "n": "Église fortifiée de Prejmer",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Prejmer (RO, 0.9 km)",
+   "ref": {
+    "name": "Prejmer",
+    "geonameid": 669691,
+    "y": 45.71667,
+    "x": 25.76667,
+    "km": 0.9,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/596"
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3210
+ },
+ {
+  "key": "roumanie|statue-decebal-chaudrons-danube|446:223",
+  "src": "serbie-bulgarie-roumanie.json#106",
+  "n": "Statue de Décébal et chaudrons du Danube",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.8,
+   "otherCountry": "Serbia",
+   "nearestLocality": "Dubova (RO, 2.0 km)",
+   "ref": {
+    "name": "Orşova",
+    "geonameid": 671681,
+    "y": 44.72299,
+    "x": 22.39619,
+    "km": 13.9,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 13,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3211
+ },
+ {
+  "key": "roumanie|viscri|461:251",
+  "src": "serbie-bulgarie-roumanie.json#98",
+  "n": "Viscri",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Viscri (RO, 0.5 km)",
+   "ref": {
+    "name": "Rupea",
+    "geonameid": 668442,
+    "y": 46.03333,
+    "x": 25.21667,
+    "km": 10.3,
+    "statedKm": 10
+   },
+   "status": "vérifié",
+   "snapped": 0.53
+  },
+  "links": {
+   "geonames": 662704
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3212
+ },
+ {
+  "key": "roumanie|oradea|471:219",
+  "src": "serbie-bulgarie-roumanie.json#81",
+  "n": "Oradea",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Oradea (RO, 1.5 km)",
+   "ref": {
+    "name": "Oradea",
+    "geonameid": null,
+    "y": 47.049982,
+    "x": 21.919995,
+    "km": 1.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.53
+  },
+  "links": {
+   "geonames": 671768,
+   "qid": "Q93358"
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3213
+ },
+ {
+  "key": "roumanie|cluj-napoca|468:236",
+  "src": "serbie-bulgarie-roumanie.json#78",
+  "n": "Cluj-Napoca",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cluj-Napoca (RO, 0.8 km)",
+   "ref": {
+    "name": "Cluj-Napoca",
+    "geonameid": 681290,
+    "y": 46.76667,
+    "x": 23.6,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.85
+  },
+  "links": {
+   "geonames": 681290,
+   "qid": "Q100188"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3215
+ },
+ {
+  "key": "roumanie|iasi|472:276",
+  "src": "serbie-bulgarie-roumanie.json#94",
+  "n": "Iași",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Iaşi (RO, 1.3 km)",
+   "ref": {
+    "name": "Iaşi",
+    "geonameid": 675810,
+    "y": 47.16667,
+    "x": 27.6,
+    "km": 1.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.3
+  },
+  "links": {
+   "geonames": 675810,
+   "qid": "Q46852"
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3216
+ },
+ {
+  "key": "roumanie|anne|461:259",
+  "src": "serbie-bulgarie-roumanie.json#95",
+  "n": "Lac Sainte-Anne",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bixad (RO, 3.3 km)",
+   "ref": {
+    "name": "Miercurea-Ciuc",
+    "geonameid": 673441,
+    "y": 46.35,
+    "x": 25.8,
+    "km": 25.8,
+    "statedKm": 27
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3214
+ },
+ {
+  "key": "roumanie|rimetea|465:236",
+  "src": "serbie-bulgarie-roumanie.json#103",
+  "n": "Rimetea",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rimetea (RO, 0.4 km)",
+   "ref": {
+    "name": "Aiud",
+    "geonameid": 686590,
+    "y": 46.31006,
+    "x": 23.72128,
+    "km": 19.7,
+    "statedKm": 20
+   },
+   "status": "vérifié",
+   "snapped": 0.42
+  },
+  "links": {
+   "geonames": 668900
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3217
+ },
+ {
+  "key": "roumanie|curtea-arges|452:247",
+  "src": "serbie-bulgarie-roumanie.json#111",
+  "n": "Monastère de Curtea de Argeș",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Curtea de Argeş (RO, 1.8 km)",
+   "ref": {
+    "name": "Curtea de Argeş",
+    "geonameid": 679907,
+    "y": 45.13422,
+    "x": 24.67409,
+    "km": 1.8,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3218
+ },
+ {
+  "key": "roumanie|timisoara|458:212",
+  "src": "serbie-bulgarie-roumanie.json#104",
+  "n": "Timișoara",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Timişoara (RO, 0.4 km)",
+   "ref": {
+    "name": "Timişoara",
+    "geonameid": 665087,
+    "y": 45.75372,
+    "x": 21.22571,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 665087,
+   "qid": "Q83404"
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3219
+ },
+ {
+  "key": "roumanie|babele-sphinx-bucegi|454:255",
+  "src": "serbie-bulgarie-roumanie.json#113",
+  "n": "Babele et Sphinx des Bucegi",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Șimon (RO, 12.2 km)",
+   "ref": {
+    "name": "Buşteni",
+    "geonameid": 683179,
+    "y": 45.4,
+    "x": 25.53333,
+    "km": 5.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3220
+ },
+ {
+  "key": "roumanie|constanta|442:287",
+  "src": "serbie-bulgarie-roumanie.json#118",
+  "n": "Constanța",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Constanţa (RO, 2.0 km)",
+   "ref": {
+    "name": "Constanţa",
+    "geonameid": 680963,
+    "y": 44.18073,
+    "x": 28.63432,
+    "km": 2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 2
+  },
+  "links": {
+   "geonames": 680963,
+   "qid": "Q79808"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3221
+ },
+ {
+  "key": "roumanie|glaciaire-scarisoara|465:228",
+  "src": "serbie-bulgarie-roumanie.json#79",
+  "n": "Grotte glaciaire de Scărișoara",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Scărişoara (RO, 4.0 km)",
+   "ref": {
+    "name": "Câmpeni",
+    "geonameid": 681876,
+    "y": 46.36667,
+    "x": 23.05,
+    "km": 22.9,
+    "statedKm": 23
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3222
+ },
+ {
+  "key": "roumanie|volcans-boue-berca|454:267",
+  "src": "serbie-bulgarie-roumanie.json#115",
+  "n": "Volcans de boue de Berca",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Scorţoasa (RO, 4.1 km)",
+   "ref": {
+    "name": "Buzău",
+    "geonameid": null,
+    "y": 45.156506,
+    "x": 26.806519,
+    "km": 22.8,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3223
+ },
+ {
+  "key": "roumanie|mocanita-vaser|477:244",
+  "src": "serbie-bulgarie-roumanie.json#86",
+  "n": "Mocănița de la Vaser",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vişeu de Sus (RO, 0.6 km)",
+   "ref": {
+    "name": "Vişeu de Sus",
+    "geonameid": 662699,
+    "y": 47.71667,
+    "x": 24.43333,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 14,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3224
+ },
+ {
+  "key": "roumanie|sighetu-marmatiei|479:239",
+  "src": "serbie-bulgarie-roumanie.json#85",
+  "n": "Sighetu Marmației",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sighetu Marmaţiei (RO, 0.4 km)",
+   "ref": {
+    "name": "Sighetu Marmaţiei",
+    "geonameid": 667227,
+    "y": 47.93195,
+    "x": 23.88603,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.44
+  },
+  "links": {
+   "geonames": 667227
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3225
+ },
+ {
+  "key": "roumanie|baile-herculane|449:224",
+  "src": "serbie-bulgarie-roumanie.json#107",
+  "n": "Băile Herculane",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Băile Herculane (RO, 0.1 km)",
+   "ref": {
+    "name": "Băile Herculane",
+    "geonameid": 685796,
+    "y": 44.87972,
+    "x": 22.4125,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.14
+  },
+  "links": {
+   "geonames": 685796
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3226
+ },
+ {
+  "key": "roumanie|histria|445:288",
+  "src": "serbie-bulgarie-roumanie.json#119",
+  "n": "Histria",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Istria (RO, 5.0 km)",
+   "ref": {
+    "name": "Năvodari",
+    "geonameid": 672486,
+    "y": 44.31667,
+    "x": 28.6,
+    "km": 29.1,
+    "statedKm": 28
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3227
+ },
+ {
+  "key": "roumanie|targu-mures|465:246",
+  "src": "serbie-bulgarie-roumanie.json#96",
+  "n": "Târgu Mureș",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Târgu-Mureş (RO, 0.4 km)",
+   "ref": {
+    "name": "Târgu-Mureş",
+    "geonameid": 665004,
+    "y": 46.54245,
+    "x": 24.55747,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.45
+  },
+  "links": {
+   "geonames": 665004,
+   "qid": "Q186349"
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3228
+ },
+ {
+  "key": "roumanie|bistrita|471:245",
+  "src": "serbie-bulgarie-roumanie.json#88",
+  "n": "Bistrița",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Viișoara (RO, 4.8 km)",
+   "ref": {
+    "name": "Bistriţa",
+    "geonameid": 684657,
+    "y": 47.13316,
+    "x": 24.50011,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.31
+  },
+  "links": {
+   "geonames": 684657,
+   "qid": "Q187205"
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3231
+ },
+ {
+  "key": "roumanie|bigar|450:219",
+  "src": "serbie-bulgarie-roumanie.json#105",
+  "n": "Cascade de Bigăr",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lăpuşnicu Mare (RO, 9.6 km)",
+   "ref": {
+    "name": "Bozovici",
+    "geonameid": 683985,
+    "y": 44.93889,
+    "x": 22.00167,
+    "km": 9.1,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3229
+ },
+ {
+  "key": "roumanie|ours|466:226",
+  "src": "serbie-bulgarie-roumanie.json#80",
+  "n": "Grotte de l'Ours",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pietroasa (RO, 3.9 km)",
+   "ref": {
+    "name": "Beiuş",
+    "geonameid": 685174,
+    "y": 46.66667,
+    "x": 22.35,
+    "km": 21.5,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3230
+ },
+ {
+  "key": "roumanie|mogosoaia|445:260",
+  "src": "serbie-bulgarie-roumanie.json#124",
+  "n": "Palais de Mogoșoaia",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mogoşoaia (RO, 0.3 km)",
+   "ref": {
+    "name": "Buftea",
+    "geonameid": 683394,
+    "y": 44.56139,
+    "x": 25.94889,
+    "km": 5.7,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3232
+ },
+ {
+  "key": "roumanie|targoviste|449:255",
+  "src": "serbie-bulgarie-roumanie.json#114",
+  "n": "Târgoviște",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Târgovişte (RO, 0.8 km)",
+   "ref": {
+    "name": "Târgoviște",
+    "geonameid": null,
+    "y": 44.937999,
+    "x": 25.459003,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3233
+ },
+ {
+  "key": "roumanie|fagaras|458:250",
+  "src": "serbie-bulgarie-roumanie.json#101",
+  "n": "Citadelle de Făgăraș",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Făgăraș (RO, 0.8 km)",
+   "ref": {
+    "name": "Făgăraș",
+    "geonameid": 678499,
+    "y": 45.85,
+    "x": 24.96667,
+    "km": 0.8,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3235
+ },
+ {
+  "key": "roumanie|rasnov|456:255",
+  "src": "serbie-bulgarie-roumanie.json#100",
+  "n": "Citadelle de Râșnov",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Râşnov (RO, 1.1 km)",
+   "ref": {
+    "name": "Râşnov",
+    "geonameid": 668828,
+    "y": 45.58333,
+    "x": 25.45,
+    "km": 1.1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3234
+ },
+ {
+  "key": "roumanie|suceava|476:263",
+  "src": "serbie-bulgarie-roumanie.json#89",
+  "n": "Citadelle de Suceava",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Suceava (RO, 1.9 km)",
+   "ref": {
+    "name": "Suceava",
+    "geonameid": null,
+    "y": 47.637698,
+    "x": 26.259317,
+    "km": 1.1,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3237
+ },
+ {
+  "key": "roumanie|rarau-pietrele-doamnei|474:256",
+  "src": "serbie-bulgarie-roumanie.json#91",
+  "n": "Rarău et Pietrele Doamnei",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Crucea (RO, 11.5 km)",
+   "ref": {
+    "name": "Câmpulung Moldovenesc",
+    "geonameid": 681845,
+    "y": 47.53333,
+    "x": 25.56667,
+    "km": 9.6,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3238
+ },
+ {
+  "key": "roumanie|tulcea|452:288",
+  "src": "serbie-bulgarie-roumanie.json#123",
+  "n": "Tulcea",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tulcea (RO, 0.0 km)",
+   "ref": {
+    "name": "Tulcea",
+    "geonameid": 664518,
+    "y": 45.1787,
+    "x": 28.80501,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 664518,
+   "qid": "Q11585"
+  },
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3239
+ },
+ {
+  "key": "roumanie|ulpia-traiana-sarmizegetusa|455:228",
+  "src": "serbie-bulgarie-roumanie.json#127",
+  "n": "Ulpia Traiana Sarmizegetusa",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sarmizegetusa (RO, 0.4 km)",
+   "ref": {
+    "name": "Haţeg",
+    "geonameid": 676277,
+    "y": 45.61667,
+    "x": 22.95,
+    "km": 16.9,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3236
+ },
+ {
+  "key": "roumanie|craiova|443:238",
+  "src": "serbie-bulgarie-roumanie.json#108",
+  "n": "Craiova",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Craiova (RO, 0.4 km)",
+   "ref": {
+    "name": "Craiova",
+    "geonameid": 680332,
+    "y": 44.31667,
+    "x": 23.8,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.41
+  },
+  "links": {
+   "geonames": 680332,
+   "qid": "Q168057"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3242
+ },
+ {
+  "key": "roumanie|vama-veche|438:286",
+  "src": "serbie-bulgarie-roumanie.json#121",
+  "n": "Vama Veche",
+  "p": "Roumanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mangalia (RO, 5.3 km)",
+   "ref": {
+    "name": "Mangalia",
+    "geonameid": 673921,
+    "y": 43.8,
+    "x": 28.58333,
+    "km": 5.3,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3240
+ },
+ {
+  "key": "roumanie|vatra-dornei|473:254",
+  "src": "serbie-bulgarie-roumanie.json#126",
+  "n": "Vatra Dornei",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vatra Dornei (RO, 0.7 km)",
+   "ref": {
+    "name": "Vatra Dornei",
+    "geonameid": 663100,
+    "y": 47.35,
+    "x": 25.36667,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.67
+  },
+  "links": {
+   "geonames": 663100
+  },
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3241
+ },
+ {
+  "key": "roumanie|braila|453:280",
+  "src": "serbie-bulgarie-roumanie.json#117",
+  "n": "Brăila",
+  "p": "Roumanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Brăila (RO, 0.4 km)",
+   "ref": {
+    "name": "Brăila",
+    "geonameid": 683902,
+    "y": 45.27152,
+    "x": 27.97429,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.37
+  },
+  "links": {
+   "geonames": 683902,
+   "qid": "Q188478"
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3244
+ },
+ {
+  "key": "roumanie|putna|479:256",
+  "src": "serbie-bulgarie-roumanie.json#90",
+  "n": "Monastère de Putna",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Putna (RO, 1.4 km)",
+   "ref": {
+    "name": "Rădăuți",
+    "geonameid": 669289,
+    "y": 47.85,
+    "x": 25.91667,
+    "km": 23.8,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3243
+ },
+ {
+  "key": "roumanie|ours-sovata|466:251",
+  "src": "serbie-bulgarie-roumanie.json#125",
+  "n": "Lac de l'Ours de Sovata",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sovata (RO, 1.6 km)",
+   "ref": {
+    "name": "Sovata",
+    "geonameid": 666395,
+    "y": 46.58333,
+    "x": 25.06667,
+    "km": 1.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "roumanie|enisala|449:288",
+  "src": "serbie-bulgarie-roumanie.json#122",
+  "n": "Citadelle d'Enisala",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Enisala (RO, 0.8 km)",
+   "ref": {
+    "name": "Babadag",
+    "geonameid": 685997,
+    "y": 44.9,
+    "x": 28.71667,
+    "km": 8.6,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "roumanie|neamt|472:263",
+  "src": "serbie-bulgarie-roumanie.json#93",
+  "n": "Citadelle de Neamț",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Humulești (RO, 1.8 km)",
+   "ref": {
+    "name": "Târgu Neamţ",
+    "geonameid": 665003,
+    "y": 47.2,
+    "x": 26.36667,
+    "km": 2.4,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "roumanie|rupea|460:252",
+  "src": "serbie-bulgarie-roumanie.json#129",
+  "n": "Citadelle de Rupea",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rupea (RO, 1.0 km)",
+   "ref": {
+    "name": "Rupea",
+    "geonameid": 668442,
+    "y": 46.03333,
+    "x": 25.21667,
+    "km": 1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "roumanie|tropaeum-traiani|441:280",
+  "src": "serbie-bulgarie-roumanie.json#120",
+  "n": "Tropaeum Traiani",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Adamclisi (RO, 0.7 km)",
+   "ref": {
+    "name": "Adamclisi",
+    "geonameid": 686688,
+    "y": 44.08333,
+    "x": 27.95,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "roumanie|prislop|476:249",
+  "src": "serbie-bulgarie-roumanie.json#87",
+  "n": "Col de Prislop",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Băile Borșa (RO, 13.8 km)",
+   "ref": {
+    "name": "Borşa",
+    "geonameid": 684156,
+    "y": 47.65527,
+    "x": 24.66328,
+    "km": 15.7,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 12,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "roumanie|porolissum|472:232",
+  "src": "serbie-bulgarie-roumanie.json#83",
+  "n": "Porolissum",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mirşid (RO, 6.5 km)",
+   "ref": {
+    "name": "Zalău",
+    "geonameid": null,
+    "y": 47.175003,
+    "x": 23.063005,
+    "km": 7.3,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "roumanie|femmes|452:238",
+  "src": "serbie-bulgarie-roumanie.json#109",
+  "n": "Grotte des Femmes",
+  "p": "Roumanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Baia de Fier (RO, 3.3 km)",
+   "ref": {
+    "name": "Novaci",
+    "geonameid": 672151,
+    "y": 45.18333,
+    "x": 23.66667,
+    "km": 7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "roumanie|mine-sel-slanic|452:259",
+  "src": "serbie-bulgarie-roumanie.json#128",
+  "n": "Mine de sel de Slănic",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Groșani (RO, 1.5 km)",
+   "ref": {
+    "name": "Slănic",
+    "geonameid": 666775,
+    "y": 45.25,
+    "x": 25.93333,
+    "km": 1.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "roumanie|carei|477:225",
+  "src": "serbie-bulgarie-roumanie.json#82",
+  "n": "Château de Carei",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Carei (RO, 0.6 km)",
+   "ref": {
+    "name": "Carei",
+    "geonameid": 682685,
+    "y": 47.68333,
+    "x": 22.46667,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "roumanie|cozia|453:243",
+  "src": "serbie-bulgarie-roumanie.json#110",
+  "n": "Monastère de Cozia",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Călimăneşti (RO, 4.9 km)",
+   "ref": {
+    "name": "Călimăneşti",
+    "geonameid": 682972,
+    "y": 45.23333,
+    "x": 24.33333,
+    "km": 4.9,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "roumanie|mausolee-marasesti|459:272",
+  "src": "serbie-bulgarie-roumanie.json#116",
+  "n": "Mausolée de Mărășești",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mărășești (RO, 0.4 km)",
+   "ref": {
+    "name": "Mărășești",
+    "geonameid": 673881,
+    "y": 45.88333,
+    "x": 27.23333,
+    "km": 0.4,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "roumanie|neamt|473:262",
+  "src": "serbie-bulgarie-roumanie.json#92",
+  "n": "Monastère de Neamț",
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "issues": [
+   "doublon d'un autre candidat : « Citadelle de Neamț »"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nemțișor (RO, 6.1 km)",
+   "ref": {
+    "name": "Târgu Neamţ",
+    "geonameid": 665003,
+    "y": 47.2,
+    "x": 26.36667,
+    "km": 14.4,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "doublon d'un autre candidat : « Citadelle de Neamț »"
+ }
+]

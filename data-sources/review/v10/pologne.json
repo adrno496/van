@@ -1,0 +1,1969 @@
+[
+ {
+  "key": "pologne|morskie-oko|492:201",
+  "src": "pologne-tchequie.json#17",
+  "n": "Morskie Oko",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Murzasichle (PL, 11.4 km)",
+   "ref": {
+    "name": "Zakopane",
+    "geonameid": 3080866,
+    "y": 49.29899,
+    "x": 19.94885,
+    "km": 14,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 21,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 85,
+  "decision": "retenu",
+  "i": 3170
+ },
+ {
+  "key": "pologne|ksiaz|508:163",
+  "src": "pologne-tchequie.json#24",
+  "n": "Château de Książ",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Świebodzice (PL, 2.7 km)",
+   "ref": {
+    "name": "Wałbrzych",
+    "geonameid": 3082707,
+    "y": 50.77141,
+    "x": 16.28432,
+    "km": 7.9,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 3171
+ },
+ {
+  "key": "pologne|szczeliniec-wielki|505:163",
+  "src": "pologne-tchequie.json#25",
+  "n": "Szczeliniec Wielki",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Machov (CZ, 4.7 km)",
+   "ref": {
+    "name": "Radków",
+    "geonameid": 3087535,
+    "y": 50.50426,
+    "x": 16.40061,
+    "km": 4.8,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 3172
+ },
+ {
+  "key": "pologne|jasna-gora|508:191",
+  "src": "pologne-tchequie.json#22",
+  "n": "Jasna Góra",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Częstochowa (PL, 2.6 km)",
+   "ref": {
+    "name": "Częstochowa",
+    "geonameid": 3100946,
+    "y": 50.79646,
+    "x": 19.12409,
+    "km": 2.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3173
+ },
+ {
+  "key": "pologne|s-owinski|548:175",
+  "src": "pologne-tchequie.json#30",
+  "n": "Parc national de Słowiński",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Główczyce (PL, 15.7 km)",
+   "ref": {
+    "name": "Łeba",
+    "geonameid": 3093749,
+    "y": 54.76099,
+    "x": 17.55547,
+    "km": 5.9,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 11,
+   "sing": 14,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3174
+ },
+ {
+  "key": "pologne|ancut|501:222",
+  "src": "pologne-tchequie.json#11",
+  "n": "Château de Łańcut",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Łańcut (PL, 0.2 km)",
+   "ref": {
+    "name": "Łańcut",
+    "geonameid": 766810,
+    "y": 50.06871,
+    "x": 22.22912,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3175
+ },
+ {
+  "key": "pologne|odz|518:195",
+  "src": "pologne-tchequie.json#0",
+  "n": "Łódź",
+  "p": "Pologne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Łódź (PL, 1.8 km)",
+   "ref": {
+    "name": "Łódź",
+    "geonameid": 3093133,
+    "y": 51.77058,
+    "x": 19.47395,
+    "km": 1.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.77
+  },
+  "links": {
+   "geonames": 3093133,
+   "qid": "Q580"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3176
+ },
+ {
+  "key": "pologne|moszna|504:178",
+  "src": "pologne-tchequie.json#5",
+  "n": "Château de Moszna",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Strzeleczki (PL, 7.0 km)",
+   "ref": {
+    "name": "Biała",
+    "geonameid": 3103644,
+    "y": 50.38587,
+    "x": 17.66035,
+    "km": 9.5,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3178
+ },
+ {
+  "key": "pologne|kazimierz-dolny|513:219",
+  "src": "pologne-tchequie.json#43",
+  "n": "Kazimierz Dolny",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kazimierz Dolny (PL, 0.6 km)",
+   "ref": {
+    "name": "Kazimierz Dolny",
+    "geonameid": 769345,
+    "y": 51.31911,
+    "x": 21.95502,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.58
+  },
+  "links": {
+   "geonames": 769345
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3179
+ },
+ {
+  "key": "pologne|peninsule-hel|546:188",
+  "src": "pologne-tchequie.json#29",
+  "n": "Péninsule de Hel",
+  "p": "Pologne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Hel (PL, 0.5 km)",
+   "ref": {
+    "name": "Hel",
+    "geonameid": 3098030,
+    "y": 54.60384,
+    "x": 18.80351,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3177
+ },
+ {
+  "key": "pologne|poznan|524:169",
+  "src": "pologne-tchequie.json#41",
+  "n": "Poznań",
+  "p": "Pologne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Poznań (PL, 0.3 km)",
+   "ref": {
+    "name": "Poznań",
+    "geonameid": 3088171,
+    "y": 52.40692,
+    "x": 16.92993,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.29
+  },
+  "links": {
+   "geonames": 3088171,
+   "qid": "Q268"
+  },
+  "score": {
+   "tour": 17,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3180
+ },
+ {
+  "key": "pologne|ogrodzieniec|505:196",
+  "src": "pologne-tchequie.json#19",
+  "n": "Château d'Ogrodzieniec",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ogrodzieniec (PL, 2.2 km)",
+   "ref": {
+    "name": "Ogrodzieniec",
+    "geonameid": 3090285,
+    "y": 50.45177,
+    "x": 19.51987,
+    "km": 2.2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3181
+ },
+ {
+  "key": "pologne|ours|502:168",
+  "src": "pologne-tchequie.json#27",
+  "n": "Grotte de l'Ours",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stronie Śląskie (PL, 7.1 km)",
+   "ref": {
+    "name": "Stronie Śląskie",
+    "geonameid": 3084515,
+    "y": 50.29554,
+    "x": 16.87397,
+    "km": 7.1,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3182
+ },
+ {
+  "key": "pologne|wigry|540:231",
+  "src": "pologne-tchequie.json#50",
+  "n": "Lac de Wigry",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Krasnopol (PL, 10.8 km)",
+   "ref": {
+    "name": "Suwałki",
+    "geonameid": 757718,
+    "y": 54.11175,
+    "x": 22.93087,
+    "km": 13.1,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3183
+ },
+ {
+  "key": "pologne|roztocze|506:230",
+  "src": "pologne-tchequie.json#44",
+  "n": "Parc national du Roztocze",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zwierzyniec (PL, 0.2 km)",
+   "ref": {
+    "name": "Zwierzyniec",
+    "geonameid": 753020,
+    "y": 50.614,
+    "x": 22.97512,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3184
+ },
+ {
+  "key": "pologne|frombork|544:197",
+  "src": "pologne-tchequie.json#35",
+  "n": "Frombork",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Frombork (PL, 0.1 km)",
+   "ref": {
+    "name": "Frombork",
+    "geonameid": 3099634,
+    "y": 54.35766,
+    "x": 19.68029,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3186
+ },
+ {
+  "key": "pologne|miedzyzdroje|539:145",
+  "src": "pologne-tchequie.json#33",
+  "n": "Międzyzdroje",
+  "p": "Pologne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Międzyzdroje (PL, 0.0 km)",
+   "ref": {
+    "name": "Międzyzdroje",
+    "geonameid": 3091961,
+    "y": 53.92921,
+    "x": 14.45097,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3187
+ },
+ {
+  "key": "pologne|paczkow|505:170",
+  "src": "pologne-tchequie.json#7",
+  "n": "Paczków",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Paczków (PL, 0.1 km)",
+   "ref": {
+    "name": "Paczków",
+    "geonameid": 3089566,
+    "y": 50.46395,
+    "x": 17.00658,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 3089566
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3188
+ },
+ {
+  "key": "pologne|ojcow|502:198",
+  "src": "pologne-tchequie.json#18",
+  "n": "Parc national d'Ojców",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Skała (PL, 2.8 km)",
+   "ref": {
+    "name": "Skała",
+    "geonameid": 3085867,
+    "y": 50.23052,
+    "x": 19.85363,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3185
+ },
+ {
+  "key": "pologne|pelplin|539:187",
+  "src": "pologne-tchequie.json#32",
+  "n": "Pelplin",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pelplin (PL, 0.1 km)",
+   "ref": {
+    "name": "Pelplin",
+    "geonameid": 3089282,
+    "y": 53.92834,
+    "x": 18.6977,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3189
+ },
+ {
+  "key": "pologne|taniere-loup|541:215",
+  "src": "pologne-tchequie.json#37",
+  "n": "Tanière du Loup",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gierłoż (PL, 0.2 km)",
+   "ref": {
+    "name": "Kętrzyn",
+    "geonameid": 769274,
+    "y": 54.07676,
+    "x": 21.37527,
+    "km": 7.8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3190
+ },
+ {
+  "key": "pologne|canal-elblag|540:198",
+  "src": "pologne-tchequie.json#38",
+  "n": "Canal d'Elbląg",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Małdyty (PL, 6.5 km)",
+   "ref": {
+    "name": "Pasłęk",
+    "geonameid": 3089392,
+    "y": 54.0616,
+    "x": 19.65932,
+    "km": 14.3,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 14,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3193
+ },
+ {
+  "key": "pologne|niedzica|494:203",
+  "src": "pologne-tchequie.json#15",
+  "n": "Château de Niedzica",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Niedzica (PL, 1.9 km)",
+   "ref": {
+    "name": "Szczawnica",
+    "geonameid": 757461,
+    "y": 49.42437,
+    "x": 20.48487,
+    "km": 12,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3191
+ },
+ {
+  "key": "pologne|biebrza|535:226",
+  "src": "pologne-tchequie.json#48",
+  "n": "Parc national de la Biebrza",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Goniadz (PL, 6.2 km)",
+   "ref": {
+    "name": "Mońki",
+    "geonameid": 764421,
+    "y": 53.40496,
+    "x": 22.79791,
+    "km": 13.3,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3194
+ },
+ {
+  "key": "pologne|sandomierz|507:217",
+  "src": "pologne-tchequie.json#45",
+  "n": "Sandomierz",
+  "p": "Pologne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sandomierz (PL, 0.3 km)",
+   "ref": {
+    "name": "Sandomierz",
+    "geonameid": 759603,
+    "y": 50.68265,
+    "x": 21.74898,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.33
+  },
+  "links": {
+   "geonames": 759603
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3192
+ },
+ {
+  "key": "pologne|pszczyna|500:189",
+  "src": "pologne-tchequie.json#21",
+  "n": "Château de Pszczyna",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pszczyna (PL, 0.9 km)",
+   "ref": {
+    "name": "Pszczyna",
+    "geonameid": 3087705,
+    "y": 49.98037,
+    "x": 18.95382,
+    "km": 0.9,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3195
+ },
+ {
+  "key": "pologne|gniezno|525:176",
+  "src": "pologne-tchequie.json#42",
+  "n": "Gniezno",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gniezno (PL, 0.8 km)",
+   "ref": {
+    "name": "Gniezno",
+    "geonameid": 3099112,
+    "y": 52.53481,
+    "x": 17.58259,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3196
+ },
+ {
+  "key": "pologne|che-mno|533:184",
+  "src": "pologne-tchequie.json#39",
+  "n": "Chełmno",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chełmno (PL, 0.1 km)",
+   "ref": {
+    "name": "Chełmno",
+    "geonameid": 3101795,
+    "y": 53.34855,
+    "x": 18.4251,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 3101795
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3198
+ },
+ {
+  "key": "pologne|swieta-lipka|540:212",
+  "src": "pologne-tchequie.json#36",
+  "n": "Święta Lipka",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Reszel (PL, 5.4 km)",
+   "ref": {
+    "name": "Reszel",
+    "geonameid": 760488,
+    "y": 54.05042,
+    "x": 21.14585,
+    "km": 5.4,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3197
+ },
+ {
+  "key": "pologne|przemysl|498:228",
+  "src": "pologne-tchequie.json#12",
+  "n": "Przemyśl",
+  "p": "Pologne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Przemyśl (PL, 0.1 km)",
+   "ref": {
+    "name": "Przemyśl",
+    "geonameid": 761168,
+    "y": 49.78498,
+    "x": 22.76728,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 761168
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3199
+ },
+ {
+  "key": "pologne|swiety-krzyz|509:211",
+  "src": "pologne-tchequie.json#47",
+  "n": "Święty Krzyż",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nowa Słupia (PL, 2.8 km)",
+   "ref": {
+    "name": "Bodzentyn",
+    "geonameid": 775736,
+    "y": 50.94115,
+    "x": 20.95719,
+    "km": 11.3,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3200
+ },
+ {
+  "key": "pologne|nieborow-arkadia|521:201",
+  "src": "pologne-tchequie.json#1",
+  "n": "Palais de Nieborów et parc d'Arkadia",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nieborów (PL, 1.3 km)",
+   "ref": {
+    "name": "Łowicz",
+    "geonameid": 3093066,
+    "y": 52.10714,
+    "x": 19.94525,
+    "km": 8.9,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3203
+ },
+ {
+  "key": "pologne|p-ock|525:197",
+  "src": "pologne-tchequie.json#10",
+  "n": "Płock",
+  "p": "Pologne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Płock (PL, 1.6 km)",
+   "ref": {
+    "name": "Płock",
+    "geonameid": 3088825,
+    "y": 52.54682,
+    "x": 19.70638,
+    "km": 1.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.58
+  },
+  "links": {
+   "geonames": 3088825
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3201
+ },
+ {
+  "key": "pologne|tykocin|532:228",
+  "src": "pologne-tchequie.json#49",
+  "n": "Tykocin",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tykocin (PL, 0.2 km)",
+   "ref": {
+    "name": "Tykocin",
+    "geonameid": 756484,
+    "y": 53.20567,
+    "x": 22.77457,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 756484
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3202
+ },
+ {
+  "key": "pologne|ko-obrzeg|542:156",
+  "src": "pologne-tchequie.json#34",
+  "n": "Kołobrzeg",
+  "p": "Pologne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kołobrzeg (PL, 0.0 km)",
+   "ref": {
+    "name": "Kołobrzeg",
+    "geonameid": 3095795,
+    "y": 54.17565,
+    "x": 15.58342,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3095795
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3205
+ },
+ {
+  "key": "pologne|sopot|544:186",
+  "src": "pologne-tchequie.json#31",
+  "n": "Sopot",
+  "p": "Pologne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sopot (PL, 0.6 km)",
+   "ref": {
+    "name": "Sopot",
+    "geonameid": 3085151,
+    "y": 54.4418,
+    "x": 18.56003,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3204
+ },
+ {
+  "key": "pologne|krzeszow|507:161",
+  "src": "pologne-tchequie.json#26",
+  "n": "Abbaye de Krzeszów",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Krzeszów (PL, 0.5 km)",
+   "ref": {
+    "name": "Kamienna Góra",
+    "geonameid": 3096779,
+    "y": 50.78314,
+    "x": 16.03037,
+    "km": 6,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "pologne|krzyztopor|507:214",
+  "src": "pologne-tchequie.json#46",
+  "n": "Château de Krzyżtopór",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lipnik (PL, 6.3 km)",
+   "ref": {
+    "name": "Opatów",
+    "geonameid": 763121,
+    "y": 50.80058,
+    "x": 21.42538,
+    "km": 8.6,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "pologne|piast-brzeg|509:175",
+  "src": "pologne-tchequie.json#9",
+  "n": "Château des Piast de Brzeg",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Brzeg (PL, 0.2 km)",
+   "ref": {
+    "name": "Brzeg",
+    "geonameid": 3102459,
+    "y": 50.86079,
+    "x": 17.4674,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "pologne|collegiale-romane-tum|521:192",
+  "src": "pologne-tchequie.json#3",
+  "n": "Collégiale romane de Tum",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Łęczyca (PL, 3.0 km)",
+   "ref": {
+    "name": "Łęczyca",
+    "geonameid": 3093726,
+    "y": 52.05959,
+    "x": 19.19972,
+    "km": 3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "pologne|bois-debno|495:202",
+  "src": "pologne-tchequie.json#14",
+  "n": "Église en bois de Dębno",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Frydman (PL, 2.9 km)",
+   "ref": {
+    "name": "Nowy Targ",
+    "geonameid": 763523,
+    "y": 49.47783,
+    "x": 20.03228,
+    "km": 11.9,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1053"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "pologne|opole|507:179",
+  "src": "pologne-tchequie.json#4",
+  "n": "Opole",
+  "p": "Pologne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Opole (PL, 0.5 km)",
+   "ref": {
+    "name": "Opole",
+    "geonameid": 3090048,
+    "y": 50.67211,
+    "x": 17.92533,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.45
+  },
+  "links": {
+   "geonames": 3090048,
+   "qid": "Q92212"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "pologne|bois-haczow|497:219",
+  "src": "pologne-tchequie.json#13",
+  "n": "Église en bois de Haczów",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Haczów (PL, 0.6 km)",
+   "ref": {
+    "name": "Brzozów",
+    "geonameid": 775086,
+    "y": 49.69501,
+    "x": 22.01926,
+    "km": 9.3,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 5,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "pologne|gora-swietej-anny|505:182",
+  "src": "pologne-tchequie.json#6",
+  "n": "Góra Świętej Anny",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leśnica (PL, 3.3 km)",
+   "ref": {
+    "name": "Leśnica",
+    "geonameid": 3093577,
+    "y": 50.43083,
+    "x": 18.18684,
+    "km": 3.3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "pologne|temple-wang|508:157",
+  "src": "pologne-tchequie.json#28",
+  "n": "Temple de Wang",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Karpacz (PL, 1.8 km)",
+   "ref": {
+    "name": "Karpacz",
+    "geonameid": 3096576,
+    "y": 50.77669,
+    "x": 15.75594,
+    "km": 1.8,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "pologne|nikiszowiec|502:191",
+  "src": "pologne-tchequie.json#23",
+  "n": "Nikiszowiec",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Katowice (PL, 4.3 km)",
+   "ref": {
+    "name": "Katowice",
+    "geonameid": 3096472,
+    "y": 50.25841,
+    "x": 19.02754,
+    "km": 4.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "pologne|nysa|505:173",
+  "src": "pologne-tchequie.json#8",
+  "n": "Nysa",
+  "p": "Pologne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nysa (PL, 0.0 km)",
+   "ref": {
+    "name": "Nysa",
+    "geonameid": 3090436,
+    "y": 50.47379,
+    "x": 17.33437,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3090436
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "pologne|biskupin|528:177",
+  "src": "pologne-tchequie.json#40",
+  "n": "Biskupin",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gąsawa (PL, 2.7 km)",
+   "ref": {
+    "name": "Żnin",
+    "geonameid": 3080047,
+    "y": 52.84958,
+    "x": 17.71992,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "pologne|cistercienne-sulejow|514:199",
+  "src": "pologne-tchequie.json#2",
+  "n": "Abbaye cistercienne de Sulejów",
+  "p": "Pologne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sulejów (PL, 1.1 km)",
+   "ref": {
+    "name": "Sulejów",
+    "geonameid": 3084230,
+    "y": 51.35436,
+    "x": 19.88538,
+    "km": 1.1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "pologne|desert-b-edow|504:195",
+  "src": "pologne-tchequie.json#20",
+  "n": "Désert de Błędów",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Klucze (PL, 3.4 km)",
+   "ref": {
+    "name": "Olkusz",
+    "geonameid": 3090146,
+    "y": 50.2813,
+    "x": 19.56503,
+    "km": 8.3,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 13,
+   "val": 9,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "pologne|pieniny|494:204",
+  "src": "pologne-tchequie.json#16",
+  "n": "Parc national des Pieniny",
+  "p": "Pologne",
+  "c": "nature",
+  "issues": [
+   "doublon : fiche 764 « Parc national des Pieniny » (3.7 km)"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Krościenko nad Dunajcem (PL, 3.0 km)",
+   "ref": {
+    "name": "Krościenko nad Dunajcem",
+    "geonameid": 6565267,
+    "y": 49.44081,
+    "x": 20.42624,
+    "km": 3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "doublon : fiche 764 « Parc national des Pieniny » (3.7 km)"
+ }
+]

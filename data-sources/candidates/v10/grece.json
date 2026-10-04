@@ -1,0 +1,2918 @@
+[
+ {
+  "n": "Kastoria",
+  "alt": [
+   "Kastoriá",
+   "Lac Orestiada"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Ville lacustre",
+  "region": "Macédoine-Occidentale (Kastoria)",
+  "y": 40.5193,
+  "x": 21.2687,
+  "pt": "centre de la presqu'île",
+  "near": "Kastoria",
+  "nearKm": 0,
+  "d": "Ville bâtie sur une presqu'île du lac Orestiada, riche de dizaines d'églises byzantines et post-byzantines et de demeures de marchands de fourrures (archontika).",
+  "v": "Tour de la presqu'île au bord du lac · église Panagia Koumbelidiki · quartier Doltso et ses archontika · musée byzantin",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lacs Prespa",
+  "alt": [
+   "Prespes",
+   "Grande Prespa",
+   "Petite Prespa"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Lacs et parc national",
+  "region": "Macédoine-Occidentale (Florina)",
+  "y": 40.812,
+  "x": 21.078,
+  "pt": "isthme de Koula entre les deux lacs",
+  "near": "Florina",
+  "nearKm": 28,
+  "d": "Deux lacs d'altitude partagés avec l'Albanie et la Macédoine du Nord, refuge de pélicans frisés et blancs. Sur la Petite Prespa, l'île d'Agios Achilleios garde les ruines d'une basilique médiévale.",
+  "v": "Île d'Agios Achilleios par la passerelle flottante · ermitages rupestres près de Psarades · observation des pélicans · village de Psarades",
+  "s": "avr-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 18,
+   "van": 13,
+   "sing": 14,
+   "val": 14,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Nymfaio",
+  "alt": [
+   "Nymfaío",
+   "Neveska"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village de montagne",
+  "region": "Macédoine-Occidentale (Florina)",
+  "y": 40.637,
+  "x": 21.333,
+  "pt": "centre du village",
+  "near": "Florina",
+  "nearKm": 17,
+  "d": "Ancien bourg de marchands aroumains aux maisons de pierre, perché dans la forêt de hêtres du mont Vitsi. Le sanctuaire d'ours bruns Arcturos se trouve à proximité.",
+  "v": "Ruelles et archontika de pierre · sanctuaire des ours Arcturos · forêt de hêtres du Vitsi",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Siatista",
+  "alt": [
+   "Siátista"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Bourg historique",
+  "region": "Macédoine-Occidentale (Kozani)",
+  "y": 40.256,
+  "x": 21.553,
+  "pt": "centre du bourg",
+  "near": "Siatista",
+  "nearKm": 0,
+  "d": "Bourg réputé pour ses archontika du XVIIIe siècle aux intérieurs peints et boiseries sculptées, témoins de la prospérité du commerce des fourrures et du vin.",
+  "v": "Archontiko Nerantzopoulou · archontiko Manousi · vue sur la vallée de l'Haliacmon",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Samarina",
+  "alt": [
+   "Samarína"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village de montagne",
+  "region": "Macédoine-Occidentale (Grevena)",
+  "y": 40.105,
+  "x": 20.984,
+  "pt": "centre du village",
+  "near": "Grevena",
+  "nearKm": 37,
+  "d": "Village aroumain parmi les plus hauts de Grèce, au pied du mont Smolikas, entouré de forêts de pins noirs. Sa fête du 15 août rassemble la diaspora aroumaine.",
+  "v": "Église de la Grande Panagia · forêts de pins noirs · sentiers vers le Smolikas",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 2
+  }
+ },
+ {
+  "n": "Florina",
+  "alt": [
+   "Flórina"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Ville de montagne",
+  "region": "Macédoine-Occidentale (Florina)",
+  "y": 40.782,
+  "x": 21.41,
+  "pt": "centre-ville",
+  "near": "Florina",
+  "nearKm": 0,
+  "d": "Ville frontalière aux maisons néoclassiques le long de la rivière Sakoulevas, au pied des montagnes ; base naturelle pour les lacs Prespa et Nymfaio.",
+  "v": "Quais de la Sakoulevas · vieux quartier néoclassique · musée archéologique",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 6,
+   "val": 6,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac Polyfytos",
+  "alt": [
+   "Límni Polyfýtou",
+   "Pont de Servia"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Lac de barrage",
+  "region": "Macédoine-Occidentale (Kozani)",
+  "y": 40.21,
+  "x": 21.98,
+  "pt": "rive du lac près du pont de Servia",
+  "near": "Servia",
+  "nearKm": 3,
+  "d": "Grand lac de barrage sur l'Haliacmon, enjambé par le pont de Servia long de plus d'un kilomètre, entre la plaine de Kozani et les contreforts des Pieria.",
+  "v": "Traversée du pont de Servia · rives et belvédères · village de Velventos",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 8,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Metsovo",
+  "alt": [
+   "Métsovo"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village de montagne",
+  "region": "Épire (Ioannina)",
+  "y": 39.771,
+  "x": 21.183,
+  "pt": "place centrale",
+  "near": "Metsovo",
+  "nearKm": 0,
+  "d": "Bourg aroumain au pied du col de Katara, aux maisons de pierre et toits de lauzes, réputé pour ses fromages et son artisanat ; pinacothèque Averoff et musée d'art populaire.",
+  "v": "Place centrale et ruelles · pinacothèque Averoff · monastère d'Agios Nikolaos · lac de l'Aoos",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 12,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Konitsa",
+  "alt": [
+   "Kónitsa"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Bourg de montagne",
+  "region": "Épire (Ioannina)",
+  "y": 40.043,
+  "x": 20.751,
+  "pt": "centre du bourg",
+  "near": "Konitsa",
+  "nearKm": 0,
+  "d": "Bourg en amphithéâtre au débouché des gorges de l'Aoos, avec un haut pont de pierre à arche unique du XIXe siècle ; base pour le mont Tymphi et le rafting.",
+  "v": "Pont de pierre de l'Aoos · sentier vers le monastère de Stomio · rafting sur l'Aoos",
+  "s": "avr-nov",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Parga",
+  "alt": [
+   "Párga"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Ville côtière",
+  "region": "Épire (Preveza)",
+  "y": 39.286,
+  "x": 20.399,
+  "pt": "port et château",
+  "near": "Parga",
+  "nearKm": 0,
+  "d": "Petit port aux maisons colorées dominé par un château vénitien, face à des îlots et des plages de sable ; l'une des plus jolies villes côtières de l'Épire.",
+  "v": "Château vénitien · plages de Valtos et Lichnos · îlot de la Panagia",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Nécromancée d'Achéron",
+  "alt": [
+   "Necromanteion",
+   "Nekromanteio Acherontos"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Sanctuaire antique",
+  "region": "Épire (Preveza)",
+  "y": 39.236,
+  "x": 20.535,
+  "pt": "entrée du site, Mesopotamos",
+  "near": "Parga",
+  "nearKm": 13,
+  "d": "Sanctuaire antique où l'on venait consulter les morts, près du cours mythique de l'Achéron ; ses vestiges sont surmontés du monastère d'Agios Ioannis Prodromos.",
+  "v": "Couloirs labyrinthiques · crypte voûtée · vue sur la plaine de l'Achéron",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 12,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Sources de l'Achéron",
+  "alt": [
+   "Pigés Acheronta",
+   "Glyki"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Gorges et rivière",
+  "region": "Épire (Thesprotie)",
+  "y": 39.327,
+  "x": 20.6,
+  "pt": "Glyki, entrée des gorges",
+  "near": "Paramythia",
+  "nearKm": 18,
+  "d": "À Glyki, l'Achéron, fleuve des Enfers de la mythologie, sort d'une gorge étroite aux eaux glacées que l'on remonte à pied dans le lit de la rivière.",
+  "v": "Marche dans la rivière · sentier des gorges · rafting",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Nicopolis",
+  "alt": [
+   "Nikópolis"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Épire (Preveza)",
+  "y": 39.008,
+  "x": 20.733,
+  "pt": "remparts et musée",
+  "near": "Preveza",
+  "nearKm": 6,
+  "d": "Ville fondée par Octave après sa victoire d'Actium en 31 av. J.-C. : remparts, théâtre, odéon et basiliques paléochrétiennes aux mosaïques remarquables.",
+  "v": "Remparts · basiliques paléochrétiennes et mosaïques · odéon · musée de Nicopolis",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Kassopé et Zalongo",
+  "alt": [
+   "Kassope",
+   "Kassopi",
+   "Zálongo"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Épire (Preveza)",
+  "y": 39.146,
+  "x": 20.675,
+  "pt": "site de Kassopé",
+  "near": "Preveza",
+  "nearKm": 22,
+  "d": "Ancienne cité des Cassopéens sur un plateau dominant le golfe Ambracique, voisine du monument de Zalongo qui célèbre les femmes souliotes de 1803.",
+  "v": "Prytanée et théâtre de Kassopé · monument de Zalongo · panorama sur la mer Ionienne",
+  "s": "mars-nov",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Pont d'Arta",
+  "alt": [
+   "Gefyra tis Artas",
+   "Arta"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Pont de pierre",
+  "region": "Épire (Arta)",
+  "y": 39.159,
+  "x": 20.978,
+  "pt": "pont sur l'Arachthos",
+  "near": "Arta",
+  "nearKm": 1,
+  "d": "Pont de pierre à arches multiples sur l'Arachthos, célèbre par la légende du maître maçon qui y emmura sa femme ; Arta garde aussi l'église byzantine de la Panagia Parigoritissa.",
+  "v": "Pont d'Arta · Panagia Parigoritissa · château d'Arta",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Sivota",
+  "alt": [
+   "Sývota",
+   "Syvota"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Village côtier",
+  "region": "Épire (Thesprotie)",
+  "y": 39.407,
+  "x": 20.244,
+  "pt": "port",
+  "near": "Igoumenitsa",
+  "nearKm": 11,
+  "d": "Village balnéaire face à un archipel d'îlots couverts de pins, aux criques turquoise et plages de sable blanc, parmi les plus belles de la côte épirote.",
+  "v": "Plage de Bella Vraka · îlots en kayak · criques du Blue Lagoon",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pont de Plaka",
+  "alt": [
+   "Gefyra Plakas"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Pont de pierre",
+  "region": "Épire (Arta/Ioannina)",
+  "y": 39.456,
+  "x": 21.036,
+  "pt": "pont sur l'Arachthos",
+  "near": "Ioannina",
+  "nearKm": 28,
+  "d": "Plus grand pont de pierre à arche unique des Balkans, sur l'Arachthos au cœur des Tzoumerka ; emporté par une crue en 2015, il a été reconstruit à l'identique.",
+  "v": "Pont de Plaka · rafting sur l'Arachthos · villages de Syrrako et Kalarites",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Paxos",
+  "alt": [
+   "Paxi",
+   "Paxoí",
+   "Gaïos"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Île",
+  "region": "Îles Ioniennes (Corfou)",
+  "y": 39.196,
+  "x": 20.184,
+  "pt": "port de Gaios",
+  "near": "Parga",
+  "nearKm": 21,
+  "d": "Petite île couverte d'oliviers au sud de Corfou, aux ports de Gaios, Loggos et Lakka et aux grottes marines creusées dans les falaises de la côte ouest.",
+  "v": "Port de Gaios · Lakka et Loggos · grottes marines en bateau · plages d'Antipaxos",
+  "s": "mai-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Achilleion",
+  "alt": [
+   "Achílleio",
+   "Palais de Sissi"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Palais",
+  "region": "Îles Ioniennes (Corfou)",
+  "y": 39.5627,
+  "x": 19.904,
+  "pt": "palais",
+  "near": "Kérkyra",
+  "nearKm": 6,
+  "d": "Palais néoclassique construit dans les années 1890 pour l'impératrice Élisabeth d'Autriche (Sissi), entouré de jardins en terrasses dominant la mer.",
+  "v": "Statue d'Achille vainqueur · jardins et vue sur la côte · salles décorées",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 6,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Sidari — Canal d'Amour",
+  "alt": [
+   "Canal d'Amour",
+   "Sidári"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Falaises littorales",
+  "region": "Îles Ioniennes (Corfou)",
+  "y": 39.796,
+  "x": 19.699,
+  "pt": "Canal d'Amour",
+  "near": "Kérkyra",
+  "nearKm": 27,
+  "d": "Falaises de grès sculptées par la mer au nord de Corfou, formant criques, arches et chenaux, dont le célèbre « Canal d'Amour ».",
+  "v": "Canal d'Amour · criques de grès · cap Drastis voisin",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 7,
+   "sing": 10,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Grotte de Melissani",
+  "alt": [
+   "Melissáni",
+   "Lac de Melissani"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Lac souterrain",
+  "region": "Îles Ioniennes (Céphalonie)",
+  "y": 38.257,
+  "x": 20.624,
+  "pt": "entrée de la grotte",
+  "near": "Argostoli",
+  "nearKm": 15,
+  "d": "Lac souterrain dont la voûte effondrée laisse entrer la lumière qui colore l'eau en bleu intense ; visite en barque.",
+  "v": "Barque sur le lac · grotte de Drogarati voisine · port de Sami",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 7,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Fiskardo",
+  "alt": [
+   "Fiskárdo"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Port",
+  "region": "Îles Ioniennes (Céphalonie)",
+  "y": 38.46,
+  "x": 20.577,
+  "pt": "port",
+  "near": "Argostoli",
+  "nearKm": 33,
+  "d": "Port du nord de Céphalonie épargné par le séisme de 1953, aux maisons vénitiennes colorées, face à Ithaque.",
+  "v": "Port et maisons vénitiennes · phare vénitien · criques d'Emblisi et Foki",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Ithaque",
+  "alt": [
+   "Itháki",
+   "Vathy"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Île",
+  "region": "Îles Ioniennes (Ithaque)",
+  "y": 38.366,
+  "x": 20.719,
+  "pt": "Vathy, port",
+  "near": "Vathý",
+  "nearKm": 0,
+  "d": "Île d'Ulysse aux baies profondes et villages verdoyants ; son chef-lieu Vathy s'étire au fond d'une rade abritée.",
+  "v": "Vathy · village de Kioni · monastère de Kathara · grotte des Nymphes",
+  "s": "mai-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Vallée de Tempé",
+  "alt": [
+   "Tembi",
+   "Témpi"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Défilé",
+  "region": "Thessalie (Larissa)",
+  "y": 39.893,
+  "x": 22.588,
+  "pt": "chapelle d'Agia Paraskevi",
+  "near": "Larissa",
+  "nearKm": 32,
+  "d": "Défilé verdoyant creusé par le Pénée entre l'Olympe et l'Ossa, chanté par les Anciens ; une passerelle franchit la rivière vers la chapelle rupestre d'Agia Paraskevi.",
+  "v": "Chapelle d'Agia Paraskevi · passerelle suspendue · village d'Ampelakia",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Volos",
+  "alt": [
+   "Vólos"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Thessalie (Magnésie)",
+  "y": 39.362,
+  "x": 22.942,
+  "pt": "front de mer",
+  "near": "Volos",
+  "nearKm": 0,
+  "d": "Port de Thessalie au pied du Pélion, d'où partent les ferries vers les Sporades ; front de mer animé et tradition des tsipouradika.",
+  "v": "Front de mer · musée archéologique · sites néolithiques de Dimini et Sesklo",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Koukounaries",
+  "alt": [
+   "Koukounariés",
+   "Skiathos"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Plage",
+  "region": "Thessalie (Skiathos)",
+  "y": 39.15,
+  "x": 23.4,
+  "pt": "plage",
+  "near": "Skiathos",
+  "nearKm": 8,
+  "d": "Plage de sable fin de Skiathos bordée d'une forêt de pins parasols et d'une lagune protégée.",
+  "v": "Plage de Koukounaries · lagune de Strofilia · plages voisines de la côte sud",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Skopelos",
+  "alt": [
+   "Skópelos"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Île",
+  "region": "Thessalie (Sporades)",
+  "y": 39.122,
+  "x": 23.727,
+  "pt": "chora et port",
+  "near": "Skopelos",
+  "nearKm": 0,
+  "d": "Île boisée des Sporades ; sa chora blanche s'étage en amphithéâtre autour du port, et la chapelle d'Agios Ioannis sto Kastri trône sur un rocher au bord de la mer.",
+  "v": "Chora et ses églises · Agios Ioannis sto Kastri · plages de Panormos et Milia",
+  "s": "mai-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Lac Plastira",
+  "alt": [
+   "Límni Plastíra",
+   "Lac de Tavropos"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Thessalie (Karditsa)",
+  "y": 39.25,
+  "x": 21.75,
+  "pt": "centre du lac",
+  "near": "Karditsa",
+  "nearKm": 19,
+  "d": "Lac de barrage d'altitude au pied des Agrafa, entouré de forêts de sapins et de villages de montagne ; l'un des paysages les plus verts de Thessalie.",
+  "v": "Tour du lac · barrage voûte · villages de Neochori et Kalyvia Pezoulas",
+  "s": "avr-nov",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 12,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Porta Panagia et pont de Pyli",
+  "alt": [
+   "Pýli",
+   "Porta Panagia"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Église byzantine",
+  "region": "Thessalie (Trikala)",
+  "y": 39.459,
+  "x": 21.616,
+  "pt": "église et pont",
+  "near": "Trikala",
+  "nearKm": 17,
+  "d": "Au débouché du Portaikos, l'église byzantine de la Porta Panagia (XIIIe s.) et un élégant pont de pierre marquent l'entrée des monts Koziakas.",
+  "v": "Église de la Porta Panagia et ses icônes en mosaïque · pont de pierre de Pyli · monastère d'Agios Vissarionos",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pella",
+  "alt": [
+   "Pélla"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Macédoine-Centrale (Pella)",
+  "y": 40.76,
+  "x": 22.523,
+  "pt": "site archéologique",
+  "near": "Giannitsa",
+  "nearKm": 10,
+  "d": "Capitale du royaume de Macédoine où naquit Alexandre le Grand ; ses maisons ont livré des mosaïques de galets parmi les plus belles de l'Antiquité.",
+  "v": "Mosaïques de la chasse au lion et de Dionysos · agora · musée archéologique",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Dion",
+  "alt": [
+   "Díon",
+   "Dion antique"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Macédoine-Centrale (Piérie)",
+  "y": 40.172,
+  "x": 22.491,
+  "pt": "site archéologique",
+  "near": "Katerini",
+  "nearKm": 11,
+  "d": "Ville sacrée des Macédoniens au pied de l'Olympe : sanctuaires d'Isis et de Déméter, thermes et théâtres disséminés entre sources et marais.",
+  "v": "Sanctuaire d'Isis · thermes et mosaïques · musée archéologique",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Péninsule de Sithonia",
+  "alt": [
+   "Sithonía",
+   "Neos Marmaras"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Péninsule",
+  "region": "Macédoine-Centrale (Chalcidique)",
+  "y": 40.096,
+  "x": 23.784,
+  "pt": "Neos Marmaras, côte ouest",
+  "near": "Neos Marmaras",
+  "nearKm": 0,
+  "d": "Péninsule centrale de la Chalcidique, plus sauvage que Kassandra : pinèdes, criques de granite et eaux turquoise le long d'une route côtière en boucle.",
+  "v": "Route côtière de Sithonia · baie de Porto Koufo · plages de Kalamitsi et Kavourotrypes",
+  "s": "mai-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Ouranoupoli",
+  "alt": [
+   "Ouranoúpoli"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village côtier",
+  "region": "Macédoine-Centrale (Chalcidique)",
+  "y": 40.328,
+  "x": 23.982,
+  "pt": "tour byzantine",
+  "near": "Ierissos",
+  "nearKm": 12,
+  "d": "Dernier village avant le mont Athos, gardé par une tour byzantine au bord de la mer ; point de départ des croisières le long des monastères.",
+  "v": "Tour de Prosphorion · croisière le long de l'Athos · îlots Drenia",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Grotte de Petralona",
+  "alt": [
+   "Spílaio Petrálon"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Grotte",
+  "region": "Macédoine-Centrale (Chalcidique)",
+  "y": 40.372,
+  "x": 23.156,
+  "pt": "entrée de la grotte",
+  "near": "Nea Kallikrateia",
+  "nearKm": 10,
+  "d": "Grotte calcaire aux salles riches en stalactites, célèbre pour la découverte d'un crâne humain archaïque.",
+  "v": "Salles concrétionnées · crâne de Petralona (copie) · musée",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 6,
+   "sing": 10,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac Kerkini",
+  "alt": [
+   "Límni Kerkíni"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Lac et zone humide",
+  "region": "Macédoine-Centrale (Serrès)",
+  "y": 41.21,
+  "x": 23.13,
+  "pt": "centre du lac",
+  "near": "Sidirokastro",
+  "nearKm": 22,
+  "d": "Lac-réservoir sur le Strymon, zone humide majeure où nichent pélicans frisés, cormorans et hérons, avec des buffles d'eau sur les rives, au pied des monts Belles.",
+  "v": "Sorties en barque vers les pélicans · buffles d'eau · forêt inondée",
+  "s": "mars-juin, sept-nov",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 12,
+   "sing": 12,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Amphipolis",
+  "alt": [
+   "Amfípoli",
+   "Lion d'Amphipolis"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Macédoine-Centrale (Serrès)",
+  "y": 40.822,
+  "x": 23.846,
+  "pt": "site archéologique",
+  "near": "Asprovalta",
+  "nearKm": 16,
+  "d": "Grande cité antique sur le Strymon, connue pour son lion monumental du IVe siècle av. J.-C. et le tumulus de Kasta.",
+  "v": "Lion d'Amphipolis · musée archéologique · remparts",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Véria",
+  "alt": [
+   "Veria",
+   "Véroia",
+   "Berea"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Macédoine-Centrale (Imathie)",
+  "y": 40.524,
+  "x": 22.202,
+  "pt": "centre-ville",
+  "near": "Veria",
+  "nearKm": 0,
+  "d": "Ville aux dizaines de petites églises byzantines, au quartier juif de Barbouta le long de la Tripotamos et au musée byzantin installé dans un ancien moulin.",
+  "v": "Église de la Résurrection du Christ et ses fresques · quartier de Barbouta · musée byzantin",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bains de Pozar",
+  "alt": [
+   "Loutrá Pózar",
+   "Loutraki Aridaias"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Sources thermales",
+  "region": "Macédoine-Centrale (Pella)",
+  "y": 40.966,
+  "x": 21.93,
+  "pt": "bassins thermaux",
+  "near": "Aridaia",
+  "nearKm": 11,
+  "d": "Sources thermales au pied du Kaimaktsalan, où l'eau chaude dévale en cascades dans une gorge boisée et remplit des bassins naturels.",
+  "v": "Bassins naturels et cascade chaude · sentier des gorges · station du Kaimaktsalan",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Olynthe",
+  "alt": [
+   "Ólynthos",
+   "Olynthos"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Macédoine-Centrale (Chalcidique)",
+  "y": 40.295,
+  "x": 23.354,
+  "pt": "site archéologique",
+  "near": "Nea Moudania",
+  "nearKm": 9,
+  "d": "Cité antique détruite par Philippe II en 348 av. J.-C. ; son plan en damier a livré des maisons ornées de mosaïques de galets.",
+  "v": "Quartier en damier · mosaïque de Bellérophon · musée",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Xanthi",
+  "alt": [
+   "Xánthi"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Vieille ville",
+  "region": "Macédoine-Orientale-et-Thrace (Xanthi)",
+  "y": 41.142,
+  "x": 24.888,
+  "pt": "vieille ville",
+  "near": "Xanthi",
+  "nearKm": 0,
+  "d": "Vieille ville en pente mêlant demeures de négociants en tabac, maisons ottomanes et mosquées ; capitale culturelle de la Thrace grecque.",
+  "v": "Vieille ville et demeures des négociants · musée folklorique · marché hebdomadaire",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gorges du Nestos",
+  "alt": [
+   "Stená Néstou",
+   "Nestos"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Gorges",
+  "region": "Macédoine-Orientale-et-Thrace (Xanthi/Kavala)",
+  "y": 41.1,
+  "x": 24.76,
+  "pt": "sentier des gorges près de Toxotes",
+  "near": "Xanthi",
+  "nearKm": 12,
+  "d": "Méandres spectaculaires du Nestos entre Stavroupoli et Toxotes, encaissés dans des falaises boisées ; sentier de rive et belvédères depuis la route.",
+  "v": "Belvédère au-dessus des méandres · sentier de rive · canoë-kayak",
+  "s": "avr-nov",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Alexandroupoli",
+  "alt": [
+   "Alexandroúpoli"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Macédoine-Orientale-et-Thrace (Evros)",
+  "y": 40.845,
+  "x": 25.874,
+  "pt": "phare",
+  "near": "Alexandroupoli",
+  "nearKm": 0,
+  "d": "Port de Thrace au phare emblématique, d'où partent les ferries pour Samothrace ; base pour le delta de l'Evros et la forêt de Dadia.",
+  "v": "Phare et front de mer · musée ethnologique de Thrace · grotte du Cyclope",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 7,
+   "val": 7,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Samothrace",
+  "alt": [
+   "Samothráki",
+   "Sanctuaire des Grands Dieux"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Île et sanctuaire antique",
+  "region": "Macédoine-Orientale-et-Thrace (Evros)",
+  "y": 40.5005,
+  "x": 25.5305,
+  "pt": "sanctuaire des Grands Dieux",
+  "near": "Samothráki",
+  "nearKm": 3,
+  "d": "Île montagneuse dominée par le mont Fengari ; sur la côte nord, le sanctuaire des Grands Dieux où fut découverte la Victoire de Samothrace.",
+  "v": "Sanctuaire des Grands Dieux · musée · vasques et cascades du Fonias · Chora",
+  "s": "mai-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Thassos",
+  "alt": [
+   "Thásos",
+   "Limenas"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Île",
+  "region": "Macédoine-Orientale-et-Thrace (Kavala)",
+  "y": 40.78,
+  "x": 24.71,
+  "pt": "Limenas, port",
+  "near": "Thássos",
+  "nearKm": 0,
+  "d": "Île verte face à Kavala, ceinturée d'une route côtière ; Limenas conserve l'agora, le théâtre et les remparts de la cité antique.",
+  "v": "Agora et théâtre antique · tour de l'île · villages de Panagia et Theologos · plage de Chrysi Ammoudia",
+  "s": "mai-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Aliki (Thassos)",
+  "alt": [
+   "Alykí"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Carrières antiques",
+  "region": "Macédoine-Orientale-et-Thrace (Thassos)",
+  "y": 40.603,
+  "x": 24.739,
+  "pt": "presqu'île d'Aliki",
+  "near": "Thássos",
+  "nearKm": 20,
+  "d": "Presqu'île du sud de Thassos où d'anciennes carrières de marbre blanc sont taillées au ras de l'eau, près de basiliques paléochrétiennes et d'une plage.",
+  "v": "Carrières antiques au bord de la mer · basiliques paléochrétiennes · baignade",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Soufli",
+  "alt": [
+   "Souflí"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Bourg historique",
+  "region": "Macédoine-Orientale-et-Thrace (Evros)",
+  "y": 41.202,
+  "x": 26.306,
+  "pt": "centre du bourg",
+  "near": "Soufli",
+  "nearKm": 0,
+  "d": "Bourg de l'Evros qui fut un grand centre de la soie, aux maisons de sériciculteurs ; musée de la soie, à deux pas de la forêt de Dadia.",
+  "v": "Musée de la soie · maisons traditionnelles · forêt de Dadia voisine",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 9,
+   "van": 7,
+   "sing": 9,
+   "val": 8,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Didymoteicho",
+  "alt": [
+   "Didymóteicho"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Ville fortifiée",
+  "region": "Macédoine-Orientale-et-Thrace (Evros)",
+  "y": 41.349,
+  "x": 26.496,
+  "pt": "citadelle",
+  "near": "Didymoteicho",
+  "nearKm": 0,
+  "d": "Ville de Thrace dominée par une citadelle byzantine, avec une grande mosquée ottomane de la fin du XIVe siècle, parmi les plus anciennes d'Europe.",
+  "v": "Remparts byzantins · grande mosquée ottomane · vieille ville",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Monastère d'Hosios Loukas",
+  "alt": [
+   "Ósios Loukás",
+   "Osios Loukas"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Monastère byzantin",
+  "region": "Grèce-Centrale (Béotie)",
+  "y": 38.3955,
+  "x": 22.7465,
+  "pt": "monastère",
+  "near": "Distomo",
+  "nearKm": 8,
+  "d": "Monastère byzantin du XIe siècle sur les pentes de l'Hélicon, inscrit au patrimoine mondial pour les mosaïques sur fond d'or de son katholikon.",
+  "v": "Mosaïques du katholikon · crypte de saint Luc · église de la Panagia",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 9,
+   "sing": 13,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Galaxidi",
+  "alt": [
+   "Galaxídi"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Port historique",
+  "region": "Grèce-Centrale (Phocide)",
+  "y": 38.377,
+  "x": 22.383,
+  "pt": "port",
+  "near": "Itea",
+  "nearKm": 7,
+  "d": "Ancien port d'armateurs au fond du golfe de Corinthe, aux maisons de capitaines en pierre et ruelles paisibles, face aux montagnes.",
+  "v": "Port et maisons de capitaines · musée nautique · pinède de la presqu'île",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Thermopyles",
+  "alt": [
+   "Thermopýles"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Champ de bataille antique",
+  "region": "Grèce-Centrale (Phthiotide)",
+  "y": 38.7965,
+  "x": 22.5365,
+  "pt": "monument de Léonidas",
+  "near": "Lamia",
+  "nearKm": 15,
+  "d": "Défilé où Léonidas et ses Spartiates affrontèrent les Perses en 480 av. J.-C. ; monument de Léonidas, colline de Kolonos et sources chaudes.",
+  "v": "Monument de Léonidas · colline de Kolonos · centre d'interprétation",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Loutra Edipsou",
+  "alt": [
+   "Loutrá Aidipsoú",
+   "Edipsos"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Station thermale",
+  "region": "Grèce-Centrale (Eubée)",
+  "y": 38.856,
+  "x": 23.046,
+  "pt": "front de mer",
+  "near": "Loutra Aidipsou",
+  "nearKm": 0,
+  "d": "Station thermale du nord de l'Eubée connue depuis l'Antiquité, où les sources chaudes se déversent jusque dans la mer.",
+  "v": "Sources chaudes au bord de la mer · front de mer · thermes",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 8,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Karystos",
+  "alt": [
+   "Kárystos",
+   "Castello Rosso"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Ville côtière",
+  "region": "Grèce-Centrale (Eubée)",
+  "y": 38.014,
+  "x": 24.42,
+  "pt": "port et Bourtzi",
+  "near": "Karystos",
+  "nearKm": 0,
+  "d": "Petite ville du sud de l'Eubée au pied du mont Ochi, avec un fortin vénitien sur le port et le Castello Rosso sur la colline.",
+  "v": "Bourtzi · Castello Rosso · maisons du dragon du mont Ochi · plages",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Érétrie",
+  "alt": [
+   "Erétria",
+   "Eretria"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Grèce-Centrale (Eubée)",
+  "y": 38.395,
+  "x": 23.793,
+  "pt": "théâtre antique",
+  "near": "Eretria",
+  "nearKm": 0,
+  "d": "Cité antique d'Eubée : théâtre, temple d'Apollon Daphnéphoros, maison aux mosaïques et musée, au cœur de la petite ville balnéaire.",
+  "v": "Théâtre antique · maison aux mosaïques · musée archéologique",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Karpenissi",
+  "alt": [
+   "Karpenísi",
+   "Évrytanie"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Grèce-Centrale (Évrytanie)",
+  "y": 38.914,
+  "x": 21.793,
+  "pt": "centre-ville",
+  "near": "Karpenisi",
+  "nearKm": 0,
+  "d": "Bourg de montagne de l'Évrytanie au pied du Velouchi, dans un décor de sapinières ; base pour le monastère de Proussos et les villages du Karpenisiotis.",
+  "v": "Villages de Mikro et Megalo Chorio · monastère de Proussos · station du Velouchi",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Naupacte",
+  "alt": [
+   "Náfpaktos",
+   "Nafpaktos",
+   "Lépante"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Port vénitien",
+  "region": "Grèce-Occidentale (Étolie-Acarnanie)",
+  "y": 38.392,
+  "x": 21.828,
+  "pt": "port vénitien",
+  "near": "Nafpaktos",
+  "nearKm": 0,
+  "d": "Port vénitien fortifié à l'entrée du golfe de Corinthe, dont les remparts descendent de la citadelle jusqu'au petit port ; l'antique Lépante.",
+  "v": "Port vénitien · citadelle · plage de Gribovo · pont Rion-Antirion",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Chlemoutsi",
+  "alt": [
+   "Chlemoútsi",
+   "Clermont"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Château franc",
+  "region": "Grèce-Occidentale (Élide)",
+  "y": 37.8885,
+  "x": 21.1286,
+  "pt": "château",
+  "near": "Lechaina",
+  "nearKm": 13,
+  "d": "Château franc du XIIIe siècle bâti par les Villehardouin sur une colline dominant la mer Ionienne, l'un des mieux conservés de Grèce.",
+  "v": "Donjon et cour hexagonale · musée des croisades · vue sur Zante",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Grotte des Lacs",
+  "alt": [
+   "Spílaio ton Limnón",
+   "Kastria"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Grotte",
+  "region": "Grèce-Occidentale (Achaïe)",
+  "y": 37.97,
+  "x": 22.129,
+  "pt": "entrée de la grotte, Kastria",
+  "near": "Kalavryta",
+  "nearKm": 7,
+  "d": "Grotte à étages où une rivière souterraine forme une succession de bassins en terrasses, dans le massif des Aroania.",
+  "v": "Lacs souterrains en gradins · concrétions · monastère d'Agia Lavra près de Kalavryta",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 13,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Cascades de la Néda",
+  "alt": [
+   "Néda",
+   "Gorges de la Néda"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Gorge et cascades",
+  "region": "Péloponnèse (Messénie/Élide)",
+  "y": 37.39,
+  "x": 21.83,
+  "pt": "cascades",
+  "near": "Kyparissia",
+  "nearKm": 21,
+  "d": "Gorge où la Néda se jette en cascades dans des vasques turquoise, au cœur d'une forêt de platanes, non loin du temple de Bassae.",
+  "v": "Cascades et vasques · randonnée dans la gorge · temple de Bassae voisin",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Lac de Vouliagmeni",
+  "alt": [
+   "Límni Vouliagménis"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Lac thermal",
+  "region": "Attique",
+  "y": 37.8075,
+  "x": 23.7853,
+  "pt": "lac",
+  "near": "Vouliagmeni",
+  "nearKm": 1,
+  "d": "Lac saumâtre alimenté par des sources tièdes au pied d'une falaise calcaire, au bord du golfe Saronique ; on s'y baigne toute l'année.",
+  "v": "Baignade dans l'eau tiède · falaise et grotte noyée · côte de Vouliagmeni",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 6,
+   "sing": 11,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Daphni",
+  "alt": [
+   "Dafní",
+   "Daphni"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Monastère byzantin",
+  "region": "Attique",
+  "y": 38.013,
+  "x": 23.636,
+  "pt": "monastère",
+  "near": "Chaidari",
+  "nearKm": 2,
+  "d": "Monastère byzantin du XIe siècle aux portes d'Athènes, inscrit au patrimoine mondial pour ses mosaïques, dont le Christ Pantocrator de la coupole.",
+  "v": "Pantocrator de la coupole · cloître · mosaïques de la vie de la Vierge",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 5,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Brauron",
+  "alt": [
+   "Vravróna",
+   "Sanctuaire d'Artémis Brauronia"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Sanctuaire antique",
+  "region": "Attique",
+  "y": 37.9255,
+  "x": 23.994,
+  "pt": "sanctuaire",
+  "near": "Artemida",
+  "nearKm": 5,
+  "d": "Sanctuaire d'Artémis au fond d'une petite vallée côtière de l'Attique, avec une stoa partiellement remontée et un riche musée.",
+  "v": "Stoa d'Artémis · pont archaïque · musée",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 6,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Éleusis",
+  "alt": [
+   "Elefsína",
+   "Eleusis"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Sanctuaire antique",
+  "region": "Attique",
+  "y": 38.041,
+  "x": 23.5385,
+  "pt": "sanctuaire de Déméter",
+  "near": "Elefsina",
+  "nearKm": 0,
+  "d": "Sanctuaire de Déméter où se célébraient les Mystères d'Éleusis, l'un des grands cultes initiatiques de la Grèce antique.",
+  "v": "Télestérion · grands Propylées · musée",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 6,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rhamnonte",
+  "alt": [
+   "Ramnoús",
+   "Rhamnous"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Attique",
+  "y": 38.218,
+  "x": 24.0265,
+  "pt": "sanctuaire de Némésis",
+  "near": "Marathonas",
+  "nearKm": 9,
+  "d": "Sanctuaire de Némésis et forteresse antique sur un promontoire isolé face à l'Eubée.",
+  "v": "Temples de Némésis et de Thémis · forteresse sur la mer · nécropole",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Égine — temple d'Aphaïa",
+  "alt": [
+   "Aegina",
+   "Aígina",
+   "Aphaia"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Temple antique",
+  "region": "Attique (Égine)",
+  "y": 37.7545,
+  "x": 23.5335,
+  "pt": "temple d'Aphaïa",
+  "near": "Aigina",
+  "nearKm": 9,
+  "d": "Temple dorique du début du Ve siècle av. J.-C. sur une colline de pins d'Égine, l'un des mieux conservés de Grèce ; l'île a aussi une jolie ville portuaire.",
+  "v": "Temple d'Aphaïa · ville d'Égine · monastère d'Agios Nektarios · Paleochora",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Poros",
+  "alt": [
+   "Póros"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Île",
+  "region": "Attique (Îles)",
+  "y": 37.499,
+  "x": 23.4545,
+  "pt": "ville et tour de l'horloge",
+  "near": "Poros",
+  "nearKm": 0,
+  "d": "Île séparée du Péloponnèse par un étroit chenal ; la ville blanche s'étage autour de la tour de l'horloge, face à Galatas.",
+  "v": "Tour de l'horloge · monastère de Zoodochos Pigi · sanctuaire de Poséidon",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 8,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Canal de Corinthe",
+  "alt": [
+   "Isthme de Corinthe",
+   "Dióryga tis Korínthou"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Canal maritime",
+  "region": "Péloponnèse (Corinthie)",
+  "y": 37.932,
+  "x": 22.984,
+  "pt": "pont routier sur le canal",
+  "near": "Korinthos",
+  "nearKm": 5,
+  "d": "Canal creusé à la fin du XIXe siècle à travers l'isthme, aux parois rocheuses vertigineuses ; ponts submersibles à ses deux extrémités.",
+  "v": "Vue depuis le pont · pont submersible d'Isthmia · croisière dans le canal",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 9,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Némée",
+  "alt": [
+   "Neméa",
+   "Nemea"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Sanctuaire antique",
+  "region": "Péloponnèse (Corinthie)",
+  "y": 37.809,
+  "x": 22.711,
+  "pt": "temple de Zeus",
+  "near": "Nemea",
+  "nearKm": 5,
+  "d": "Sanctuaire de Zeus et stade antique où se tenaient les jeux Néméens, au milieu du vignoble réputé de Némée.",
+  "v": "Temple de Zeus · stade et tunnel d'entrée des athlètes · domaines viticoles",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Argos",
+  "alt": [
+   "Árgos",
+   "Larissa d'Argos"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Ville antique",
+  "region": "Péloponnèse (Argolide)",
+  "y": 37.63,
+  "x": 22.719,
+  "pt": "théâtre antique",
+  "near": "Argos",
+  "nearKm": 1,
+  "d": "L'une des plus vieilles villes de Grèce : grand théâtre antique creusé dans la colline, agora et forteresse de Larissa dominant la plaine.",
+  "v": "Théâtre antique · agora · forteresse de Larissa",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pylos et baie de Navarin",
+  "alt": [
+   "Pýlos",
+   "Navarino",
+   "Niokastro"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Péloponnèse (Messénie)",
+  "y": 36.913,
+  "x": 21.696,
+  "pt": "port",
+  "near": "Pylos",
+  "nearKm": 0,
+  "d": "Port tranquille sur la baie de Navarin, théâtre de la bataille navale de 1827, gardé par la forteresse ottomane de Niokastro.",
+  "v": "Niokastro · baie de Navarin · île de Sfaktiria en bateau",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Palais de Nestor",
+  "alt": [
+   "Anáktoro tou Néstora"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Palais mycénien",
+  "region": "Péloponnèse (Messénie)",
+  "y": 37.027,
+  "x": 21.6955,
+  "pt": "palais",
+  "near": "Pylos",
+  "nearKm": 13,
+  "d": "Palais mycénien le mieux conservé de Grèce, avec sa célèbre baignoire en terre cuite, abrité sous une toiture moderne au-dessus de la baie de Navarin.",
+  "v": "Mégaron et baignoire · musée de Chora",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 7,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Plage de Voidokilia",
+  "alt": [
+   "Voidokiliá",
+   "Gialova"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Plage",
+  "region": "Péloponnèse (Messénie)",
+  "y": 36.965,
+  "x": 21.661,
+  "pt": "plage",
+  "near": "Pylos",
+  "nearKm": 7,
+  "d": "Plage en arc de cercle presque parfait, fermée par des dunes, au bord de la lagune de Gialova riche en oiseaux et dominée par le Paliokastro.",
+  "v": "Plage · grotte de Nestor · lagune de Gialova · Paliokastro",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Forteresse de Méthoni",
+  "alt": [
+   "Methóni",
+   "Modon"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Forteresse vénitienne",
+  "region": "Péloponnèse (Messénie)",
+  "y": 36.815,
+  "x": 21.7055,
+  "pt": "forteresse",
+  "near": "Pylos",
+  "nearKm": 11,
+  "d": "Vaste forteresse vénitienne sur un cap, reliée par un pont à l'îlot fortifié du Bourtzi ; l'une des plus grandes de Grèce.",
+  "v": "Porte monumentale · Bourtzi octogonal · plage de Methoni",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Koroni",
+  "alt": [
+   "Koróni",
+   "Coron"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Bourg fortifié",
+  "region": "Péloponnèse (Messénie)",
+  "y": 36.7955,
+  "x": 21.959,
+  "pt": "forteresse",
+  "near": "Pylos",
+  "nearKm": 27,
+  "d": "Bourg aux maisons en terrasses sous une forteresse vénitienne qui abrite un couvent, sur la côte ouest du golfe de Messénie.",
+  "v": "Forteresse et couvent · plage de Zaga · ruelles en escaliers",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Messène antique",
+  "alt": [
+   "Archaía Messíni",
+   "Ancient Messene"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Péloponnèse (Messénie)",
+  "y": 37.1755,
+  "x": 21.92,
+  "pt": "stade et théâtre",
+  "near": "Messini",
+  "nearKm": 15,
+  "d": "L'une des cités antiques les plus spectaculaires de Grèce : stade bordé de colonnes, théâtre, asclépiéion et remparts percés de la porte d'Arcadie.",
+  "v": "Stade et gymnase · asclépiéion · porte d'Arcadie",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Dimitsana",
+  "alt": [
+   "Dimitsána"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village de montagne",
+  "region": "Péloponnèse (Arcadie)",
+  "y": 37.596,
+  "x": 22.043,
+  "pt": "centre du village",
+  "near": "Megalopoli",
+  "nearKm": 23,
+  "d": "Village en amphithéâtre au-dessus des gorges du Lousios, aux maisons de pierre et clochers, avec un musée de plein air de l'énergie hydraulique.",
+  "v": "Musée de l'énergie hydraulique · ruelles et églises · gorges du Lousios",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gorges du Lousios",
+  "alt": [
+   "Loúsios",
+   "Monastère de Prodromos"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Gorges",
+  "region": "Péloponnèse (Arcadie)",
+  "y": 37.556,
+  "x": 22.053,
+  "pt": "monastère de Prodromos",
+  "near": "Megalopoli",
+  "nearKm": 19,
+  "d": "Gorge boisée où les monastères de Prodromos et de Philosophou s'accrochent aux falaises ; le site antique de Gortys occupe le fond de la vallée.",
+  "v": "Monastère de Prodromos · monastères de Philosophou · Gortys antique · sentier du Ménale",
+  "s": "avr-nov",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Karytaina",
+  "alt": [
+   "Karýtaina"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village médiéval",
+  "region": "Péloponnèse (Arcadie)",
+  "y": 37.487,
+  "x": 22.038,
+  "pt": "château",
+  "near": "Megalopoli",
+  "nearKm": 13,
+  "d": "Village médiéval dominé par un château franc du XIIIe siècle, au-dessus de l'Alphée et de son vieux pont de pierre.",
+  "v": "Château franc · pont médiéval sur l'Alphée · ruelles du village",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Lac Stymphale",
+  "alt": [
+   "Stymfalía",
+   "Stymphalia"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Lac et zone humide",
+  "region": "Péloponnèse (Corinthie)",
+  "y": 37.856,
+  "x": 22.46,
+  "pt": "rive du lac",
+  "near": "Nemea",
+  "nearKm": 18,
+  "d": "Lac de montagne lié au mythe d'Héraclès et des oiseaux du Stymphale, bordé des ruines de l'abbaye cistercienne de Zaraka et d'un musée de l'environnement.",
+  "v": "Musée de l'environnement · ruines de l'abbaye de Zaraka · site antique de Stymphale",
+  "s": "avr-nov",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Elafonissos",
+  "alt": [
+   "Elafónisos",
+   "Plage de Simos"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Île et plage",
+  "region": "Péloponnèse (Laconie)",
+  "y": 36.472,
+  "x": 22.952,
+  "pt": "plage de Simos",
+  "near": "Neapoli",
+  "nearKm": 11,
+  "d": "Petite île reliée au continent par un bac, célèbre pour la plage de Simos, double croissant de sable blanc adossé aux dunes et bordé d'eaux turquoise.",
+  "v": "Plage de Simos · plage de Sarakiniko · village d'Elafonissos",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Cythère",
+  "alt": [
+   "Kýthira",
+   "Kythira"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Île et château vénitien",
+  "region": "Attique (Îles)",
+  "y": 36.144,
+  "x": 22.987,
+  "pt": "château de Chora",
+  "near": "Kýthira",
+  "nearKm": 0,
+  "d": "Île entre Péloponnèse et Crète, dominée par le château vénitien de Chora ; villages blanchis, gorges boisées et criques isolées.",
+  "v": "Château de Chora · Mylopotamos et sa cascade · Kato Chora · plage de Kaladi",
+  "s": "mai-oct",
+  "du": "1-2 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Gythio",
+  "alt": [
+   "Gýtheio",
+   "Gythion"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Péloponnèse (Laconie)",
+  "y": 36.76,
+  "x": 22.566,
+  "pt": "port",
+  "near": "Gytheio",
+  "nearKm": 0,
+  "d": "Port de Laconie aux maisons néoclassiques en gradins, avec l'îlot de Kranai relié par une chaussée et l'épave du Dimitrios échouée sur une plage voisine.",
+  "v": "Îlot de Kranai et son phare · épave du Dimitrios · théâtre antique",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Leonidio",
+  "alt": [
+   "Leonídio"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Bourg sous falaises",
+  "region": "Péloponnèse (Arcadie)",
+  "y": 37.1667,
+  "x": 22.8583,
+  "pt": "centre du bourg",
+  "near": "Leonidio",
+  "nearKm": 0,
+  "d": "Bourg aux maisons-tours au pied de grandes falaises rouges, devenu un site d'escalade réputé ; départ d'une route de montagne vers Kosmas.",
+  "v": "Falaises rouges et escalade · plage de Plaka · monastère d'Elona · route de Kosmas",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Elafonissi",
+  "alt": [
+   "Elafonísi"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Plage et lagune",
+  "region": "Crète (La Canée)",
+  "y": 35.2715,
+  "x": 23.54,
+  "pt": "plage et lagune",
+  "near": "Kissamos",
+  "nearKm": 27,
+  "d": "Lagune peu profonde et îlot aux plages de sable rosé, à l'extrémité sud-ouest de la Crète, protégés en réserve naturelle.",
+  "v": "Sable rosé · traversée à pied vers l'îlot · monastère de Chrysoskalitissa",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 19,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Lagune de Balos",
+  "alt": [
+   "Bálos",
+   "Gramvoussa"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Lagune",
+  "region": "Crète (La Canée)",
+  "y": 35.581,
+  "x": 23.589,
+  "pt": "lagune",
+  "near": "Kissamos",
+  "nearKm": 11,
+  "d": "Lagune turquoise au pied de la presqu'île de Gramvoussa, l'un des paysages les plus photographiés de Crète, face à l'îlot au fort vénitien.",
+  "v": "Belvédère au-dessus de la lagune · fort vénitien de Gramvoussa · cap Tigani",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 19,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Falassarna",
+  "alt": [
+   "Falásarna",
+   "Phalasarna"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Plage",
+  "region": "Crète (La Canée)",
+  "y": 35.499,
+  "x": 23.577,
+  "pt": "plage",
+  "near": "Kissamos",
+  "nearKm": 7,
+  "d": "Longue plage de sable de la côte ouest de la Crète, réputée pour ses couchers de soleil, près des vestiges d'un port antique.",
+  "v": "Plage de Pachia Ammos · port hellénistique · coucher de soleil",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Spinalonga",
+  "alt": [
+   "Spinalónga",
+   "Kalydon"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Îlot fortifié",
+  "region": "Crète (Lassithi)",
+  "y": 35.2975,
+  "x": 25.7385,
+  "pt": "îlot",
+  "near": "Agios Nikolaos",
+  "nearKm": 12,
+  "d": "Îlot fortifié par les Vénitiens puis devenu léproserie jusqu'en 1957, face au village de Plaka dans le golfe d'Elounda.",
+  "v": "Remparts vénitiens · rue de la léproserie · traversée depuis Plaka ou Elounda",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 7,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Plateau du Lassithi",
+  "alt": [
+   "Oropédio Lasithíou",
+   "Grotte du Dicté"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Haut plateau",
+  "region": "Crète (Lassithi)",
+  "y": 35.18,
+  "x": 25.47,
+  "pt": "centre du plateau",
+  "near": "Neapoli",
+  "nearKm": 15,
+  "d": "Haut plateau cultivé ceint de montagnes, jadis parsemé de milliers d'éoliennes de pompage ; la grotte du Dicté y passe pour le lieu de naissance de Zeus.",
+  "v": "Grotte du Dicté à Psychro · moulins du col de Seli Ambelou · villages du plateau",
+  "s": "avr-nov",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 12,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Palmeraie de Vai",
+  "alt": [
+   "Váï",
+   "Vai"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Plage et palmeraie",
+  "region": "Crète (Lassithi)",
+  "y": 35.2535,
+  "x": 26.264,
+  "pt": "plage",
+  "near": "Sitia",
+  "nearKm": 15,
+  "d": "Plage bordée de la plus grande palmeraie naturelle d'Europe, formée de palmiers de Crète (Phoenix theophrasti).",
+  "v": "Palmeraie · plage · monastère de Toplou voisin",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Monastère d'Arkadi",
+  "alt": [
+   "Moní Arkadíou"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Monastère",
+  "region": "Crète (Réthymnon)",
+  "y": 35.3105,
+  "x": 24.629,
+  "pt": "monastère",
+  "near": "Rethymno",
+  "nearKm": 15,
+  "d": "Monastère fortifié à la façade d'église vénitienne baroque, symbole de la résistance crétoise depuis l'explosion de sa poudrière lors du siège ottoman de 1866.",
+  "v": "Façade de l'église · ancienne poudrière · musée",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 7,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gorges d'Imbros",
+  "alt": [
+   "Ímvros",
+   "Imbros"
+  ],
+  "p": "Grèce",
+  "c": "nature",
+  "q": "Gorge",
+  "region": "Crète (La Canée)",
+  "y": 35.23,
+  "x": 24.166,
+  "pt": "milieu de la gorge",
+  "near": "Chania",
+  "nearKm": 34,
+  "d": "Gorge étroite de Sfakia, plus courte et plus facile que celle de Samaria, avec des passages où les parois se resserrent à quelques mètres.",
+  "v": "Randonnée d'Imbros à Komitades · passage étroit · arche naturelle",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Preveli",
+  "alt": [
+   "Préveli",
+   "Palmeraie de Preveli"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Plage et palmeraie",
+  "region": "Crète (Réthymnon)",
+  "y": 35.1545,
+  "x": 24.474,
+  "pt": "embouchure et plage",
+  "near": "Rethymno",
+  "nearKm": 24,
+  "d": "Embouchure de la rivière Kourtaliotis bordée de palmiers, formant une plage et un plan d'eau douce, sous le monastère de Preveli.",
+  "v": "Palmeraie et rivière · monastère de Preveli · gorge de Kourtaliotiko",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Matala",
+  "alt": [
+   "Mátala"
+  ],
+  "p": "Grèce",
+  "c": "plage",
+  "q": "Baie",
+  "region": "Crète (Héraklion)",
+  "y": 34.9945,
+  "x": 24.75,
+  "pt": "plage et falaise",
+  "near": "Moires",
+  "nearKm": 13,
+  "d": "Baie de sable sous une falaise criblée de grottes creusées dans l'Antiquité, devenue un haut lieu hippie dans les années 1960-70.",
+  "v": "Grottes de la falaise · plage de Kommos · plage rouge (Kokkini Ammos)",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gortyne",
+  "alt": [
+   "Górtyna",
+   "Gortyn"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Crète (Héraklion)",
+  "y": 35.062,
+  "x": 24.947,
+  "pt": "basilique Saint-Tite",
+  "near": "Moires",
+  "nearKm": 7,
+  "d": "Capitale de la Crète romaine où est gravé le Code de Gortyne, plus long texte juridique grec antique conservé, près de la basilique Saint-Tite.",
+  "v": "Code de Gortyne · basilique Saint-Tite · odéon · prétoire",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Héraklion",
+  "alt": [
+   "Irákleio",
+   "Heraklion"
+  ],
+  "p": "Grèce",
+  "c": "ville",
+  "q": "Grande ville",
+  "region": "Crète (Héraklion)",
+  "y": 35.339,
+  "x": 25.1335,
+  "pt": "centre historique",
+  "near": "Irakleio",
+  "nearKm": 0,
+  "d": "Capitale de la Crète ceinte de remparts vénitiens, avec un musée archéologique essentiel pour la civilisation minoenne.",
+  "v": "Musée archéologique · forteresse Koules · fontaine Morosini · tombe de Kazantzakis",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Aptera",
+  "alt": [
+   "Áptera"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Crète (La Canée)",
+  "y": 35.463,
+  "x": 24.142,
+  "pt": "site archéologique",
+  "near": "Chania",
+  "nearKm": 13,
+  "d": "Cité antique sur un plateau dominant la baie de Souda : citernes romaines voûtées, théâtre et fort ottoman.",
+  "v": "Citernes romaines · théâtre · fort ottoman et vue sur la baie de Souda",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Kritsa et Panagia Kera",
+  "alt": [
+   "Kritsá",
+   "Panagía Kerá",
+   "Lato"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village et église byzantine",
+  "region": "Crète (Lassithi)",
+  "y": 35.158,
+  "x": 25.644,
+  "pt": "village",
+  "near": "Agios Nikolaos",
+  "nearKm": 7,
+  "d": "Gros village de montagne au-dessus du golfe de Mirabello, voisin de l'église Panagia Kera aux fresques byzantines et de la cité dorienne de Lato.",
+  "v": "Panagia Kera et ses fresques · site antique de Lato · ruelles de Kritsa",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Molyvos",
+  "alt": [
+   "Mithymna",
+   "Mólyvos"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Égée-Septentrionale (Lesbos)",
+  "y": 39.368,
+  "x": 26.174,
+  "pt": "château",
+  "near": "Kalloni",
+  "nearKm": 15,
+  "d": "Village de Lesbos aux maisons de pierre étagées sous un château byzantino-génois, au-dessus d'un petit port de pêche.",
+  "v": "Château · port de pêche · ruelles pavées",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Nea Moni de Chios",
+  "alt": [
+   "Néa Moní",
+   "Chios"
+  ],
+  "p": "Grèce",
+  "c": "patrimoine",
+  "q": "Monastère byzantin",
+  "region": "Égée-Septentrionale (Chios)",
+  "y": 38.374,
+  "x": 26.056,
+  "pt": "monastère",
+  "near": "Chios",
+  "nearKm": 7,
+  "d": "Monastère du XIe siècle au cœur de Chios, inscrit au patrimoine mondial avec Daphni et Hosios Loukas pour ses mosaïques byzantines.",
+  "v": "Mosaïques du katholikon · citerne voûtée · villages médiévaux du mastic au sud",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 7,
+   "sing": 12,
+   "val": 13,
+   "acc": 3
+  }
+ }
+]

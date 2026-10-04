@@ -1,0 +1,2426 @@
+[
+ {
+  "n": "Korçë",
+  "alt": [
+   "Korça",
+   "Koritsa"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Korçë",
+  "y": 40.6186,
+  "x": 20.7808,
+  "pt": "centre-ville",
+  "near": "Korçë",
+  "nearKm": 0,
+  "d": "Grande ville du sud-est au pied du mont Morava, connue pour son vieux bazar restauré, ses maisons du XIXe siècle et sa cathédrale orthodoxe de la Résurrection.",
+  "v": "Le vieux bazar · le musée national d'art médiéval et ses icônes · la cathédrale de la Résurrection · la mosquée Mirahor",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Voskopojë",
+  "alt": [
+   "Moscopole",
+   "Voskopoja"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Korçë",
+  "y": 40.6331,
+  "x": 20.5883,
+  "pt": "centre du village",
+  "near": "Korçë",
+  "nearKm": 17,
+  "d": "Ancienne grande cité marchande aromaine du XVIIIe siècle devenue village de montagne, qui conserve plusieurs églises post-byzantines aux fresques remarquables.",
+  "v": "L'église Saint-Nicolas et ses fresques · le monastère de Saint-Jean-Prodrome · les églises Saint-Athanase et des Saints-Archanges",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Dardhë",
+  "alt": [
+   "Dardha"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Village de montagne",
+  "region": "Korçë",
+  "y": 40.5194,
+  "x": 20.8256,
+  "pt": "centre du village",
+  "near": "Korçë",
+  "nearKm": 12,
+  "d": "Village de montagne aux maisons de pierre à toits de lauze, perché vers 1 300 m dans les monts de Korçë, petite station en hiver et base de randonnée en été.",
+  "v": "Les maisons traditionnelles en pierre · les sentiers de forêt alentour · le panorama sur les montagnes",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Lin",
+  "alt": [
+   "Lini"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Village lacustre",
+  "region": "Korçë (Pogradec)",
+  "y": 41.0661,
+  "x": 20.6381,
+  "pt": "centre du village",
+  "near": "Pogradec",
+  "nearKm": 18,
+  "d": "Village de pêcheurs sur une petite presqu'île du lac d'Ohrid, couronné par les ruines d'une basilique paléochrétienne du VIe siècle et de ses mosaïques.",
+  "v": "La basilique paléochrétienne et ses mosaïques · les ruelles du village · la vue sur le lac d'Ohrid",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": true,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Durrës",
+  "alt": [
+   "Durazzo",
+   "Dyrrachium"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Ville portuaire antique",
+  "region": "Durrës",
+  "y": 41.3131,
+  "x": 19.4461,
+  "pt": "amphithéâtre romain",
+  "near": "Durrës",
+  "nearKm": 0,
+  "d": "Principal port du pays, fondé par les Grecs sous le nom d'Epidamnos, qui possède l'un des plus grands amphithéâtres romains des Balkans au cœur de la ville.",
+  "v": "L'amphithéâtre romain et sa chapelle à mosaïques · la tour vénitienne et les remparts · le musée archéologique · la promenade du front de mer",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Vlorë",
+  "alt": [
+   "Vlora",
+   "Valona"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Ville côtière",
+  "region": "Vlorë",
+  "y": 40.4661,
+  "x": 19.4914,
+  "pt": "centre-ville",
+  "near": "Vlorë",
+  "nearKm": 0,
+  "d": "Ville côtière où fut proclamée l'indépendance albanaise en 1912, porte d'entrée de la Riviera et de la péninsule de Karaburun, au fond d'une large baie.",
+  "v": "La mosquée Muradie · la place du Drapeau et le monument de l'Indépendance · le château de Kaninë au-dessus de la ville · le Lungomare",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Lagune de Narta et monastère de Zvërnec",
+  "alt": [
+   "Zvërnec",
+   "Laguna e Nartës"
+  ],
+  "p": "Albanie",
+  "c": "nature",
+  "q": "Lagune",
+  "region": "Vlorë",
+  "y": 40.5106,
+  "x": 19.4067,
+  "pt": "îlot du monastère",
+  "near": "Vlorë",
+  "nearKm": 6,
+  "d": "Vaste lagune côtière fréquentée par les flamants roses et les oiseaux d'eau ; une passerelle en bois mène à l'îlot boisé de Zvërnec et à son monastère byzantin.",
+  "v": "La passerelle et le monastère de la Dormition · les flamants de la lagune · les salines et la plage de Zvërnec",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Ksamil",
+  "alt": [
+   "Ksamili"
+  ],
+  "p": "Albanie",
+  "c": "plage",
+  "q": "Village côtier",
+  "region": "Vlorë (Sarandë)",
+  "y": 39.7686,
+  "x": 19.9997,
+  "pt": "centre du village",
+  "near": "Sarandë",
+  "nearKm": 12,
+  "d": "Village balnéaire à l'extrême sud du pays, réputé pour ses criques d'eau turquoise et ses îlots boisés accessibles à la nage ou en bateau, face à Corfou.",
+  "v": "Les îles de Ksamil · les criques de sable et de galets · la proximité de Butrint",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Sarandë",
+  "alt": [
+   "Saranda",
+   "Agioi Saranta"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Station balnéaire",
+  "region": "Vlorë",
+  "y": 39.8753,
+  "x": 20.0056,
+  "pt": "front de mer",
+  "near": "Sarandë",
+  "nearKm": 0,
+  "d": "Principale ville du sud de la Riviera, face à Corfou, bonne base pour Butrint, Ksamil et l'Œil bleu ; vestiges d'une synagogue antique au centre.",
+  "v": "Le château de Lëkurës et sa vue sur la baie · la promenade du front de mer · les ruines de la synagogue et basilique antiques",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château de Porto Palermo",
+  "alt": [
+   "Kalaja e Porto Palermos",
+   "Château d'Ali Pacha"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Forteresse côtière",
+  "region": "Vlorë (Himarë)",
+  "y": 40.0614,
+  "x": 19.7933,
+  "pt": "forteresse",
+  "near": "Himarë",
+  "nearKm": 6,
+  "d": "Forteresse triangulaire attribuée à Ali Pacha de Tepelenë, posée sur une presqu'île dans une baie fermée de la Riviera, aux eaux très claires.",
+  "v": "Les salles voûtées et la terrasse de la forteresse · la baie de Porto Palermo · la baignade aux alentours",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Dhërmi",
+  "alt": [
+   "Dhermi",
+   "Drymades"
+  ],
+  "p": "Albanie",
+  "c": "plage",
+  "q": "Village côtier",
+  "region": "Vlorë (Himarë)",
+  "y": 40.148,
+  "x": 19.635,
+  "pt": "plage de Dhërmi",
+  "near": "Himarë",
+  "nearKm": 12,
+  "d": "Village de la Riviera accroché à la montagne au-dessus d'une longue plage de galets blancs, au pied du col de Llogara ; vieux village aux églises orthodoxes.",
+  "v": "La plage de Dhërmi · le vieux village perché et ses églises · le monastère de Shën Todri · la plage voisine de Drymades",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Plage et canyon de Gjipe",
+  "alt": [
+   "Gjipe"
+  ],
+  "p": "Albanie",
+  "c": "plage",
+  "q": "Crique",
+  "region": "Vlorë (Himarë)",
+  "y": 40.1281,
+  "x": 19.6728,
+  "pt": "crique de Gjipe",
+  "near": "Himarë",
+  "nearKm": 7,
+  "d": "Crique encaissée au débouché d'un canyon calcaire entre Dhërmi et Himarë, accessible à pied, l'une des plages les plus spectaculaires de la Riviera.",
+  "v": "La crique au pied des falaises · la remontée du canyon de Gjipe · le monastère Saint-Théodore au-dessus",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Plage de Borsh",
+  "alt": [
+   "Borshi"
+  ],
+  "p": "Albanie",
+  "c": "plage",
+  "q": "Plage",
+  "region": "Vlorë (Himarë)",
+  "y": 40.05,
+  "x": 19.845,
+  "pt": "centre de la plage",
+  "near": "Himarë",
+  "nearKm": 10,
+  "d": "Longue plage de galets parmi les plus étendues de la Riviera, adossée à des oliveraies en terrasses et dominée par les ruines du château de Borsh.",
+  "v": "La plage de galets · les ruines du château de Borsh · les oliveraies et la source du village",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 11,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Byllis",
+  "alt": [
+   "Bylis"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Fier (Mallakastër)",
+  "y": 40.5406,
+  "x": 19.7378,
+  "pt": "entrée du site",
+  "near": "Ballsh",
+  "nearKm": 7,
+  "d": "Ruines d'une cité illyro-grecque fortifiée sur une colline dominant la vallée de la Vjosa : théâtre, stoa, remparts et basiliques paléochrétiennes à mosaïques.",
+  "v": "Le théâtre antique · les remparts · les mosaïques des basiliques · la vue sur la vallée de la Vjosa",
+  "s": "mars-nov",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Amantia",
+  "alt": [],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Vlorë (Selenicë)",
+  "y": 40.3711,
+  "x": 19.6964,
+  "pt": "stade antique",
+  "near": "Selenicë",
+  "nearKm": 18,
+  "d": "Site d'une ville illyrienne de l'Antiquité, dans les collines au-dessus de la Vjosa, dont subsistent un stade, des remparts et les traces d'un temple d'Aphrodite.",
+  "v": "Le stade antique · les remparts de l'acropole · le panorama sur les collines",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Antigonée",
+  "alt": [
+   "Antigonea"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Gjirokastër",
+  "y": 40.14,
+  "x": 20.175,
+  "pt": "parc archéologique",
+  "near": "Gjirokastër",
+  "nearKm": 7,
+  "d": "Ruines de la cité fondée par Pyrrhus d'Épire au IIIe siècle av. J.-C., sur une colline face à Gjirokastër et à la vallée du Drino.",
+  "v": "Les remparts et la porte de la ville · les fondations des maisons et de l'église · la vue sur Gjirokastër",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Phoenice",
+  "alt": [
+   "Finiq",
+   "Phoinike"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Vlorë (Finiq)",
+  "y": 39.9139,
+  "x": 20.0581,
+  "pt": "colline du site",
+  "near": "Sarandë",
+  "nearKm": 6,
+  "d": "Ancienne capitale de l'Épire du Nord, étalée sur une colline dominant la plaine de Delvinë, avec théâtre grec, citernes et remparts.",
+  "v": "Le théâtre antique · les citernes et murailles · la vue sur la plaine et Butrint",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Monastère de Mesopotam",
+  "alt": [
+   "Manastiri i Shën Kollit",
+   "Saint-Nicolas de Mesopotam"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Monastère byzantin",
+  "region": "Vlorë (Finiq)",
+  "y": 39.9122,
+  "x": 20.0919,
+  "pt": "église du monastère",
+  "near": "Sarandë",
+  "nearKm": 10,
+  "d": "Église byzantine du XIIIe siècle dédiée à saint Nicolas, au plan à double nef inhabituel et aux façades ornées de reliefs sculptés, dans un enclos fortifié.",
+  "v": "L'église à deux nefs · les reliefs sculptés des façades · l'enceinte du monastère",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Përmet",
+  "alt": [
+   "Permet"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Petite ville",
+  "region": "Gjirokastër",
+  "y": 40.2353,
+  "x": 20.3517,
+  "pt": "centre-ville",
+  "near": "Përmet",
+  "nearKm": 0,
+  "d": "Petite ville verdoyante au bord de la Vjosa, entourée de montagnes, réputée pour ses confitures et son raki, base idéale pour la vallée et les sources de Bënjë.",
+  "v": "Le rocher-forteresse au cœur de la ville · les berges de la Vjosa · l'église de Kosinë à proximité",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 11,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bains thermaux de Bënjë et canyon de Langarica",
+  "alt": [
+   "Banjat e Bënjës",
+   "Langarica"
+  ],
+  "p": "Albanie",
+  "c": "nature",
+  "q": "Sources thermales",
+  "region": "Gjirokastër (Përmet)",
+  "y": 40.247,
+  "x": 20.429,
+  "pt": "pont ottoman et bassins",
+  "near": "Përmet",
+  "nearKm": 7,
+  "d": "Bassins naturels d'eau thermale sulfureuse au pied d'un pont ottoman en dos d'âne, à l'entrée du canyon de la Langarica que l'on remonte à pied dans la rivière.",
+  "v": "Le pont de Katiu · la baignade dans les bassins chauds · la remontée du canyon de Langarica",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 13,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère d'Ardenica",
+  "alt": [
+   "Manastiri i Ardenicës"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Fier (Lushnjë)",
+  "y": 40.8211,
+  "x": 19.5869,
+  "pt": "monastère",
+  "near": "Lushnjë",
+  "nearKm": 15,
+  "d": "Monastère orthodoxe du XIIIe siècle sur une colline au-dessus de la plaine de Myzeqe, où Skanderbeg se serait marié ; église aux fresques et iconostase sculptée.",
+  "v": "L'église de la Dormition et ses fresques · l'iconostase en bois · la vue sur la plaine et la lagune",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Elbasan",
+  "alt": [
+   "Elbasani"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Elbasan",
+  "y": 41.1125,
+  "x": 20.0822,
+  "pt": "château",
+  "near": "Elbasan",
+  "nearKm": 0,
+  "d": "Ville du centre du pays sur l'ancienne Via Egnatia, dont le château ottoman enserre encore un quartier habité avec mosquée royale et église orthodoxe.",
+  "v": "La forteresse et ses portes · la mosquée du Roi · l'église Sainte-Marie · le hammam",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac de Bovilla",
+  "alt": [
+   "Liqeni i Bovillës"
+  ],
+  "p": "Albanie",
+  "c": "nature",
+  "q": "Lac de barrage",
+  "region": "Tirana",
+  "y": 41.44,
+  "x": 19.92,
+  "pt": "rive du lac",
+  "near": "Krujë",
+  "nearKm": 13,
+  "d": "Lac-réservoir aux eaux vert émeraude encaissé entre des montagnes calcaires au nord-est de Tirana, dominé par la crête du mont Gamti.",
+  "v": "Le belvédère sur le lac · la montée vers le sommet de Gamti · les gorges alentour",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Lac de Koman",
+  "alt": [
+   "Liqeni i Komanit",
+   "Ferry de Koman"
+  ],
+  "p": "Albanie",
+  "c": "nature",
+  "q": "Lac de barrage",
+  "region": "Shkodër",
+  "y": 42.107,
+  "x": 19.825,
+  "pt": "embarcadère de Koman",
+  "near": "Pukë",
+  "nearKm": 9,
+  "d": "Lac-réservoir sinueux sur le Drin, encaissé entre des parois verticales, souvent comparé à un fjord ; la traversée en ferry Koman–Fierzë est l'un des grands moments d'un voyage en Albanie.",
+  "v": "La traversée en ferry jusqu'à Fierzë · les gorges du Drin · la vallée de la Shala en bateau",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 1,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 20,
+   "van": 14,
+   "sing": 14,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Plage de Velipojë",
+  "alt": [
+   "Velipoja",
+   "Rana e Velipojës"
+  ],
+  "p": "Albanie",
+  "c": "plage",
+  "q": "Plage",
+  "region": "Shkodër",
+  "y": 41.86,
+  "x": 19.43,
+  "pt": "plage de Velipojë",
+  "near": "Shkodër",
+  "nearKm": 24,
+  "d": "Longue plage de sable au nord du littoral, jusqu'à l'embouchure de la Buna qui marque la frontière, en lisière d'une réserve de zones humides et de pinèdes.",
+  "v": "La plage de sable · l'embouchure de la Buna · la réserve naturelle de Velipojë",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 7,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Shëngjin",
+  "alt": [
+   "Shengjin",
+   "San Giovanni di Medua"
+  ],
+  "p": "Albanie",
+  "c": "plage",
+  "q": "Station balnéaire",
+  "region": "Lezhë",
+  "y": 41.8136,
+  "x": 19.5939,
+  "pt": "centre de la station",
+  "near": "Lezhë",
+  "nearKm": 5,
+  "d": "Port et station balnéaire au nord de Lezhë, prolongés au nord par une plage plus sauvage adossée à la grande dune de Rana e Hedhun et aux pinèdes.",
+  "v": "La dune de Rana e Hedhun · la plage nord et ses pinèdes · la lagune de Kune-Vain toute proche",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pont de Mes",
+  "alt": [
+   "Ura e Mesit",
+   "Mesi Bridge"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Pont ottoman",
+  "region": "Shkodër",
+  "y": 42.106,
+  "x": 19.565,
+  "pt": "pont",
+  "near": "Shkodër",
+  "nearKm": 6,
+  "d": "Pont ottoman du XVIIIe siècle à treize arches en dos d'âne enjambant la Kir, l'un des plus longs et des mieux conservés d'Albanie.",
+  "v": "Le passage sur le pont · la rivière Kir · la route vers Theth qui passe à côté",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Peshkopi",
+  "alt": [
+   "Peshkopia"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Petite ville",
+  "region": "Dibër",
+  "y": 41.6858,
+  "x": 20.4289,
+  "pt": "centre-ville",
+  "near": "Peshkopi",
+  "nearKm": 0,
+  "d": "Chef-lieu de la haute vallée du Drin noir, au pied des montagnes de Korab, base pour les sources thermales voisines et le massif du Korab, point culminant du pays.",
+  "v": "Le centre et son musée régional · les bains thermaux de Peshkopi · les routes vers le massif du Korab",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 9,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Cap de Rodon",
+  "alt": [
+   "Kepi i Rodonit",
+   "Château de Skanderbeg"
+  ],
+  "p": "Albanie",
+  "c": "nature",
+  "q": "Cap",
+  "region": "Durrës",
+  "y": 41.5856,
+  "x": 19.445,
+  "pt": "cap et château",
+  "near": "Durrës",
+  "nearKm": 30,
+  "d": "Pointe rocheuse s'avançant dans l'Adriatique au nord de Durrës, avec les ruines du château de Skanderbeg battues par les vagues et la petite église Saint-Antoine.",
+  "v": "Les ruines du château de Skanderbeg · la chapelle Saint-Antoine · les falaises du cap et la baie de Lalzit",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Canyons de l'Osum",
+  "alt": [
+   "Kanionet e Osumit",
+   "Osum Canyon"
+  ],
+  "p": "Albanie",
+  "c": "nature",
+  "q": "Canyon",
+  "region": "Berat (Skrapar)",
+  "y": 40.501,
+  "x": 20.232,
+  "pt": "belvédères au sud de Çorovodë",
+  "near": "Çorovodë",
+  "nearKm": 1,
+  "d": "Gorges profondes et étroites taillées par l'Osum sur une douzaine de kilomètres, que l'on admire depuis les belvédères de la route ou en rafting au printemps.",
+  "v": "Les belvédères au-dessus du canyon · le rafting au printemps · les cascades de la rive",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 12,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Château de Petrelë",
+  "alt": [
+   "Kalaja e Petrelës"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Tirana",
+  "y": 41.2533,
+  "x": 19.8547,
+  "pt": "château",
+  "near": "Tirana",
+  "nearKm": 9,
+  "d": "Petit château médiéval sur un piton rocheux au sud-est de Tirana, lié à la sœur de Skanderbeg, avec une vue étendue sur la vallée de l'Erzen.",
+  "v": "La tour et l'enceinte · le panorama sur la vallée de l'Erzen et les collines",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Kukës",
+  "alt": [
+   "Kukësi"
+  ],
+  "p": "Albanie",
+  "c": "ville",
+  "q": "Petite ville",
+  "region": "Kukës",
+  "y": 42.0769,
+  "x": 20.4219,
+  "pt": "centre-ville",
+  "near": "Kukës",
+  "nearKm": 0,
+  "d": "Ville reconstruite au bord du lac de Fierza, au confluent des deux Drin, cernée de montagnes ; étape sur la route entre Tirana et le Kosovo.",
+  "v": "Les rives du lac de Fierza · le mont Gjallica en arrière-plan · la route panoramique du Drin",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 8,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Libohovë",
+  "alt": [
+   "Libohova"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Petite ville historique",
+  "region": "Gjirokastër",
+  "y": 40.0311,
+  "x": 20.2633,
+  "pt": "centre",
+  "near": "Gjirokastër",
+  "nearKm": 12,
+  "d": "Bourg adossé au mont Bureto, dominé par la forteresse de Shanisha, sœur d'Ali Pacha, avec sa source fraîche et ses platanes face à la vallée du Drino.",
+  "v": "La forteresse d'Ali Pacha · la source et la place sous les platanes · la vue sur la vallée du Drino",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Château de Kaninë",
+  "alt": [
+   "Kalaja e Kaninës"
+  ],
+  "p": "Albanie",
+  "c": "patrimoine",
+  "q": "Forteresse",
+  "region": "Vlorë",
+  "y": 40.4417,
+  "x": 19.5164,
+  "pt": "forteresse",
+  "near": "Vlorë",
+  "nearKm": 4,
+  "d": "Forteresse médiévale perchée sur une colline au-dessus de Vlorë, d'où la vue embrasse toute la baie, l'île de Sazan et la péninsule de Karaburun.",
+  "v": "Les remparts de la forteresse · le panorama sur la baie de Vlorë et Sazan",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Sources du Drilon",
+  "alt": [
+   "Drilon"
+  ],
+  "p": "Albanie",
+  "c": "nature",
+  "q": "Sources",
+  "region": "Korçë (Pogradec)",
+  "y": 40.886,
+  "x": 20.717,
+  "pt": "parc des sources",
+  "near": "Pogradec",
+  "nearKm": 6,
+  "d": "Parc arboré autour de sources karstiques limpides alimentant le lac d'Ohrid près de Tushemisht, sillonné de canaux bordés de saules.",
+  "v": "Les sources et canaux · le village lacustre de Tushemisht · la rive sud du lac d'Ohrid",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bitola",
+  "alt": [
+   "Битола",
+   "Monastir"
+  ],
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Pélagonie",
+  "y": 41.0311,
+  "x": 21.3347,
+  "pt": "rue Širok Sokak",
+  "near": "Bitola",
+  "nearKm": 0,
+  "d": "Deuxième ville du pays, ancienne « ville des consuls » ottomane, à l'architecture néoclassique colorée au pied du mont Pelister.",
+  "v": "La rue piétonne Širok Sokak · le vieux bazar et le bezisten · la tour de l'Horloge · la mosquée Yeni",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Héraclée Lynkestis",
+  "alt": [
+   "Heraclea Lyncestis",
+   "Хераклеја"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Pélagonie (Bitola)",
+  "y": 41.0106,
+  "x": 21.3425,
+  "pt": "entrée du site",
+  "near": "Bitola",
+  "nearKm": 2,
+  "d": "Cité antique fondée par Philippe II de Macédoine, célèbre pour les mosaïques paléochrétiennes de ses basiliques, avec un théâtre romain et des thermes.",
+  "v": "Les mosaïques de la grande basilique · le théâtre romain · les thermes et le portique",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Kruševo",
+  "alt": [
+   "Крушево",
+   "Krushevo"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Ville de montagne",
+  "region": "Pélagonie",
+  "y": 41.3686,
+  "x": 21.2489,
+  "pt": "centre-ville",
+  "near": "Kruševo",
+  "nearKm": 0,
+  "d": "Bourg aux maisons blanches étagées à plus de 1 300 m, haut lieu de l'insurrection d'Ilinden de 1903 et foyer aromain, avec le monument Makedonium.",
+  "v": "Le monument Makedonium · la galerie Nikola Martinoski · les maisons traditionnelles · les belvédères sur la Pélagonie",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Treskavec",
+  "alt": [
+   "Трескавец",
+   "Treskavec"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Monastère médiéval",
+  "region": "Pélagonie (Prilep)",
+  "y": 41.4022,
+  "x": 21.5547,
+  "pt": "monastère",
+  "near": "Prilep",
+  "nearKm": 6,
+  "d": "Monastère médiéval niché dans un cirque de rochers granitiques au-dessus de Prilep, accessible par un chemin à travers des formations rocheuses étonnantes.",
+  "v": "Les fresques de l'église de la Dormition · le cirque de rochers de Zlatovrv · la vue sur la plaine de Pélagonie",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Stobi",
+  "alt": [
+   "Стоби"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Vardar (Gradsko)",
+  "y": 41.5517,
+  "x": 21.9744,
+  "pt": "entrée du site",
+  "near": "Negotino",
+  "nearKm": 12,
+  "d": "Ville antique au confluent du Vardar et de la Crna, la plus importante du pays, avec théâtre, basiliques, palais et de riches pavements de mosaïques.",
+  "v": "Le théâtre · les mosaïques des basiliques épiscopales · la Casa Romana et le palais de Théodose",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Gorge de Demir Kapija",
+  "alt": [
+   "Демир Капија",
+   "Porte de fer"
+  ],
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "q": "Gorge",
+  "region": "Vardar",
+  "y": 41.4,
+  "x": 22.26,
+  "pt": "entrée de la gorge",
+  "near": "Demir Kapija",
+  "nearKm": 2,
+  "d": "Défilé calcaire où le Vardar se fraie un passage entre de hautes parois, dans une région de vignobles ; la « porte de fer » est un site d'escalade réputé.",
+  "v": "Les parois de la gorge · les vignobles et caves de Demir Kapija · les voies d'escalade",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac de Dojran",
+  "alt": [
+   "Дојранско Езеро",
+   "Dojran"
+  ],
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "q": "Lac",
+  "region": "Sud-Est (Dojran)",
+  "y": 41.1861,
+  "x": 22.7231,
+  "pt": "Star Dojran, rive ouest",
+  "near": "Bogdanci",
+  "nearKm": 12,
+  "d": "Lac de plaine partagé avec la Grèce, aux eaux chaudes et peu profondes, connu pour sa pêche traditionnelle et ses villages de rive.",
+  "v": "La promenade de Star Dojran · la baignade · les pêcheries traditionnelles",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Kratovo",
+  "alt": [
+   "Кратово"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Petite ville historique",
+  "region": "Nord-Est",
+  "y": 42.0783,
+  "x": 22.1806,
+  "pt": "centre-ville",
+  "near": "Kratovo",
+  "nearKm": 0,
+  "d": "Ancienne ville minière bâtie dans le cratère d'un volcan éteint, enjambée par des ponts de pierre et dominée par des tours médiévales.",
+  "v": "Les ponts de pierre sur la rivière · la tour de Saat Kula · les ruelles du vieux bourg",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Kuklica",
+  "alt": [
+   "Куклица",
+   "Village des statues de pierre"
+  ],
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "q": "Formation géologique",
+  "region": "Nord-Est (Kratovo)",
+  "y": 42.095,
+  "x": 22.155,
+  "pt": "site des cheminées de fées",
+  "near": "Kratovo",
+  "nearKm": 3,
+  "d": "Ensemble de plus d'une centaine de colonnes d'érosion en tuf volcanique, surnommées « poupées de pierre » et liées à une légende de noce pétrifiée.",
+  "v": "Les cheminées de fées · le sentier entre les colonnes · le panorama sur les collines volcaniques",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Lesnovo",
+  "alt": [
+   "Лесново",
+   "Saint-Gabriel de Lesnovo"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Monastère médiéval",
+  "region": "Nord-Est (Probištip)",
+  "y": 42.0161,
+  "x": 22.2469,
+  "pt": "monastère",
+  "near": "Probištip",
+  "nearKm": 6,
+  "d": "Monastère du XIVe siècle dédié à l'archange Gabriel, sur les pentes d'un ancien volcan, dont l'église abrite un des cycles de fresques les plus riches du pays.",
+  "v": "Les fresques de l'église · l'iconostase sculptée · le village de Lesnovo",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Berovo",
+  "alt": [
+   "Берово"
+  ],
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "q": "Petite ville de montagne",
+  "region": "Est (Maleševo)",
+  "y": 41.7069,
+  "x": 22.8556,
+  "pt": "centre-ville",
+  "near": "Berovo",
+  "nearKm": 0,
+  "d": "Petite ville du plateau de Maleševo entourée de forêts de pins, connue pour son lac de barrage, son monastère et ses fromages, base pour randonner.",
+  "v": "Le lac de Berovo · le monastère de l'archange Michel · les forêts des monts Maleševo",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Štip",
+  "alt": [
+   "Штип",
+   "Shtip"
+  ],
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Est",
+  "y": 41.7456,
+  "x": 22.1958,
+  "pt": "centre-ville",
+  "near": "Štip",
+  "nearKm": 0,
+  "d": "Ville de l'est sur la Bregalnica, dominée par la forteresse d'Isar, avec un vieux quartier et plusieurs églises médiévales.",
+  "v": "La forteresse d'Isar · l'église Saint-Jean · le vieux quartier Novo Selo · le site antique d'Astibo",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 9,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Veljusa",
+  "alt": [
+   "Вељуса",
+   "Notre-Dame Eleousa"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Monastère byzantin",
+  "region": "Sud-Est (Strumica)",
+  "y": 41.4372,
+  "x": 22.58,
+  "pt": "monastère",
+  "near": "Strumica",
+  "nearKm": 5,
+  "d": "Monastère byzantin du XIe siècle dédié à la Vierge de Tendresse, à l'église à quatre coupoles et aux fresques et sols de marbre d'origine.",
+  "v": "L'église à coupoles · les fresques du XIe siècle · le monastère voisin de Vodoča",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère Saint-Jean-Bigorski",
+  "alt": [
+   "Свети Јован Бигорски",
+   "Bigorski"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Polog (Mavrovo-Rostuše)",
+  "y": 41.6183,
+  "x": 20.605,
+  "pt": "monastère",
+  "near": "Debar",
+  "nearKm": 12,
+  "d": "Monastère orthodoxe du XIe siècle reconstruit au XVIIIe dans la vallée de la Radika, célèbre pour son iconostase en bois sculpté d'une finesse exceptionnelle.",
+  "v": "L'iconostase sculptée · les bâtiments monastiques en bois · la gorge de la Radika",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Église Saint-Nicolas de Mavrovo",
+  "alt": [
+   "Свети Никола",
+   "Église engloutie de Mavrovo"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Église semi-immergée",
+  "region": "Polog (Mavrovo)",
+  "y": 41.6914,
+  "x": 20.7444,
+  "pt": "église",
+  "near": "Gostivar",
+  "nearKm": 18,
+  "d": "Église du XIXe siècle partiellement engloutie par le lac de barrage de Mavrovo, dont le clocher émerge ou se découvre selon le niveau de l'eau.",
+  "v": "L'église au bord du lac · la rive du lac de Mavrovo · le village de Mavrovo",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Debar",
+  "alt": [
+   "Дебар",
+   "Dibra"
+  ],
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "q": "Petite ville",
+  "region": "Sud-Ouest",
+  "y": 41.525,
+  "x": 20.5272,
+  "pt": "centre-ville",
+  "near": "Debar",
+  "nearKm": 0,
+  "d": "Ville frontalière au-dessus du lac de Debar, carrefour albanais et macédonien, avec sources thermales et accès à la vallée de la Radika.",
+  "v": "Le centre et ses mosquées · le lac de Debar · les bains de Kosovrasti",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 8,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Mosquée Peinte de Tetovo",
+  "alt": [
+   "Шарена џамија",
+   "Šarena Džamija"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Mosquée",
+  "region": "Polog (Tetovo)",
+  "y": 42.008,
+  "x": 20.969,
+  "pt": "mosquée",
+  "near": "Tetovo",
+  "nearKm": 0,
+  "d": "Mosquée du XVe siècle reconstruite au XIXe, entièrement couverte à l'intérieur comme à l'extérieur de motifs floraux et géométriques peints.",
+  "v": "Les façades peintes · le décor intérieur · le tekké bektachi d'Arabati Baba tout proche",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Église Saint-Georges de Staro Nagoričane",
+  "alt": [
+   "Свети Ѓорѓи",
+   "Staro Nagoričane"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Église médiévale",
+  "region": "Nord-Est (Kumanovo)",
+  "y": 42.1981,
+  "x": 21.8303,
+  "pt": "église",
+  "near": "Kumanovo",
+  "nearKm": 12,
+  "d": "Église du début du XIVe siècle commandée par le roi serbe Milutin, aux fresques signées des peintres Michel et Eutychios.",
+  "v": "Les fresques de Michel et Eutychios · l'architecture à cinq coupoles",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Monastère Saint-Joachim d'Osogovo",
+  "alt": [
+   "Осоговски манастир",
+   "Osogovo"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Nord-Est (Kriva Palanka)",
+  "y": 42.2097,
+  "x": 22.2933,
+  "pt": "monastère",
+  "near": "Kriva Palanka",
+  "nearKm": 3,
+  "d": "Grand monastère sur un promontoire boisé des monts Osogovo, dont l'église principale à douze coupoles du XIXe siècle domine la vallée.",
+  "v": "L'église Saint-Joachim · la petite église ancienne de la Vierge · la vue sur les monts Osogovo",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère Saint-Pantéléimon de Nerezi",
+  "alt": [
+   "Свети Пантелејмон",
+   "Nerezi"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Église byzantine",
+  "region": "Skopje",
+  "y": 41.9806,
+  "x": 21.3794,
+  "pt": "église",
+  "near": "Skopje",
+  "nearKm": 5,
+  "d": "Église byzantine de 1164 sur les pentes du Vodno, dont les fresques comme la Déploration du Christ sont un jalon de l'art byzantin.",
+  "v": "Les fresques de la Déploration · la vue sur Skopje · le mont Vodno au-dessus",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère Saint-Naum",
+  "alt": [
+   "Свети Наум",
+   "Sveti Naum"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Monastère",
+  "region": "Sud-Ouest (Ohrid)",
+  "y": 40.9139,
+  "x": 20.7403,
+  "pt": "monastère",
+  "near": "Ohrid",
+  "nearKm": 23,
+  "d": "Monastère fondé au Xe siècle par saint Naoum à la pointe sud du lac d'Ohrid, près des sources limpides du Drin noir, que l'on parcourt en barque.",
+  "v": "L'église et le tombeau de saint Naoum · les sources du Drin noir en barque · les paons du monastère",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 1,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Baie des Ossements",
+  "alt": [
+   "Залив на коските",
+   "Bay of Bones"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Musée sur pilotis",
+  "region": "Sud-Ouest (Ohrid)",
+  "y": 41.0239,
+  "x": 20.8161,
+  "pt": "village sur pilotis",
+  "near": "Ohrid",
+  "nearKm": 10,
+  "d": "Reconstitution d'un village préhistorique sur pilotis au-dessus du lac d'Ohrid, à côté du site romain fortifié de Gradište.",
+  "v": "Le village sur pilotis · la forteresse de Gradište · la plage voisine de Gradište",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": true,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Struga",
+  "alt": [
+   "Струга"
+  ],
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "q": "Ville lacustre",
+  "region": "Sud-Ouest",
+  "y": 41.1775,
+  "x": 20.6781,
+  "pt": "centre-ville",
+  "near": "Struga",
+  "nearKm": 0,
+  "d": "Ville au bord du lac d'Ohrid à la sortie du Drin noir, connue pour ses Soirées poétiques et ses quais le long de la rivière.",
+  "v": "Les quais du Drin noir · la plage du lac · l'église Saint-Georges",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 10,
+   "sing": 7,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Vevčani",
+  "alt": [
+   "Вевчани"
+  ],
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Sud-Ouest (Struga)",
+  "y": 41.2403,
+  "x": 20.5931,
+  "pt": "sources de Vevčani",
+  "near": "Struga",
+  "nearKm": 10,
+  "d": "Village de montagne aux maisons traditionnelles au-dessus de Struga, réputé pour ses sources karstiques aménagées et son carnaval d'hiver.",
+  "v": "Les sources de Vevčani · les ruelles et maisons anciennes · la vue sur le lac d'Ohrid",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Trpejca",
+  "alt": [
+   "Трпејца"
+  ],
+  "p": "Mac. du Nord",
+  "c": "plage",
+  "q": "Village de pêcheurs",
+  "region": "Sud-Ouest (Ohrid)",
+  "y": 40.9561,
+  "x": 20.7817,
+  "pt": "centre du village",
+  "near": "Ohrid",
+  "nearKm": 18,
+  "d": "Ancien village de pêcheurs au bord du lac d'Ohrid, au pied du Galičica, avec ses criques de galets aux eaux transparentes.",
+  "v": "Les plages et criques du village · la route côtière du lac vers Saint-Naum · la grotte de Saint-Stéphane voisine",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": true,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Veles",
+  "alt": [
+   "Велес"
+  ],
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Vardar",
+  "y": 41.7156,
+  "x": 21.7753,
+  "pt": "centre-ville",
+  "near": "Veles",
+  "nearKm": 0,
+  "d": "Ville étagée sur les deux rives du Vardar, avec un vieux quartier ottoman aux maisons à encorbellement et l'église Saint-Pantéléimon.",
+  "v": "Le vieux quartier et ses maisons · l'église Saint-Pantéléimon · la promenade sur le Vardar",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 8,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Popova Šapka",
+  "alt": [
+   "Попова Шапка"
+  ],
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "q": "Station de montagne",
+  "region": "Polog (Tetovo)",
+  "y": 42.0117,
+  "x": 20.8833,
+  "pt": "station",
+  "near": "Tetovo",
+  "nearKm": 8,
+  "d": "Station de montagne du Šar Planina au-dessus de Tetovo, accessible par une route en lacets, base de ski et de randonnée vers les sommets.",
+  "v": "La route d'accès et ses vues sur la plaine de Polog · les randonnées vers le Titov Vrv",
+  "s": "juin-sept, déc-mars",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Budva",
+  "alt": [
+   "Будва"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Vieille ville fortifiée",
+  "region": "Budva",
+  "y": 42.2781,
+  "x": 18.8378,
+  "pt": "vieille ville",
+  "near": "Budva",
+  "nearKm": 0,
+  "d": "Station la plus fréquentée du littoral, dont la vieille ville fortifiée vénitienne occupe une presqu'île entre plusieurs plages.",
+  "v": "La citadelle et les remparts · les églises de la vieille ville · la plage de Mogren · la promenade du port",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Cetinje",
+  "alt": [
+   "Цетиње"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Ancienne capitale royale",
+  "region": "Cetinje",
+  "y": 42.3906,
+  "x": 18.9142,
+  "pt": "centre-ville",
+  "near": "Cetinje",
+  "nearKm": 0,
+  "d": "Ancienne capitale royale au pied du Lovćen, avec son monastère, le palais du roi Nicolas et les anciennes ambassades étrangères.",
+  "v": "Le monastère de Cetinje · le palais du roi Nicolas · la maquette en relief du Monténégro · le Biljarda",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Herceg Novi",
+  "alt": [
+   "Херцег Нови"
+  ],
+  "p": "Monténégro",
+  "c": "ville",
+  "q": "Ville côtière",
+  "region": "Herceg Novi",
+  "y": 42.4531,
+  "x": 18.5375,
+  "pt": "vieille ville",
+  "near": "Herceg Novi",
+  "nearKm": 0,
+  "d": "Ville en escaliers à l'entrée des Bouches de Kotor, aux forteresses successives ottomane, vénitienne et espagnole, et aux jardins fleuris.",
+  "v": "La forteresse Kanli Kula · la tour de l'Horloge · la promenade Pet Danica · le monastère de Savina",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Perast",
+  "alt": [
+   "Пераст"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Kotor",
+  "y": 42.4867,
+  "x": 18.6983,
+  "pt": "centre du village",
+  "near": "Kotor",
+  "nearKm": 9,
+  "d": "Petite ville baroque aux palais d'armateurs le long des Bouches de Kotor, face aux îlots de Saint-Georges et de Notre-Dame-du-Rocher.",
+  "v": "L'îlot de Notre-Dame-du-Rocher · le clocher de Saint-Nicolas · les palais baroques du front de mer",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 1,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 19,
+   "van": 11,
+   "sing": 14,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Canyon de la Tara",
+  "alt": [
+   "Kanjon Tare",
+   "Pont de Đurđevića Tara"
+  ],
+  "p": "Monténégro",
+  "c": "nature",
+  "q": "Canyon",
+  "region": "Žabljak / Pljevlja",
+  "y": 43.15,
+  "x": 19.295,
+  "pt": "pont de Đurđevića Tara",
+  "near": "Pljevlja",
+  "nearKm": 24,
+  "d": "Le plus profond canyon d'Europe, franchi par l'élégant pont en arc de Đurđevića Tara ; la rivière turquoise se descend en rafting.",
+  "v": "Le pont de Đurđevića Tara · la descente en rafting · les belvédères sur le canyon",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 1,
+  "unesco": true,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 19,
+   "van": 14,
+   "sing": 14,
+   "val": 15,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac et canyon de la Piva",
+  "alt": [
+   "Pivsko jezero",
+   "Plužine"
+  ],
+  "p": "Monténégro",
+  "c": "nature",
+  "q": "Lac de barrage",
+  "region": "Plužine",
+  "y": 43.1528,
+  "x": 18.8392,
+  "pt": "village de Plužine",
+  "near": "Plužine",
+  "nearKm": 0,
+  "d": "Lac de barrage vert émeraude encaissé dans le canyon de la Piva, longé par une route creusée de dizaines de tunnels bruts dans la roche.",
+  "v": "La route des tunnels le long du lac · le monastère de Piva · le belvédère sur le barrage de Mratinje",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 14,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col de Sedlo",
+  "alt": [
+   "Sedlo",
+   "Route panoramique du Durmitor"
+  ],
+  "p": "Monténégro",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Žabljak",
+  "y": 43.1069,
+  "x": 19.0569,
+  "pt": "col",
+  "near": "Žabljak",
+  "nearKm": 11,
+  "d": "Col à près de 1 900 m sur la route panoramique du Durmitor, entre falaises, plateaux d'altitude et plis rocheux spectaculaires.",
+  "v": "Les plis rocheux de Prutaš · la boucle routière du Durmitor · les pâturages d'altitude",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": true,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 14,
+   "sing": 13,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Plav",
+  "alt": [
+   "Плав",
+   "Lac de Plav"
+  ],
+  "p": "Monténégro",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Plav",
+  "y": 42.592,
+  "x": 19.933,
+  "pt": "rive nord du lac",
+  "near": "Plav",
+  "nearKm": 1,
+  "d": "Lac glaciaire au pied des Prokletije, bordé par la petite ville de Plav aux tours fortifiées (kula) et aux mosquées ottomanes.",
+  "v": "Le lac de Plav · la kula de Redžepagić · la mosquée Sultanija · les vallées vers Gusinje",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Sources d'Ali Pacha",
+  "alt": [
+   "Alipašini izvori",
+   "Gusinje"
+  ],
+  "p": "Monténégro",
+  "c": "nature",
+  "q": "Sources karstiques",
+  "region": "Gusinje",
+  "y": 42.5531,
+  "x": 19.8158,
+  "pt": "sources",
+  "near": "Plav",
+  "nearKm": 12,
+  "d": "Ensemble de sources karstiques jaillissant au pied des Prokletije près de Gusinje, formant des bassins aux eaux claires sous les forêts.",
+  "v": "Les sources et bassins · la vallée de Grbaja et Vusanje voisines",
+  "s": "mai-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Kolašin",
+  "alt": [
+   "Колашин"
+  ],
+  "p": "Monténégro",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Kolašin",
+  "y": 42.8225,
+  "x": 19.5186,
+  "pt": "centre-ville",
+  "near": "Kolašin",
+  "nearKm": 0,
+  "d": "Petite station de montagne entre les massifs de Bjelasica et Sinjajevina, base pour la forêt de Biogradska gora et le canyon de la Morača.",
+  "v": "La station de ski de Kolašin 1450 · les randonnées sur la Bjelasica · le lac de Biograd à proximité",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 11,
+   "sing": 7,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pljevlja",
+  "alt": [
+   "Пљевља"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Ville historique",
+  "region": "Pljevlja",
+  "y": 43.3567,
+  "x": 19.3583,
+  "pt": "centre-ville",
+  "near": "Pljevlja",
+  "nearKm": 0,
+  "d": "Ville du nord dont la mosquée Husein-paša du XVIe siècle compte parmi les plus beaux édifices ottomans du pays, et dont le monastère de la Sainte-Trinité garde de riches manuscrits.",
+  "v": "La mosquée Husein-paša · le monastère de la Sainte-Trinité · le musée régional",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Morača",
+  "alt": [
+   "Манастир Морача",
+   "Morača"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Kolašin",
+  "y": 42.7664,
+  "x": 19.39,
+  "pt": "monastère",
+  "near": "Kolašin",
+  "nearKm": 12,
+  "d": "Monastère serbe orthodoxe de 1252 dans la vallée de la Morača, dont l'église abrite des fresques des XIIIe et XVIIe siècles.",
+  "v": "Les fresques de l'église de la Dormition · la cascade voisine du Svetigora · le canyon de la Morača",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Stari Bar",
+  "alt": [
+   "Стари Бар",
+   "Vieux Bar"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Ville en ruines",
+  "region": "Bar",
+  "y": 42.0933,
+  "x": 19.1364,
+  "pt": "vieille ville",
+  "near": "Bar",
+  "nearKm": 4,
+  "d": "Ville médiévale fortifiée abandonnée au pied du mont Rumija, dont les remparts, églises et hammam ruinés couvrent une colline entière.",
+  "v": "Les remparts et la citadelle · les ruines de la cathédrale Saint-Georges · l'olivier millénaire de Mirovica",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Velika plaža",
+  "alt": [
+   "Велика плажа",
+   "Grande Plage d'Ulcinj",
+   "Ada Bojana"
+  ],
+  "p": "Monténégro",
+  "c": "plage",
+  "q": "Plage",
+  "region": "Ulcinj",
+  "y": 41.885,
+  "x": 19.3,
+  "pt": "centre de la plage",
+  "near": "Ulcinj",
+  "nearKm": 8,
+  "d": "Plage de sable de plus de dix kilomètres au sud d'Ulcinj, jusqu'à l'île fluviale d'Ada Bojana à l'embouchure de la Bojana.",
+  "v": "La plage de sable · l'île d'Ada Bojana · les restaurants de pêcheurs sur pilotis de la Bojana",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rijeka Crnojevića",
+  "alt": [
+   "Ријека Црнојевића"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Cetinje",
+  "y": 42.3558,
+  "x": 19.0228,
+  "pt": "pont",
+  "near": "Cetinje",
+  "nearKm": 10,
+  "d": "Village sur une rivière méandreuse affluent du lac de Skadar, avec un vieux pont de pierre ; le belvédère de Pavlova Strana domine la boucle.",
+  "v": "Le vieux pont de Danilo · le belvédère de Pavlova Strana · les balades en bateau vers le lac",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Doclea",
+  "alt": [
+   "Duklja",
+   "Dioclea"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Podgorica",
+  "y": 42.4683,
+  "x": 19.2678,
+  "pt": "ruines",
+  "near": "Podgorica",
+  "nearKm": 4,
+  "d": "Ruines de la cité romaine qui a donné son nom à la principauté médiévale de Dioclée, au confluent de la Zeta et de la Morača.",
+  "v": "Le forum et la basilique · les thermes · les nécropoles",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Đurđevi Stupovi",
+  "alt": [
+   "Ђурђеви Ступови"
+  ],
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "q": "Monastère médiéval",
+  "region": "Berane",
+  "y": 42.8556,
+  "x": 19.8611,
+  "pt": "monastère",
+  "near": "Berane",
+  "nearKm": 2,
+  "d": "Monastère de 1213 fondé par le prince Stefan Prvoslav au-dessus de Berane, l'un des plus anciens monuments médiévaux du nord du pays.",
+  "v": "L'église Saint-Georges · les fresques · la vue sur la vallée du Lim",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Petrovac na Moru",
+  "alt": [
+   "Петровац",
+   "Petrovac"
+  ],
+  "p": "Monténégro",
+  "c": "plage",
+  "q": "Village côtier",
+  "region": "Budva",
+  "y": 42.2056,
+  "x": 18.9425,
+  "pt": "front de mer",
+  "near": "Budva",
+  "nearKm": 15,
+  "d": "Petite station balnéaire au fond d'une baie bordée de pins, avec une forteresse vénitienne et les îlots de Katič et Sveta Nedjelja au large.",
+  "v": "La forteresse Kastio · la plage de Lučice · la promenade du front de mer",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Grotte de Lipa",
+  "alt": [
+   "Lipska pećina"
+  ],
+  "p": "Monténégro",
+  "c": "nature",
+  "q": "Grotte",
+  "region": "Cetinje",
+  "y": 42.3861,
+  "x": 18.9472,
+  "pt": "entrée de la grotte",
+  "near": "Cetinje",
+  "nearKm": 3,
+  "d": "Grotte aménagée près de Cetinje, réseau de galeries et de salles ornées de concrétions, parmi les plus grandes du pays.",
+  "v": "Les salles de concrétions · la visite guidée des galeries",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Serpentine de Kotor",
+  "alt": [
+   "Kotorske serpentine",
+   "Route Kotor–Lovćen"
+  ],
+  "p": "Monténégro",
+  "c": "nature",
+  "q": "Route panoramique",
+  "region": "Kotor",
+  "y": 42.413,
+  "x": 18.786,
+  "pt": "lacets au-dessus de Kotor",
+  "near": "Kotor",
+  "nearKm": 2,
+  "d": "Route ancienne de vingt-cinq lacets montant de Kotor vers le Lovćen, offrant l'une des plus célèbres vues plongeantes sur les Bouches de Kotor.",
+  "v": "Les belvédères des lacets sur la baie · le village de Njeguši et son jambon fumé",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 16,
+   "van": 14,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ }
+]

@@ -11,8 +11,8 @@ svg#map.addmode{cursor:crosshair}
 .plabel{font-family:var(--font-body);font-weight:600;fill:var(--map-label);letter-spacing:.16em;text-anchor:middle;pointer-events:none;text-transform:uppercase}
 
 /* Un lieu = une forme par catégorie (disque, losange, triangles, carré, croix, étoile, anneau) : la couleur n'est pas le seul repère. */
-/* L'épaisseur du contour est posée par la carte (map.js), dans l'unité du marqueur : elle reste constante à l'écran
-   sans « non-scaling-stroke », qui obligeait le navigateur à recalculer 1 600 contours à chaque image d'un zoom. */
+/* L'épaisseur du contour est posée par la carte (map.js), en unités de carte : elle reste constante à l'écran
+   sans « non-scaling-stroke », qui obligeait le navigateur à recalculer tous les contours à chaque image d'un zoom. */
 .poi{fill:var(--cat-perso);stroke:var(--map-halo);stroke-opacity:.95;stroke-linejoin:round}
 .poi.ville{fill:var(--cat-ville)}.poi.patrimoine{fill:var(--cat-patrimoine)}.poi.nature{fill:var(--cat-nature)}
 .poi.plage{fill:var(--cat-plage)}.poi.base{fill:var(--cat-base)}.poi.boulot{fill:var(--cat-boulot)}
@@ -24,6 +24,10 @@ svg#map.addmode{cursor:crosshair}
 .poi.hov{stroke:var(--text)}
 .poi.fav{stroke:var(--cat-patrimoine);stroke-opacity:1}
 .poi.sel{stroke:var(--text);stroke-opacity:1}
+/* Pendant un glissement ou un zoom continu (pincement, molette), les marqueurs ordinaires perdent leur liseré clair : avec 3 400 lieux, il double
+   le travail de dessin de chaque image. Formes et couleurs restent ; le lieu choisi et les favoris gardent leur contour.
+   Le liseré revient dès que le geste se termine. */
+#map.drag .poi:not(.sel):not(.fav),#map.zooming .poi:not(.sel):not(.fav){stroke:none}
 /* Textes de la carte en précision géométrique : ils suivent le zoom sans être recomposés à chaque image. */
 #map text{text-rendering:geometricPrecision}
 .lbl{font-family:var(--font-body);font-weight:600;fill:var(--text);paint-order:stroke;stroke:var(--map-halo);stroke-linejoin:round}

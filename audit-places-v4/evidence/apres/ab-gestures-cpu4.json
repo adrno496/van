@@ -1,0 +1,397 @@
+{
+  "generatedAt": "2026-10-04T12:20:00.386Z",
+  "runs": 5,
+  "cpu": 4,
+  "viewport": "390x844",
+  "load1": 1.89,
+  "variants": [
+    {
+      "name": "avant",
+      "median": {
+        "panOverview": {
+          "median": 58,
+          "p90": 75.4,
+          "over33": 88,
+          "taskPerFrame": 59.5,
+          "layoutPerFrame": 7.9,
+          "stylePerFrame": 1.1,
+          "scriptPerFrame": 1.5
+        },
+        "panClose": {
+          "median": 56.3,
+          "p90": 70.6,
+          "over33": 88,
+          "taskPerFrame": 58.7,
+          "layoutPerFrame": 8.8,
+          "stylePerFrame": 1.2,
+          "scriptPerFrame": 1.7
+        },
+        "pinch": {
+          "median": 62.8,
+          "p90": 79.7,
+          "over33": 60,
+          "taskPerFrame": 67.9,
+          "layoutPerFrame": 12.5,
+          "stylePerFrame": 1.9,
+          "scriptPerFrame": 2.4
+        }
+      },
+      "samples": [
+        {
+          "panOverview": {
+            "median": 62.10000000055879,
+            "p90": 79.5,
+            "over33": 88,
+            "n": 90,
+            "taskPerFrame": 62.08903333333333,
+            "layoutPerFrame": 9.12661111111111,
+            "stylePerFrame": 1.1087777777777776,
+            "scriptPerFrame": 1.4627555555555563
+          },
+          "pinch": {
+            "median": 60.89999999944121,
+            "p90": 79.69999999925494,
+            "over33": 59,
+            "n": 60,
+            "taskPerFrame": 65.65061666666666,
+            "layoutPerFrame": 12.3695,
+            "stylePerFrame": 1.9189666666666665,
+            "scriptPerFrame": 2.379700000000001
+          },
+          "panClose": {
+            "median": 53.5,
+            "p90": 70.59999999962747,
+            "over33": 88,
+            "n": 90,
+            "taskPerFrame": 58.61462222222222,
+            "layoutPerFrame": 8.738566666666665,
+            "stylePerFrame": 0.9766444444444448,
+            "scriptPerFrame": 1.3061999999999994
+          }
+        },
+        {
+          "panOverview": {
+            "median": 54,
+            "p90": 65,
+            "over33": 88,
+            "n": 90,
+            "taskPerFrame": 54.51948888888888,
+            "layoutPerFrame": 7.382888888888889,
+            "stylePerFrame": 1.0542111111111114,
+            "scriptPerFrame": 1.3514777777777778
+          },
+          "pinch": {
+            "median": 63.5,
+            "p90": 83.6000000005588,
+            "over33": 60,
+            "n": 60,
+            "taskPerFrame": 69.5084,
+            "layoutPerFrame": 11.696750000000002,
+            "stylePerFrame": 1.9384999999999997,
+            "scriptPerFrame": 3.466850000000001
+          },
+          "panClose": {
+            "median": 57.200000000186265,
+            "p90": 66.20000000018626,
+            "over33": 85,
+            "n": 90,
+            "taskPerFrame": 57.21028888888888,
+            "layoutPerFrame": 8.449222222222224,
+            "stylePerFrame": 1.263411111111112,
+            "scriptPerFrame": 1.8326111111111105
+          }
+        },
+        {
+          "panOverview": {
+            "median": 60,
+            "p90": 79.90000000037253,
+            "over33": 90,
+            "n": 90,
+            "taskPerFrame": 62.12350000000001,
+            "layoutPerFrame": 7.77151111111111,
+            "stylePerFrame": 1.1634888888888888,
+            "scriptPerFrame": 1.3495
+          },
+          "pinch": {
+            "median": 61.200000000186265,
+            "p90": 78.70000000018626,
+            "over33": 60,
+            "n": 60,
+            "taskPerFrame": 64.97013333333335,
+            "layoutPerFrame": 12.649966666666666,
+            "stylePerFrame": 2.412066666666667,
+            "scriptPerFrame": 2.257700000000001
+          },
+          "panClose": {
+            "median": 56.5,
+            "p90": 78.29999999981374,
+            "over33": 90,
+            "n": 90,
+            "taskPerFrame": 63.27367777777777,
+            "layoutPerFrame": 8.947233333333333,
+            "stylePerFrame": 1.179022222222222,
+            "scriptPerFrame": 1.7459333333333331
+          }
+        },
+        {
+          "panOverview": {
+            "median": 58,
+            "p90": 75.3999999994412,
+            "over33": 88,
+            "n": 90,
+            "taskPerFrame": 59.488644444444446,
+            "layoutPerFrame": 7.968088888888889,
+            "stylePerFrame": 1.1006999999999998,
+            "scriptPerFrame": 1.4584333333333328
+          },
+          "pinch": {
+            "median": 66.79999999981374,
+            "p90": 83.6000000005588,
+            "over33": 59,
+            "n": 60,
+            "taskPerFrame": 72.18216666666666,
+            "layoutPerFrame": 12.476166666666666,
+            "stylePerFrame": 1.892783333333334,
+            "scriptPerFrame": 2.882133333333333
+          },
+          "panClose": {
+            "median": 54.90000000037253,
+            "p90": 80.3999999994412,
+            "over33": 87,
+            "n": 90,
+            "taskPerFrame": 58.718677777777785,
+            "layoutPerFrame": 9.323822222222221,
+            "stylePerFrame": 1.9665555555555547,
+            "scriptPerFrame": 1.8130999999999997
+          }
+        },
+        {
+          "panOverview": {
+            "median": 57.40000000037253,
+            "p90": 69.30000000074506,
+            "over33": 88,
+            "n": 90,
+            "taskPerFrame": 57.896077777777776,
+            "layoutPerFrame": 7.898777777777777,
+            "stylePerFrame": 1.0356444444444446,
+            "scriptPerFrame": 1.6553666666666664
+          },
+          "pinch": {
+            "median": 62.799999999813735,
+            "p90": 75.79999999981374,
+            "over33": 60,
+            "n": 60,
+            "taskPerFrame": 67.92098333333334,
+            "layoutPerFrame": 12.750366666666668,
+            "stylePerFrame": 1.9623499999999998,
+            "scriptPerFrame": 2.245283333333333
+          },
+          "panClose": {
+            "median": 56.299999999813735,
+            "p90": 69.90000000037253,
+            "over33": 90,
+            "n": 90,
+            "taskPerFrame": 61.07705555555556,
+            "layoutPerFrame": 8.827244444444442,
+            "stylePerFrame": 1.0463999999999998,
+            "scriptPerFrame": 1.715033333333334
+          }
+        }
+      ]
+    },
+    {
+      "name": "apres",
+      "median": {
+        "panOverview": {
+          "median": 46,
+          "p90": 59.6,
+          "over33": 82,
+          "taskPerFrame": 49.1,
+          "layoutPerFrame": 9.4,
+          "stylePerFrame": 2,
+          "scriptPerFrame": 1.8
+        },
+        "panClose": {
+          "median": 41,
+          "p90": 52.3,
+          "over33": 83,
+          "taskPerFrame": 44.5,
+          "layoutPerFrame": 9.7,
+          "stylePerFrame": 2,
+          "scriptPerFrame": 1.6
+        },
+        "pinch": {
+          "median": 48.2,
+          "p90": 64.3,
+          "over33": 59,
+          "taskPerFrame": 57.8,
+          "layoutPerFrame": 14.2,
+          "stylePerFrame": 4.6,
+          "scriptPerFrame": 3.6
+        }
+      },
+      "samples": [
+        {
+          "panOverview": {
+            "median": 41.59999999962747,
+            "p90": 55.90000000037253,
+            "over33": 79,
+            "n": 90,
+            "taskPerFrame": 46.234855555555555,
+            "layoutPerFrame": 8.410211111111112,
+            "stylePerFrame": 2.1348333333333334,
+            "scriptPerFrame": 1.576488888888889
+          },
+          "pinch": {
+            "median": 47.09999999962747,
+            "p90": 64.29999999981374,
+            "over33": 59,
+            "n": 60,
+            "taskPerFrame": 57.82553333333333,
+            "layoutPerFrame": 14.188516666666667,
+            "stylePerFrame": 5.569366666666666,
+            "scriptPerFrame": 3.01895
+          },
+          "panClose": {
+            "median": 41.200000000186265,
+            "p90": 51.59999999962747,
+            "over33": 83,
+            "n": 90,
+            "taskPerFrame": 45.47927777777778,
+            "layoutPerFrame": 9.814744444444447,
+            "stylePerFrame": 1.8817555555555556,
+            "scriptPerFrame": 1.543788888888891
+          }
+        },
+        {
+          "panOverview": {
+            "median": 47.40000000037253,
+            "p90": 61.799999999813735,
+            "over33": 83,
+            "n": 90,
+            "taskPerFrame": 50.288711111111105,
+            "layoutPerFrame": 9.755700000000001,
+            "stylePerFrame": 2.0447111111111114,
+            "scriptPerFrame": 1.7750555555555552
+          },
+          "pinch": {
+            "median": 46.5,
+            "p90": 61.299999999813735,
+            "over33": 55,
+            "n": 60,
+            "taskPerFrame": 54.744716666666676,
+            "layoutPerFrame": 12.845533333333332,
+            "stylePerFrame": 4.4189333333333325,
+            "scriptPerFrame": 3.187416666666665
+          },
+          "panClose": {
+            "median": 41,
+            "p90": 52,
+            "over33": 79,
+            "n": 90,
+            "taskPerFrame": 43.93125555555556,
+            "layoutPerFrame": 9.346555555555554,
+            "stylePerFrame": 2.549266666666667,
+            "scriptPerFrame": 1.5994555555555547
+          }
+        },
+        {
+          "panOverview": {
+            "median": 49.299999999813735,
+            "p90": 62.09999999962747,
+            "over33": 82,
+            "n": 90,
+            "taskPerFrame": 50.498755555555555,
+            "layoutPerFrame": 9.965977777777779,
+            "stylePerFrame": 1.603788888888889,
+            "scriptPerFrame": 1.8526111111111119
+          },
+          "pinch": {
+            "median": 48.200000000186265,
+            "p90": 61.90000000037253,
+            "over33": 59,
+            "n": 60,
+            "taskPerFrame": 57.328949999999985,
+            "layoutPerFrame": 13.703533333333333,
+            "stylePerFrame": 4.640699999999999,
+            "scriptPerFrame": 3.886733333333333
+          },
+          "panClose": {
+            "median": 41.80000000074506,
+            "p90": 52.700000000186265,
+            "over33": 84,
+            "n": 90,
+            "taskPerFrame": 45.83644444444444,
+            "layoutPerFrame": 10.194622222222222,
+            "stylePerFrame": 1.9834999999999985,
+            "scriptPerFrame": 1.7203666666666666
+          }
+        },
+        {
+          "panOverview": {
+            "median": 46,
+            "p90": 55.60000000055879,
+            "over33": 86,
+            "n": 90,
+            "taskPerFrame": 48.49929999999999,
+            "layoutPerFrame": 9.395622222222224,
+            "stylePerFrame": 1.5928777777777778,
+            "scriptPerFrame": 1.8709333333333344
+          },
+          "pinch": {
+            "median": 55.799999999813735,
+            "p90": 73.5,
+            "over33": 58,
+            "n": 60,
+            "taskPerFrame": 62.04241666666667,
+            "layoutPerFrame": 15.277333333333331,
+            "stylePerFrame": 4.716233333333333,
+            "scriptPerFrame": 3.7829166666666656
+          },
+          "panClose": {
+            "median": 41,
+            "p90": 52.299999999813735,
+            "over33": 84,
+            "n": 90,
+            "taskPerFrame": 44.493766666666666,
+            "layoutPerFrame": 9.6546,
+            "stylePerFrame": 1.9617333333333338,
+            "scriptPerFrame": 1.5091777777777777
+          }
+        },
+        {
+          "panOverview": {
+            "median": 46,
+            "p90": 59.60000000055879,
+            "over33": 80,
+            "n": 90,
+            "taskPerFrame": 49.07635555555555,
+            "layoutPerFrame": 9.029966666666667,
+            "stylePerFrame": 2.1058888888888885,
+            "scriptPerFrame": 1.7534555555555547
+          },
+          "pinch": {
+            "median": 51.59999999962747,
+            "p90": 73.40000000037253,
+            "over33": 60,
+            "n": 60,
+            "taskPerFrame": 61.95623333333334,
+            "layoutPerFrame": 15.895399999999999,
+            "stylePerFrame": 4.498400000000001,
+            "scriptPerFrame": 3.620349999999998
+          },
+          "panClose": {
+            "median": 39.39999999944121,
+            "p90": 55.40000000037253,
+            "over33": 80,
+            "n": 90,
+            "taskPerFrame": 43.4451111111111,
+            "layoutPerFrame": 9.0474,
+            "stylePerFrame": 1.9897333333333322,
+            "scriptPerFrame": 1.5994000000000015
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "file": "/tmp/claude-0/-home-user-van/95c70645-2663-5e28-9de4-242abdde10ce/scratchpad/base5/index.html",
+  "generatedAt": "2026-10-04T12:42:24.904Z",
+  "results": [
+    {
+      "engine": "chromium",
+      "mode": "serveur",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "141.0.7390.37"
+    },
+    {
+      "engine": "firefox",
+      "mode": "serveur",
+      "status": "NON TESTÉ",
+      "steps": [
+        "lancement impossible : browserType.launch: Executable doesn't exist at /opt/pw-browsers/firefox-1495/firefox/firefox"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "mode": "serveur",
+      "status": "NON TESTÉ",
+      "steps": [
+        "lancement impossible : browserType.launch: Executable doesn't exist at /opt/pw-browsers/webkit-2215/pw_run.sh"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "chromium",
+      "mode": "fichier",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "141.0.7390.37"
+    },
+    {
+      "engine": "firefox",
+      "mode": "fichier",
+      "status": "NON TESTÉ",
+      "steps": [
+        "lancement impossible : browserType.launch: Executable doesn't exist at /opt/pw-browsers/firefox-1495/firefox/firefox"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "mode": "fichier",
+      "status": "NON TESTÉ",
+      "steps": [
+        "lancement impossible : browserType.launch: Executable doesn't exist at /opt/pw-browsers/webkit-2215/pw_run.sh"
+      ],
+      "errors": []
+    }
+  ]
+}
