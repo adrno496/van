@@ -4,7 +4,7 @@
 // sur la baseline et sur la version refondue. Un test ne passe que si l'effet attendu est observé.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, loadPlaywright, serve, openApp, writeJson } from './lib/harness.mjs';
+import { shippedCatalogue, ROOT, loadPlaywright, serve, openApp, writeJson } from './lib/harness.mjs';
 
 const args = process.argv.slice(2);
 const opt = (f, d) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : d; };
@@ -12,9 +12,15 @@ const dir = path.resolve(opt('--dir', ROOT));
 const out = path.resolve(opt('--out', 'test-results/e2e.json'));
 const only = opt('--only', null)?.split(',');
 const label = opt('--label', path.basename(dir));
-// Ce qui dépend du catalogue livré. La version publique n'a pas les 5 bases personnelles : 1 595 lieux, premier identifiant 3,
-// premier parcours de 45 étapes. Les mêmes 77 tests s'appliquent, avec ces valeurs.
-const CAT = opt('--catalogue', 'personal') === 'public' ? { places: 1595, first: 3, preset0: 45, editable: 'Nantes' } : { places: 1600, first: 0, preset0: 51, editable: 'La Roche-sur-Yon' };
+// Ce qui dépend du catalogue livré. La version publique n'a pas les 5 bases personnelles : premier identifiant 3,
+// premier parcours de 45 étapes. Le nombre de lieux attendu est celui que contient le fichier testé (1 600 avant le lot v10).
+// Les mêmes 77 tests s'appliquent, avec ces valeurs.
+const SHIPPED_CAT = shippedCatalogue(dir), SHIPPED = SHIPPED_CAT.places;
+const VILLES = SHIPPED_CAT.lieux.filter((p) => p.c === 'ville').length;   // 418 avant le lot v10
+// « Nouveautés » : le lot le plus récent du catalogue (v9 : 100 lieux avant le lot v10).
+const NEWEST = SHIPPED_CAT.lieux.filter((p) => p.batch).map((p) => p.batch).sort((a, b) => Number(b.slice(1)) - Number(a.slice(1)))[0];
+const NEWEST_N = SHIPPED_CAT.lieux.filter((p) => p.batch === NEWEST).length;
+const CAT = opt('--catalogue', 'personal') === 'public' ? { places: SHIPPED, first: 3, preset0: 45, editable: 'Nantes' } : { places: SHIPPED, first: 0, preset0: 51, editable: 'La Roche-sur-Yon' };
 
 const results = [];
 const assert = (cond, msg) => { if (!cond) throw new Error(msg); };
@@ -63,7 +69,7 @@ const GROUPS = {};
 const group = (name, viewport, options, tests) => { GROUPS[name] = { viewport, options, tests }; };
 
 group('P1-explorer', 'desktop-1440x900', {}, {
-  'chargement initial : carte, 1 600 lieux, aucun message d\'erreur': async ({ page, errors }) => {
+  'chargement initial : carte, tous les lieux du catalogue, aucun message d\'erreur': async ({ page, errors }) => {
     const s = await ev(page, () => ({ pts: PTS.length, nodes: document.querySelectorAll('#map .poi').length, pays: document.querySelectorAll('#map path.pays').length, vb: vb.slice(), title: document.title }));
     eq(s.pts, CAT.places, 'nombre de lieux'); eq(s.nodes, CAT.places, 'marqueurs dessinés'); assert(s.pays >= 40, 'pays dessinés'); assert(s.vb[2] > 0, 'vue initialisée');
     assert(/Atlas van/.test(s.title), 'titre de page'); eq(errors, [], 'erreurs console au chargement');
@@ -126,7 +132,7 @@ group('P1-explorer', 'desktop-1440x900', {}, {
   'filtres : catégorie, importance, pays, mois, compteur': async ({ page }) => {
     const vis = () => ev(page, () => ({ ville: document.querySelectorAll('#map .poi.ville:not(.off)').length, all: document.querySelectorAll('#map .poi:not(.off)').length, dim: document.querySelectorAll('#map .poi.dimmed').length, counter: document.querySelector('#counter').textContent }));
     const a = await vis(); eq(a.ville, 418, 'villes visibles au départ'); eq(a.all, CAT.places, 'tous les lieux visibles au départ');
-    await jsClick(page, '[data-cat="ville"]'); const b = await vis(); eq(b.ville, 0, 'villes masquées'); eq(b.all, CAT.places - 418, 'total après filtre'); eq(firstNumber(b.counter), CAT.places - 418, 'compteur mis à jour : ' + b.counter);
+    await jsClick(page, '[data-cat="ville"]'); const b = await vis(); eq(b.ville, 0, 'villes masquées'); eq(b.all, CAT.places - VILLES, 'total après filtre'); eq(firstNumber(b.counter), CAT.places - VILLES, 'compteur mis à jour : ' + b.counter);
     await jsClick(page, '[data-cat="ville"]'); eq((await vis()).all, CAT.places, 'filtre catégorie réversible');
     await jsClick(page, '[data-w="3"]'); eq((await vis()).all, CAT.places - 307, 'importance : secondaires masqués'); await jsClick(page, '[data-w="3"]');
     await setValue(page, '#paysSel', 'Portugal', 'change'); eq((await vis()).all, await ev(page, () => PTS.filter((p) => p.p === 'Portugal' || p.c === 'base').length), 'pays : lieux du Portugal et bases'); await setValue(page, '#paysSel', '', 'change');
@@ -137,7 +143,7 @@ group('P1-explorer', 'desktop-1440x900', {}, {
     await ev(page, () => { document.body.classList.remove('has-place'); document.querySelector('#clearExplore').click(); tab('p1'); }); await settle(page);
     eq(await page.locator('#discoverList article').count(), 24, 'premières cartes'); await jsClick(page, '#discoverMore'); eq(await page.locator('#discoverList article').count(), 48, 'pagination');
     await setValue(page, '#discoverQuery', 'lac'); const n = firstNumber(await ev(page, () => document.querySelector('#discoveryCount').textContent)); assert(n > 0 && n < CAT.places, 'recherche de découverte filtrée : ' + n);
-    await jsClick(page, '#onlyNew'); const nouveaux = firstNumber(await ev(page, () => { document.querySelector('#discoverQuery').value = ''; renderDiscovery(); return document.querySelector('#discoveryCount').textContent; })); eq(nouveaux, 100, 'les 100 nouveautés');
+    await jsClick(page, '#onlyNew'); const nouveaux = firstNumber(await ev(page, () => { document.querySelector('#discoverQuery').value = ''; renderDiscovery(); return document.querySelector('#discoveryCount').textContent; })); eq(nouveaux, NEWEST_N, `les ${NEWEST_N} nouveautés (lot ${NEWEST})`);
     await jsClick(page, '#clearExplore'); eq(firstNumber(await ev(page, () => document.querySelector('#discoveryCount').textContent)), CAT.places, '« Tout afficher » rétablit tous les lieux');
     await jsClick(page, '#discoverList [data-discover]'); assert(await ev(page, () => sel != null && document.body.classList.contains('has-place')), 'ouverture d\'une fiche depuis la liste');
   },

@@ -7,6 +7,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { ROOT, loadPlaywright, serve, writeJson } from './lib/harness.mjs';
+import { catalogue } from '../build/planner.mjs';
 
 const args = process.argv.slice(2), opt = (f, d) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : d; };
 const out = path.resolve(opt('--out', 'test-results/site.json')), only = opt('--only', null)?.split(',');
@@ -27,6 +28,8 @@ const writeJsonFile = (file, value) => { fs.mkdirSync(path.dirname(file), { recu
 const PRIVATE_STRINGS = ['Voyage privé de test à ne jamais publier', 'Résumé privé du voyage de test', 'Paragraphe privé du voyage de test', 'Note privée de test à ne jamais publier', 'Contenu privé de la note de test',
   'Brouillon de test à ne jamais publier', 'Contenu du brouillon de test', 'Section privée de test', 'Phrase privée de la section à propos', 'privee.png'];
 const PERSONAL_STRINGS = ['Chez ma mère', 'Chez mes grands-parents', 'Chez une amie', 'Chez ma marraine', 'Maison des grands-parents', 'Milan (marraine)', 'marraine', 'grands-parents'];
+// Le site est construit ici même à partir des sources : nombres de lieux attendus (1 600 et 1 595 avant le lot v10).
+const N_ALL = catalogue('personal').app.lieux.length, N_PUB = catalogue('public').app.lieux.length;
 const WIDTHS = [320, 360, 390, 430, 768, 820, 1024, 1280, 1440, 1920];
 
 console.log('construction des versions de test…');
@@ -178,7 +181,7 @@ group('planner', {
     const a = await open(server.url);
     try {
       await a.page.click('.head-row .btn-cta'); await plannerReady(a.page);
-      eq(await a.page.evaluate(() => [PTS.length, document.querySelectorAll('#map .poi').length, document.querySelectorAll('.tabs button').length, document.querySelector('.brand a').getAttribute('href')]), [1595, 1595, 5, '../index.html'], 'Planner public dans le site');
+      eq(await a.page.evaluate(() => [PTS.length, document.querySelectorAll('#map .poi').length, document.querySelectorAll('.tabs button').length, document.querySelector('.brand a').getAttribute('href')]), [N_PUB, N_PUB, 5, '../index.html'], 'Planner public dans le site');
       await a.page.click('.brand a'); await a.page.waitForLoadState('load'); assert(await a.page.locator('.hero').count() === 1, 'retour à l\'accueil du site'); eq(a.errors, [], 'erreurs');
     } finally { await a.context.close(); }
   },
@@ -209,13 +212,13 @@ group('planner', {
       const a = await open(server.url, 'app/index.html' + hash);
       try { await plannerReady(a.page); await a.page.waitForTimeout(250);
         const s = await a.page.evaluate(() => ({ xss: window.__xss || 0, paysF, route: route.length, shown: document.querySelectorAll('#map .poi:not(.off)').length, imgs: document.querySelectorAll('img[onerror]').length }));
-        eq([s.xss, s.paysF, s.route, s.shown, s.imgs, a.errors], [0, '', 0, 1595, 0, []], 'lien ' + hash.slice(0, 40));
+        eq([s.xss, s.paysF, s.route, s.shown, s.imgs, a.errors], [0, '', 0, N_PUB, 0, []], 'lien ' + hash.slice(0, 40));
       } finally { await a.context.close(); }
     }
   },
-  'version personnelle : Planner complet (1 600 lieux) dans le site, pages marquées « noindex »': async () => {
+  'version personnelle : Planner complet (tous les lieux) dans le site, pages marquées « noindex »': async () => {
     const a = await open(personal.url, 'app/index.html');
-    try { await plannerReady(a.page); eq(await a.page.evaluate(() => [PTS.length, PTS.filter((p) => p.c === 'base').length]), [1600, 5], 'catalogue complet');
+    try { await plannerReady(a.page); eq(await a.page.evaluate(() => [PTS.length, PTS.filter((p) => p.c === 'base').length]), [N_ALL, 5], 'catalogue complet');
       for (const f of ['index.html', 'destinations/italie/index.html', 'carnet/note-privee/index.html']) assert(/<meta name="robots" content="noindex">/.test(read(PERSO, f)), 'noindex absent : ' + f); eq(a.errors, [], 'erreurs'); }
     finally { await a.context.close(); }
   }
@@ -428,7 +431,7 @@ group('accessibilite-responsive', {
         await page.click('.hero-actions .btn-primary'); await page.waitForLoadState('load'); assert(await page.locator('.card').count() === 34, name + ' : lien relatif vers les destinations');
         await page.goto('file://' + path.join(PUB, 'voyages/portugal-de-test/index.html')); assert(await page.evaluate(() => document.querySelector('main img').naturalWidth) === 1200, name + ' : image locale affichée');
         await page.goto('file://' + path.join(PUB, 'destinations/italie/index.html')); await page.click('.detail-intro .btn-primary'); await plannerReady(page); await page.waitForTimeout(300);
-        eq(await page.evaluate(() => [PTS.length, paysF]), [1595, 'Italie'], name + ' : Planner ouvert et filtré depuis un fichier local'); eq(errors, [], name + ' : erreurs'); }
+        eq(await page.evaluate(() => [PTS.length, paysF]), [N_PUB, 'Italie'], name + ' : Planner ouvert et filtré depuis un fichier local'); eq(errors, [], name + ' : erreurs'); }
       finally { await b.close(); }
     }
   }

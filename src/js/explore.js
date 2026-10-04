@@ -2,6 +2,8 @@
 var offCat = {}, offW = {}, paysF = '', moisF = 0, onlyFav = false, hideDone = false, onlyNote = false;
 var nearRouteOnly = false, nearRouteKm = 25;
 var discoverNew = false, discoverVisible = false, discoveryLimit = 24;
+// « Nouveautés » : les lieux du lot le plus récent du catalogue (v9, v10…), calculé une fois.
+var NEWEST_BATCH = DATA.lieux.reduce(function (best, L) { return L.batch && (!best || +L.batch.slice(1) > +best.slice(1)) ? L.batch : best; }, '');
 
 /* ── Filtres : une seule passe sur les 1 600 lieux, puis la carte et la liste sont mises à jour une fois ── */
 function activeFilterCount() {
@@ -48,7 +50,7 @@ function placesInListOrder() {
 function discoverMatches() {
   var query = noac($('#discoverQuery').value.trim());
   return placesInListOrder().filter(function (p) {
-    return !p._off && !p._dim && (!discoverNew || p.batch === 'v9') &&
+    return !p._off && !p._dim && (!discoverNew || p.batch === NEWEST_BATCH) &&
       (!discoverVisible || (p.px >= vb[0] && p.px <= vb[0] + vb[2] && p.py >= vb[1] && p.py <= vb[1] + vb[3])) &&
       (!query || searchKeys(p).all.includes(query));
   });

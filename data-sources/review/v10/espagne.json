@@ -1,0 +1,7723 @@
+[
+ {
+  "key": "espagne|flysch-zumaia|433:-23",
+  "src": "espagne-nord.json#30",
+  "n": "Flysch de Zumaia",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zumaia (ES, 0.7 km)",
+   "ref": {
+    "name": "Zumaia",
+    "geonameid": 3104218,
+    "y": 43.29469,
+    "x": -2.25341,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 14,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 83,
+  "decision": "retenu",
+  "i": 1600
+ },
+ {
+  "key": "espagne|bolonia-baelo-claudia|361:-58",
+  "src": "espagne-sud.json#61",
+  "n": "Bolonia et Baelo Claudia",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zahara de los Atunes (ES, 8.3 km)",
+   "ref": {
+    "name": "Tarifa",
+    "geonameid": 2510599,
+    "y": 36.01393,
+    "x": -5.60695,
+    "km": 17.3,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 82,
+  "decision": "retenu",
+  "i": 1601
+ },
+ {
+  "key": "espagne|figueres|423:30",
+  "src": "espagne-nord.json#66",
+  "n": "Figueres",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Figueres (ES, 0.3 km)",
+   "ref": {
+    "name": "Figueres",
+    "geonameid": 3122453,
+    "y": 42.26645,
+    "x": 2.96163,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 1602
+ },
+ {
+  "key": "espagne|caminito-rey|369:-48",
+  "src": "espagne-sud.json#64",
+  "n": "Caminito del Rey",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ardales (ES, 7.7 km)",
+   "ref": {
+    "name": "Ardales",
+    "geonameid": 2521661,
+    "y": 36.87804,
+    "x": -4.84694,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 12,
+   "sing": 14,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 1603
+ },
+ {
+  "key": "espagne|loarre|423:-6",
+  "src": "espagne-nord.json#53",
+  "n": "Château de Loarre",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loarre (ES, 1.7 km)",
+   "ref": {
+    "name": "Huesca",
+    "geonameid": 3120514,
+    "y": 42.13615,
+    "x": -0.4087,
+    "km": 26.9,
+    "statedKm": 27
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 1604
+ },
+ {
+  "key": "espagne|foret-irati|429:-11",
+  "src": "espagne-nord.json#37",
+  "n": "Forêt d'Irati",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Oronz (ES, 4.6 km)",
+   "ref": {
+    "name": "Aoiz",
+    "geonameid": 3129937,
+    "y": 42.78633,
+    "x": -1.37252,
+    "km": 26.9,
+    "statedKm": 27
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 1605
+ },
+ {
+  "key": "espagne|almagro|389:-37",
+  "src": "espagne-sud.json#9",
+  "n": "Almagro",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Almagro (ES, 0.1 km)",
+   "ref": {
+    "name": "Almagro",
+    "geonameid": 2521928,
+    "y": 38.88941,
+    "x": -3.71131,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2521928
+  },
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 1608
+ },
+ {
+  "key": "espagne|ortegal|438:-79",
+  "src": "espagne-nord.json#0",
+  "n": "Cap Ortegal",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.3,
+   "otherCountry": null,
+   "nearestLocality": "Cariño (ES, 3.3 km)",
+   "ref": {
+    "name": "Cariño",
+    "geonameid": 3126276,
+    "y": 43.74134,
+    "x": -7.86715,
+    "km": 3.3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 1609
+ },
+ {
+  "key": "espagne|cares|433:-48",
+  "src": "espagne-nord.json#14",
+  "n": "Gorges du Cares",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Carreña (ES, 6.9 km)",
+   "ref": {
+    "name": "Llanes",
+    "geonameid": 3118304,
+    "y": 43.41982,
+    "x": -4.75485,
+    "km": 19.4,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 1606
+ },
+ {
+  "key": "espagne|covadonga|433:-50",
+  "src": "espagne-nord.json#12",
+  "n": "Lacs de Covadonga",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Carreña (ES, 12.9 km)",
+   "ref": {
+    "name": "Cangas de Onís",
+    "geonameid": 3126571,
+    "y": 43.3514,
+    "x": -5.12916,
+    "km": 14.1,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 12,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 1735
+ },
+ {
+  "key": "espagne|lagunes-ruidera|390:-29",
+  "src": "espagne-sud.json#10",
+  "n": "Lagunes de Ruidera",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ruidera (ES, 0.2 km)",
+   "ref": {
+    "name": "Ossa de Montiel",
+    "geonameid": 2513053,
+    "y": 38.96398,
+    "x": -2.74553,
+    "km": 12.2,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 1610
+ },
+ {
+  "key": "espagne|siguenza|411:-26",
+  "src": "espagne-sud.json#5",
+  "n": "Sigüenza",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sigüenza (ES, 0.0 km)",
+   "ref": {
+    "name": "Sigüenza",
+    "geonameid": 3108961,
+    "y": 41.06892,
+    "x": -2.64308,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3108961
+  },
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 1611
+ },
+ {
+  "key": "espagne|zone-volcanique-garrotxa|422:25",
+  "src": "espagne-nord.json#70",
+  "n": "Zone volcanique de la Garrotxa",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Olot (ES, 0.1 km)",
+   "ref": {
+    "name": "Olot",
+    "geonameid": 3115093,
+    "y": 42.18096,
+    "x": 2.49012,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 1612
+ },
+ {
+  "key": "espagne|formentor|400:32",
+  "src": "espagne-sud.json#90",
+  "n": "Cap de Formentor",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.8,
+   "otherCountry": null,
+   "nearestLocality": "Port de Pollença (ES, 12.7 km)",
+   "ref": {
+    "name": "Port de Pollença",
+    "geonameid": 6355021,
+    "y": 39.9075,
+    "x": 3.0814,
+    "km": 12.7,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 12,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 1615
+ },
+ {
+  "key": "espagne|congost-rebei|421:7",
+  "src": "espagne-nord.json#77",
+  "n": "Congost de Mont-rebei",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Àger (ES, 11.0 km)",
+   "ref": {
+    "name": "Tremp",
+    "geonameid": 3107519,
+    "y": 42.16703,
+    "x": 0.89487,
+    "km": 18.6,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 14,
+   "val": 14,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 1616
+ },
+ {
+  "key": "espagne|somiedo|431:-63",
+  "src": "espagne-nord.json#18",
+  "n": "Parc naturel de Somiedo",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pola de Somiedo (ES, 0.1 km)",
+   "ref": {
+    "name": "Cangas del Narcea",
+    "geonameid": 3126572,
+    "y": 43.18333,
+    "x": -6.55,
+    "km": 25.9,
+    "statedKm": 26
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 14,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 1617
+ },
+ {
+  "key": "espagne|biscaye|433:-30",
+  "src": "espagne-nord.json#32",
+  "n": "Pont de Biscaye",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Portugalete (ES, 0.4 km)",
+   "ref": {
+    "name": "Portugalete",
+    "geonameid": 3113082,
+    "y": 43.32099,
+    "x": -3.02064,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1217"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 1613
+ },
+ {
+  "key": "espagne|domingo-silos|420:-34",
+  "src": "espagne-nord.json#90",
+  "n": "Santo Domingo de Silos",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Santo Domingo de Silos (ES, 0.3 km)",
+   "ref": {
+    "name": "Salas de los Infantes",
+    "geonameid": 3111092,
+    "y": 42.02242,
+    "x": -3.28631,
+    "km": 12.9,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 1614
+ },
+ {
+  "key": "espagne|alcala-jucar|392:-14",
+  "src": "espagne-sud.json#17",
+  "n": "Alcalá del Júcar",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alcalá del Júcar (ES, 0.2 km)",
+   "ref": {
+    "name": "Casas Ibáñez",
+    "geonameid": 2519880,
+    "y": 39.28333,
+    "x": -1.46667,
+    "km": 10.6,
+    "statedKm": 10
+   },
+   "status": "vérifié",
+   "snapped": 0.24
+  },
+  "links": {
+   "geonames": 2522163
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 1619
+ },
+ {
+  "key": "espagne|arcos-frontera|368:-58",
+  "src": "espagne-sud.json#58",
+  "n": "Arcos de la Frontera",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arcos de la Frontera (ES, 0.4 km)",
+   "ref": {
+    "name": "Arcos de la Frontera",
+    "geonameid": 2521665,
+    "y": 36.75075,
+    "x": -5.81056,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 2521665
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 1620
+ },
+ {
+  "key": "espagne|coca|412:-45",
+  "src": "espagne-nord.json#97",
+  "n": "Château de Coca",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Coca (ES, 0.4 km)",
+   "ref": {
+    "name": "Coca",
+    "geonameid": 3124895,
+    "y": 41.21767,
+    "x": -4.52145,
+    "km": 0.4,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 1621
+ },
+ {
+  "key": "espagne|empuries|421:31",
+  "src": "espagne-nord.json#67",
+  "n": "Empúries",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "l'Escala (ES, 1.4 km)",
+   "ref": {
+    "name": "l'Escala",
+    "geonameid": 3119779,
+    "y": 42.12562,
+    "x": 3.13261,
+    "km": 1.4,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 1618
+ },
+ {
+  "key": "espagne|el|433:-40",
+  "src": "espagne-nord.json#25",
+  "n": "Grotte d'El Castillo",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Puente Viesgo (ES, 0.7 km)",
+   "ref": {
+    "name": "Torrelavega",
+    "geonameid": 3107775,
+    "y": 43.34943,
+    "x": -4.04785,
+    "km": 9.2,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 14,
+   "val": 14,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 1624
+ },
+ {
+  "key": "espagne|valderrobres|409:2",
+  "src": "espagne-nord.json#61",
+  "n": "Valderrobres",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Valderrobres (ES, 0.2 km)",
+   "ref": {
+    "name": "Valderrobres",
+    "geonameid": 3106803,
+    "y": 40.87209,
+    "x": 0.15431,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 3106803
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 1625
+ },
+ {
+  "key": "espagne|jerte|402:-58",
+  "src": "espagne-sud.json#23",
+  "n": "Vallée du Jerte",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cabezuela del Valle (ES, 0.2 km)",
+   "ref": {
+    "name": "Cabezuela del Valle",
+    "geonameid": 3127217,
+    "y": 40.19364,
+    "x": -5.8065,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 1623
+ },
+ {
+  "key": "espagne|astorga|425:-61",
+  "src": "espagne-nord.json#83",
+  "n": "Astorga",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Astorga (ES, 0.0 km)",
+   "ref": {
+    "name": "Astorga",
+    "geonameid": 3129231,
+    "y": 42.45879,
+    "x": -6.05601,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3129231
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1628
+ },
+ {
+  "key": "espagne|creus|423:33",
+  "src": "espagne-nord.json#64",
+  "n": "Cap de Creus",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cadaqués (ES, 4.7 km)",
+   "ref": {
+    "name": "Cadaqués",
+    "geonameid": 3127117,
+    "y": 42.28856,
+    "x": 3.27706,
+    "km": 4.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1626
+ },
+ {
+  "key": "espagne|ezaro|429:-91",
+  "src": "espagne-nord.json#3",
+  "n": "Cascade d'Ézaro",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Corcubión (ES, 6.2 km)",
+   "ref": {
+    "name": "Cee",
+    "geonameid": 3125526,
+    "y": 42.95466,
+    "x": -9.188,
+    "km": 6.7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1627
+ },
+ {
+  "key": "espagne|miravet|410:6",
+  "src": "espagne-nord.json#80",
+  "n": "Château de Miravet",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Miravet (ES, 0.1 km)",
+   "ref": {
+    "name": "Móra d'Ebre",
+    "geonameid": null,
+    "y": 41.08333,
+    "x": 0.63333,
+    "km": 5.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1730
+ },
+ {
+  "key": "espagne|ciudad-rodrigo|406:-65",
+  "src": "espagne-nord.json#94",
+  "n": "Ciudad Rodrigo",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ciudad Rodrigo (ES, 0.0 km)",
+   "ref": {
+    "name": "Ciudad Rodrigo",
+    "geonameid": 3124963,
+    "y": 40.6,
+    "x": -6.53333,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3124963
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1630
+ },
+ {
+  "key": "espagne|alberca|405:-61",
+  "src": "espagne-nord.json#95",
+  "n": "La Alberca",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "La Alberca (ES, 0.1 km)",
+   "ref": {
+    "name": "Béjar",
+    "geonameid": 3128382,
+    "y": 40.38641,
+    "x": -5.76341,
+    "km": 31.5,
+    "statedKm": 32
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 3120027
+  },
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1632
+ },
+ {
+  "key": "espagne|penyal-ifac|386:1",
+  "src": "espagne-sud.json#39",
+  "n": "Penyal d'Ifac",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Calp (ES, 3.0 km)",
+   "ref": {
+    "name": "Calp",
+    "geonameid": 2520496,
+    "y": 38.6447,
+    "x": 0.0445,
+    "km": 3,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1629
+ },
+ {
+  "key": "espagne|alcantara|397:-69",
+  "src": "espagne-sud.json#28",
+  "n": "Pont d'Alcántara",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alcántara (ES, 0.8 km)",
+   "ref": {
+    "name": "Alcántara",
+    "geonameid": 2522155,
+    "y": 39.71895,
+    "x": -6.88375,
+    "km": 0.8,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1633
+ },
+ {
+  "key": "espagne|tarazona|419:-17",
+  "src": "espagne-nord.json#62",
+  "n": "Tarazona",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tarazona (ES, 0.1 km)",
+   "ref": {
+    "name": "Tarazona",
+    "geonameid": 3108308,
+    "y": 41.90475,
+    "x": -1.72678,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 3108308
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1635
+ },
+ {
+  "key": "espagne|valladolid|417:-47",
+  "src": "espagne-nord.json#81",
+  "n": "Valladolid",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Valladolid (ES, 0.4 km)",
+   "ref": {
+    "name": "Valladolid",
+    "geonameid": 3106672,
+    "y": 41.65518,
+    "x": -4.72372,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 3106672,
+   "qid": "Q8356"
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 1631
+ },
+ {
+  "key": "espagne|alarcon|395:-21",
+  "src": "espagne-sud.json#16",
+  "n": "Alarcón",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alarcón (ES, 0.4 km)",
+   "ref": {
+    "name": "Motilla del Palancar",
+    "geonameid": 2513480,
+    "y": 39.56667,
+    "x": -1.88333,
+    "km": 17,
+    "statedKm": 16
+   },
+   "status": "vérifié",
+   "snapped": 0.41
+  },
+  "links": {
+   "geonames": 2522265
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1640
+ },
+ {
+  "key": "espagne|arribes-douro|413:-64",
+  "src": "espagne-nord.json#96",
+  "n": "Arribes du Douro",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fermoselle (ES, 0.1 km)",
+   "ref": {
+    "name": "Vitigudino",
+    "geonameid": 3104501,
+    "y": 41.00912,
+    "x": -6.43404,
+    "km": 34.4,
+    "statedKm": 34
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1638
+ },
+ {
+  "key": "espagne|belchite|413:-8",
+  "src": "espagne-nord.json#59",
+  "n": "Belchite",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Belchite (ES, 0.1 km)",
+   "ref": {
+    "name": "Fuentes de Ebro",
+    "geonameid": 3121849,
+    "y": 41.5125,
+    "x": -0.63159,
+    "km": 25.2,
+    "statedKm": 25
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1641
+ },
+ {
+  "key": "espagne|cardona|419:17",
+  "src": "espagne-nord.json#74",
+  "n": "Cardona",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cardona (ES, 0.0 km)",
+   "ref": {
+    "name": "Cardona",
+    "geonameid": 3126293,
+    "y": 41.91371,
+    "x": 1.67855,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1639
+ },
+ {
+  "key": "espagne|penafiel|416:-41",
+  "src": "espagne-nord.json#91",
+  "n": "Château de Peñafiel",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Peñafiel (ES, 0.3 km)",
+   "ref": {
+    "name": "Peñafiel",
+    "geonameid": 3113957,
+    "y": 41.60165,
+    "x": -4.11418,
+    "km": 0.3,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1642
+ },
+ {
+  "key": "espagne|estella-lizarra|427:-20",
+  "src": "espagne-nord.json#39",
+  "n": "Estella-Lizarra",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Estella-Lizarra (ES, 0.2 km)",
+   "ref": {
+    "name": "Estella-Lizarra",
+    "geonameid": 3122762,
+    "y": 42.67182,
+    "x": -2.03226,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 3122762
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 9,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1643
+ },
+ {
+  "key": "espagne|o-cebreiro|427:-70",
+  "src": "espagne-nord.json#11",
+  "n": "O Cebreiro",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "San Román (ES, 18.0 km)",
+   "ref": {
+    "name": "Becerreá",
+    "geonameid": 3128419,
+    "y": 42.8561,
+    "x": -7.1636,
+    "km": 19.2,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1644
+ },
+ {
+  "key": "espagne|sepulveda-hoces-duraton|413:-37",
+  "src": "espagne-nord.json#93",
+  "n": "Sepúlveda et Hoces du Duratón",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sepúlveda (ES, 0.2 km)",
+   "ref": {
+    "name": "Cantalejo",
+    "geonameid": 3126513,
+    "y": 41.2576,
+    "x": -3.92791,
+    "km": 15.9,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1636
+ },
+ {
+  "key": "espagne|tarifa|360:-56",
+  "src": "espagne-sud.json#60",
+  "n": "Tarifa",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tarifa (ES, 0.2 km)",
+   "ref": {
+    "name": "Tarifa",
+    "geonameid": 2510599,
+    "y": 36.01393,
+    "x": -5.60695,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.23
+  },
+  "links": {
+   "geonames": 2510599
+  },
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 1637
+ },
+ {
+  "key": "espagne|alicante|383:-5",
+  "src": "espagne-sud.json#34",
+  "n": "Alicante",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alicante (ES, 0.0 km)",
+   "ref": {
+    "name": "Alicante",
+    "geonameid": 2521978,
+    "y": 38.34517,
+    "x": -0.48149,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2521978,
+   "qid": "Q11959"
+  },
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1648
+ },
+ {
+  "key": "espagne|aracena|379:-66",
+  "src": "espagne-sud.json#69",
+  "n": "Aracena",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aracena (ES, 0.1 km)",
+   "ref": {
+    "name": "Aracena",
+    "geonameid": 2521694,
+    "y": 37.89396,
+    "x": -6.56116,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1649
+ },
+ {
+  "key": "espagne|belmonte|396:-27",
+  "src": "espagne-sud.json#12",
+  "n": "Château de Belmonte",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Belmonte (ES, 0.3 km)",
+   "ref": {
+    "name": "Belmonte",
+    "geonameid": 2521165,
+    "y": 39.55746,
+    "x": -2.70461,
+    "km": 0.3,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1656
+ },
+ {
+  "key": "espagne|chulilla|397:-9",
+  "src": "espagne-sud.json#46",
+  "n": "Chulilla",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chulilla (ES, 0.9 km)",
+   "ref": {
+    "name": "Villar del Arzobispo",
+    "geonameid": 2509520,
+    "y": 39.73333,
+    "x": -0.81667,
+    "km": 10.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1650
+ },
+ {
+  "key": "espagne|getaria|433:-22",
+  "src": "espagne-nord.json#29",
+  "n": "Getaria",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Getaria (ES, 0.0 km)",
+   "ref": {
+    "name": "Zarautz",
+    "geonameid": 3104316,
+    "y": 43.28444,
+    "x": -2.16992,
+    "km": 3.5,
+    "statedKm": 4
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3120985
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1645
+ },
+ {
+  "key": "espagne|guadix|373:-31",
+  "src": "espagne-sud.json#79",
+  "n": "Guadix",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Guadix (ES, 0.1 km)",
+   "ref": {
+    "name": "Guadix",
+    "geonameid": 2516925,
+    "y": 37.29932,
+    "x": -3.13922,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 2516925
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1652
+ },
+ {
+  "key": "espagne|jerez-frontera|367:-61",
+  "src": "espagne-sud.json#57",
+  "n": "Jerez de la Frontera",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jerez de la Frontera (ES, 0.1 km)",
+   "ref": {
+    "name": "Jerez de la Frontera",
+    "geonameid": 2516326,
+    "y": 36.68645,
+    "x": -6.13606,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 2516326
+  },
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1646
+ },
+ {
+  "key": "espagne|peratallada|420:31",
+  "src": "espagne-nord.json#68",
+  "n": "Peratallada",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Palau-sator (ES, 2.1 km)",
+   "ref": {
+    "name": "Palafrugell",
+    "geonameid": 3114567,
+    "y": 41.91738,
+    "x": 3.1631,
+    "km": 8.9,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1657
+ },
+ {
+  "key": "espagne|ponferrada|425:-66",
+  "src": "espagne-nord.json#84",
+  "n": "Ponferrada",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ponferrada (ES, 0.6 km)",
+   "ref": {
+    "name": "Ponferrada",
+    "geonameid": 3113236,
+    "y": 42.54664,
+    "x": -6.59619,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1658
+ },
+ {
+  "key": "espagne|priego-cordoba|374:-42",
+  "src": "espagne-sud.json#73",
+  "n": "Priego de Córdoba",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Priego de Córdoba (ES, 0.0 km)",
+   "ref": {
+    "name": "Priego de Córdoba",
+    "geonameid": 2512282,
+    "y": 37.43807,
+    "x": -4.19523,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2512282
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1659
+ },
+ {
+  "key": "espagne|roncevaux|430:-13",
+  "src": "espagne-nord.json#38",
+  "n": "Roncevaux",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saint-Jean-Pied-de-Port (FR, 18.6 km)",
+   "ref": {
+    "name": "Aoiz",
+    "geonameid": 3129937,
+    "y": 42.78633,
+    "x": -1.37252,
+    "km": 25.1,
+    "statedKm": 25
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1660
+ },
+ {
+  "key": "espagne|salinas-anana|428:-30",
+  "src": "espagne-nord.json#36",
+  "n": "Salinas de Añana",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Armiñón (ES, 12.7 km)",
+   "ref": {
+    "name": "Miranda de Ebro",
+    "geonameid": 3116689,
+    "y": 42.6865,
+    "x": -2.94695,
+    "km": 13.1,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 14,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1653
+ },
+ {
+  "key": "espagne|domingo-calzada|424:-30",
+  "src": "espagne-nord.json#48",
+  "n": "Santo Domingo de la Calzada",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Santo Domingo de la Calzada (ES, 0.0 km)",
+   "ref": {
+    "name": "Santo Domingo de la Calzada",
+    "geonameid": 3109535,
+    "y": 42.44015,
+    "x": -2.95365,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3109535
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 9,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1654
+ },
+ {
+  "key": "espagne|siurana|413:9",
+  "src": "espagne-nord.json#76",
+  "n": "Siurana",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alforja (ES, 6.3 km)",
+   "ref": {
+    "name": "Reus",
+    "geonameid": 3111933,
+    "y": 41.15612,
+    "x": 1.10687,
+    "km": 18.4,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1634
+ },
+ {
+  "key": "espagne|soria|418:-25",
+  "src": "espagne-nord.json#87",
+  "n": "Soria",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Soria (ES, 0.4 km)",
+   "ref": {
+    "name": "Soria",
+    "geonameid": 3108681,
+    "y": 41.76401,
+    "x": -2.46883,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 3108681
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1651
+ },
+ {
+  "key": "espagne|ujue|425:-15",
+  "src": "espagne-nord.json#42",
+  "n": "Ujué",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ujué (ES, 0.0 km)",
+   "ref": {
+    "name": "Tafalla",
+    "geonameid": 3108412,
+    "y": 42.52687,
+    "x": -1.67446,
+    "km": 14.6,
+    "statedKm": 14
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3107316
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1655
+ },
+ {
+  "key": "espagne|vall-nuria|424:22",
+  "src": "espagne-nord.json#72",
+  "n": "Vall de Núria",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Planoles (ES, 10.0 km)",
+   "ref": {
+    "name": "Ripoll",
+    "geonameid": 3111607,
+    "y": 42.20064,
+    "x": 2.19033,
+    "km": 22.1,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 1647
+ },
+ {
+  "key": "espagne|trafalgar|362:-60",
+  "src": "espagne-sud.json#62",
+  "n": "Cap de Trafalgar",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": null,
+   "nearestLocality": "Conil de la Frontera (ES, 11.5 km)",
+   "ref": {
+    "name": "Barbate",
+    "geonameid": 2521335,
+    "y": 36.19237,
+    "x": -5.92186,
+    "km": 10.2,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1664
+ },
+ {
+  "key": "espagne|chinchon|401:-34",
+  "src": "espagne-sud.json#0",
+  "n": "Chinchón",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chinchón (ES, 0.0 km)",
+   "ref": {
+    "name": "Chinchón",
+    "geonameid": 3125144,
+    "y": 40.1402,
+    "x": -3.42267,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 3125144
+  },
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1668
+ },
+ {
+  "key": "espagne|ciutadella|400:38",
+  "src": "espagne-sud.json#92",
+  "n": "Ciutadella",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ciutadella (ES, 0.1 km)",
+   "ref": {
+    "name": "Ciutadella",
+    "geonameid": 3124967,
+    "y": 40.00112,
+    "x": 3.84144,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 3124967
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1665
+ },
+ {
+  "key": "espagne|gijon|435:-57",
+  "src": "espagne-nord.json#15",
+  "n": "Gijón",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gijón (ES, 1.1 km)",
+   "ref": {
+    "name": "Gijón",
+    "geonameid": 3121424,
+    "y": 43.53573,
+    "x": -5.66152,
+    "km": 1.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.09
+  },
+  "links": {
+   "geonames": 3121424,
+   "qid": "Q12273"
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1666
+ },
+ {
+  "key": "espagne|jaca|426:-5",
+  "src": "espagne-nord.json#52",
+  "n": "Jaca",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jaca (ES, 0.2 km)",
+   "ref": {
+    "name": "Jaca",
+    "geonameid": 3120211,
+    "y": 42.56898,
+    "x": -0.54987,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 3120211
+  },
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1661
+ },
+ {
+  "key": "espagne|pedriza|408:-39",
+  "src": "espagne-sud.json#2",
+  "n": "La Pedriza",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Manzanares el Real (ES, 3.7 km)",
+   "ref": {
+    "name": "Manzanares el Real",
+    "geonameid": 3117503,
+    "y": 40.72627,
+    "x": -3.86265,
+    "km": 3.7,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1667
+ },
+ {
+  "key": "espagne|piedra|412:-18",
+  "src": "espagne-nord.json#58",
+  "n": "Monastère de Piedra",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nuévalos (ES, 2.2 km)",
+   "ref": {
+    "name": "Calatayud",
+    "geonameid": 3127047,
+    "y": 41.35353,
+    "x": -1.64318,
+    "km": 21.6,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1662
+ },
+ {
+  "key": "espagne|moulins-campo-criptana|394:-31",
+  "src": "espagne-sud.json#11",
+  "n": "Moulins de Campo de Criptana",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Campo de Criptana (ES, 0.7 km)",
+   "ref": {
+    "name": "Campo de Criptana",
+    "geonameid": 2520413,
+    "y": 39.40463,
+    "x": -3.12492,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1669
+ },
+ {
+  "key": "espagne|ribadesella|435:-51",
+  "src": "espagne-nord.json#17",
+  "n": "Ribadesella",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ribadesella (ES, 0.1 km)",
+   "ref": {
+    "name": "Ribadesella",
+    "geonameid": 3111855,
+    "y": 43.46145,
+    "x": -5.05955,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1697
+ },
+ {
+  "key": "espagne|vicente-barquera|434:-44",
+  "src": "espagne-nord.json#22",
+  "n": "San Vicente de la Barquera",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "San Vicente de la Barquera (ES, 0.1 km)",
+   "ref": {
+    "name": "San Vicente de la Barquera",
+    "geonameid": 3109450,
+    "y": 43.38509,
+    "x": -4.39934,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 3109450
+  },
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 1663
+ },
+ {
+  "key": "espagne|benasque|426:5",
+  "src": "espagne-nord.json#55",
+  "n": "Benasque",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Benasque (ES, 0.1 km)",
+   "ref": {
+    "name": "Benasque",
+    "geonameid": 3128296,
+    "y": 42.60528,
+    "x": 0.52305,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 3128296
+  },
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1670
+ },
+ {
+  "key": "espagne|castro-urdiales|434:-32",
+  "src": "espagne-nord.json#24",
+  "n": "Castro Urdiales",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Castro-Urdiales (ES, 0.4 km)",
+   "ref": {
+    "name": "Castro-Urdiales",
+    "geonameid": 3125621,
+    "y": 43.38285,
+    "x": -3.22043,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 3125621
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1676
+ },
+ {
+  "key": "espagne|fromista|423:-44",
+  "src": "espagne-nord.json#82",
+  "n": "Frómista",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Frómista (ES, 0.1 km)",
+   "ref": {
+    "name": "Carrión de los Condes",
+    "geonameid": 3126161,
+    "y": 42.3413,
+    "x": -4.60071,
+    "km": 18,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1683
+ },
+ {
+  "key": "espagne|lorca|377:-17",
+  "src": "espagne-sud.json#50",
+  "n": "Lorca",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lorca (ES, 0.7 km)",
+   "ref": {
+    "name": "Lorca",
+    "geonameid": 2514891,
+    "y": 37.67119,
+    "x": -1.7017,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.7
+  },
+  "links": {
+   "geonames": 2514891,
+   "qid": "Q47571"
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1684
+ },
+ {
+  "key": "espagne|mojacar|371:-19",
+  "src": "espagne-sud.json#85",
+  "n": "Mojácar",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mojacar (ES, 0.0 km)",
+   "ref": {
+    "name": "Mojacar",
+    "geonameid": 2513786,
+    "y": 37.1402,
+    "x": -1.85102,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2513786
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1685
+ },
+ {
+  "key": "espagne|ourense|423:-79",
+  "src": "espagne-nord.json#10",
+  "n": "Ourense",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ourense (ES, 0.1 km)",
+   "ref": {
+    "name": "Ourense",
+    "geonameid": 3114965,
+    "y": 42.33669,
+    "x": -7.86407,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3114965,
+   "qid": "Q99151"
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1677
+ },
+ {
+  "key": "espagne|palma|396:26",
+  "src": "espagne-sud.json#89",
+  "n": "Palma",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Palma (ES, 0.3 km)",
+   "ref": {
+    "name": "Palma",
+    "geonameid": 2512989,
+    "y": 39.56939,
+    "x": 2.65024,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.28
+  },
+  "links": {
+   "geonames": 2512989,
+   "qid": "Q8826"
+  },
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1671
+ },
+ {
+  "key": "espagne|pedraforca|422:17",
+  "src": "espagne-nord.json#73",
+  "n": "Pedraforca",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saldes (ES, 0.5 km)",
+   "ref": {
+    "name": "Berga",
+    "geonameid": 3128201,
+    "y": 42.10429,
+    "x": 1.84628,
+    "km": 16.6,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1686
+ },
+ {
+  "key": "espagne|plasencia|400:-61",
+  "src": "espagne-sud.json#22",
+  "n": "Plasencia",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Plasencia (ES, 0.0 km)",
+   "ref": {
+    "name": "Plasencia",
+    "geonameid": 3113331,
+    "y": 40.03116,
+    "x": -6.08845,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3113331
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1678
+ },
+ {
+  "key": "espagne|pontevedra|424:-86",
+  "src": "espagne-nord.json#6",
+  "n": "Pontevedra",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pontevedra (ES, 0.0 km)",
+   "ref": {
+    "name": "Pontevedra",
+    "geonameid": 3113209,
+    "y": 42.431,
+    "x": -8.64435,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3113209
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1673
+ },
+ {
+  "key": "espagne|sant-pere-rodes|423:32",
+  "src": "espagne-nord.json#65",
+  "n": "Sant Pere de Rodes",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pau (ES, 4.2 km)",
+   "ref": {
+    "name": "Llançà",
+    "geonameid": 3118287,
+    "y": 42.36241,
+    "x": 3.15213,
+    "km": 4.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1674
+ },
+ {
+  "key": "espagne|santander|435:-38",
+  "src": "espagne-nord.json#21",
+  "n": "Santander",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Santander (ES, 0.5 km)",
+   "ref": {
+    "name": "Santander",
+    "geonameid": 3109718,
+    "y": 43.46472,
+    "x": -3.80444,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.54
+  },
+  "links": {
+   "geonames": 3109718
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1679
+ },
+ {
+  "key": "espagne|sierra-gredos|403:-52",
+  "src": "espagne-nord.json#98",
+  "n": "Sierra de Gredos",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hoyos del Collado (ES, 9.4 km)",
+   "ref": {
+    "name": "Arenas de San Pedro",
+    "geonameid": 3129678,
+    "y": 40.21041,
+    "x": -5.08694,
+    "km": 14.3,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1687
+ },
+ {
+  "key": "espagne|tortosa|408:5",
+  "src": "espagne-nord.json#79",
+  "n": "Tortosa",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tortosa (ES, 0.0 km)",
+   "ref": {
+    "name": "Tortosa",
+    "geonameid": 3107677,
+    "y": 40.81249,
+    "x": 0.5216,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3107677
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1680
+ },
+ {
+  "key": "espagne|tossa-mar|417:29",
+  "src": "espagne-nord.json#69",
+  "n": "Tossa de Mar",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tossa de Mar (ES, 0.0 km)",
+   "ref": {
+    "name": "Tossa de Mar",
+    "geonameid": 3107661,
+    "y": 41.71667,
+    "x": 2.93333,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3107661
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1675
+ },
+ {
+  "key": "espagne|tudela|421:-16",
+  "src": "espagne-nord.json#43",
+  "n": "Tudela",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tudela (ES, 0.1 km)",
+   "ref": {
+    "name": "Tudela",
+    "geonameid": 3107418,
+    "y": 42.06166,
+    "x": -1.60452,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 3107418
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1681
+ },
+ {
+  "key": "espagne|aran|427:8",
+  "src": "espagne-nord.json#78",
+  "n": "Val d'Aran",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vielha (ES, 0.1 km)",
+   "ref": {
+    "name": "Vielha",
+    "geonameid": 3105994,
+    "y": 42.70196,
+    "x": 0.79556,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 3105994
+  },
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1672
+ },
+ {
+  "key": "espagne|xativa|390:-5",
+  "src": "espagne-sud.json#36",
+  "n": "Xàtiva",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Xàtiva (ES, 0.1 km)",
+   "ref": {
+    "name": "Xàtiva",
+    "geonameid": 2516345,
+    "y": 38.99042,
+    "x": -0.51852,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2516345
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 1682
+ },
+ {
+  "key": "espagne|rio-lobos|418:-30",
+  "src": "espagne-nord.json#86",
+  "n": "Canyon du Río Lobos",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Herrera de Soria (ES, 1.2 km)",
+   "ref": {
+    "name": "El Burgo de Osma",
+    "geonameid": 3123622,
+    "y": 41.58619,
+    "x": -3.06522,
+    "km": 20.1,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1691
+ },
+ {
+  "key": "espagne|castro-barona|427:-90",
+  "src": "espagne-nord.json#4",
+  "n": "Castro de Baroña",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Porto do Son (ES, 4.0 km)",
+   "ref": {
+    "name": "Porto do Son",
+    "geonameid": 3108716,
+    "y": 42.72482,
+    "x": -9.00527,
+    "km": 4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1688
+ },
+ {
+  "key": "espagne|ciudad-encantada|402:-20",
+  "src": "espagne-sud.json#13",
+  "n": "Ciudad Encantada",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Uña (ES, 1.3 km)",
+   "ref": {
+    "name": "Cuenca",
+    "geonameid": 3124132,
+    "y": 40.06667,
+    "x": -2.13333,
+    "km": 20.6,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1699
+ },
+ {
+  "key": "espagne|covarrubias|421:-35",
+  "src": "espagne-nord.json#89",
+  "n": "Covarrubias",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Covarrubias (ES, 0.1 km)",
+   "ref": {
+    "name": "Lerma",
+    "geonameid": 3118511,
+    "y": 42.02609,
+    "x": -3.75978,
+    "km": 20.3,
+    "statedKm": 20
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 3124312
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1689
+ },
+ {
+  "key": "espagne|ecija|375:-51",
+  "src": "espagne-sud.json#67",
+  "n": "Écija",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Écija (ES, 0.1 km)",
+   "ref": {
+    "name": "Écija",
+    "geonameid": 2518770,
+    "y": 37.5422,
+    "x": -5.0826,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 2518770
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1701
+ },
+ {
+  "key": "espagne|el-rocio|371:-65",
+  "src": "espagne-sud.json#72",
+  "n": "El Rocío",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hinojos (ES, 19.9 km)",
+   "ref": {
+    "name": "Almonte",
+    "geonameid": 2521857,
+    "y": 37.2647,
+    "x": -6.51667,
+    "km": 14.8,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1690
+ },
+ {
+  "key": "espagne|sanabria|421:-67",
+  "src": "espagne-nord.json#85",
+  "n": "Lac de Sanabria",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Galende (ES, 5.4 km)",
+   "ref": {
+    "name": "Puebla de Sanabria",
+    "geonameid": 3112784,
+    "y": 42.05401,
+    "x": -6.6335,
+    "km": 10.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1693
+ },
+ {
+  "key": "espagne|logrono|425:-24",
+  "src": "espagne-nord.json#46",
+  "n": "Logroño",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Logroño (ES, 0.4 km)",
+   "ref": {
+    "name": "Logroño",
+    "geonameid": 3118150,
+    "y": 42.46667,
+    "x": -2.45,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.42
+  },
+  "links": {
+   "geonames": 3118150,
+   "qid": "Q14325"
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1695
+ },
+ {
+  "key": "espagne|yuste|401:-57",
+  "src": "espagne-sud.json#24",
+  "n": "Monastère de Yuste",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aldeanueva de la Vera (ES, 3.3 km)",
+   "ref": {
+    "name": "Jaraíz de la Vera",
+    "geonameid": 3120186,
+    "y": 40.06005,
+    "x": -5.75426,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1698
+ },
+ {
+  "key": "espagne|trega|419:-89",
+  "src": "espagne-nord.json#9",
+  "n": "Monte Santa Trega",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "A Guarda (ES, 1.2 km)",
+   "ref": {
+    "name": "A Guarda",
+    "geonameid": 3119646,
+    "y": 41.90131,
+    "x": -8.87423,
+    "km": 1.2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1702
+ },
+ {
+  "key": "espagne|onati|430:-24",
+  "src": "espagne-nord.json#34",
+  "n": "Oñati",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Oñati (ES, 0.1 km)",
+   "ref": {
+    "name": "Oñati",
+    "geonameid": 3115063,
+    "y": 43.03262,
+    "x": -2.40997,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.13
+  },
+  "links": {
+   "geonames": 3115063
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1692
+ },
+ {
+  "key": "espagne|orbaneja|428:-38",
+  "src": "espagne-nord.json#92",
+  "n": "Orbaneja del Castillo",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Villarcayo » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "San Martín de Elines (ES, 6.2 km)",
+   "ref": {
+    "name": "San Martín de Elines",
+    "geonameid": 3110374,
+    "y": 42.82864,
+    "x": -3.86865,
+    "km": 6.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1703
+ },
+ {
+  "key": "espagne|ripoll|422:22",
+  "src": "espagne-nord.json#71",
+  "n": "Ripoll",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ripoll (ES, 0.0 km)",
+   "ref": {
+    "name": "Ripoll",
+    "geonameid": 3111607,
+    "y": 42.20064,
+    "x": 2.19033,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1694
+ },
+ {
+  "key": "espagne|rubielos-mora|402:-7",
+  "src": "espagne-nord.json#60",
+  "n": "Rubielos de Mora",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rubielos de Mora (ES, 0.0 km)",
+   "ref": {
+    "name": "Teruel",
+    "geonameid": 3108126,
+    "y": 40.3456,
+    "x": -1.10646,
+    "km": 42.3,
+    "statedKm": 42
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 3111274
+  },
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1704
+ },
+ {
+  "key": "espagne|segobriga|399:-28",
+  "src": "espagne-sud.json#14",
+  "n": "Segóbriga",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saelices (ES, 3.8 km)",
+   "ref": {
+    "name": "Tarancón",
+    "geonameid": 3108317,
+    "y": 40.00851,
+    "x": -3.00731,
+    "km": 21.5,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1700
+ },
+ {
+  "key": "espagne|vejer-frontera|363:-60",
+  "src": "espagne-sud.json#59",
+  "n": "Vejer de la Frontera",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vejer de la Frontera (ES, 0.1 km)",
+   "ref": {
+    "name": "Vejer de la Frontera",
+    "geonameid": 2509783,
+    "y": 36.25213,
+    "x": -5.96717,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 2509783
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 1696
+ },
+ {
+  "key": "espagne|ezcaray|423:-30",
+  "src": "espagne-nord.json#50",
+  "n": "Ezcaray",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ezcaray (ES, 0.0 km)",
+   "ref": {
+    "name": "Ezcaray",
+    "geonameid": 3122709,
+    "y": 42.32536,
+    "x": -3.01309,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 3122709
+  },
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1707
+ },
+ {
+  "key": "espagne|huesca|421:-4",
+  "src": "espagne-nord.json#54",
+  "n": "Huesca",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Huesca (ES, 0.4 km)",
+   "ref": {
+    "name": "Huesca",
+    "geonameid": 3120514,
+    "y": 42.13615,
+    "x": -0.4087,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.38
+  },
+  "links": {
+   "geonames": 3120514
+  },
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1708
+ },
+ {
+  "key": "espagne|santes-creus|413:14",
+  "src": "espagne-nord.json#75",
+  "n": "Monastère de Santes Creus",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "El Pla de Santa Maria (ES, 6.1 km)",
+   "ref": {
+    "name": "Valls",
+    "geonameid": 3106492,
+    "y": 41.28612,
+    "x": 1.24993,
+    "km": 11.5,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1710
+ },
+ {
+  "key": "espagne|murcie|380:-11",
+  "src": "espagne-sud.json#49",
+  "n": "Murcie",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Murcia (ES, 0.4 km)",
+   "ref": {
+    "name": "Murcia",
+    "geonameid": 2513416,
+    "y": 37.98704,
+    "x": -1.13004,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.37
+  },
+  "links": {
+   "geonames": 2513416,
+   "qid": "Q12225"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1709
+ },
+ {
+  "key": "espagne|potes|432:-46",
+  "src": "espagne-nord.json#23",
+  "n": "Potes",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Potes (ES, 0.2 km)",
+   "ref": {
+    "name": "Potes",
+    "geonameid": 3113061,
+    "y": 43.15457,
+    "x": -4.62055,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.2
+  },
+  "links": {
+   "geonames": 3113061
+  },
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1705
+ },
+ {
+  "key": "espagne|andres-teixido|437:-80",
+  "src": "espagne-nord.json#1",
+  "n": "San Andrés de Teixido",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cerdido (ES, 10.1 km)",
+   "ref": {
+    "name": "Cedeira",
+    "geonameid": 3125537,
+    "y": 43.66044,
+    "x": -8.05719,
+    "km": 7.5,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1712
+ },
+ {
+  "key": "espagne|segura-sierra|383:-26",
+  "src": "espagne-sud.json#78",
+  "n": "Segura de la Sierra",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Segura de la Sierra (ES, 0.2 km)",
+   "ref": {
+    "name": "Orcera",
+    "geonameid": 2513094,
+    "y": 38.31742,
+    "x": -2.66487,
+    "km": 2.6,
+    "statedKm": 3
+   },
+   "status": "vérifié",
+   "snapped": 0.2
+  },
+  "links": {
+   "geonames": 2510968
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1713
+ },
+ {
+  "key": "espagne|source-rio-mundo|384:-24",
+  "src": "espagne-sud.json#19",
+  "n": "Source du Río Mundo",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Yeste (ES, 13.8 km)",
+   "ref": {
+    "name": "Riópar",
+    "geonameid": 2511818,
+    "y": 38.5,
+    "x": -2.45,
+    "km": 6.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1711
+ },
+ {
+  "key": "espagne|hecho|427:-8",
+  "src": "espagne-nord.json#56",
+  "n": "Vallée de Hecho",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Echo (ES, 0.2 km)",
+   "ref": {
+    "name": "Jaca",
+    "geonameid": 3120211,
+    "y": 42.56898,
+    "x": -0.54987,
+    "km": 25.2,
+    "statedKm": 25
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 12,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1706
+ },
+ {
+  "key": "espagne|baztan|431:-15",
+  "src": "espagne-nord.json#44",
+  "n": "Vallée du Baztan",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Elizondo (ES, 0.6 km)",
+   "ref": {
+    "name": "Elizondo",
+    "geonameid": null,
+    "y": 43.14829,
+    "x": -1.51785,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2317
+ },
+ {
+  "key": "espagne|velez-blanco|377:-21",
+  "src": "espagne-sud.json#87",
+  "n": "Vélez-Blanco",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vélez-Blanco (ES, 0.1 km)",
+   "ref": {
+    "name": "Velez Rubio",
+    "geonameid": 2509768,
+    "y": 37.64844,
+    "x": -2.07686,
+    "km": 5.1,
+    "statedKm": 6
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2509772
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 1714
+ },
+ {
+  "key": "espagne|alcazaba-almeria|368:-25",
+  "src": "espagne-sud.json#84",
+  "n": "Alcazaba d'Almería",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Almería (ES, 1.0 km)",
+   "ref": {
+    "name": "Almería",
+    "geonameid": 2521886,
+    "y": 36.83814,
+    "x": -2.45974,
+    "km": 1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1720
+ },
+ {
+  "key": "espagne|baiona|421:-88",
+  "src": "espagne-nord.json#8",
+  "n": "Baiona",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Baiona (ES, 0.5 km)",
+   "ref": {
+    "name": "Baiona",
+    "geonameid": 3128462,
+    "y": 42.11667,
+    "x": -8.85,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.54
+  },
+  "links": {
+   "geonames": 3128462
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1718
+ },
+ {
+  "key": "espagne|cambados|425:-88",
+  "src": "espagne-nord.json#7",
+  "n": "Cambados",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cambados (ES, 0.3 km)",
+   "ref": {
+    "name": "Cambados",
+    "geonameid": 3126899,
+    "y": 42.51222,
+    "x": -8.8131,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.32
+  },
+  "links": {
+   "geonames": 3126899
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1716
+ },
+ {
+  "key": "espagne|penas|437:-58",
+  "src": "espagne-nord.json#19",
+  "n": "Cap Peñas",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Luanco (ES, 6.3 km)",
+   "ref": {
+    "name": "Luanco",
+    "geonameid": 3117862,
+    "y": 43.61517,
+    "x": -5.79344,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1717
+ },
+ {
+  "key": "espagne|casares|364:-53",
+  "src": "espagne-sud.json#66",
+  "n": "Casares",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Casares (ES, 1.1 km)",
+   "ref": {
+    "name": "Casares",
+    "geonameid": 2519980,
+    "y": 36.44689,
+    "x": -5.2858,
+    "km": 1.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.1
+  },
+  "links": {
+   "geonames": 2519980
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1722
+ },
+ {
+  "key": "espagne|coves-drac|395:33",
+  "src": "espagne-sud.json#91",
+  "n": "Coves del Drac",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Porto Cristo (ES, 0.5 km)",
+   "ref": {
+    "name": "Porto Cristo",
+    "geonameid": 2512378,
+    "y": 39.53953,
+    "x": 3.33302,
+    "km": 0.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1719
+ },
+ {
+  "key": "espagne|jaen|378:-38",
+  "src": "espagne-sud.json#76",
+  "n": "Jaén",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jaén (ES, 0.4 km)",
+   "ref": {
+    "name": "Jaén",
+    "geonameid": 2516395,
+    "y": 37.76922,
+    "x": -3.79028,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.42
+  },
+  "links": {
+   "geonames": 2516395,
+   "qid": "Q15681"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1721
+ },
+ {
+  "key": "espagne|lagune-gallocanta|410:-15",
+  "src": "espagne-nord.json#63",
+  "n": "Lagune de Gallocanta",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gallocanta (ES, 1.8 km)",
+   "ref": {
+    "name": "Calamocha",
+    "geonameid": 3127059,
+    "y": 40.91933,
+    "x": -1.2975,
+    "km": 19.1,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1725
+ },
+ {
+  "key": "espagne|minas-riotinto|377:-66",
+  "src": "espagne-sud.json#70",
+  "n": "Minas de Riotinto",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Minas de Riotinto » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nerva (ES, 4.0 km)",
+   "ref": {
+    "name": "Nerva",
+    "geonameid": 2513237,
+    "y": 37.69627,
+    "x": -6.54967,
+    "km": 4,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1724
+ },
+ {
+  "key": "espagne|mundaka|434:-27",
+  "src": "espagne-nord.json#31",
+  "n": "Mundaka",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": null,
+   "nearestLocality": "Mundaka (ES, 0.1 km)",
+   "ref": {
+    "name": "Bermeo",
+    "geonameid": 3128174,
+    "y": 43.42088,
+    "x": -2.72152,
+    "km": 2.4,
+    "statedKm": 3
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 3115916
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1715
+ },
+ {
+  "key": "espagne|pastrana|404:-29",
+  "src": "espagne-sud.json#8",
+  "n": "Pastrana",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pastrana (ES, 0.1 km)",
+   "ref": {
+    "name": "Pastrana",
+    "geonameid": 3114204,
+    "y": 40.41902,
+    "x": -2.92256,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 3114204
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1726
+ },
+ {
+  "key": "espagne|penalara-sierra-guadarrama|408:-40",
+  "src": "espagne-sud.json#4",
+  "n": "Peñalara — Sierra de Guadarrama",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rascafría (ES, 11.3 km)",
+   "ref": {
+    "name": "Rascafría",
+    "geonameid": 3112276,
+    "y": 40.90407,
+    "x": -3.87898,
+    "km": 11.3,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1723
+ },
+ {
+  "key": "espagne|zafra|384:-64",
+  "src": "espagne-sud.json#29",
+  "n": "Zafra",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zafra (ES, 0.0 km)",
+   "ref": {
+    "name": "Zafra",
+    "geonameid": 2509377,
+    "y": 38.42539,
+    "x": -6.41734,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2509377
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1727
+ },
+ {
+  "key": "espagne|zuheros|375:-43",
+  "src": "espagne-sud.json#74",
+  "n": "Zuheros",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zuheros (ES, 0.0 km)",
+   "ref": {
+    "name": "Doña Mencía",
+    "geonameid": 2518825,
+    "y": 37.55346,
+    "x": -4.35602,
+    "km": 3.8,
+    "statedKm": 4
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2509302
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 1728
+ },
+ {
+  "key": "espagne|albufera-valence|393:-3",
+  "src": "espagne-sud.json#35",
+  "n": "Albufera de Valence",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "El Perelló (ES, 4.7 km)",
+   "ref": {
+    "name": "Sueca",
+    "geonameid": 2510764,
+    "y": 39.2026,
+    "x": -0.31114,
+    "km": 12.2,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 1729
+ },
+ {
+  "key": "espagne|olivenza|387:-71",
+  "src": "espagne-sud.json#30",
+  "n": "Olivenza",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Olivenza (ES, 0.3 km)",
+   "ref": {
+    "name": "Olivenza",
+    "geonameid": 9883562,
+    "y": 38.68269,
+    "x": -7.10046,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.32
+  },
+  "links": {
+   "geonames": 9883562
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 1732
+ },
+ {
+  "key": "espagne|osuna|372:-51",
+  "src": "espagne-sud.json#68",
+  "n": "Osuna",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Osuna (ES, 0.0 km)",
+   "ref": {
+    "name": "Osuna",
+    "geonameid": 2513052,
+    "y": 37.2376,
+    "x": -5.10311,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2513052
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 1733
+ },
+ {
+  "key": "espagne|silencio|436:-63",
+  "src": "espagne-nord.json#20",
+  "n": "Playa del Silencio",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cudillero (ES, 9.7 km)",
+   "ref": {
+    "name": "Cudillero",
+    "geonameid": 3124142,
+    "y": 43.56217,
+    "x": -6.14589,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 1731
+ },
+ {
+  "key": "espagne|haro|426:-28",
+  "src": "espagne-nord.json#47",
+  "n": "Haro",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Haro (ES, 0.1 km)",
+   "ref": {
+    "name": "Haro",
+    "geonameid": 3120874,
+    "y": 42.57634,
+    "x": -2.8476,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 3120874
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 1734
+ },
+ {
+  "key": "espagne|altea|386:-1",
+  "src": "espagne-sud.json#38",
+  "n": "Altea",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Altea (ES, 0.0 km)",
+   "ref": {
+    "name": "Altea",
+    "geonameid": 2521804,
+    "y": 38.59885,
+    "x": -0.05139,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2521804
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "espagne|calblanque|376:-7",
+  "src": "espagne-sud.json#52",
+  "n": "Calblanque",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Playa Honda (ES, 2.9 km)",
+   "ref": {
+    "name": "Cartagena",
+    "geonameid": null,
+    "y": 37.60043,
+    "x": -0.980028,
+    "km": 20.7,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "espagne|dalt-vila|389:14",
+  "src": "espagne-sud.json#93",
+  "n": "Dalt Vila",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Eivissa » absente du gazetier : contrôle par la localité la plus proche",
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ibiza (ES, 0.3 km)",
+   "ref": {
+    "name": "Ibiza",
+    "geonameid": 2516479,
+    "y": 38.90883,
+    "x": 1.43296,
+    "km": 0.3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "espagne|jerez-los-caballeros|383:-68",
+  "src": "espagne-sud.json#31",
+  "n": "Jerez de los Caballeros",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jerez de los Caballeros (ES, 0.1 km)",
+   "ref": {
+    "name": "Jerez de los Caballeros",
+    "geonameid": 2516325,
+    "y": 38.32063,
+    "x": -6.7726,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2516325
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "espagne|montefrio|373:-40",
+  "src": "espagne-sud.json#81",
+  "n": "Montefrío",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Montefrío (ES, 0.1 km)",
+   "ref": {
+    "name": "Montefrío",
+    "geonameid": 2513640,
+    "y": 37.32308,
+    "x": -4.00898,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 2513640
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "espagne|najera|424:-27",
+  "src": "espagne-nord.json#49",
+  "n": "Nájera",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nájera (ES, 0.4 km)",
+   "ref": {
+    "name": "Nájera",
+    "geonameid": 3115780,
+    "y": 42.41822,
+    "x": -2.72865,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "espagne|atienza|412:-29",
+  "src": "espagne-sud.json#6",
+  "n": "Atienza",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Atienza (ES, 0.0 km)",
+   "ref": {
+    "name": "Sigüenza",
+    "geonameid": 3108961,
+    "y": 41.06892,
+    "x": -2.64308,
+    "km": 23.8,
+    "statedKm": 24
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3129197
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|buitrago-lozoya|410:-36",
+  "src": "espagne-sud.json#1",
+  "n": "Buitrago del Lozoya",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Buitrago del Lozoya (ES, 0.4 km)",
+   "ref": {
+    "name": "Buitrago del Lozoya",
+    "geonameid": 3127521,
+    "y": 40.9909,
+    "x": -3.63365,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.37
+  },
+  "links": {
+   "geonames": 3127521
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|cerro-hierro|380:-56",
+  "src": "espagne-sud.json#95",
+  "n": "Cerro del Hierro",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Constantina (ES, 10.2 km)",
+   "ref": {
+    "name": "Constantina",
+    "geonameid": 2519278,
+    "y": 37.86667,
+    "x": -5.61667,
+    "km": 10.2,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|despenaperros|383:-35",
+  "src": "espagne-sud.json#96",
+  "n": "Despeñaperros",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Santa Elena (ES, 0.2 km)",
+   "ref": {
+    "name": "La Carolina",
+    "geonameid": 2516088,
+    "y": 38.27559,
+    "x": -3.61535,
+    "km": 10.1,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|dunes-liencres|435:-40",
+  "src": "espagne-nord.json#26",
+  "n": "Dunes de Liencres",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Liencres (ES, 2.7 km)",
+   "ref": {
+    "name": "Santander",
+    "geonameid": 3109718,
+    "y": 43.46472,
+    "x": -3.80444,
+    "km": 12.7,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|gorafe|375:-30",
+  "src": "espagne-sud.json#80",
+  "n": "Gorafe",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fonelas (ES, 13.7 km)",
+   "ref": {
+    "name": "Guadix",
+    "geonameid": 2516925,
+    "y": 37.29932,
+    "x": -3.13922,
+    "km": 21.8,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|el-soplao|433:-44",
+  "src": "espagne-nord.json#28",
+  "n": "Grotte d'El Soplao",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "San Vicente de la Barquera (ES, 10.3 km)",
+   "ref": {
+    "name": "Cabezón de la Sal",
+    "geonameid": 3127224,
+    "y": 43.30824,
+    "x": -4.23571,
+    "km": 15.6,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|rabida-quai-caravelles|372:-69",
+  "src": "espagne-sud.json#71",
+  "n": "La Rábida et le quai des Caravelles",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.8,
+   "otherCountry": null,
+   "nearestLocality": "Palos de la Frontera (ES, 4.0 km)",
+   "ref": {
+    "name": "Palos de la Frontera",
+    "geonameid": 2512950,
+    "y": 37.23457,
+    "x": -6.89471,
+    "km": 4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|fuente-piedra|371:-48",
+  "src": "espagne-sud.json#65",
+  "n": "Laguna de Fuente de Piedra",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fuente de Piedra (ES, 4.5 km)",
+   "ref": {
+    "name": "Fuente de Piedra",
+    "geonameid": 2517534,
+    "y": 37.13526,
+    "x": -4.73,
+    "km": 4.5,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|negra-urbion|420:-28",
+  "src": "espagne-nord.json#88",
+  "n": "Laguna Negra de Urbión",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Viniegra de Arriba (ES, 10.6 km)",
+   "ref": {
+    "name": "Soria",
+    "geonameid": 3108681,
+    "y": 41.76401,
+    "x": -2.46883,
+    "km": 40.9,
+    "statedKm": 41
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|medellin|390:-60",
+  "src": "espagne-sud.json#33",
+  "n": "Medellín",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Medellín (ES, 0.2 km)",
+   "ref": {
+    "name": "Don Benito",
+    "geonameid": 2518820,
+    "y": 38.95627,
+    "x": -5.86162,
+    "km": 8.5,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|orihuela|381:-9",
+  "src": "espagne-sud.json#43",
+  "n": "Orihuela",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Orihuela (ES, 0.0 km)",
+   "ref": {
+    "name": "Orihuela",
+    "geonameid": 2513076,
+    "y": 38.08483,
+    "x": -0.94401,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 2513076
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|los-muertos|370:-19",
+  "src": "espagne-sud.json#88",
+  "n": "Playa de los Muertos",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Carboneras (ES, 5.2 km)",
+   "ref": {
+    "name": "Carboneras",
+    "geonameid": 2520163,
+    "y": 36.99666,
+    "x": -1.89651,
+    "km": 5.2,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|sagunt|397:-3",
+  "src": "espagne-sud.json#37",
+  "n": "Sagunt",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Sagunt » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sagunto (ES, 1.1 km)",
+   "ref": {
+    "name": "Sagunto",
+    "geonameid": 2511619,
+    "y": 39.68333,
+    "x": -0.26667,
+    "km": 1.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|salobrena|367:-36",
+  "src": "espagne-sud.json#83",
+  "n": "Salobreña",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Salobreña (ES, 0.4 km)",
+   "ref": {
+    "name": "Salobreña",
+    "geonameid": 2511503,
+    "y": 36.74277,
+    "x": -3.58717,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 2511503
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|loyola|432:-23",
+  "src": "espagne-nord.json#33",
+  "n": "Sanctuaire de Loyola",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Azpeitia (ES, 1.5 km)",
+   "ref": {
+    "name": "Azpeitia",
+    "geonameid": 3129059,
+    "y": 43.18246,
+    "x": -2.26693,
+    "km": 1.5,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "espagne|aguilas|374:-16",
+  "src": "espagne-sud.json#56",
+  "n": "Águilas",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Águilas (ES, 0.0 km)",
+   "ref": {
+    "name": "Águilas",
+    "geonameid": 2522333,
+    "y": 37.4063,
+    "x": -1.58289,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2522333
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|badajoz|389:-70",
+  "src": "espagne-sud.json#32",
+  "n": "Badajoz",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Badajoz (ES, 0.6 km)",
+   "ref": {
+    "name": "Badajoz",
+    "geonameid": null,
+    "y": 38.880429,
+    "x": -6.969973,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.61
+  },
+  "links": {
+   "geonames": 2521420,
+   "qid": "Q15679"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|bocairent|388:-6",
+  "src": "espagne-sud.json#44",
+  "n": "Bocairent",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bocairent (ES, 0.4 km)",
+   "ref": {
+    "name": "Bocairent",
+    "geonameid": 2520898,
+    "y": 38.76667,
+    "x": -0.61667,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.37
+  },
+  "links": {
+   "geonames": 2520898
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|nau|387:2",
+  "src": "espagne-sud.json#40",
+  "n": "Cap de la Nau",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Xàbia » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.8,
+   "otherCountry": null,
+   "nearestLocality": "Benitachell (ES, 7.8 km)",
+   "ref": {
+    "name": "Benitachell",
+    "geonameid": 2521044,
+    "y": 38.73273,
+    "x": 0.14354,
+    "km": 7.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|caravaca-cruz|381:-19",
+  "src": "espagne-sud.json#51",
+  "n": "Caravaca de la Cruz",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Caravaca de la Cruz » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Caravaca (ES, 0.1 km)",
+   "ref": {
+    "name": "Caravaca",
+    "geonameid": 2520171,
+    "y": 38.10558,
+    "x": -1.86343,
+    "km": 0.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2520171
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|chinchilla-montearagon|389:-17",
+  "src": "espagne-sud.json#18",
+  "n": "Chinchilla de Montearagón",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chinchilla de Monte Aragón (ES, 0.2 km)",
+   "ref": {
+    "name": "Albacete",
+    "geonameid": 2522258,
+    "y": 38.99424,
+    "x": -1.85643,
+    "km": 14.2,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|coria|400:-65",
+  "src": "espagne-sud.json#27",
+  "n": "Coria",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Coria (ES, 0.2 km)",
+   "ref": {
+    "name": "Coria",
+    "geonameid": 2519234,
+    "y": 39.98406,
+    "x": -6.53603,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.18
+  },
+  "links": {
+   "geonames": 2519234
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|hervas|403:-59",
+  "src": "espagne-sud.json#25",
+  "n": "Hervás",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hervás (ES, 0.6 km)",
+   "ref": {
+    "name": "Hervás",
+    "geonameid": 3120776,
+    "y": 40.27081,
+    "x": -5.86721,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.57
+  },
+  "links": {
+   "geonames": 3120776
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|los-millares|370:-25",
+  "src": "espagne-sud.json#86",
+  "n": "Los Millares",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alsodux (ES, 6.7 km)",
+   "ref": {
+    "name": "Alhama de Almería",
+    "geonameid": 2521994,
+    "y": 36.95692,
+    "x": -2.56861,
+    "km": 8.5,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|luarca|435:-65",
+  "src": "espagne-nord.json#16",
+  "n": "Luarca",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "localité « Luarca » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Navia (ES, 14.8 km)",
+   "ref": {
+    "name": "Navia",
+    "geonameid": 3115553,
+    "y": 43.53544,
+    "x": -6.71935,
+    "km": 14.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|leyre|426:-12",
+  "src": "espagne-nord.json#40",
+  "n": "Monastère de Leyre",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Sangüesa » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Yesa (ES, 3.2 km)",
+   "ref": {
+    "name": "Yesa",
+    "geonameid": 3104412,
+    "y": 42.62025,
+    "x": -1.2036,
+    "km": 3.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|montanejos|401:-5",
+  "src": "espagne-sud.json#47",
+  "n": "Montanejos",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Montanejos (ES, 0.7 km)",
+   "ref": {
+    "name": "Montanejos",
+    "geonameid": 3116425,
+    "y": 40.06667,
+    "x": -0.51667,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|roda-isabena|423:5",
+  "src": "espagne-nord.json#57",
+  "n": "Roda de Isábena",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Beranuy (ES, 10.0 km)",
+   "ref": {
+    "name": "Graus",
+    "geonameid": 3121135,
+    "y": 42.18885,
+    "x": 0.33749,
+    "km": 19.4,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|sanlucar-barrameda|368:-64",
+  "src": "espagne-sud.json#63",
+  "n": "Sanlúcar de Barrameda",
+  "p": "Espagne",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sanlúcar de Barrameda (ES, 0.0 km)",
+   "ref": {
+    "name": "Sanlúcar de Barrameda",
+    "geonameid": 2511306,
+    "y": 36.77808,
+    "x": -6.3515,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2511306
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "espagne|alcala-real|375:-39",
+  "src": "espagne-sud.json#77",
+  "n": "Alcalá la Real",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alcalá la Real (ES, 0.6 km)",
+   "ref": {
+    "name": "Alcalá la Real",
+    "geonameid": 2522160,
+    "y": 37.4614,
+    "x": -3.92301,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|cala-mondrago|394:32",
+  "src": "espagne-sud.json#97",
+  "n": "Cala Mondragó",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cala d'Or (ES, 5.0 km)",
+   "ref": {
+    "name": "Santanyí",
+    "geonameid": 2511106,
+    "y": 39.35461,
+    "x": 3.12907,
+    "km": 5.1,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|fragas-eume|434:-81",
+  "src": "espagne-nord.json#2",
+  "n": "Fragas do Eume",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Pontedeume » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fene (ES, 7.7 km)",
+   "ref": {
+    "name": "Fene",
+    "geonameid": 3122564,
+    "y": 43.45,
+    "x": -8.15,
+    "km": 7.7,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|zugarramurdi|433:-15",
+  "src": "espagne-nord.json#45",
+  "n": "Grotte de Zugarramurdi",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zugarramurdi (ES, 0.3 km)",
+   "ref": {
+    "name": "Elizondo",
+    "geonameid": null,
+    "y": 43.14829,
+    "x": -1.51785,
+    "km": 13.5,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|molina-aragon|408:-19",
+  "src": "espagne-sud.json#20",
+  "n": "Molina de Aragón",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Molina de Aragón (ES, 0.1 km)",
+   "ref": {
+    "name": "Molina de Aragón",
+    "geonameid": 3116595,
+    "y": 40.84358,
+    "x": -1.88762,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3116595
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|el-paular|409:-39",
+  "src": "espagne-sud.json#3",
+  "n": "Monastère d'El Paular",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rascafría (ES, 2.0 km)",
+   "ref": {
+    "name": "Rascafría",
+    "geonameid": 3112276,
+    "y": 40.90407,
+    "x": -3.87898,
+    "km": 2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|requena|395:-11",
+  "src": "espagne-sud.json#45",
+  "n": "Requena",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Requena (ES, 0.1 km)",
+   "ref": {
+    "name": "Requena",
+    "geonameid": 2511930,
+    "y": 39.48834,
+    "x": -1.10044,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2511930
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|vilafames|401:-1",
+  "src": "espagne-sud.json#48",
+  "n": "Vilafamés",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Villafamés (ES, 0.4 km)",
+   "ref": {
+    "name": "Castelló de la Plana",
+    "geonameid": 2519752,
+    "y": 39.98567,
+    "x": -0.04935,
+    "km": 14.4,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "espagne|almodovar-rio|378:-50",
+  "src": "espagne-sud.json#75",
+  "n": "Château d'Almodóvar del Río",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Almodóvar del Río (ES, 0.4 km)",
+   "ref": {
+    "name": "Almodóvar del Río",
+    "geonameid": 2521867,
+    "y": 37.8107,
+    "x": -5.02037,
+    "km": 0.4,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "espagne|empreintes-dinosaures-enciso|421:-23",
+  "src": "espagne-nord.json#51",
+  "n": "Empreintes de dinosaures d'Enciso",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Enciso (ES, 0.1 km)",
+   "ref": {
+    "name": "Arnedo",
+    "geonameid": 3129476,
+    "y": 42.228,
+    "x": -2.10083,
+    "km": 16.4,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "espagne|erosions-bolnuevo|376:-13",
+  "src": "espagne-sud.json#53",
+  "n": "Érosions de Bolnuevo",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mazarrón (ES, 4.1 km)",
+   "ref": {
+    "name": "Mazarrón",
+    "geonameid": 2513983,
+    "y": 37.5992,
+    "x": -1.31493,
+    "km": 4.1,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "espagne|los-barruecos|394:-65",
+  "src": "espagne-sud.json#94",
+  "n": "Los Barruecos",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cáceres (ES, 11.0 km)",
+   "ref": {
+    "name": "Malpartida de Cáceres",
+    "geonameid": 2514227,
+    "y": 39.44664,
+    "x": -6.5076,
+    "km": 2.4,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "espagne|ucles|400:-29",
+  "src": "espagne-sud.json#15",
+  "n": "Monastère d'Uclés",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Uclés (ES, 0.2 km)",
+   "ref": {
+    "name": "Tarancón",
+    "geonameid": 3108317,
+    "y": 40.00851,
+    "x": -3.00731,
+    "km": 12.9,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "espagne|barcena-mayor|431:-42",
+  "src": "espagne-nord.json#27",
+  "n": "Bárcena Mayor",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ruente (ES, 13.1 km)",
+   "ref": {
+    "name": "Cabezón de la Sal",
+    "geonameid": 3127224,
+    "y": 43.30824,
+    "x": -4.23571,
+    "km": 18.3,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "espagne|barranco-rio-dulce|410:-26",
+  "src": "espagne-sud.json#7",
+  "n": "Barranco del Río Dulce",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sigüenza (ES, 6.3 km)",
+   "ref": {
+    "name": "Sigüenza",
+    "geonameid": 3108961,
+    "y": 41.06892,
+    "x": -2.64308,
+    "km": 6.3,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "espagne|calahorra|372:-31",
+  "src": "espagne-sud.json#82",
+  "n": "Château de La Calahorra",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aldeire (ES, 2.4 km)",
+   "ref": {
+    "name": "Guadix",
+    "geonameid": 2516925,
+    "y": 37.29932,
+    "x": -3.13922,
+    "km": 14.7,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "espagne|sierra-espuna|379:-16",
+  "src": "espagne-sud.json#55",
+  "n": "Sierra Espuña",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aledo (ES, 8.0 km)",
+   "ref": {
+    "name": "Alhama de Murcia",
+    "geonameid": 2521992,
+    "y": 37.85103,
+    "x": -1.42507,
+    "km": 12.5,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "espagne|ricote|382:-14",
+  "src": "espagne-sud.json#54",
+  "n": "Vallée de Ricote",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ricote (ES, 0.3 km)",
+   "ref": {
+    "name": "Archena",
+    "geonameid": 2521676,
+    "y": 38.11631,
+    "x": -1.30043,
+    "km": 7.3,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "espagne|villajoyosa|385:-2",
+  "src": "espagne-sud.json#41",
+  "n": "Villajoyosa",
+  "p": "Espagne",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Villajoyosa (ES, 0.0 km)",
+   "ref": {
+    "name": "Villajoyosa",
+    "geonameid": 2509588,
+    "y": 38.50754,
+    "x": -0.23346,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2509588
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "espagne|granadilla|403:-61",
+  "src": "espagne-sud.json#26",
+  "n": "Granadilla",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zarza de Granadilla (ES, 5.3 km)",
+   "ref": {
+    "name": "Hervás",
+    "geonameid": 3120776,
+    "y": 40.27081,
+    "x": -5.86721,
+    "km": 19.5,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "espagne|urkiola|431:-26",
+  "src": "espagne-nord.json#35",
+  "n": "Parc naturel d'Urkiola",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mañaria (ES, 4.4 km)",
+   "ref": {
+    "name": "Durango",
+    "geonameid": 3123773,
+    "y": 43.17124,
+    "x": -2.6338,
+    "km": 7.9,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "espagne|foz-lumbier|426:-13",
+  "src": "espagne-nord.json#41",
+  "n": "Foz de Lumbier",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Sangüesa » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lumbier (ES, 1.5 km)",
+   "ref": {
+    "name": "Lumbier",
+    "geonameid": 3117804,
+    "y": 42.65303,
+    "x": -1.30669,
+    "km": 1.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "espagne|fonts-algar|387:-1",
+  "src": "espagne-sud.json#42",
+  "n": "Fonts de l'Algar",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bolulla (ES, 2.3 km)",
+   "ref": {
+    "name": "Callosa d'En Sarrià",
+    "geonameid": 2520503,
+    "y": 38.65,
+    "x": -0.11667,
+    "km": 2.6,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "espagne|villanueva-los-infantes|387:-30",
+  "src": "espagne-sud.json#21",
+  "n": "Villanueva de los Infantes",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Villanueva de los Infantes » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Infantes (ES, 0.2 km)",
+   "ref": {
+    "name": "Infantes",
+    "geonameid": 2516449,
+    "y": 38.73669,
+    "x": -3.01219,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "espagne|covadonga|433:-51",
+  "src": "espagne-nord.json#13",
+  "n": "Covadonga",
+  "p": "Espagne",
+  "c": "patrimoine",
+  "issues": [
+   "doublon d'un autre candidat : « Lacs de Covadonga »"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Amieva (ES, 7.3 km)",
+   "ref": {
+    "name": "Cangas de Onís",
+    "geonameid": 3126571,
+    "y": 43.3514,
+    "x": -5.12916,
+    "km": 7.6,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "doublon d'un autre candidat : « Lacs de Covadonga »"
+ },
+ {
+  "key": "espagne|dunes-corrubedo|426:-90",
+  "src": "espagne-nord.json#5",
+  "n": "Dunes de Corrubedo",
+  "p": "Espagne",
+  "c": "nature",
+  "issues": [
+   "à 53.5 km de Ribeira (annoncé 5 km) : coordonnées incohérentes"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.6,
+   "otherCountry": null,
+   "nearestLocality": "Porto do Son (ES, 18.1 km)",
+   "ref": {
+    "name": "Ribeira",
+    "geonameid": 3111807,
+    "y": 42.74611,
+    "x": -8.44392,
+    "km": 53.5,
+    "statedKm": 5
+   },
+   "status": "écart"
+  },
+  "links": {},
+  "decision": "rejeté",
+  "reason": "à 53.5 km de Ribeira (annoncé 5 km) : coordonnées incohérentes"
+ }
+]

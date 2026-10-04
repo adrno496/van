@@ -82,3 +82,20 @@ export function writeJson(file, value) {
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, JSON.stringify(value, null, 2) + '\n');
 }
+
+// Catalogue réellement livré dans un Planner construit (index.html autonome, ou variante à fichiers séparés) :
+// les tests comparent ce que la page affiche à ce que le fichier contient, quelle que soit la taille du catalogue.
+export function shippedCatalogue(dirOrFile) {
+  const file = dirOrFile.endsWith('.html') ? dirOrFile : path.join(dirOrFile, 'index.html');
+  const html = fs.readFileSync(file, 'utf8');
+  const m = html.match(/<script type="application\/json" id="atlasData">([\s\S]*?)<\/script>/);
+  let data;
+  if (m) data = JSON.parse(m[1]);
+  else {
+    const js = fs.readFileSync(path.join(path.dirname(file), 'assets', 'places.js'), 'utf8');
+    data = JSON.parse(js.slice(js.indexOf('{'), js.lastIndexOf('}') + 1));
+  }
+  return { places: data.lieux.length, bases: data.lieux.filter((p) => p.c === 'base').length, lieux: data.lieux, parcours: data.parcours };
+}
+// Écriture des nombres dans l'interface : « 3 412 », avec une espace (insécable ou non) entre les milliers.
+export const countPattern = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');

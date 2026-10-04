@@ -119,6 +119,19 @@ function toWorld(cx, cy) { var r = svg.getBoundingClientRect(); return [vb[0] + 
    Les marqueurs gardent une taille constante à l'écran, réduite en vue d'ensemble pour ne pas saturer la carte.
    Les noms sont placés par ordre de priorité, sans chevauchement ; les lieux moins importants se nomment en zoomant. */
 var showLabels = true, allLabels = false, showCountry = true, labels = [], labelsUsed = 0;
+// Largeur réelle d'un nom, pour une taille de police de 1 : mesurée une fois dans la police des noms (canevas hors page),
+// elle remplace l'estimation « nombre de lettres × 0,56 » qui sous-estimait les noms larges et laissait des noms se chevaucher.
+var labelCtx = null;
+function labelWidth(L) {
+  if (L._twn !== L.n) {
+    L._twn = L.n; L._tw = L.n.length * .56;
+    try {
+      if (!labelCtx) { labelCtx = document.createElement('canvas').getContext('2d'); labelCtx.font = '600 100px ' + (getComputedStyle(document.documentElement).getPropertyValue('--font-body').trim() || 'sans-serif'); }
+      var w = labelCtx.measureText(L.n).width / 100; if (w > 0) L._tw = w;
+    } catch (e) { /* estimation conservée */ }
+  }
+  return L._tw;
+}
 function rescale() {
   var k = vb[2] / Math.max(W, 320), fs = k * 12, kept = [], order = [], inRoute = new Set(route);
   // k = unités de carte par pixel : grand en vue d'ensemble (surtout sur petit écran), petit quand on zoome.
@@ -145,7 +158,7 @@ function rescale() {
   gT.setAttribute('font-size', fs); gT.setAttribute('stroke-width', k * 2.4);
   for (var o = 0; o < order.length; o++) {
     var p = order[o], ext = p._r * (EXT[p.c] || 1.15);
-    var x0 = p.px + ext, y0 = p.py - h * .62, x1 = x0 + p.n.length * fs * .56 + ext + k * 5, y1 = y0 + h, clash = false;
+    var x0 = p.px + ext, y0 = p.py - h * .62, x1 = x0 + labelWidth(p) * fs + ext + k * 5, y1 = y0 + h, clash = false;
     for (var j = 0; j < kept.length; j++) { var q = kept[j]; if (x0 < q[2] && x1 > q[0] && y0 < q[3] && y1 > q[1]) { clash = true; break; } }
     if (clash && p._prio > 1 && !allLabels) continue;
     kept.push([x0, y0, x1, y1]);

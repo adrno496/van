@@ -1,0 +1,9 @@
+{
+ "note": "Arbitrages manuels après lecture de data-sources/review/v10 : keep = garder malgré la règle automatique (raison en commentaire ci-dessous) ; drop = écarter avec la raison.",
+ "keepReasons": {
+  "italie|come|458:91": "Côme (ville) est à 27 km du point « Lac de Côme » : la ville au bout du lac est une étape distincte, pas un doublon du lac.",
+  "italie|stelvio|465:105": "Le col routier du Stelvio est une expérience de route à part entière, à 8 km du point du parc national."
+ },
+ "keep": ["italie|come|458:91", "italie|stelvio|465:105"],
+ "drop": {}
+}

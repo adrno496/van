@@ -3,12 +3,14 @@
 // Complète tests/e2e.mjs (77 tests de non-régression, inchangés) sans le remplacer.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, loadPlaywright, serve, openApp, writeJson } from './lib/harness.mjs';
+import { ROOT, loadPlaywright, serve, openApp, writeJson, shippedCatalogue, countPattern } from './lib/harness.mjs';
 
 const args = process.argv.slice(2);
 const opt = (f, d) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : d; };
 const dir = path.resolve(opt('--dir', ROOT));
 const publicDir = path.resolve(opt('--public', path.join(ROOT, 'dist/public/app')));   // le Planner de la version publique (node build.mjs --mode public)
+// Nombre de lieux de la version publique : celui que contient son fichier (1 595 avant le lot v10).
+const PUB = fs.existsSync(path.join(publicDir, 'index.html')) ? shippedCatalogue(publicDir).places : 0, PUBRE = new RegExp(countPattern(PUB));
 const out = path.resolve(opt('--out', 'test-results/v2.json'));
 const only = opt('--only', null)?.split(',');
 
@@ -157,7 +159,7 @@ group('securite-etendue', 'desktop-1440x900', {}, {
     const raw = '{"app":"atlas-van","version":3,"data":{"__proto__":{"polluted":"oui"},"constructor":{"prototype":{"polluted":"oui"}},"edits":{"__proto__":{"polluted":"oui"}},"notes":{"__proto__":{"st":"fav","polluted":"oui"},"constructor":{"st":"fav"}},"custom":[],"route":[],"saved":[],"opts":{"__proto__":{"polluted":"oui"}},"cSeq":0}}';
     await restore(page, raw); await closeDialogs(page);
     const s = await ev(page, () => ({ obj: ({}).polluted, arr: [].polluted, notes: Object.keys(ST.notes).filter((k) => !/^(\d+|c\d+)$/.test(k)), edits: Object.keys(ST.edits).filter((k) => !/^(\d+|c\d+)$/.test(k)), proto: Object.getPrototypeOf(ST.notes) === Object.prototype || Object.getPrototypeOf(ST.notes) === null, alive: PTS.length }));
-    eq([s.obj, s.arr, s.notes, s.edits, s.proto], [undefined, undefined, [], [], true], 'prototype intact, aucune clé étrangère'); assert(s.alive >= 1595, 'application utilisable');
+    eq([s.obj, s.arr, s.notes, s.edits, s.proto], [undefined, undefined, [], [], true], 'prototype intact, aucune clé étrangère'); assert(s.alive >= shippedCatalogue(dir).places - 5, 'application utilisable');
     const route = '{"version":3,"etapes":[{"nom":"A","lat":46,"lon":2,"perso":true,"__proto__":{"polluted":"oui"}}],"__proto__":{"polluted":"oui"}}';
     await page.setInputFiles('#imp', fileOf('p.json', route)); await settle(page, 400); const ok = page.locator('dialog[open] [data-dialog-ok]'); if (await ok.count()) await ok.first().click(); await settle(page, 300);
     eq(await ev(page, () => [({}).polluted, PTS.filter((p) => p.perso).every((p) => p.polluted === undefined)]), [undefined, true], 'import de parcours : prototype intact'); await closeDialogs(page);
@@ -281,9 +283,9 @@ group('endurance', 'desktop-1440x900', {}, {
 /* ───────────── Version publique (dist-public) ───────────── */
 const PERSONAL_STRINGS = ['Chez ma mère', 'Chez mes grands-parents', 'Chez une amie', 'Chez ma marraine', 'Maison des grands-parents', 'Milan (marraine)', 'Port d\'attache', 'marraine', 'grands-parents'];
 group('public', 'desktop-1440x900', { publicBuild: true }, {
-  'démarrage : 1 595 lieux, aucune base, aucune erreur': async ({ page, errors }) => {
+  'démarrage : tous les lieux publics, aucune base, aucune erreur': async ({ page, errors }) => {
     const s = await ev(page, () => ({ pts: PTS.length, markers: document.querySelectorAll('#map .poi').length, bases: PTS.filter((p) => p.c === 'base').length, halos: Object.keys(halos).length, status: document.querySelector('#topStatus').textContent, title: document.title, counter: document.querySelector('#counter').textContent }));
-    eq([s.pts, s.markers, s.bases, s.halos], [1595, 1595, 0, 0], 'catalogue public'); assert(/1.595 lieux/.test(s.status) && /1.595 lieux/.test(s.title) && /1.595/.test(s.counter), 'nombre annoncé : ' + [s.status, s.title, s.counter].join(' | ')); eq(errors, [], 'erreurs');
+    eq([s.pts, s.markers, s.bases, s.halos], [PUB, PUB, 0, 0], 'catalogue public'); assert(new RegExp(countPattern(PUB) + ' lieux').test(s.status) && new RegExp(countPattern(PUB) + ' lieux').test(s.title) && PUBRE.test(s.counter), 'nombre annoncé : ' + [s.status, s.title, s.counter].join(' | ')); eq(errors, [], 'erreurs');
   },
   'aucun texte personnel dans le fichier ni dans la page': async ({ page }) => {
     const html = fs.readFileSync(path.join(publicDir, 'index.html'), 'utf8');
@@ -308,7 +310,7 @@ group('public', 'desktop-1440x900', { publicBuild: true }, {
       await ev(a.page, () => { booted = false; localStorage.setItem('atlasvan.v3', JSON.stringify({ edits: {}, notes: { 0: { st: 'fav', txt: 'note sur une base' }, 16: { st: 'fav', txt: 'note gardée' } }, custom: [], route: [0, 16, 20, 1, 25], opts: {}, cSeq: 0, prAppend: false, saved: [{ n: 'Mon tour', d: '', l: [0, 16, 20] }] })); });
       await a.page.reload(); await ready(a.page);
       const s = await ev(a.page, () => ({ route: route.slice(), note: ST.notes[16] && ST.notes[16].txt, pts: PTS.length, saved: ST.saved.map((p) => p.l) }));
-      eq([s.route, s.note, s.pts, s.saved], [[16, 20, 25], 'note gardée', 1595, [[16, 20]]], 'étapes publiques et notes conservées, bases ignorées'); eq(a.errors, [], 'erreurs');
+      eq([s.route, s.note, s.pts, s.saved], [[16, 20, 25], 'note gardée', PUB, [[16, 20]]], 'étapes publiques et notes conservées, bases ignorées'); eq(a.errors, [], 'erreurs');
       // Rien n'est perdu en silence : l'état d'origine est mis de côté, l'utilisateur est prévenu.
       eq(await ev(a.page, () => [stateRepaired, JSON.parse(localStorage.getItem('atlasvan.v3.recovery')).route]), [true, [0, 16, 20, 1, 25]], 'état d\'origine conservé à part');
     } finally { await a.context.close(); }
