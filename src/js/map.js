@@ -196,6 +196,7 @@ function labelWidth(L) {
   return L._tw;
 }
 function rescale() {
+  if (!gest) svg.classList.remove('zooming');   // fin d'un zoom à la molette : le liseré des marqueurs revient
   var k = vb[2] / Math.max(W, 320), fs = k * 12, kept = [], order = [], inRoute = new Set(route);
   // k = unités de carte par pixel : grand en vue d'ensemble (surtout sur petit écran), petit quand on zoome.
   var dense = Math.min(1, Math.max(.5, .62 / k + .22));
@@ -328,7 +329,7 @@ function selectPointAt(cx, cy) {
 var ptrs = {}, gest = null;
 function wireMapGestures() {
   svg.addEventListener('wheel', function (e) {
-    e.preventDefault(); geoFollow = false;
+    e.preventDefault(); geoFollow = false; svg.classList.add('zooming');
     var w = toWorld(e.clientX, e.clientY);
     zoomAt(w[0], w[1], Math.exp(Math.max(-100, Math.min(100, e.deltaY * (e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? H : 1))) * .002));
   }, { passive: false });
@@ -340,7 +341,7 @@ function wireMapGestures() {
     else if (ks.length === 2) {
       var a = ptrs[ks[0]], b = ptrs[ks[1]];
       gest = { mode: 'pinch', d0: Math.hypot(a.x - b.x, a.y - b.y), vb0: vb.slice(), c0: toWorld((a.x + b.x) / 2, (a.y + b.y) / 2) };
-      svg.classList.remove('drag');
+      svg.classList.remove('drag'); svg.classList.add('zooming');
     }
     hideTip();
   });
@@ -371,7 +372,7 @@ function wireMapGestures() {
     delete ptrs[e.pointerId];
     if (!Object.keys(ptrs).length) {
       if (tap && addMode) placeCustom(e.clientX, e.clientY); else if (tap) selectPointAt(e.clientX, e.clientY);
-      gest = null; svg.classList.remove('drag'); rescale(); scaleBar();
+      gest = null; svg.classList.remove('drag'); svg.classList.remove('zooming'); rescale(); scaleBar();
     } else { var rem = ptrs[Object.keys(ptrs)[0]]; gest = { mode: 'pan', x: rem.x, y: rem.y, vx: vb[0], vy: vb[1], moved: 99 }; }
   }
   svg.addEventListener('pointerup', up); svg.addEventListener('pointercancel', up);

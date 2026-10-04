@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-lAY2qABCynUfwKVAV9sLPMSevWovdgBxpBQ6bBPYbbk='; style-src 'sha256-miSqrI2htn1SEtY9BOdgEdgJkp05Y1UGz2o+/3SGKM4='; img-src data: blob:; connect-src 'none'; font-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-vrbxD5GX64jMxU+g/h2c2od8k1sb72wZBNWh2hDtYoo='; style-src 'sha256-sCihTE7PSPQUUr3H4bXTWbICw5tnw0Zb+nhMBFIr8B0='; img-src data: blob:; connect-src 'none'; font-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="no-referrer">
 <title>Atlas van — 3 400 lieux et votre carnet de voyage</title>
 <meta name="description" content="Explorez 3 400 lieux en Europe, préparez vos trajets et racontez vos voyages avec des photos dans votre carnet personnel.">
@@ -434,10 +434,10 @@ svg#map.addmode{cursor:crosshair}
 .poi.hov{stroke:var(--text)}
 .poi.fav{stroke:var(--cat-patrimoine);stroke-opacity:1}
 .poi.sel{stroke:var(--text);stroke-opacity:1}
-/* Pendant un glissement de la carte, les marqueurs ordinaires perdent leur liseré clair : avec 3 400 lieux, il double
+/* Pendant un glissement ou un zoom continu (pincement, molette), les marqueurs ordinaires perdent leur liseré clair : avec 3 400 lieux, il double
    le travail de dessin de chaque image. Formes et couleurs restent ; le lieu choisi et les favoris gardent leur contour.
    Le liseré revient dès que le geste se termine. */
-#map.drag .poi:not(.sel):not(.fav){stroke:none}
+#map.drag .poi:not(.sel):not(.fav),#map.zooming .poi:not(.sel):not(.fav){stroke:none}
 /* Textes de la carte en précision géométrique : ils suivent le zoom sans être recomposés à chaque image. */
 #map text{text-rendering:geometricPrecision}
 .lbl{font-family:var(--font-body);font-weight:600;fill:var(--text);paint-order:stroke;stroke:var(--map-halo);stroke-linejoin:round}
@@ -1702,6 +1702,7 @@ function labelWidth(L) {
   return L._tw;
 }
 function rescale() {
+  if (!gest) svg.classList.remove('zooming');   // fin d'un zoom à la molette : le liseré des marqueurs revient
   var k = vb[2] / Math.max(W, 320), fs = k * 12, kept = [], order = [], inRoute = new Set(route);
   // k = unités de carte par pixel : grand en vue d'ensemble (surtout sur petit écran), petit quand on zoome.
   var dense = Math.min(1, Math.max(.5, .62 / k + .22));
@@ -1834,7 +1835,7 @@ function selectPointAt(cx, cy) {
 var ptrs = {}, gest = null;
 function wireMapGestures() {
   svg.addEventListener('wheel', function (e) {
-    e.preventDefault(); geoFollow = false;
+    e.preventDefault(); geoFollow = false; svg.classList.add('zooming');
     var w = toWorld(e.clientX, e.clientY);
     zoomAt(w[0], w[1], Math.exp(Math.max(-100, Math.min(100, e.deltaY * (e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? H : 1))) * .002));
   }, { passive: false });
@@ -1846,7 +1847,7 @@ function wireMapGestures() {
     else if (ks.length === 2) {
       var a = ptrs[ks[0]], b = ptrs[ks[1]];
       gest = { mode: 'pinch', d0: Math.hypot(a.x - b.x, a.y - b.y), vb0: vb.slice(), c0: toWorld((a.x + b.x) / 2, (a.y + b.y) / 2) };
-      svg.classList.remove('drag');
+      svg.classList.remove('drag'); svg.classList.add('zooming');
     }
     hideTip();
   });
@@ -1877,7 +1878,7 @@ function wireMapGestures() {
     delete ptrs[e.pointerId];
     if (!Object.keys(ptrs).length) {
       if (tap && addMode) placeCustom(e.clientX, e.clientY); else if (tap) selectPointAt(e.clientX, e.clientY);
-      gest = null; svg.classList.remove('drag'); rescale(); scaleBar();
+      gest = null; svg.classList.remove('drag'); svg.classList.remove('zooming'); rescale(); scaleBar();
     } else { var rem = ptrs[Object.keys(ptrs)[0]]; gest = { mode: 'pan', x: rem.x, y: rem.y, vx: vb[0], vy: vb[1], moved: 99 }; }
   }
   svg.addEventListener('pointerup', up); svg.addEventListener('pointercancel', up);

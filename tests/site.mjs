@@ -32,7 +32,7 @@ const PERSONAL_STRINGS = ['Chez ma mère', 'Chez mes grands-parents', 'Chez une 
 const N_ALL = catalogue('personal').app.lieux.length, N_PUB = catalogue('public').app.lieux.length;
 // Valeurs du catalogue public utilisées par les pages : itinéraires (25 avant le lot v10), lieux d'Italie sans la base
 // retirée (362 avant), écriture des nombres dans les pages (espace insécable entre les milliers).
-const PUB = catalogue('public').app, N_TRIPS = PUB.parcours.length, N_ITALIE = PUB.lieux.filter((p) => p.p === 'Italie').length;
+const CAT_PUB = catalogue('public').app, N_TRIPS = CAT_PUB.parcours.length, N_ITALIE = CAT_PUB.lieux.filter((p) => p.p === 'Italie').length;
 const numRe = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 const WIDTHS = [320, 360, 390, 430, 768, 820, 1024, 1280, 1440, 1920];
 
