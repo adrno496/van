@@ -56,7 +56,7 @@ const TESTS = {
     }
     eq([sniff(Buffer.from('<svg xmlns="http://www.w3.org/2000/svg"></svg>')), sniff(Buffer.from('GIF89a' + 'x'.repeat(20))), sniff(Buffer.from('<html><script>alert(1)</script></html>'))], [null, null, null], 'SVG, GIF, HTML refusés');
   },
-  'premier import : brouillon privé quoi que dise le fichier, identifiant de la note, rattachement au voyage en cours, avertissements': () => {
+  'premier import : brouillon privé quoi que dise le fichier, identifiant de la note, rattachement au voyage en cours, avertissements ; publication explicite': () => {
     const dir = newContent('premier'), f = exportFile('premier', [post({ photos: [{ src: dataUrl('jpeg', withGps.jpeg(JPG)), caption: 'Coucher de soleil' }, { src: dataUrl('png', PNG), caption: '' }] })]);
     const outText = imp(f, dir), [a] = articles(dir);
     eq([a.visibility, a.status, a.voyage, a.source.kind, a.source.id, a.slug], ['private', 'draft', 'espagne', 'carnet', 'note-0001', '2026-04-18-nuit-a-bardenas'], 'article créé');
@@ -68,6 +68,14 @@ const TESTS = {
     assert(/Brouillon/.test(fs.readFileSync(path.join(tmp, 'site-premier', 'carnet', a.slug, 'index.html'), 'utf8')), 'article visible et marqué brouillon dans la version personnelle');
     const p = spawnSync(process.execPath, [path.join(ROOT, 'build.mjs'), '--mode', 'public', '--content', dir, '--dir', path.join(tmp, 'site-premier-pub')], { encoding: 'utf8', cwd: ROOT });
     assert(p.status === 0 && !fs.existsSync(path.join(tmp, 'site-premier-pub', 'carnet', a.slug)), 'absent de la version publique');
+    // Publication explicite : le propriétaire écrit les textes alternatifs et passe l'article en public et publié.
+    const file = path.join(dir, 'articles', a.slug + '.json'), j = JSON.parse(fs.readFileSync(file, 'utf8'));
+    j.cover.alt = 'Coucher de soleil sur le désert'; j.photos[0].alt = 'Photo de test'; j.visibility = 'public'; j.status = 'published';
+    const vf = path.join(dir, 'voyages/espagne.json'), v = JSON.parse(fs.readFileSync(vf, 'utf8')); v.visibility = 'public'; v.status = 'published'; fs.writeFileSync(vf, JSON.stringify(v));
+    fs.writeFileSync(file, JSON.stringify(j));
+    const q = spawnSync(process.execPath, [path.join(ROOT, 'build.mjs'), '--mode', 'public', '--content', dir, '--dir', path.join(tmp, 'site-premier-pub2')], { encoding: 'utf8', cwd: ROOT });
+    assert(q.status === 0 && fs.existsSync(path.join(tmp, 'site-premier-pub2', 'carnet', a.slug, 'index.html')), 'publié explicitement : présent dans la version publique ' + (q.stderr || '').slice(0, 200));
+    assert(/Nuit aux Bardenas/.test(fs.readFileSync(path.join(tmp, 'site-premier-pub2', 'voyage-en-cours', 'index.html'), 'utf8')), 'devient la dernière étape du voyage en cours');
   },
   'réimport : idempotent, mise à jour du brouillon, retouches à la main jamais écrasées sans --force, article publié protégé': () => {
     const dir = newContent('reimport'), v1 = exportFile('r1', [post()]);

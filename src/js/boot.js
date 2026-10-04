@@ -44,6 +44,7 @@
       if (stateRepaired) toast('Certaines données enregistrées étaient illisibles : elles ont été mises de côté (rubrique Plus › Mes données).', { error: true });
       else if (route.length) toast(route.length + ' étape' + (route.length > 1 ? 's' : '') + ' de votre trajet retrouvée' + (route.length > 1 ? 's' : ''));
       if (geoAutostart && navigator.geolocation) startGeolocation(false);
+      initCommunity();
       applyDeepLink();
       window.addEventListener('hashchange', applyDeepLink);
       mark('boot-end');

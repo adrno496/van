@@ -229,7 +229,7 @@ ${ctx.mode !== 'public' || page.noindex ? '<meta name="robots" content="noindex"
 <script src="${esc(to('assets/site.js'))}" defer></script>${(page.scripts || []).map((src) => `\n<script src="${esc(to(src))}" defer></script>`).join('')}
 ${ld.map((o) => `<script type="application/ld+json">${jsonForHtml(o)}</script>`).join('\n')}
 </head>
-<body class="${page.home ? 'is-home' : 'is-inner'}${page.bodyClass ? ' ' + page.bodyClass : ''}">
+<body class="${page.home ? 'is-home' : 'is-inner'}${page.bodyClass ? ' ' + page.bodyClass : ''}"${page.data ? ` data-partage="${esc(page.data)}"` : ''}>
 <a class="skip-link" href="#main">Aller au contenu</a>
 ${worldDefs(ctx.d.geo)}
 <header class="site-head">
@@ -536,21 +536,22 @@ ${L ? `<p><a class="btn btn-ghost" href="${esc(to(`app/index.html#lieu=${L.i}`))
 <h2>Ce que c’est</h2>
 <p>Atlas Van rassemble des lieux à voir en Europe — villes, patrimoine, nature, côtes, haltes pratiques, pistes de travail saisonnier — et ${R} itinéraires qui les relient. Le Planner permet d’en composer un trajet, d’en estimer la distance et le budget, et de tenir un carnet avec ses photos.</p>
 <h2>Comment ça fonctionne</h2>
-<p>Tout se passe sur votre appareil. Il n’y a pas de compte, pas de serveur qui garde vos trajets, pas de mesure d’audience. Le Planner tient dans un fichier et fonctionne sans connexion ; seuls les liens vers des cartes ou des sites officiels sortent, quand vous les ouvrez.</p>
+<p>Le Planner travaille sur votre appareil : pas de compte, pas de serveur qui garde vos trajets, pas de mesure d’audience. Il tient dans un fichier et fonctionne sans connexion ; seuls les liens vers des cartes ou des sites officiels sortent, quand vous les ouvrez. L’espace Partage, séparé du blog, est le seul endroit où un compte sert : pour publier.</p>
 <h2>Ce que l’Atlas n’est pas</h2>
 <p>Ni un guide officiel, ni une réservation. Les tarifs et les règles notés sur les fiches sont des repères relevés à un moment donné : à vérifier avant de faire un détour.</p>
 ${content.site.about.map((s) => `<h2>${esc(s.title)}${s.visibility !== 'public' ? ' ' + badge('Privé', 'badge-private') : ''}</h2>${prose(s.text)}`).join('')}
 </div></section>
-${content.site.about.length ? '' : `<section class="section section-tight"><div class="wrap narrow">${todo(ctx, 'Notre façon de voyager', 'Quelques paragraphes à la première personne : qui voyage, depuis quand, à quel rythme. À écrire dans content/site.json, section « about ».')}${todo(ctx, 'Le van', 'Modèle, aménagement, autonomie — et une ou deux photographies.')}${todo(ctx, 'Ce que nous cherchons sur la route', 'Ce qui fait choisir une étape plutôt qu’une autre.')}</div></section>`}
+${content.site.about.length ? '' : `<section class="section section-tight"><div class="wrap narrow">${todo(ctx, 'Qui je suis, comment je voyage', 'Quelques paragraphes à la première personne : depuis quand, à quel rythme, seul en van. À écrire dans content/site.json, section « about » (une section par sujet, « visibility » : "public" pour la publier).')}${todo(ctx, 'Le van', 'Modèle, aménagement, autonomie — et une ou deux photographies.')}${todo(ctx, 'Ce que je cherche sur la route', 'Ce qui fait choisir une étape plutôt qu’une autre.')}${todo(ctx, 'Me contacter', 'Un moyen de contact, si vous le souhaitez (« legal.contact » ou « social »). Rien n’est inventé à votre place.')}</div></section>`}
 ${plannerBand(to, { title: 'Essayer le Planner', text: 'Aucune inscription : il s’ouvre et il fonctionne.' })}` });
   add({ path: 'confidentialite/index.html', title: 'Confidentialité', crumbs: [['confidentialite/index.html', 'Confidentialité']], description: 'Atlas Van ne collecte rien : pas de compte, pas de traceur, pas de mesure d’audience. Vos trajets et votre carnet restent sur votre appareil.',
     body: () => `<header class="page-head wrap">${eyebrow('Confidentialité')}<h1 class="page-title">Confidentialité</h1><p class="page-lead">Ce qui reste sur votre appareil, et ce qui en sort.</p></header>
 <section class="section section-tight"><div class="wrap prose">
-<h2>Ce site</h2><p>Les pages de ce site ne déposent aucun cookie, ne chargent aucun script d’un tiers, ne mesurent pas l’audience et n’intègrent aucun lecteur ni bouton de réseau social. Une politique de sécurité du contenu interdit à ces pages toute requête vers un autre serveur.</p>
+<h2>Ce site</h2><p>Les pages de ce site ne déposent aucun cookie, ne chargent aucun script d’un tiers, ne mesurent pas l’audience et n’intègrent aucun lecteur ni bouton de réseau social. Une politique de sécurité du contenu interdit à ces pages toute requête vers un autre serveur${content.site.community ? ', à l’exception des pages de l’espace Partage, qui ne peuvent joindre que son serveur' : ''}.</p>
 <h2>Le Planner</h2><p>Trajets, notes, favoris, lieux personnels, carnet et photographies sont enregistrés dans le navigateur de votre appareil, et nulle part ailleurs. Ils ne sont pas chiffrés : quiconque a accès à votre navigateur peut les lire. Vous pouvez les sauvegarder dans un fichier, les restaurer et les effacer depuis la rubrique « Plus ».</p>
 <h2>Votre position</h2><p>Elle n’est demandée que si vous l’activez. Elle reste en mémoire le temps de la page : elle n’est ni enregistrée, ni envoyée, ni ajoutée au carnet.</p>
 <h2>Ce qui sort</h2><p>Quand vous ouvrez un lien vers Google Maps, Google ou Wikipédia depuis une fiche, ce service reçoit le nom ou les coordonnées du lieu concerné, comme pour n’importe quel lien. Rien d’autre ne quitte votre appareil.</p>
-<h2>Ce qui est publié ici</h2><p>Seuls les contenus explicitement marqués comme publics paraissent sur ce site. Les brouillons et le carnet personnel n’y figurent jamais.</p>
+<h2>Ce qui est publié ici</h2><p>Seuls les contenus explicitement marqués comme publics paraissent sur ce site. Les brouillons et le carnet personnel n’y figurent jamais. La position du voyage en cours est celle de la dernière étape publiée, arrondie : jamais une position en direct.</p>
+<h2>L’espace Partage</h2><p>${content.site.community ? 'Lire Partage ne demande rien. Publier, garder des favoris ou signaler demande un compte : adresse e-mail (jamais affichée), pseudo public, et ce que vous publiez. Votre Planner n’est jamais envoyé ; seules les étapes que vous choisissez de partager le sont, après aperçu et confirmation. Le détail, l’export et la suppression de vos données : page « Règles de Partage » et « Mon compte ».' : 'Pas encore ouvert. Quand il le sera, lire restera libre ; publier demandera un compte, dont les données seront décrites ici et dans les règles de Partage.'}</p>
 </div></section>` });
   add({ path: 'mentions/index.html', title: 'Mentions', crumbs: [['mentions/index.html', 'Mentions']], description: 'Mentions du site Atlas Van : éditeur, hébergement, origine des données cartographiques et des fiches.', noindex: !content.site.legal,
     body: () => `<header class="page-head wrap">${eyebrow('Mentions')}<h1 class="page-title">Mentions</h1></header>
@@ -628,7 +629,7 @@ ${plannerBand(to, { title: 'Régler ces paramètres', text: 'Dans le Planner, ru
 /* ───────────── Construction ───────────── */
 const DIRECTIONS = ['a', 'b', 'c'];
 export const DEFAULT_DIRECTION = 'a';
-const SECRET_PATTERNS = [/sk-[A-Za-z0-9]{20,}/, /ghp_[A-Za-z0-9]{30,}/, /AKIA[0-9A-Z]{16}/, /-----BEGIN [A-Z ]*PRIVATE KEY-----/, /xox[baprs]-[A-Za-z0-9-]{10,}/, /"app"\s*:\s*"atlas-van"/];
+const SECRET_PATTERNS = [/sb_secret_[A-Za-z0-9_-]{8,}/, /service_role/, /SUPABASE_SERVICE/i, /sk-[A-Za-z0-9]{20,}/, /ghp_[A-Za-z0-9]{30,}/, /AKIA[0-9A-Z]{16}/, /-----BEGIN [A-Z ]*PRIVATE KEY-----/, /xox[baprs]-[A-Za-z0-9-]{10,}/, /"app"\s*:\s*"atlas-van"/];
 
 export function buildSite({ mode, outDir, check = false, direction = null, contentDir = null, siteUrl = null, demo = false }) {
   if (mode !== 'personal' && mode !== 'public') throw new Error(`mode inconnu : ${mode} (personal ou public)`);
@@ -649,6 +650,8 @@ export function buildSite({ mode, outDir, check = false, direction = null, conte
   const css = [read(SRC, 'css', 'tokens.css'), read(SRC, 'site', 'css', 'site.css'), read(SRC, 'site', 'css', `direction-${dir}.css`)].map((s) => s.trim()).join('\n') + '\n';
   files.set('assets/site.css', css);
   files.set('assets/site.js', read(SRC, 'site', 'js', 'site.js'));
+  // Script de Partage : seulement si l'espace communautaire est configuré (les pages de Partage le chargent, aucune autre).
+  if (content.site.community) files.set('assets/partage.js', read(SRC, 'site', 'js', 'partage.js'));
   files.set('app/index.html', buildPlanner({ mode, siteHome: '../index.html' }).html);
   for (const src of ctx.media) files.set('media/' + src, fs.readFileSync(path.join(all.contentDir, 'media', src)));
   const base = content.site.siteUrl;
@@ -666,6 +669,8 @@ export function buildSite({ mode, outDir, check = false, direction = null, conte
   if (located.length) ctx.warnings.push(`${located.length} photographie(s) portent une position GPS dans leurs métadonnées (${located.slice(0, 3).map((m) => m.src).join(', ')}) : la version publique les refusera`);
   if (![...all.voyages, ...all.articles, ...all.guides].some((i) => i.cover)) ctx.warnings.push('aucune photographie fournie : les visuels sont des cartes dessinées à partir de l’Atlas');
 
+  // Aucune clé de service, quelle que soit la version : un jeton (JWT) présent dans un fichier ne peut être que la clé publique « anon ».
+  for (const [name, body] of files) if (typeof body === 'string') for (const m of body.matchAll(/eyJ[A-Za-z0-9_-]{8,}\.eyJ[A-Za-z0-9_-]{8,}\.[A-Za-z0-9_-]{8,}/g)) if (isServiceKey(m[0])) throw new Error(`${name} : clé de service détectée — construction refusée`);
   if (mode === 'public') {
     // Contrôle de confidentialité : catalogue (règles de build.mjs), contenu privé, démonstration, sauvegardes, secrets. Le moindre doute arrête tout.
     const texts = Object.fromEntries([...files].filter(([, v]) => typeof v === 'string'));

@@ -349,8 +349,12 @@ group('securite', {
       const run = (...x) => spawnSync(process.execPath, [path.join(ROOT, 'build/import-articles.mjs'), ...x, '--content', dir], { encoding: 'utf8' });
       const r = run(file); assert(r.status === 0, 'import : ' + r.stderr);
       const saved = JSON.parse(fs.readFileSync(path.join(dir, 'articles/2026-06-14-un-matin-a-annecy.json'), 'utf8'));
-      eq([saved.visibility, saved.status, saved.cover.src, fs.existsSync(path.join(dir, 'media', saved.cover.src))], ['private', 'draft', 'carnet/2026-06-14-un-matin-a-annecy-1.png', true], 'importé en privé et brouillon même si le fichier prétend le contraire ; photo extraite');
-      assert(run(file).status === 1, 'second import : refus d\'écraser'); fs.writeFileSync(file, JSON.stringify({ type: 'atlas-van-articles', articles: [{ title: 'x', date: '2026-01-01', text: 'x', photos: [{ src: 'data:image/svg+xml;base64,PHN2Zz4=' }] }] })); assert(run(file).status === 1, 'photo SVG refusée');
+      // Nom de la photo : adresse de l'article, rang, empreinte du contenu (aucune image n'en écrase une autre).
+      eq([saved.visibility, saved.status, /^carnet\/2026-06-14-un-matin-a-annecy-1-[a-f0-9]{10}\.png$/.test(saved.cover.src), fs.existsSync(path.join(dir, 'media', saved.cover.src))], ['private', 'draft', true, true], 'importé en privé et brouillon même si le fichier prétend le contraire ; photo extraite');
+      // Second import du même fichier : idempotent (rien n'est réécrit ni dupliqué), au lieu de l'ancien refus.
+      const first = fs.readFileSync(path.join(dir, 'articles/2026-06-14-un-matin-a-annecy.json'), 'utf8'), again = run(file);
+      assert(again.status === 0 && /Déjà à jour/.test(again.stdout) && fs.readFileSync(path.join(dir, 'articles/2026-06-14-un-matin-a-annecy.json'), 'utf8') === first && fs.readdirSync(path.join(dir, 'articles')).length === 2, 'second import : rien d\'écrasé, aucun doublon');
+      fs.writeFileSync(file, JSON.stringify({ type: 'atlas-van-articles', version: 1, articles: [{ title: 'x', date: '2026-01-01', text: 'x', photos: [{ src: 'data:image/svg+xml;base64,PHN2Zz4=' }] }] })); const svg = run(file); assert(svg.status === 1 && /format refusé/.test(svg.stderr), 'photo SVG refusée');
       const pub = build('--mode', 'public', '--content', dir, '--dir', path.join(tmp, 'import-public')); assert(pub.status === 0 && !fs.existsSync(path.join(tmp, 'import-public/carnet/2026-06-14-un-matin-a-annecy')), 'article importé absent de la version publique tant qu\'il n\'est pas publié');
     } finally { await a.context.close(); }
   }

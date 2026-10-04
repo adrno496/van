@@ -172,3 +172,7 @@ dialog > h2,dialog > h3{font-size:var(--fs-xl);margin:0 var(--s8) var(--s3) 0}
 .is-blurred .privacy-content{filter:blur(12px);pointer-events:none;user-select:none}
 .privacy-cover{position:sticky;top:var(--s3);z-index:5;text-align:center;padding:var(--s5);margin-bottom:var(--s4);background:var(--surface);
   border:var(--border-w) solid var(--border);border-radius:var(--r-lg);box-shadow:var(--shadow-2)}
+/* Partage : aperçu des étapes à partager, résumé d'un circuit reçu */
+.share-list{max-height:min(50vh,420px);overflow:auto;margin:var(--s3, 12px) 0;padding:0 0 0 1.4em;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+.share-list small{display:block;color:var(--text-2);font-size:.8125rem}
+ul.plain{margin:8px 0;padding-left:1.2em}

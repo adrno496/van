@@ -13,7 +13,7 @@ const SRC = path.join(ROOT, 'src');
 // L'ordre compte : jetons, base, mise en page, composants, puis écrans.
 const CSS = ['tokens.css', 'base.css', 'layout.css', 'components.css', 'map.css', 'panes.css', 'journal.css'];
 // L'ordre compte : outils, données, état, carte, puis écrans ; boot.js branche les événements et démarre.
-const JS = ['util.js', 'data.js', 'geo.js', 'state.js', 'map.js', 'places.js', 'route.js', 'explore.js', 'journal.js', 'location.js', 'shell.js', 'boot.js'];
+const JS = ['util.js', 'data.js', 'geo.js', 'state.js', 'map.js', 'places.js', 'route.js', 'explore.js', 'journal.js', 'location.js', 'community.js', 'shell.js', 'boot.js'];
 // Pays couverts par le catalogue : fond plus clair sur la carte.
 const HI = new Set(['France', 'Spain', 'Portugal', 'Italy', 'Switzerland', 'Austria', 'Slovenia', 'Croatia', 'Bosnia and Herz.', 'Montenegro', 'Albania', 'Greece',
   'Germany', 'Czechia', 'Poland', 'Slovakia', 'Hungary', 'Serbia', 'Belgium', 'Netherlands', 'North Macedonia']);
@@ -115,7 +115,7 @@ function sources({ tokens = null, mode = 'personal' } = {}) {
 // La marque du Planner : simple titre dans le fichier autonome, lien vers l'accueil quand le Planner vit dans le site.
 const brand = (siteHome) => (siteHome ? `<a href="${escHtml(siteHome)}" title="Retour à l’accueil d’Atlas Van">Atlas <em>van</em></a>` : 'Atlas <em>van</em>');
 // Édition du Planner, lue par le script : la version publique est celle des visiteurs, qui ne publient rien sur le blog.
-const edition = (state, options) => { if (!state.html.includes('<html lang="fr" dir="ltr">')) throw new Error('balise <html> du gabarit introuvable'); state.html = state.html.replace('<html lang="fr" dir="ltr">', `<html lang="fr" dir="ltr" data-edition="${options.mode === 'public' ? 'public' : 'personal'}">`); };
+const edition = (state, options) => { if (!state.html.includes('<html lang="fr" dir="ltr">')) throw new Error('balise <html> du gabarit introuvable'); state.html = state.html.replace('<html lang="fr" dir="ltr">', `<html lang="fr" dir="ltr" data-edition="${options.mode === 'public' ? 'public' : 'personal'}"${options.siteHome ? ' data-site="1"' : ''}>`); };
 const putter = (state) => (mark, value) => { if (!state.html.includes(mark)) throw new Error(`repère absent du gabarit : ${mark}`); state.html = state.html.replace(mark, () => value); };
 const policy = (script, style) => [`default-src 'none'`, `script-src ${script}`, `style-src ${style}`, `img-src data: blob:`, `connect-src 'none'`, `font-src 'none'`, `object-src 'none'`, `base-uri 'none'`, `form-action 'none'`].join('; ');
 
