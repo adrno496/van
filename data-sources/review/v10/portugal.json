@@ -1,0 +1,3681 @@
+[
+ {
+  "key": "portugal|bom-jesus|416:-84",
+  "src": "portugal-andorre.json#21",
+  "n": "Bom Jesus do Monte",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gualtar (PT, 1.4 km)",
+   "ref": {
+    "name": "Braga",
+    "geonameid": 2742032,
+    "y": 41.55032,
+    "x": -8.42005,
+    "km": 3.6,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1590"
+  },
+  "score": {
+   "tour": 20,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 82,
+  "decision": "retenu",
+  "i": 2545
+ },
+ {
+  "key": "portugal|miranda-douro|415:-63",
+  "src": "portugal-andorre.json#3",
+  "n": "Miranda do Douro",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": "Spain",
+   "nearestLocality": "Miranda do Douro (PT, 0.2 km)",
+   "ref": {
+    "name": "Miranda do Douro",
+    "geonameid": 2737640,
+    "y": 41.49692,
+    "x": -6.27308,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.23
+  },
+  "links": {
+   "geonames": 2737640
+  },
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 2546
+ },
+ {
+  "key": "portugal|espichel|384:-92",
+  "src": "portugal-andorre.json#64",
+  "n": "Cap Espichel",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Sesimbra (PT, 10.5 km)",
+   "ref": {
+    "name": "Sesimbra",
+    "geonameid": 2262957,
+    "y": 38.44451,
+    "x": -9.10149,
+    "km": 10.5,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2548
+ },
+ {
+  "key": "portugal|cromlech-almendres|386:-81",
+  "src": "portugal-andorre.json#81",
+  "n": "Cromlech des Almendres",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Montemor-o-Novo (PT, 16.8 km)",
+   "ref": {
+    "name": "Évora",
+    "geonameid": null,
+    "y": 38.559996,
+    "x": -7.905996,
+    "km": 13.5,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2549
+ },
+ {
+  "key": "portugal|benagil|371:-84",
+  "src": "portugal-andorre.json#75",
+  "n": "Grotte de Benagil",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Carvoeiro (PT, 3.9 km)",
+   "ref": {
+    "name": "Lagoa",
+    "geonameid": 2267254,
+    "y": 37.13535,
+    "x": -8.45319,
+    "km": 5.9,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 9,
+   "sing": 14,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2547
+ },
+ {
+  "key": "portugal|braganca|418:-67",
+  "src": "portugal-andorre.json#0",
+  "n": "Bragança",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bragança (PT, 0.7 km)",
+   "ref": {
+    "name": "Bragança",
+    "geonameid": 2742027,
+    "y": 41.80582,
+    "x": -6.75719,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2550
+ },
+ {
+  "key": "portugal|sardao|376:-88",
+  "src": "portugal-andorre.json#71",
+  "n": "Cap Sardão",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Almograve (PT, 7.0 km)",
+   "ref": {
+    "name": "Odemira",
+    "geonameid": 2265472,
+    "y": 37.59798,
+    "x": -8.63972,
+    "km": 15.5,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 14,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2551
+ },
+ {
+  "key": "portugal|valenca|420:-86",
+  "src": "portugal-andorre.json#14",
+  "n": "Valença",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Valença (PT, 0.2 km)",
+   "ref": {
+    "name": "Valença",
+    "geonameid": 2733018,
+    "y": 42.03104,
+    "x": -8.64595,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.2
+  },
+  "links": {
+   "geonames": 2733018
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2552
+ },
+ {
+  "key": "portugal|chaves|417:-75",
+  "src": "portugal-andorre.json#9",
+  "n": "Chaves",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chaves (PT, 0.2 km)",
+   "ref": {
+    "name": "Chaves",
+    "geonameid": 2740761,
+    "y": 41.74019,
+    "x": -7.46879,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.18
+  },
+  "links": {
+   "geonames": 2740761
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2554
+ },
+ {
+  "key": "portugal|porto-covo|379:-88",
+  "src": "portugal-andorre.json#69",
+  "n": "Porto Covo",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Porto Covo (PT, 0.2 km)",
+   "ref": {
+    "name": "Sines",
+    "geonameid": 2262917,
+    "y": 37.95622,
+    "x": -8.86979,
+    "km": 13.4,
+    "statedKm": 12
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 2264442
+  },
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2553
+ },
+ {
+  "key": "portugal|mine-sao-domingos|377:-75",
+  "src": "portugal-andorre.json#90",
+  "n": "Mine de São Domingos",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Minas de São Domingos (PT, 0.5 km)",
+   "ref": {
+    "name": "Mértola",
+    "geonameid": 2266442,
+    "y": 37.64304,
+    "x": -7.6611,
+    "km": 14.5,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2556
+ },
+ {
+  "key": "portugal|lima|418:-86",
+  "src": "portugal-andorre.json#15",
+  "n": "Ponte de Lima",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ponte de Lima (PT, 0.1 km)",
+   "ref": {
+    "name": "Ponte de Lima",
+    "geonameid": 2736041,
+    "y": 41.76719,
+    "x": -8.58393,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2736041
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2555
+ },
+ {
+  "key": "portugal|belmonte|404:-73",
+  "src": "portugal-andorre.json#40",
+  "n": "Belmonte",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Belmonte (PT, 0.1 km)",
+   "ref": {
+    "name": "Belmonte",
+    "geonameid": 2742285,
+    "y": 40.3593,
+    "x": -7.34869,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 2742285
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2558
+ },
+ {
+  "key": "portugal|castro-marim|372:-74",
+  "src": "portugal-andorre.json#77",
+  "n": "Castro Marim",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Castro Marim (PT, 0.3 km)",
+   "ref": {
+    "name": "Vila Real de Santo António",
+    "geonameid": 2261598,
+    "y": 37.195,
+    "x": -7.41766,
+    "km": 3.4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2560
+ },
+ {
+  "key": "portugal|costa-nova|406:-88",
+  "src": "portugal-andorre.json#25",
+  "n": "Costa Nova",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gafanha da Encarnação (PT, 1.6 km)",
+   "ref": {
+    "name": "Ílhavo",
+    "geonameid": 2738707,
+    "y": 40.60188,
+    "x": -8.67021,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2559
+ },
+ {
+  "key": "portugal|idanha-velha|400:-71",
+  "src": "portugal-andorre.json#42",
+  "n": "Idanha-a-Velha",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Idanha-a-Nova (PT, 11.6 km)",
+   "ref": {
+    "name": "Idanha-a-Nova",
+    "geonameid": 2267427,
+    "y": 39.92316,
+    "x": -7.24082,
+    "km": 11.6,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2561
+ },
+ {
+  "key": "portugal|manteigas|404:-75",
+  "src": "portugal-andorre.json#38",
+  "n": "Manteigas",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Manteigas (PT, 0.1 km)",
+   "ref": {
+    "name": "Manteigas",
+    "geonameid": 2737936,
+    "y": 40.4028,
+    "x": -7.53977,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 2737936
+  },
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2557
+ },
+ {
+  "key": "portugal|viseu|407:-79",
+  "src": "portugal-andorre.json#29",
+  "n": "Viseu",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Viseu (PT, 0.6 km)",
+   "ref": {
+    "name": "Viseu",
+    "geonameid": null,
+    "y": 40.656996,
+    "x": -7.91,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.59
+  },
+  "links": {
+   "geonames": 2732265,
+   "qid": "Q117676"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2562
+ },
+ {
+  "key": "portugal|estremoz|388:-76",
+  "src": "portugal-andorre.json#83",
+  "n": "Estremoz",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Estremoz (PT, 0.1 km)",
+   "ref": {
+    "name": "Estremoz",
+    "geonameid": 2268411,
+    "y": 38.84432,
+    "x": -7.58585,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 2268411
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2565
+ },
+ {
+  "key": "portugal|freixo-espada-cinta|411:-68",
+  "src": "portugal-andorre.json#4",
+  "n": "Freixo de Espada à Cinta",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Freixo de Espada à Cinta (PT, 0.1 km)",
+   "ref": {
+    "name": "Freixo de Espada à Cinta",
+    "geonameid": 2739222,
+    "y": 41.09033,
+    "x": -6.80648,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2739222
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2568
+ },
+ {
+  "key": "portugal|sao-martinho-porto|395:-91",
+  "src": "portugal-andorre.json#52",
+  "n": "São Martinho do Porto",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "São Martinho do Porto (PT, 0.6 km)",
+   "ref": {
+    "name": "Alcobaça",
+    "geonameid": 2272147,
+    "y": 39.55223,
+    "x": -8.97749,
+    "km": 14.4,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2566
+ },
+ {
+  "key": "portugal|trancoso|408:-73",
+  "src": "portugal-andorre.json#33",
+  "n": "Trancoso",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Trancoso (PT, 0.5 km)",
+   "ref": {
+    "name": "Trancoso",
+    "geonameid": 2733439,
+    "y": 40.78329,
+    "x": -7.35016,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.49
+  },
+  "links": {
+   "geonames": 2733439
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2563
+ },
+ {
+  "key": "portugal|vila-nova-milfontes|377:-88",
+  "src": "portugal-andorre.json#70",
+  "n": "Vila Nova de Milfontes",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Vila Nova de Milfontes (PT, 0.1 km)",
+   "ref": {
+    "name": "Vila Nova de Milfontes",
+    "geonameid": 2261617,
+    "y": 37.72377,
+    "x": -8.78278,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.14
+  },
+  "links": {
+   "geonames": 2261617
+  },
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2564
+ },
+ {
+  "key": "portugal|vila-vicosa|388:-74",
+  "src": "portugal-andorre.json#84",
+  "n": "Vila Viçosa",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila Viçosa (PT, 0.0 km)",
+   "ref": {
+    "name": "Vila Viçosa",
+    "geonameid": 2261577,
+    "y": 38.7777,
+    "x": -7.41793,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2261577
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2567
+ },
+ {
+  "key": "portugal|almeida|407:-69",
+  "src": "portugal-andorre.json#36",
+  "n": "Almeida",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aldea del Obispo (ES, 9.8 km)",
+   "ref": {
+    "name": "Pinhel",
+    "geonameid": 2736183,
+    "y": 40.77403,
+    "x": -7.06675,
+    "km": 14.6,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2571
+ },
+ {
+  "key": "portugal|comporta|384:-88",
+  "src": "portugal-andorre.json#66",
+  "n": "Comporta",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Comporta (PT, 0.0 km)",
+   "ref": {
+    "name": "Alcácer do Sal",
+    "geonameid": 2272212,
+    "y": 38.37326,
+    "x": -8.51444,
+    "km": 23.7,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2569
+ },
+ {
+  "key": "portugal|montesinho|419:-68",
+  "src": "portugal-andorre.json#1",
+  "n": "Parc naturel de Montesinho",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hermisende (ES, 10.7 km)",
+   "ref": {
+    "name": "Bragança",
+    "geonameid": null,
+    "y": 41.807997,
+    "x": -6.755003,
+    "km": 14.4,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2570
+ },
+ {
+  "key": "portugal|passadicos-paiva|409:-82",
+  "src": "portugal-andorre.json#27",
+  "n": "Passadiços do Paiva",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arouca (PT, 4.2 km)",
+   "ref": {
+    "name": "Arouca",
+    "geonameid": 2742700,
+    "y": 40.93057,
+    "x": -8.24488,
+    "km": 4.2,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2572
+ },
+ {
+  "key": "portugal|pitoes-junias|418:-79",
+  "src": "portugal-andorre.json#13",
+  "n": "Pitões das Júnias",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Calvos (ES, 12.5 km)",
+   "ref": {
+    "name": "Montalegre",
+    "geonameid": 2737502,
+    "y": 41.82357,
+    "x": -7.78971,
+    "km": 13.5,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2574
+ },
+ {
+  "key": "portugal|sesimbra|384:-91",
+  "src": "portugal-andorre.json#65",
+  "n": "Sesimbra",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sesimbra (PT, 0.1 km)",
+   "ref": {
+    "name": "Sesimbra",
+    "geonameid": 2262957,
+    "y": 38.44451,
+    "x": -9.10149,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 2262957
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2573
+ },
+ {
+  "key": "portugal|lindoso|419:-82",
+  "src": "portugal-andorre.json#18",
+  "n": "Lindoso",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.9,
+   "otherCountry": "Spain",
+   "nearestLocality": "Lobios (ES, 9.2 km)",
+   "ref": {
+    "name": "Ponte da Barca",
+    "geonameid": 2736057,
+    "y": 41.80451,
+    "x": -8.41554,
+    "km": 19.3,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2575
+ },
+ {
+  "key": "portugal|penha-garcia|400:-70",
+  "src": "portugal-andorre.json#43",
+  "n": "Penha Garcia",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Penamacor (PT, 19.2 km)",
+   "ref": {
+    "name": "Idanha-a-Nova",
+    "geonameid": 2267427,
+    "y": 39.92316,
+    "x": -7.24082,
+    "km": 23.4,
+    "statedKm": 23
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2577
+ },
+ {
+  "key": "portugal|santarem|392:-87",
+  "src": "portugal-andorre.json#59",
+  "n": "Santarém",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Santarém (PT, 0.2 km)",
+   "ref": {
+    "name": "Santarém",
+    "geonameid": 2263480,
+    "y": 39.23333,
+    "x": -8.68333,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 2263480,
+   "qid": "Q273877"
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2576
+ },
+ {
+  "key": "portugal|alcoutim|375:-75",
+  "src": "portugal-andorre.json#78",
+  "n": "Alcoutim",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alcoutim (PT, 0.4 km)",
+   "ref": {
+    "name": "Mértola",
+    "geonameid": 2266442,
+    "y": 37.64304,
+    "x": -7.6611,
+    "km": 25.4,
+    "statedKm": 20
+   },
+   "status": "vérifié",
+   "snapped": 0.37
+  },
+  "links": {
+   "geonames": 2272130
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2581
+ },
+ {
+  "key": "portugal|citania-briteiros|415:-83",
+  "src": "portugal-andorre.json#22",
+  "n": "Citânia de Briteiros",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sobreposta (PT, 3.4 km)",
+   "ref": {
+    "name": "Guimarães",
+    "geonameid": 2738752,
+    "y": 41.44443,
+    "x": -8.29619,
+    "km": 9.3,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2579
+ },
+ {
+  "key": "portugal|mateus|413:-77",
+  "src": "portugal-andorre.json#10",
+  "n": "Palais de Mateus",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila Real (PT, 2.7 km)",
+   "ref": {
+    "name": "Vila Real",
+    "geonameid": null,
+    "y": 41.293998,
+    "x": -7.737003,
+    "km": 2.1,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2580
+ },
+ {
+  "key": "portugal|bordeira|372:-89",
+  "src": "portugal-andorre.json#74",
+  "n": "Praia da Bordeira",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila do Bispo (PT, 12.6 km)",
+   "ref": {
+    "name": "Aljezur",
+    "geonameid": 2271968,
+    "y": 37.31745,
+    "x": -8.80147,
+    "km": 16.2,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2578
+ },
+ {
+  "key": "portugal|beja|380:-79",
+  "src": "portugal-andorre.json#89",
+  "n": "Beja",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Beja (PT, 0.0 km)",
+   "ref": {
+    "name": "Beja",
+    "geonameid": 2270985,
+    "y": 38.01506,
+    "x": -7.86323,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2270985,
+   "qid": "Q213251"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2584
+ },
+ {
+  "key": "portugal|portas-rodao|397:-77",
+  "src": "portugal-andorre.json#46",
+  "n": "Portas de Ródão",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila Velha de Ródão (PT, 0.8 km)",
+   "ref": {
+    "name": "Nisa",
+    "geonameid": 2265525,
+    "y": 39.51499,
+    "x": -7.64908,
+    "km": 15.2,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2582
+ },
+ {
+  "key": "portugal|serpa|379:-76",
+  "src": "portugal-andorre.json#88",
+  "n": "Serpa",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Serpa (PT, 0.2 km)",
+   "ref": {
+    "name": "Serpa",
+    "geonameid": 2263049,
+    "y": 37.94581,
+    "x": -7.59754,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.21
+  },
+  "links": {
+   "geonames": 2263049
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2585
+ },
+ {
+  "key": "portugal|vila-conde|414:-87",
+  "src": "portugal-andorre.json#24",
+  "n": "Vila do Conde",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila do Conde (PT, 0.0 km)",
+   "ref": {
+    "name": "Vila do Conde",
+    "geonameid": 2732649,
+    "y": 41.35326,
+    "x": -8.74516,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2732649
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2583
+ },
+ {
+  "key": "portugal|fisgas-ermelo|414:-78",
+  "src": "portugal-andorre.json#11",
+  "n": "Fisgas de Ermelo",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila Real (PT, 10.0 km)",
+   "ref": {
+    "name": "Vila Real",
+    "geonameid": 2732438,
+    "y": 41.30062,
+    "x": -7.74413,
+    "km": 10,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2586
+ },
+ {
+  "key": "portugal|loriga|403:-77",
+  "src": "portugal-andorre.json#39",
+  "n": "Loriga",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loriga (PT, 0.6 km)",
+   "ref": {
+    "name": "Seia",
+    "geonameid": 2734215,
+    "y": 40.4151,
+    "x": -7.70859,
+    "km": 10.7,
+    "statedKm": 11
+   },
+   "status": "vérifié",
+   "snapped": 0.57
+  },
+  "links": {
+   "geonames": 2738210
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2587
+ },
+ {
+  "key": "portugal|montalegre|418:-78",
+  "src": "portugal-andorre.json#12",
+  "n": "Montalegre",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Montalegre (PT, 0.2 km)",
+   "ref": {
+    "name": "Montalegre",
+    "geonameid": 2737502,
+    "y": 41.82357,
+    "x": -7.78971,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 2737502
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2589
+ },
+ {
+  "key": "portugal|montemor-o-velho|402:-87",
+  "src": "portugal-andorre.json#48",
+  "n": "Montemor-o-Velho",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Montemor-o-Velho (PT, 0.2 km)",
+   "ref": {
+    "name": "Montemor-o-Velho",
+    "geonameid": 2737437,
+    "y": 40.17287,
+    "x": -8.68616,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2590
+ },
+ {
+  "key": "portugal|zambujeira-mar|375:-88",
+  "src": "portugal-andorre.json#72",
+  "n": "Zambujeira do Mar",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zambujeira do Mar (PT, 0.3 km)",
+   "ref": {
+    "name": "Odemira",
+    "geonameid": 2265472,
+    "y": 37.59798,
+    "x": -8.63972,
+    "km": 15.2,
+    "statedKm": 15
+   },
+   "status": "vérifié",
+   "snapped": 0.35
+  },
+  "links": {
+   "geonames": 2261486
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2588
+ },
+ {
+  "key": "portugal|alcacer-sal|384:-85",
+  "src": "portugal-andorre.json#67",
+  "n": "Alcácer do Sal",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alcácer do Sal (PT, 0.2 km)",
+   "ref": {
+    "name": "Alcácer do Sal",
+    "geonameid": 2272212,
+    "y": 38.37326,
+    "x": -8.51444,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 2272212
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2595
+ },
+ {
+  "key": "portugal|arraiolos|387:-80",
+  "src": "portugal-andorre.json#82",
+  "n": "Arraiolos",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arraiolos (PT, 0.3 km)",
+   "ref": {
+    "name": "Arraiolos",
+    "geonameid": 2271488,
+    "y": 38.72363,
+    "x": -7.98478,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.28
+  },
+  "links": {
+   "geonames": 2271488
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2596
+ },
+ {
+  "key": "portugal|branco|398:-75",
+  "src": "portugal-andorre.json#45",
+  "n": "Castelo Branco",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Castelo Branco (PT, 0.1 km)",
+   "ref": {
+    "name": "Castelo Branco",
+    "geonameid": 2269514,
+    "y": 39.82219,
+    "x": -7.49087,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2269514,
+   "qid": "Q373720"
+  },
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2594
+ },
+ {
+  "key": "portugal|guarda|405:-73",
+  "src": "portugal-andorre.json#32",
+  "n": "Guarda",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Guarda (PT, 0.2 km)",
+   "ref": {
+    "name": "Guarda",
+    "geonameid": 2738785,
+    "y": 40.53733,
+    "x": -7.26575,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.2
+  },
+  "links": {
+   "geonames": 2738785,
+   "qid": "Q750594"
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2592
+ },
+ {
+  "key": "portugal|linhares-beira|405:-75",
+  "src": "portugal-andorre.json#34",
+  "n": "Linhares da Beira",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Celorico da Beira (PT, 12.3 km)",
+   "ref": {
+    "name": "Celorico da Beira",
+    "geonameid": 2740886,
+    "y": 40.63723,
+    "x": -7.39037,
+    "km": 12.3,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2593
+ },
+ {
+  "key": "portugal|arrifana|373:-89",
+  "src": "portugal-andorre.json#73",
+  "n": "Praia da Arrifana",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Aljezur (PT, 6.3 km)",
+   "ref": {
+    "name": "Aljezur",
+    "geonameid": 2271968,
+    "y": 37.31745,
+    "x": -8.80147,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2591
+ },
+ {
+  "key": "portugal|faro|370:-79",
+  "src": "portugal-andorre.json#76",
+  "n": "Faro",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Faro (PT, 0.8 km)",
+   "ref": {
+    "name": "Faro",
+    "geonameid": null,
+    "y": 37.01708,
+    "x": -7.933273,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.76
+  },
+  "links": {
+   "geonames": 2268339,
+   "qid": "Q159457"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2598
+ },
+ {
+  "key": "portugal|alqueva|382:-75",
+  "src": "portugal-andorre.json#87",
+  "n": "Lac d'Alqueva",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Moura (PT, 7.6 km)",
+   "ref": {
+    "name": "Moura",
+    "geonameid": 2265686,
+    "y": 38.1401,
+    "x": -7.44856,
+    "km": 7.6,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2599
+ },
+ {
+  "key": "portugal|guincho|387:-95",
+  "src": "portugal-andorre.json#61",
+  "n": "Praia do Guincho",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cobre (PT, 3.8 km)",
+   "ref": {
+    "name": "Cascais",
+    "geonameid": 2269594,
+    "y": 38.69681,
+    "x": -9.42147,
+    "km": 5.9,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2597
+ },
+ {
+  "key": "portugal|barcelos|415:-86",
+  "src": "portugal-andorre.json#23",
+  "n": "Barcelos",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Barcelos (PT, 0.1 km)",
+   "ref": {
+    "name": "Barcelos",
+    "geonameid": 2742416,
+    "y": 41.53174,
+    "x": -8.61843,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 2742416
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 2600
+ },
+ {
+  "key": "portugal|foz-arelho|394:-92",
+  "src": "portugal-andorre.json#53",
+  "n": "Foz do Arelho",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Foz do Arelho (PT, 1.0 km)",
+   "ref": {
+    "name": "Caldas da Rainha",
+    "geonameid": 2270437,
+    "y": 39.40326,
+    "x": -9.13839,
+    "km": 8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 2601
+ },
+ {
+  "key": "portugal|frecha-mizarela|409:-83",
+  "src": "portugal-andorre.json#28",
+  "n": "Frecha da Mizarela",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arouca (PT, 7.1 km)",
+   "ref": {
+    "name": "Arouca",
+    "geonameid": 2742700,
+    "y": 40.93057,
+    "x": -8.24488,
+    "km": 7.1,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 2602
+ },
+ {
+  "key": "portugal|portalegre|393:-74",
+  "src": "portugal-andorre.json#91",
+  "n": "Portalegre",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Portalegre (PT, 0.1 km)",
+   "ref": {
+    "name": "Portalegre",
+    "geonameid": 2264508,
+    "y": 39.29379,
+    "x": -7.43122,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2264508,
+   "qid": "Q622819"
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 2603
+ },
+ {
+  "key": "portugal|belver|395:-80",
+  "src": "portugal-andorre.json#60",
+  "n": "Château de Belver",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gavião (PT, 3.8 km)",
+   "ref": {
+    "name": "Gavião",
+    "geonameid": 2267681,
+    "y": 39.46443,
+    "x": -7.93449,
+    "km": 3.8,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2611
+ },
+ {
+  "key": "portugal|evoramonte|388:-77",
+  "src": "portugal-andorre.json#85",
+  "n": "Évoramonte",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Estremoz (PT, 13.7 km)",
+   "ref": {
+    "name": "Estremoz",
+    "geonameid": 2268411,
+    "y": 38.84432,
+    "x": -7.58585,
+    "km": 13.7,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2607
+ },
+ {
+  "key": "portugal|figueira-foz|402:-89",
+  "src": "portugal-andorre.json#47",
+  "n": "Figueira da Foz",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.8,
+   "otherCountry": null,
+   "nearestLocality": "Figueira da Foz (PT, 0.1 km)",
+   "ref": {
+    "name": "Figueira da Foz",
+    "geonameid": 2739590,
+    "y": 40.15085,
+    "x": -8.86179,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2609
+ },
+ {
+  "key": "portugal|marialva|409:-72",
+  "src": "portugal-andorre.json#35",
+  "n": "Marialva",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mêda (PT, 6.6 km)",
+   "ref": {
+    "name": "Trancoso",
+    "geonameid": 2733439,
+    "y": 40.78329,
+    "x": -7.35016,
+    "km": 17.3,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2604
+ },
+ {
+  "key": "portugal|pistes-dinosaures-serra-aire|396:-87",
+  "src": "portugal-andorre.json#56",
+  "n": "Pistes de dinosaures de la Serra de Aire",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mira (PT, 5.2 km)",
+   "ref": {
+    "name": "Fátima",
+    "geonameid": 2268326,
+    "y": 39.62071,
+    "x": -8.65237,
+    "km": 7.1,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2605
+ },
+ {
+  "key": "portugal|rio-onor|419:-66",
+  "src": "portugal-andorre.json#2",
+  "n": "Rio de Onor",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bragança (PT, 19.2 km)",
+   "ref": {
+    "name": "Bragança",
+    "geonameid": null,
+    "y": 41.807997,
+    "x": -6.755003,
+    "km": 18.9,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 13,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2608
+ },
+ {
+  "key": "portugal|salines-rio-maior|394:-89",
+  "src": "portugal-andorre.json#58",
+  "n": "Salines de Rio Maior",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rio Maior (PT, 2.8 km)",
+   "ref": {
+    "name": "Rio Maior",
+    "geonameid": 2263823,
+    "y": 39.33732,
+    "x": -8.93906,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2610
+ },
+ {
+  "key": "portugal|sistelo|420:-84",
+  "src": "portugal-andorre.json#17",
+  "n": "Sistelo",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mozelos (PT, 11.4 km)",
+   "ref": {
+    "name": "Arcos de Valdevez",
+    "geonameid": 2742804,
+    "y": 41.84668,
+    "x": -8.41905,
+    "km": 14,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2606
+ },
+ {
+  "key": "portugal|novo|401:-75",
+  "src": "portugal-andorre.json#44",
+  "n": "Castelo Novo",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Teixoso (PT, 26.5 km)",
+   "ref": {
+    "name": "Fundão",
+    "geonameid": 2739187,
+    "y": 40.14025,
+    "x": -7.50135,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2612
+ },
+ {
+  "key": "portugal|covilha|403:-75",
+  "src": "portugal-andorre.json#41",
+  "n": "Covilhã",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Covilhã (PT, 0.1 km)",
+   "ref": {
+    "name": "Covilhã",
+    "geonameid": 2740313,
+    "y": 40.28106,
+    "x": -7.50504,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2740313,
+   "qid": "Q849026"
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2613
+ },
+ {
+  "key": "portugal|sao-pedro-moel|398:-90",
+  "src": "portugal-andorre.json#54",
+  "n": "São Pedro de Moel",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nazaré (PT, 17.7 km)",
+   "ref": {
+    "name": "Marinha Grande",
+    "geonameid": 2266703,
+    "y": 39.74769,
+    "x": -8.93228,
+    "km": 8.2,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2614
+ },
+ {
+  "key": "portugal|cascais|387:-94",
+  "src": "portugal-andorre.json#62",
+  "n": "Cascais",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": null,
+   "nearestLocality": "Cascais (PT, 0.0 km)",
+   "ref": {
+    "name": "Cascais",
+    "geonameid": 2269594,
+    "y": 38.69681,
+    "x": -9.42147,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 2269594
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 0
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 2615
+ },
+ {
+  "key": "portugal|maria-feira|409:-85",
+  "src": "portugal-andorre.json#26",
+  "n": "Château de Santa Maria da Feira",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Santa Maria da Feira » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Feira (PT, 0.6 km)",
+   "ref": {
+    "name": "Feira",
+    "geonameid": 2739723,
+    "y": 40.92535,
+    "x": -8.54277,
+    "km": 0.6,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 6
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 2617
+ },
+ {
+  "key": "portugal|flor-rosa|393:-76",
+  "src": "portugal-andorre.json#92",
+  "n": "Monastère de Flor da Rosa",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alagoa (PT, 10.9 km)",
+   "ref": {
+    "name": "Portalegre",
+    "geonameid": 2264508,
+    "y": 39.29379,
+    "x": -7.43122,
+    "km": 18.5,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 2618
+ },
+ {
+  "key": "portugal|peneda|420:-82",
+  "src": "portugal-andorre.json#19",
+  "n": "Sanctuaire de la Peneda",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Melgaço » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Entrimo (ES, 9.9 km)",
+   "ref": {
+    "name": "Mozelos",
+    "geonameid": 2737268,
+    "y": 41.86774,
+    "x": -8.39776,
+    "km": 18.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 1,
+   "geo": 2
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 2616
+ },
+ {
+  "key": "portugal|castro-laboreiro|420:-82",
+  "src": "portugal-andorre.json#20",
+  "n": "Castro Laboreiro",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Melgaço » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vila (PT, 0.3 km)",
+   "ref": {
+    "name": "Vila",
+    "geonameid": 7117100,
+    "y": 42.0304,
+    "x": -8.1588,
+    "km": 0.3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "portugal|loule|371:-80",
+  "src": "portugal-andorre.json#79",
+  "n": "Loulé",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loulé (PT, 0.2 km)",
+   "ref": {
+    "name": "Loulé",
+    "geonameid": 2266988,
+    "y": 37.13772,
+    "x": -8.01968,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.21
+  },
+  "links": {
+   "geonames": 2266988
+  },
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "portugal|montemor-o-novo|386:-82",
+  "src": "portugal-andorre.json#86",
+  "n": "Montemor-o-Novo",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Montemor-o-Novo (PT, 0.5 km)",
+   "ref": {
+    "name": "Montemor-o-Novo",
+    "geonameid": 2265888,
+    "y": 38.64812,
+    "x": -8.21455,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "portugal|juromenha|387:-72",
+  "src": "portugal-andorre.json#93",
+  "n": "Juromenha",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.3,
+   "otherCountry": "Spain",
+   "nearestLocality": "Olivenza (ES, 13.7 km)",
+   "ref": {
+    "name": "Vila Viçosa",
+    "geonameid": 2261577,
+    "y": 38.7777,
+    "x": -7.41793,
+    "km": 16,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "portugal|sabugal|404:-71",
+  "src": "portugal-andorre.json#37",
+  "n": "Sabugal",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sabugal (PT, 0.1 km)",
+   "ref": {
+    "name": "Sabugal",
+    "geonameid": 2734925,
+    "y": 40.35127,
+    "x": -7.09104,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "portugal|moncorvo|412:-71",
+  "src": "portugal-andorre.json#7",
+  "n": "Torre de Moncorvo",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Torre de Moncorvo (PT, 0.2 km)",
+   "ref": {
+    "name": "Torre de Moncorvo",
+    "geonameid": 2733488,
+    "y": 41.17454,
+    "x": -7.05364,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.23
+  },
+  "links": {
+   "geonames": 2733488
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 3,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "portugal|albufeira-azibo|416:-69",
+  "src": "portugal-andorre.json#5",
+  "n": "Albufeira do Azibo",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Macedo de Cavaleiros (PT, 6.1 km)",
+   "ref": {
+    "name": "Macedo de Cavaleiros",
+    "geonameid": 2738082,
+    "y": 41.53816,
+    "x": -6.9611,
+    "km": 6.1,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "portugal|dornes|398:-83",
+  "src": "portugal-andorre.json#57",
+  "n": "Dornes",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ferreira do Zêzere (PT, 9.1 km)",
+   "ref": {
+    "name": "Ferreira do Zêzere",
+    "geonameid": 2268251,
+    "y": 39.69406,
+    "x": -8.29213,
+    "km": 9.1,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "portugal|fraga-pena|402:-79",
+  "src": "portugal-andorre.json#49",
+  "n": "Fraga da Pena",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Oliveira do Hospital (PT, 14.8 km)",
+   "ref": {
+    "name": "Arganil",
+    "geonameid": 2742757,
+    "y": 40.21826,
+    "x": -8.05403,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "portugal|mira-aire|395:-87",
+  "src": "portugal-andorre.json#55",
+  "n": "Grottes de Mira de Aire",
+  "p": "Portugal",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Mira de Aire » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mira (PT, 0.4 km)",
+   "ref": {
+    "name": "Mira",
+    "geonameid": 2266380,
+    "y": 39.54315,
+    "x": -8.71505,
+    "km": 0.4,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "portugal|mirandela|415:-72",
+  "src": "portugal-andorre.json#6",
+  "n": "Mirandela",
+  "p": "Portugal",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mirandela (PT, 0.5 km)",
+   "ref": {
+    "name": "Mirandela",
+    "geonameid": 2737639,
+    "y": 41.48739,
+    "x": -7.18695,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.49
+  },
+  "links": {
+   "geonames": 2737639
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "portugal|fortifie-ucanha|411:-77",
+  "src": "portugal-andorre.json#31",
+  "n": "Pont fortifié d'Ucanha",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tarouca (PT, 4.9 km)",
+   "ref": {
+    "name": "Lamego",
+    "geonameid": 2738459,
+    "y": 41.09741,
+    "x": -7.80991,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "portugal|penedono|410:-74",
+  "src": "portugal-andorre.json#30",
+  "n": "Château de Penedono",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Penedono (PT, 0.0 km)",
+   "ref": {
+    "name": "Trancoso",
+    "geonameid": 2733439,
+    "y": 40.78329,
+    "x": -7.35016,
+    "km": 23.2,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "portugal|mirobriga|380:-87",
+  "src": "portugal-andorre.json#68",
+  "n": "Miróbriga",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Santiago do Cacém (PT, 0.9 km)",
+   "ref": {
+    "name": "Santiago do Cacém",
+    "geonameid": 2263458,
+    "y": 38.01693,
+    "x": -8.69475,
+    "km": 0.9,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "portugal|mira|405:-88",
+  "src": "portugal-andorre.json#51",
+  "n": "Praia de Mira",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mira (PT, 6.4 km)",
+   "ref": {
+    "name": "Mira",
+    "geonameid": 2737651,
+    "y": 40.42892,
+    "x": -8.73746,
+    "km": 6.4,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "portugal|algoso|415:-66",
+  "src": "portugal-andorre.json#8",
+  "n": "Château d'Algoso",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mogadouro (PT, 17.0 km)",
+   "ref": {
+    "name": "Mogadouro",
+    "geonameid": 2737599,
+    "y": 41.34034,
+    "x": -6.71187,
+    "km": 17,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 9,
+   "val": 9,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "portugal|milreu|371:-79",
+  "src": "portugal-andorre.json#80",
+  "n": "Milreu",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Estói (PT, 0.8 km)",
+   "ref": {
+    "name": "Faro",
+    "geonameid": 2268339,
+    "y": 37.01869,
+    "x": -7.92716,
+    "km": 8.7,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "portugal|caminha|419:-88",
+  "src": "portugal-andorre.json#16",
+  "n": "Caminha",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "localité « Caminha » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "A Guarda (ES, 4.1 km)",
+   "ref": {
+    "name": "Vila Praia de Âncora",
+    "geonameid": 2732516,
+    "y": 41.81098,
+    "x": -8.85255,
+    "km": 7.3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ },
+ {
+  "key": "portugal|costa-caparica|386:-92",
+  "src": "portugal-andorre.json#63",
+  "n": "Costa da Caparica",
+  "p": "Portugal",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Costa de Caparica (PT, 0.3 km)",
+   "ref": {
+    "name": "Almada",
+    "geonameid": 2271961,
+    "y": 38.67902,
+    "x": -9.1569,
+    "km": 8.1,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ },
+ {
+  "key": "portugal|penela|400:-84",
+  "src": "portugal-andorre.json#50",
+  "n": "Penela",
+  "p": "Portugal",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Penela (PT, 0.7 km)",
+   "ref": {
+    "name": "Penela",
+    "geonameid": 2736429,
+    "y": 40.03333,
+    "x": -8.38333,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ }
+]

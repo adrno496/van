@@ -1,0 +1,782 @@
+[
+ {
+  "key": "montenegro|tara|432:193",
+  "src": "albanie-macedoine-montenegro.json#66",
+  "n": "Canyon de la Tara",
+  "p": "Monténégro",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Žabljak (ME, 13.9 km)",
+   "ref": {
+    "name": "Pljevlja",
+    "geonameid": 3193161,
+    "y": 43.3567,
+    "x": 19.35843,
+    "km": 23.6,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 14,
+   "sing": 14,
+   "val": 15,
+   "acc": 4,
+   "rel": 5,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 82,
+  "decision": "retenu",
+  "i": 2907
+ },
+ {
+  "key": "montenegro|perast|425:187",
+  "src": "albanie-macedoine-montenegro.json#65",
+  "n": "Perast",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lipci (ME, 3.5 km)",
+   "ref": {
+    "name": "Kotor",
+    "geonameid": 3197538,
+    "y": 42.42067,
+    "x": 18.76825,
+    "km": 9.3,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/125"
+  },
+  "score": {
+   "tour": 19,
+   "van": 11,
+   "sing": 14,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 2908
+ },
+ {
+  "key": "montenegro|piva|432:188",
+  "src": "albanie-macedoine-montenegro.json#67",
+  "n": "Lac et canyon de la Piva",
+  "p": "Monténégro",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Plužine (ME, 0.0 km)",
+   "ref": {
+    "name": "Plužine",
+    "geonameid": 3193131,
+    "y": 43.15278,
+    "x": 18.83944,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 14,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2909
+ },
+ {
+  "key": "montenegro|bar|421:191",
+  "src": "albanie-macedoine-montenegro.json#74",
+  "n": "Stari Bar",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stari Bar (ME, 0.4 km)",
+   "ref": {
+    "name": "Bar",
+    "geonameid": 3204509,
+    "y": 42.0937,
+    "x": 19.09841,
+    "km": 3.1,
+    "statedKm": 4
+   },
+   "status": "vérifié",
+   "snapped": 0.41
+  },
+  "links": {
+   "geonames": 3189979
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2910
+ },
+ {
+  "key": "montenegro|cetinje|424:189",
+  "src": "albanie-macedoine-montenegro.json#63",
+  "n": "Cetinje",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cetinje (ME, 0.0 km)",
+   "ref": {
+    "name": "Cetinje",
+    "geonameid": 3202641,
+    "y": 42.39063,
+    "x": 18.91417,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2911
+ },
+ {
+  "key": "montenegro|sedlo|431:191",
+  "src": "albanie-macedoine-montenegro.json#68",
+  "n": "Col de Sedlo",
+  "p": "Monténégro",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Žabljak (ME, 7.5 km)",
+   "ref": {
+    "name": "Žabljak",
+    "geonameid": 3186999,
+    "y": 43.15423,
+    "x": 19.12325,
+    "km": 7.5,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 14,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 5,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2912
+ },
+ {
+  "key": "montenegro|budva|423:188",
+  "src": "albanie-macedoine-montenegro.json#62",
+  "n": "Budva",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Budva (ME, 0.9 km)",
+   "ref": {
+    "name": "Budva",
+    "geonameid": 3203106,
+    "y": 42.28639,
+    "x": 18.84,
+    "km": 0.9,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.94
+  },
+  "links": {
+   "geonames": 3203106
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2913
+ },
+ {
+  "key": "montenegro|rijeka-crnojevica|424:190",
+  "src": "albanie-macedoine-montenegro.json#76",
+  "n": "Rijeka Crnojevića",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Goričani (ME, 15.8 km)",
+   "ref": {
+    "name": "Cetinje",
+    "geonameid": 3202641,
+    "y": 42.39063,
+    "x": 18.91417,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2914
+ },
+ {
+  "key": "montenegro|herceg-novi|425:185",
+  "src": "albanie-macedoine-montenegro.json#64",
+  "n": "Herceg Novi",
+  "p": "Monténégro",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Herceg Novi (ME, 0.0 km)",
+   "ref": {
+    "name": "Herceg Novi",
+    "geonameid": 3199394,
+    "y": 42.45306,
+    "x": 18.5375,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 3199394
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2915
+ },
+ {
+  "key": "montenegro|moraca|428:194",
+  "src": "albanie-macedoine-montenegro.json#73",
+  "n": "Monastère de Morača",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Danilovgrad (ME, 30.9 km)",
+   "ref": {
+    "name": "Kolašin",
+    "geonameid": 3197896,
+    "y": 42.82229,
+    "x": 19.51653,
+    "km": 12.1,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2916
+ },
+ {
+  "key": "montenegro|velika|419:193",
+  "src": "albanie-macedoine-montenegro.json#75",
+  "n": "Velika plaža",
+  "p": "Monténégro",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.3,
+   "otherCountry": null,
+   "nearestLocality": "Ulcinj (ME, 8.0 km)",
+   "ref": {
+    "name": "Ulcinj",
+    "geonameid": 3188516,
+    "y": 41.92936,
+    "x": 19.22436,
+    "km": 8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2917
+ },
+ {
+  "key": "montenegro|kolasin|428:195",
+  "src": "albanie-macedoine-montenegro.json#71",
+  "n": "Kolašin",
+  "p": "Monténégro",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kolašin (ME, 0.2 km)",
+   "ref": {
+    "name": "Kolašin",
+    "geonameid": 3197896,
+    "y": 42.82229,
+    "x": 19.51653,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 3197896
+  },
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2918
+ },
+ {
+  "key": "montenegro|pljevlja|434:194",
+  "src": "albanie-macedoine-montenegro.json#72",
+  "n": "Pljevlja",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pljevlja (ME, 0.0 km)",
+   "ref": {
+    "name": "Pljevlja",
+    "geonameid": 3193161,
+    "y": 43.3567,
+    "x": 19.35843,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3193161
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2919
+ },
+ {
+  "key": "montenegro|petrovac-na-moru|422:189",
+  "src": "albanie-macedoine-montenegro.json#79",
+  "n": "Petrovac na Moru",
+  "p": "Monténégro",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Petrovac na Moru (ME, 0.0 km)",
+   "ref": {
+    "name": "Budva",
+    "geonameid": 3203106,
+    "y": 42.28639,
+    "x": 18.84,
+    "km": 12.3,
+    "statedKm": 15
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 3193413
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2920
+ },
+ {
+  "key": "montenegro|plav|426:199",
+  "src": "albanie-macedoine-montenegro.json#69",
+  "n": "Plav",
+  "p": "Monténégro",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Plav (ME, 1.2 km)",
+   "ref": {
+    "name": "Plav",
+    "geonameid": 3193228,
+    "y": 42.59694,
+    "x": 19.94556,
+    "km": 1.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2921
+ },
+ {
+  "key": "montenegro|sources-ali-pacha|426:198",
+  "src": "albanie-macedoine-montenegro.json#70",
+  "n": "Sources d'Ali Pacha",
+  "p": "Monténégro",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gusinje (ME, 1.8 km)",
+   "ref": {
+    "name": "Plav",
+    "geonameid": 3193228,
+    "y": 42.59694,
+    "x": 19.94556,
+    "km": 11.7,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "montenegro|ur-evi-stupovi|429:199",
+  "src": "albanie-macedoine-montenegro.json#78",
+  "n": "Monastère de Đurđevi Stupovi",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Berane (ME, 1.8 km)",
+   "ref": {
+    "name": "Berane",
+    "geonameid": 3199071,
+    "y": 42.8425,
+    "x": 19.87333,
+    "km": 1.8,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "montenegro|lipa|424:189",
+  "src": "albanie-macedoine-montenegro.json#80",
+  "n": "Grotte de Lipa",
+  "p": "Monténégro",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cetinje (ME, 2.8 km)",
+   "ref": {
+    "name": "Cetinje",
+    "geonameid": 3202641,
+    "y": 42.39063,
+    "x": 18.91417,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "montenegro|doclea|425:193",
+  "src": "albanie-macedoine-montenegro.json#77",
+  "n": "Doclea",
+  "p": "Monténégro",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Podgorica (ME, 3.0 km)",
+   "ref": {
+    "name": "Podgorica",
+    "geonameid": null,
+    "y": 42.465973,
+    "x": 19.266307,
+    "km": 0.3,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ },
+ {
+  "key": "montenegro|serpentine-kotor|424:188",
+  "src": "albanie-macedoine-montenegro.json#81",
+  "n": "Serpentine de Kotor",
+  "p": "Monténégro",
+  "c": "nature",
+  "issues": [
+   "doublon : fiche 703 « Parc national du Lovćen » (2.8 km)"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kotor (ME, 1.7 km)",
+   "ref": {
+    "name": "Kotor",
+    "geonameid": 3197538,
+    "y": 42.42067,
+    "x": 18.76825,
+    "km": 1.7,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 14,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "doublon : fiche 703 « Parc national du Lovćen » (2.8 km)"
+ }
+]

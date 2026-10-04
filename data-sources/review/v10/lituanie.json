@@ -1,0 +1,851 @@
+[
+ {
+  "key": "lituanie|pazaislis|549:240",
+  "src": "nordiques-baltes.json#111",
+  "n": "Monastère de Pažaislis",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ramučiai (LT, 8.0 km)",
+   "ref": {
+    "name": "Kaunas",
+    "geonameid": 598316,
+    "y": 54.90272,
+    "x": 23.90961,
+    "km": 7.6,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3479
+ },
+ {
+  "key": "lituanie|klaipeda|557:211",
+  "src": "nordiques-baltes.json#101",
+  "n": "Klaipėda",
+  "p": "Lituanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Klaipėda (LT, 0.5 km)",
+   "ref": {
+    "name": "Klaipėda",
+    "geonameid": 598098,
+    "y": 55.7068,
+    "x": 21.13912,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.51
+  },
+  "links": {
+   "geonames": 598098,
+   "qid": "Q776965"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3480
+ },
+ {
+  "key": "lituanie|palanga|559:211",
+  "src": "nordiques-baltes.json#102",
+  "n": "Palanga",
+  "p": "Lituanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Palanga (LT, 0.1 km)",
+   "ref": {
+    "name": "Palanga",
+    "geonameid": 596238,
+    "y": 55.9175,
+    "x": 21.06861,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3481
+ },
+ {
+  "key": "lituanie|anyksciai|555:251",
+  "src": "nordiques-baltes.json#109",
+  "n": "Anykščiai",
+  "p": "Lituanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Anykščiai (LT, 0.1 km)",
+   "ref": {
+    "name": "Anykščiai",
+    "geonameid": 600994,
+    "y": 55.52557,
+    "x": 25.10264,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 600994
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3483
+ },
+ {
+  "key": "lituanie|base-missiles-plokstine|560:218",
+  "src": "nordiques-baltes.json#104",
+  "n": "Base de missiles de Plokštinė",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Plateliai (LT, 2.7 km)",
+   "ref": {
+    "name": "Plunge",
+    "geonameid": 595689,
+    "y": 55.91139,
+    "x": 21.84417,
+    "km": 12.6,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 14,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3482
+ },
+ {
+  "key": "lituanie|vente|553:212",
+  "src": "nordiques-baltes.json#105",
+  "n": "Cap Ventė",
+  "p": "Lituanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Neringa (LT, 8.7 km)",
+   "ref": {
+    "name": "Silute",
+    "geonameid": 594656,
+    "y": 55.34889,
+    "x": 21.48306,
+    "km": 18.5,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3484
+ },
+ {
+  "key": "lituanie|druskininkai|540:240",
+  "src": "nordiques-baltes.json#114",
+  "n": "Druskininkai",
+  "p": "Lituanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Druskininkai (LT, 1.0 km)",
+   "ref": {
+    "name": "Druskininkai",
+    "geonameid": 599757,
+    "y": 54.01573,
+    "x": 23.98703,
+    "km": 1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.99
+  },
+  "links": {
+   "geonames": 599757
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3485
+ },
+ {
+  "key": "lituanie|kedainiai|553:240",
+  "src": "nordiques-baltes.json#119",
+  "n": "Kėdainiai",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kėdainiai (LT, 0.1 km)",
+   "ref": {
+    "name": "Kėdainiai",
+    "geonameid": 598272,
+    "y": 55.28782,
+    "x": 23.97275,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.14
+  },
+  "links": {
+   "geonames": 598272
+  },
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3486
+ },
+ {
+  "key": "lituanie|birzai|562:248",
+  "src": "nordiques-baltes.json#108",
+  "n": "Biržai",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Birzai (LT, 0.8 km)",
+   "ref": {
+    "name": "Birzai",
+    "geonameid": 600438,
+    "y": 56.2,
+    "x": 24.75,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.77
+  },
+  "links": {
+   "geonames": 600438
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3487
+ },
+ {
+  "key": "lituanie|zarasai|557:262",
+  "src": "nordiques-baltes.json#117",
+  "n": "Zarasai",
+  "p": "Lituanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zarasai (LT, 0.4 km)",
+   "ref": {
+    "name": "Zarasai",
+    "geonameid": 592891,
+    "y": 55.73225,
+    "x": 26.25115,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.35
+  },
+  "links": {
+   "geonames": 592891
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3488
+ },
+ {
+  "key": "lituanie|birstonas|546:240",
+  "src": "nordiques-baltes.json#116",
+  "n": "Birštonas",
+  "p": "Lituanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Birštonas (LT, 0.4 km)",
+   "ref": {
+    "name": "Birštonas",
+    "geonameid": 600443,
+    "y": 54.608,
+    "x": 24.034,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.42
+  },
+  "links": {
+   "geonames": 600443
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3490
+ },
+ {
+  "key": "lituanie|manoir-rokiskis|560:256",
+  "src": "nordiques-baltes.json#110",
+  "n": "Manoir de Rokiškis",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rokiškis (LT, 1.0 km)",
+   "ref": {
+    "name": "Rokiškis",
+    "geonameid": 595213,
+    "y": 55.95867,
+    "x": 25.59466,
+    "km": 1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3492
+ },
+ {
+  "key": "lituanie|parc-grutas|541:240",
+  "src": "nordiques-baltes.json#115",
+  "n": "Parc de Grūtas",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Viečiūnai (LT, 1.2 km)",
+   "ref": {
+    "name": "Druskininkai",
+    "geonameid": 599757,
+    "y": 54.01573,
+    "x": 23.98703,
+    "km": 6.6,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 13,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3491
+ },
+ {
+  "key": "lituanie|rusne|553:214",
+  "src": "nordiques-baltes.json#106",
+  "n": "Rusnė",
+  "p": "Lituanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rusnė (LT, 0.1 km)",
+   "ref": {
+    "name": "Silute",
+    "geonameid": 594656,
+    "y": 55.34889,
+    "x": 21.48306,
+    "km": 9,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3489
+ },
+ {
+  "key": "lituanie|plein-air-rumsiskes|549:242",
+  "src": "nordiques-baltes.json#113",
+  "n": "Musée de plein air de Rumšiškės",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ramučiai (LT, 14.2 km)",
+   "ref": {
+    "name": "Kaunas",
+    "geonameid": 598316,
+    "y": 54.90272,
+    "x": 23.90961,
+    "km": 18.9,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3493
+ },
+ {
+  "key": "lituanie|tytuvenai|556:232",
+  "src": "nordiques-baltes.json#121",
+  "n": "Tytuvėnai",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tytuvėnai (LT, 0.3 km)",
+   "ref": {
+    "name": "Kelmė",
+    "geonameid": 598257,
+    "y": 55.63009,
+    "x": 22.9349,
+    "km": 17,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3494
+ },
+ {
+  "key": "lituanie|manoir-pakruojis|560:239",
+  "src": "nordiques-baltes.json#120",
+  "n": "Manoir de Pakruojis",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pakruojis (LT, 1.2 km)",
+   "ref": {
+    "name": "Pakruojis",
+    "geonameid": 596260,
+    "y": 55.97889,
+    "x": 23.85508,
+    "km": 1.2,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 3495
+ },
+ {
+  "key": "lituanie|colline-rambynas|551:220",
+  "src": "nordiques-baltes.json#107",
+  "n": "Colline de Rambynas",
+  "p": "Lituanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Taurage (LT, 24.8 km)",
+   "ref": {
+    "name": "Pagėgiai",
+    "geonameid": 596399,
+    "y": 55.13793,
+    "x": 21.91378,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "lituanie|siauliai|559:233",
+  "src": "nordiques-baltes.json#122",
+  "n": "Šiauliai",
+  "p": "Lituanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Šiauliai (LT, 0.3 km)",
+   "ref": {
+    "name": "Šiauliai",
+    "geonameid": 594739,
+    "y": 55.93333,
+    "x": 23.31667,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.25
+  },
+  "links": {
+   "geonames": 594739,
+   "qid": "Q134712"
+  },
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 6,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "lituanie|pierres-mosedis|562:216",
+  "src": "nordiques-baltes.json#118",
+  "n": "Musée des pierres de Mosėdis",
+  "p": "Lituanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Skuodas (LT, 11.9 km)",
+   "ref": {
+    "name": "Skuodas",
+    "geonameid": 594488,
+    "y": 56.27057,
+    "x": 21.53208,
+    "km": 11.9,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "lituanie|olando-kepure|558:211",
+  "src": "nordiques-baltes.json#103",
+  "n": "Olando kepurė",
+  "p": "Lituanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Klaipėda (LT, 10.1 km)",
+   "ref": {
+    "name": "Klaipėda",
+    "geonameid": null,
+    "y": 55.720409,
+    "x": 21.119941,
+    "km": 8.3,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "lituanie|neuvieme|550:239",
+  "src": "nordiques-baltes.json#112",
+  "n": "Neuvième Fort",
+  "p": "Lituanie",
+  "c": "patrimoine",
+  "issues": [
+   "à 0.6 km de Kaunas (annoncé 6 km) : coordonnées incohérentes"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sargėnai (LT, 0.8 km)",
+   "ref": {
+    "name": "Kaunas",
+    "geonameid": null,
+    "y": 54.950404,
+    "x": 23.880031,
+    "km": 0.6,
+    "statedKm": 6
+   },
+   "status": "écart"
+  },
+  "links": {},
+  "decision": "rejeté",
+  "reason": "à 0.6 km de Kaunas (annoncé 6 km) : coordonnées incohérentes"
+ }
+]

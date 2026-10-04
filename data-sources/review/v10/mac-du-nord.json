@@ -1,0 +1,1062 @@
+[
+ {
+  "key": "mac-du-nord|naum|409:207",
+  "src": "albanie-macedoine-montenegro.json#55",
+  "n": "Monastère Saint-Naum",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Buçimas (AL, 5.5 km)",
+   "ref": {
+    "name": "Ohrid",
+    "geonameid": 787487,
+    "y": 41.11722,
+    "x": 20.80194,
+    "km": 23.2,
+    "statedKm": 23
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 5,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 2957
+ },
+ {
+  "key": "mac-du-nord|heraclee-lynkestis|410:213",
+  "src": "albanie-macedoine-montenegro.json#36",
+  "n": "Héraclée Lynkestis",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bitola (MK, 2.4 km)",
+   "ref": {
+    "name": "Bitola",
+    "geonameid": 792578,
+    "y": 41.03143,
+    "x": 21.33474,
+    "km": 2.4,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2958
+ },
+ {
+  "key": "mac-du-nord|stobi|416:220",
+  "src": "albanie-macedoine-montenegro.json#39",
+  "n": "Stobi",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gradsko (MK, 3.9 km)",
+   "ref": {
+    "name": "Negotino",
+    "geonameid": 787716,
+    "y": 41.48456,
+    "x": 22.09056,
+    "km": 12.2,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2959
+ },
+ {
+  "key": "mac-du-nord|kratovo|421:222",
+  "src": "albanie-macedoine-montenegro.json#42",
+  "n": "Kratovo",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kratovo (MK, 0.0 km)",
+   "ref": {
+    "name": "Kratovo",
+    "geonameid": 789091,
+    "y": 42.07838,
+    "x": 22.1807,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 789091
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2960
+ },
+ {
+  "key": "mac-du-nord|bitola|410:213",
+  "src": "albanie-macedoine-montenegro.json#35",
+  "n": "Bitola",
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bitola (MK, 0.0 km)",
+   "ref": {
+    "name": "Bitola",
+    "geonameid": 792578,
+    "y": 41.03143,
+    "x": 21.33474,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 792578,
+   "qid": "Q157246"
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2961
+ },
+ {
+  "key": "mac-du-nord|krusevo|414:212",
+  "src": "albanie-macedoine-montenegro.json#37",
+  "n": "Kruševo",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Krusevo (MK, 0.0 km)",
+   "ref": {
+    "name": "Krusevo",
+    "geonameid": 788961,
+    "y": 41.36889,
+    "x": 21.24889,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 788961
+  },
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2962
+ },
+ {
+  "key": "mac-du-nord|berovo|417:229",
+  "src": "albanie-macedoine-montenegro.json#45",
+  "n": "Berovo",
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Berovo (MK, 0.5 km)",
+   "ref": {
+    "name": "Berovo",
+    "geonameid": 792656,
+    "y": 41.70306,
+    "x": 22.85778,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.46
+  },
+  "links": {
+   "geonames": 792656
+  },
+  "score": {
+   "tour": 10,
+   "van": 11,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2963
+ },
+ {
+  "key": "mac-du-nord|kuklica|421:222",
+  "src": "albanie-macedoine-montenegro.json#43",
+  "n": "Kuklica",
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kratovo (MK, 2.8 km)",
+   "ref": {
+    "name": "Kratovo",
+    "geonameid": 789091,
+    "y": 42.07838,
+    "x": 22.1807,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2964
+ },
+ {
+  "key": "mac-du-nord|treskavec|414:216",
+  "src": "albanie-macedoine-montenegro.json#38",
+  "n": "Monastère de Treskavec",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Markov Grad (MK, 5.3 km)",
+   "ref": {
+    "name": "Prilep",
+    "geonameid": 786735,
+    "y": 41.34514,
+    "x": 21.55504,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2965
+ },
+ {
+  "key": "mac-du-nord|mosquee-peinte-tetovo|420:210",
+  "src": "albanie-macedoine-montenegro.json#51",
+  "n": "Mosquée Peinte de Tetovo",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tetovo (MK, 0.3 km)",
+   "ref": {
+    "name": "Tetovo",
+    "geonameid": null,
+    "y": 42.00923,
+    "x": 20.970079,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2966
+ },
+ {
+  "key": "mac-du-nord|demir-kapija|414:223",
+  "src": "albanie-macedoine-montenegro.json#40",
+  "n": "Gorge de Demir Kapija",
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Demir Kapija (MK, 1.3 km)",
+   "ref": {
+    "name": "Demir Kapija",
+    "geonameid": 791542,
+    "y": 41.40613,
+    "x": 22.24631,
+    "km": 1.3,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2967
+ },
+ {
+  "key": "mac-du-nord|jean-bigorski|416:206",
+  "src": "albanie-macedoine-montenegro.json#48",
+  "n": "Monastère Saint-Jean-Bigorski",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rostusa (MK, 1.0 km)",
+   "ref": {
+    "name": "Debar",
+    "geonameid": 791606,
+    "y": 41.52444,
+    "x": 20.52421,
+    "km": 12.4,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2968
+ },
+ {
+  "key": "mac-du-nord|dojran|412:227",
+  "src": "albanie-macedoine-montenegro.json#41",
+  "n": "Lac de Dojran",
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Star Dojran (MK, 0.2 km)",
+   "ref": {
+    "name": "Bogdanci",
+    "geonameid": 792523,
+    "y": 41.20306,
+    "x": 22.57556,
+    "km": 12.5,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2969
+ },
+ {
+  "key": "mac-du-nord|veljusa|414:226",
+  "src": "albanie-macedoine-montenegro.json#47",
+  "n": "Monastère de Veljusa",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Veljusa (MK, 4.5 km)",
+   "ref": {
+    "name": "Strumica",
+    "geonameid": 785380,
+    "y": 41.4375,
+    "x": 22.64333,
+    "km": 5.3,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2973
+ },
+ {
+  "key": "mac-du-nord|panteleimon-nerezi|420:214",
+  "src": "albanie-macedoine-montenegro.json#54",
+  "n": "Monastère Saint-Pantéléimon de Nerezi",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Krušopek (MK, 3.5 km)",
+   "ref": {
+    "name": "Skopje",
+    "geonameid": 785842,
+    "y": 41.99646,
+    "x": 21.43141,
+    "km": 4.6,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2972
+ },
+ {
+  "key": "mac-du-nord|struga|412:207",
+  "src": "albanie-macedoine-montenegro.json#57",
+  "n": "Struga",
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Struga (MK, 0.1 km)",
+   "ref": {
+    "name": "Struga",
+    "geonameid": 785387,
+    "y": 41.17799,
+    "x": 20.67784,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 785387
+  },
+  "score": {
+   "tour": 10,
+   "van": 10,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2970
+ },
+ {
+  "key": "mac-du-nord|trpejca|410:208",
+  "src": "albanie-macedoine-montenegro.json#59",
+  "n": "Trpejca",
+  "p": "Mac. du Nord",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Buçimas (AL, 11.1 km)",
+   "ref": {
+    "name": "Ohrid",
+    "geonameid": 787487,
+    "y": 41.11722,
+    "x": 20.80194,
+    "km": 18,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 5,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2971
+ },
+ {
+  "key": "mac-du-nord|nicolas-mavrovo|417:207",
+  "src": "albanie-macedoine-montenegro.json#49",
+  "n": "Église Saint-Nicolas de Mavrovo",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vrutok (MK, 11.6 km)",
+   "ref": {
+    "name": "Gostivar",
+    "geonameid": 790295,
+    "y": 41.79601,
+    "x": 20.90819,
+    "km": 17.9,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2975
+ },
+ {
+  "key": "mac-du-nord|stip|417:222",
+  "src": "albanie-macedoine-montenegro.json#46",
+  "n": "Štip",
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Štip » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Shtip (MK, 0.0 km)",
+   "ref": {
+    "name": "Shtip",
+    "geonameid": 785482,
+    "y": 41.74583,
+    "x": 22.19583,
+    "km": 0,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 785482
+  },
+  "score": {
+   "tour": 9,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2974
+ },
+ {
+  "key": "mac-du-nord|veles|417:218",
+  "src": "albanie-macedoine-montenegro.json#60",
+  "n": "Veles",
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Veles (MK, 0.0 km)",
+   "ref": {
+    "name": "Veles",
+    "geonameid": 785058,
+    "y": 41.71556,
+    "x": 21.77556,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 785058
+  },
+  "score": {
+   "tour": 8,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2976
+ },
+ {
+  "key": "mac-du-nord|popova-sapka|420:209",
+  "src": "albanie-macedoine-montenegro.json#61",
+  "n": "Popova Šapka",
+  "p": "Mac. du Nord",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Šipkovica (MK, 3.7 km)",
+   "ref": {
+    "name": "Tetovo",
+    "geonameid": null,
+    "y": 42.00923,
+    "x": 20.970079,
+    "km": 7.2,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 57,
+  "decision": "retenu",
+  "i": 2977
+ },
+ {
+  "key": "mac-du-nord|georges-staro-nagoricane|422:218",
+  "src": "albanie-macedoine-montenegro.json#52",
+  "n": "Église Saint-Georges de Staro Nagoričane",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Старо Нагоричане (MK, 0.1 km)",
+   "ref": {
+    "name": "Kumanovo",
+    "geonameid": 788886,
+    "y": 42.13222,
+    "x": 21.71444,
+    "km": 12,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "mac-du-nord|joachim-osogovo|422:223",
+  "src": "albanie-macedoine-montenegro.json#53",
+  "n": "Monastère Saint-Joachim d'Osogovo",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kriva Palanka (MK, 3.4 km)",
+   "ref": {
+    "name": "Kriva Palanka",
+    "geonameid": 789045,
+    "y": 42.20088,
+    "x": 22.33244,
+    "km": 3.4,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "mac-du-nord|baie-ossements|410:208",
+  "src": "albanie-macedoine-montenegro.json#56",
+  "n": "Baie des Ossements",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ohrid (MK, 10.4 km)",
+   "ref": {
+    "name": "Ohrid",
+    "geonameid": 787487,
+    "y": 41.11722,
+    "x": 20.80194,
+    "km": 10.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 5,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "mac-du-nord|vevcani|412:206",
+  "src": "albanie-macedoine-montenegro.json#58",
+  "n": "Vevčani",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vevčani (MK, 0.0 km)",
+   "ref": {
+    "name": "Struga",
+    "geonameid": 785387,
+    "y": 41.17799,
+    "x": 20.67784,
+    "km": 9.9,
+    "statedKm": 10
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 784462
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "mac-du-nord|lesnovo|420:222",
+  "src": "albanie-macedoine-montenegro.json#44",
+  "n": "Monastère de Lesnovo",
+  "p": "Mac. du Nord",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Probištip » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Probishtip (MK, 5.8 km)",
+   "ref": {
+    "name": "Probishtip",
+    "geonameid": 786700,
+    "y": 42.00306,
+    "x": 22.17861,
+    "km": 5.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "mac-du-nord|debar|415:205",
+  "src": "albanie-macedoine-montenegro.json#50",
+  "n": "Debar",
+  "p": "Mac. du Nord",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Debar (MK, 0.3 km)",
+   "ref": {
+    "name": "Debar",
+    "geonameid": 791606,
+    "y": 41.52444,
+    "x": 20.52421,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.26
+  },
+  "links": {
+   "geonames": 791606
+  },
+  "score": {
+   "tour": 8,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ }
+]

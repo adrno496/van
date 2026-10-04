@@ -1,0 +1,1301 @@
+[
+ {
+  "key": "hongrie|thermal-heviz|468:172",
+  "src": "slovaquie-hongrie.json#54",
+  "n": "Lac thermal de Hévíz",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hévíz (HU, 0.5 km)",
+   "ref": {
+    "name": "Hévíz",
+    "geonameid": 3051477,
+    "y": 46.79031,
+    "x": 17.18408,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 13,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3080
+ },
+ {
+  "key": "hongrie|sopron|477:166",
+  "src": "slovaquie-hongrie.json#61",
+  "n": "Sopron",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sopron (HU, 0.0 km)",
+   "ref": {
+    "name": "Sopron",
+    "geonameid": 3045190,
+    "y": 47.68501,
+    "x": 16.59049,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3045190
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3081
+ },
+ {
+  "key": "hongrie|szeged|463:201",
+  "src": "slovaquie-hongrie.json#44",
+  "n": "Szeged",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Szeged (HU, 0.0 km)",
+   "ref": {
+    "name": "Szeged",
+    "geonameid": 715429,
+    "y": 46.253,
+    "x": 20.14824,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 715429,
+   "qid": "Q81581"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3082
+ },
+ {
+  "key": "hongrie|koszeg|474:165",
+  "src": "slovaquie-hongrie.json#58",
+  "n": "Kőszeg",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kőszeg (HU, 0.0 km)",
+   "ref": {
+    "name": "Kőszeg",
+    "geonameid": 3049366,
+    "y": 47.38922,
+    "x": 16.541,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3049366
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3083
+ },
+ {
+  "key": "hongrie|keszthely|468:172",
+  "src": "slovaquie-hongrie.json#55",
+  "n": "Keszthely",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Keszthely (HU, 0.2 km)",
+   "ref": {
+    "name": "Keszthely",
+    "geonameid": 3050212,
+    "y": 46.76812,
+    "x": 17.24317,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.18
+  },
+  "links": {
+   "geonames": 3050212
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3084
+ },
+ {
+  "key": "hongrie|veszprem|471:179",
+  "src": "slovaquie-hongrie.json#74",
+  "n": "Veszprém",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Veszprém (HU, 0.4 km)",
+   "ref": {
+    "name": "Veszprém",
+    "geonameid": 3042929,
+    "y": 47.09327,
+    "x": 17.91149,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.38
+  },
+  "links": {
+   "geonames": 3042929,
+   "qid": "Q146317"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3085
+ },
+ {
+  "key": "hongrie|kecskemet|469:197",
+  "src": "slovaquie-hongrie.json#47",
+  "n": "Kecskemét",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kecskemét (HU, 0.2 km)",
+   "ref": {
+    "name": "Kecskemét",
+    "geonameid": 3050434,
+    "y": 46.90618,
+    "x": 19.69128,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.15
+  },
+  "links": {
+   "geonames": 3050434,
+   "qid": "Q171357"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3086
+ },
+ {
+  "key": "hongrie|szekesfehervar|472:184",
+  "src": "slovaquie-hongrie.json#50",
+  "n": "Székesfehérvár",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Székesfehérvár (HU, 0.0 km)",
+   "ref": {
+    "name": "Székesfehérvár",
+    "geonameid": 3044774,
+    "y": 47.18995,
+    "x": 18.41034,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3044774,
+   "qid": "Q130212"
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3087
+ },
+ {
+  "key": "hongrie|debrecen|475:216",
+  "src": "slovaquie-hongrie.json#72",
+  "n": "Debrecen",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Debrecen (HU, 0.2 km)",
+   "ref": {
+    "name": "Debrecen",
+    "geonameid": 721472,
+    "y": 47.53167,
+    "x": 21.62444,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.21
+  },
+  "links": {
+   "geonames": 721472,
+   "qid": "Q79880"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3089
+ },
+ {
+  "key": "hongrie|gyor|477:176",
+  "src": "slovaquie-hongrie.json#63",
+  "n": "Győr",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Győr (HU, 0.5 km)",
+   "ref": {
+    "name": "Győr",
+    "geonameid": 3052009,
+    "y": 47.68333,
+    "x": 17.63512,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.46
+  },
+  "links": {
+   "geonames": 3052009,
+   "qid": "Q134494"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3088
+ },
+ {
+  "key": "hongrie|gyula|466:213",
+  "src": "slovaquie-hongrie.json#46",
+  "n": "Gyula",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gyula (HU, 0.4 km)",
+   "ref": {
+    "name": "Gyula",
+    "geonameid": 720334,
+    "y": 46.65,
+    "x": 21.28333,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.44
+  },
+  "links": {
+   "geonames": 720334
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3090
+ },
+ {
+  "key": "hongrie|orseg|468:164",
+  "src": "slovaquie-hongrie.json#60",
+  "n": "Parc national d'Őrség",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hodoš (SI, 7.0 km)",
+   "ref": {
+    "name": "Szentgotthárd",
+    "geonameid": 3044669,
+    "y": 46.95261,
+    "x": 16.27358,
+    "km": 16.8,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3091
+ },
+ {
+  "key": "hongrie|sarospatak|483:216",
+  "src": "slovaquie-hongrie.json#70",
+  "n": "Château de Sárospatak",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sárospatak (HU, 0.9 km)",
+   "ref": {
+    "name": "Sárospatak",
+    "geonameid": 715867,
+    "y": 48.3245,
+    "x": 21.57383,
+    "km": 0.9,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3092
+ },
+ {
+  "key": "hongrie|esterhazy-fertod|476:169",
+  "src": "slovaquie-hongrie.json#62",
+  "n": "Château Esterházy de Fertőd",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fertőd (HU, 0.4 km)",
+   "ref": {
+    "name": "Fertőd",
+    "geonameid": 3052645,
+    "y": 47.62173,
+    "x": 16.87088,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3093
+ },
+ {
+  "key": "hongrie|tisza|476:208",
+  "src": "slovaquie-hongrie.json#43",
+  "n": "Lac Tisza",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tiszafüred (HU, 0.6 km)",
+   "ref": {
+    "name": "Tiszafüred",
+    "geonameid": 714772,
+    "y": 47.61667,
+    "x": 20.76667,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3094
+ },
+ {
+  "key": "hongrie|siklos|459:183",
+  "src": "slovaquie-hongrie.json#73",
+  "n": "Château de Siklós",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Siklós (HU, 0.2 km)",
+   "ref": {
+    "name": "Siklós",
+    "geonameid": 3045364,
+    "y": 45.85499,
+    "x": 18.29752,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3096
+ },
+ {
+  "key": "hongrie|kalocsa|465:190",
+  "src": "slovaquie-hongrie.json#48",
+  "n": "Kalocsa",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kalocsa (HU, 1.0 km)",
+   "ref": {
+    "name": "Kalocsa",
+    "geonameid": 3050719,
+    "y": 46.52981,
+    "x": 18.97283,
+    "km": 1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1
+  },
+  "links": {
+   "geonames": 3050719
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3098
+ },
+ {
+  "key": "hongrie|nyirbator|478:221",
+  "src": "slovaquie-hongrie.json#42",
+  "n": "Nyírbátor",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nyírbátor (HU, 0.2 km)",
+   "ref": {
+    "name": "Nyírbátor",
+    "geonameid": 716948,
+    "y": 47.83333,
+    "x": 22.13333,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.21
+  },
+  "links": {
+   "geonames": 716948
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3097
+ },
+ {
+  "key": "hongrie|royal-godollo|476:194",
+  "src": "slovaquie-hongrie.json#65",
+  "n": "Palais royal de Gödöllő",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gödöllő (HU, 0.1 km)",
+   "ref": {
+    "name": "Gödöllő",
+    "geonameid": 3052236,
+    "y": 47.59657,
+    "x": 19.35515,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3095
+ },
+ {
+  "key": "hongrie|tata|477:183",
+  "src": "slovaquie-hongrie.json#66",
+  "n": "Tata",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tata (HU, 0.4 km)",
+   "ref": {
+    "name": "Tata",
+    "geonameid": 3044083,
+    "y": 47.65289,
+    "x": 18.31838,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.42
+  },
+  "links": {
+   "geonames": 3044083
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3099
+ },
+ {
+  "key": "hongrie|bugac-puszta-kiskunsag|467:197",
+  "src": "slovaquie-hongrie.json#49",
+  "n": "Bugac (Puszta de Kiskunság)",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bugac (HU, 0.5 km)",
+   "ref": {
+    "name": "Kiskunfélegyháza",
+    "geonameid": 3049885,
+    "y": 46.71213,
+    "x": 19.84458,
+    "km": 12.7,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3101
+ },
+ {
+  "key": "hongrie|visegrad|478:190",
+  "src": "slovaquie-hongrie.json#64",
+  "n": "Citadelle de Visegrád",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Visegrád (HU, 1.1 km)",
+   "ref": {
+    "name": "Nagymaros",
+    "geonameid": 3047619,
+    "y": 47.7928,
+    "x": 18.95984,
+    "km": 1.5,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3100
+ },
+ {
+  "key": "hongrie|abbatiale-jak|471:166",
+  "src": "slovaquie-hongrie.json#59",
+  "n": "Église abbatiale de Ják",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ják (HU, 0.1 km)",
+   "ref": {
+    "name": "Szombathely",
+    "geonameid": null,
+    "y": 47.225346,
+    "x": 16.628742,
+    "km": 10,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3102
+ },
+ {
+  "key": "hongrie|badacsony|468:175",
+  "src": "slovaquie-hongrie.json#56",
+  "n": "Badacsony",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Balatonfenyves (HU, 9.4 km)",
+   "ref": {
+    "name": "Tapolca",
+    "geonameid": 3044141,
+    "y": 46.88152,
+    "x": 17.44117,
+    "km": 9.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "hongrie|szalajka|481:204",
+  "src": "slovaquie-hongrie.json#68",
+  "n": "Vallée de Szalajka",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Szilvásvárad (HU, 0.4 km)",
+   "ref": {
+    "name": "Bélapátfalva",
+    "geonameid": 722424,
+    "y": 48.05,
+    "x": 20.36667,
+    "km": 5.9,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "hongrie|kekesteto|479:200",
+  "src": "slovaquie-hongrie.json#67",
+  "n": "Kékestető",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Parád (HU, 5.9 km)",
+   "ref": {
+    "name": "Gyöngyös",
+    "geonameid": 3052040,
+    "y": 47.78257,
+    "x": 19.928,
+    "km": 11.7,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "hongrie|boldogko|483:212",
+  "src": "slovaquie-hongrie.json#71",
+  "n": "Château de Boldogkő",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Abaújszántó (HU, 7.3 km)",
+   "ref": {
+    "name": "Abaújszántó",
+    "geonameid": 723036,
+    "y": 48.28333,
+    "x": 21.2,
+    "km": 7.3,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "hongrie|lillafured|481:206",
+  "src": "slovaquie-hongrie.json#69",
+  "n": "Lillafüred",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bükkszentkereszt (HU, 3.8 km)",
+   "ref": {
+    "name": "Miskolc",
+    "geonameid": 717582,
+    "y": 48.10306,
+    "x": 20.77806,
+    "km": 11.6,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "hongrie|szekszard|464:187",
+  "src": "slovaquie-hongrie.json#52",
+  "n": "Szekszárd",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Szekszárd (HU, 0.2 km)",
+   "ref": {
+    "name": "Szekszárd",
+    "geonameid": 3044760,
+    "y": 46.35014,
+    "x": 18.70905,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.18
+  },
+  "links": {
+   "geonames": 3044760,
+   "qid": "Q189761"
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "hongrie|kaposvar|464:178",
+  "src": "slovaquie-hongrie.json#53",
+  "n": "Kaposvár",
+  "p": "Hongrie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kaposvár (HU, 0.9 km)",
+   "ref": {
+    "name": "Kaposvár",
+    "geonameid": 3050616,
+    "y": 46.36667,
+    "x": 17.8,
+    "km": 0.9,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.85
+  },
+  "links": {
+   "geonames": 3050616,
+   "qid": "Q184998"
+  },
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "hongrie|memorial-opusztaszer|465:201",
+  "src": "slovaquie-hongrie.json#45",
+  "n": "Parc mémorial d'Ópusztaszer",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ópusztaszer (HU, 0.9 km)",
+   "ref": {
+    "name": "Kistelek",
+    "geonameid": 3049719,
+    "y": 46.4725,
+    "x": 19.97972,
+    "km": 8.2,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "hongrie|szigliget|468:174",
+  "src": "slovaquie-hongrie.json#57",
+  "n": "Château de Szigliget",
+  "p": "Hongrie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tapolca (HU, 8.5 km)",
+   "ref": {
+    "name": "Tapolca",
+    "geonameid": 3044141,
+    "y": 46.88152,
+    "x": 17.44117,
+    "km": 8.5,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "hongrie|velence|472:186",
+  "src": "slovaquie-hongrie.json#51",
+  "n": "Lac de Velence",
+  "p": "Hongrie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Agárd (HU, 2.7 km)",
+   "ref": {
+    "name": "Gárdony",
+    "geonameid": 3052381,
+    "y": 47.20942,
+    "x": 18.63607,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 6,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ }
+]

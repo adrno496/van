@@ -1,0 +1,1240 @@
+[
+ {
+  "key": "slovenie|predjama|458:141",
+  "src": "croatie-bosnie-slovenie.json#88",
+  "n": "Château de Predjama",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Postojna (SI, 8.2 km)",
+   "ref": {
+    "name": "Postojna",
+    "geonameid": 3192673,
+    "y": 45.77435,
+    "x": 14.21528,
+    "km": 8.2,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 14,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2824
+ },
+ {
+  "key": "slovenie|ptuj|464:159",
+  "src": "croatie-bosnie-slovenie.json#79",
+  "n": "Ptuj",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ptuj (SI, 0.0 km)",
+   "ref": {
+    "name": "Ptuj",
+    "geonameid": 3192241,
+    "y": 46.42005,
+    "x": 15.87018,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3192241
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2825
+ },
+ {
+  "key": "slovenie|vrsic|464:137",
+  "src": "croatie-bosnie-slovenie.json#94",
+  "n": "Col de Vršič",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kranjska Gora (SI, 3.8 km)",
+   "ref": {
+    "name": "Kranjska Gora",
+    "geonameid": 3197373,
+    "y": 46.45689,
+    "x": 13.77824,
+    "km": 3.8,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 15,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2826
+ },
+ {
+  "key": "slovenie|maribor|466:156",
+  "src": "croatie-bosnie-slovenie.json#80",
+  "n": "Maribor",
+  "p": "Slovénie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Maribor (SI, 0.3 km)",
+   "ref": {
+    "name": "Maribor",
+    "geonameid": 3195506,
+    "y": 46.55472,
+    "x": 15.64667,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.31
+  },
+  "links": {
+   "geonames": 3195506,
+   "qid": "Q1010"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2828
+ },
+ {
+  "key": "slovenie|mangart|464:137",
+  "src": "croatie-bosnie-slovenie.json#93",
+  "n": "Route du Mangart",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kranjska Gora (SI, 9.9 km)",
+   "ref": {
+    "name": "Bovec",
+    "geonameid": 3203611,
+    "y": 46.33808,
+    "x": 13.55245,
+    "km": 13.9,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 14,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2827
+ },
+ {
+  "key": "slovenie|vintgar|464:141",
+  "src": "croatie-bosnie-slovenie.json#96",
+  "n": "Gorges de Vintgar",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zasip (SI, 1.8 km)",
+   "ref": {
+    "name": "Bled",
+    "geonameid": 3203925,
+    "y": 46.36917,
+    "x": 14.11361,
+    "km": 3.5,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2829
+ },
+ {
+  "key": "slovenie|celje|462:153",
+  "src": "croatie-bosnie-slovenie.json#82",
+  "n": "Celje",
+  "p": "Slovénie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Celje (SI, 0.0 km)",
+   "ref": {
+    "name": "Celje",
+    "geonameid": 3202781,
+    "y": 46.23092,
+    "x": 15.26044,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 3202781
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2830
+ },
+ {
+  "key": "slovenie|hrastovlje|455:139",
+  "src": "croatie-bosnie-slovenie.json#109",
+  "n": "Hrastovlje",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sv. Anton (SI, 5.5 km)",
+   "ref": {
+    "name": "Koper",
+    "geonameid": 3197753,
+    "y": 45.54694,
+    "x": 13.72944,
+    "km": 13.8,
+    "statedKm": 14
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2831
+ },
+ {
+  "key": "slovenie|kostanjevica-na-krki|458:154",
+  "src": "croatie-bosnie-slovenie.json#103",
+  "n": "Kostanjevica na Krki",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kostanjevica na Krki (SI, 0.1 km)",
+   "ref": {
+    "name": "Krško",
+    "geonameid": 3197147,
+    "y": 45.95915,
+    "x": 15.49167,
+    "km": 13.7,
+    "statedKm": 14
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 3197581
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2832
+ },
+ {
+  "key": "slovenie|sticna|460:148",
+  "src": "croatie-bosnie-slovenie.json#105",
+  "n": "Abbaye de Stična",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ivančna Gorica (SI, 2.0 km)",
+   "ref": {
+    "name": "Ivančna Gorica",
+    "geonameid": 3199078,
+    "y": 45.93833,
+    "x": 14.80444,
+    "km": 2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2834
+ },
+ {
+  "key": "slovenie|jeruzalem|465:162",
+  "src": "croatie-bosnie-slovenie.json#98",
+  "n": "Jeruzalem",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ormož (SI, 7.4 km)",
+   "ref": {
+    "name": "Ljutomer",
+    "geonameid": 3196307,
+    "y": 46.52083,
+    "x": 16.1975,
+    "km": 5.3,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2835
+ },
+ {
+  "key": "slovenie|skofja-loka|462:143",
+  "src": "croatie-bosnie-slovenie.json#84",
+  "n": "Škofja Loka",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Škofja Loka (SI, 0.1 km)",
+   "ref": {
+    "name": "Škofja Loka",
+    "geonameid": 3190717,
+    "y": 46.16551,
+    "x": 14.30626,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 3190717
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2833
+ },
+ {
+  "key": "slovenie|cerknica|458:144",
+  "src": "croatie-bosnie-slovenie.json#86",
+  "n": "Lac de Cerknica",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cerknica (SI, 3.6 km)",
+   "ref": {
+    "name": "Cerknica",
+    "geonameid": 3202709,
+    "y": 45.79306,
+    "x": 14.3625,
+    "km": 3.6,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2838
+ },
+ {
+  "key": "slovenie|lipica|457:139",
+  "src": "croatie-bosnie-slovenie.json#89",
+  "n": "Lipica",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sežana (SI, 4.6 km)",
+   "ref": {
+    "name": "Sežana",
+    "geonameid": 3190945,
+    "y": 45.70924,
+    "x": 13.87333,
+    "km": 4.6,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2836
+ },
+ {
+  "key": "slovenie|salines-secovlje|455:136",
+  "src": "croatie-bosnie-slovenie.json#108",
+  "n": "Salines de Sečovlje",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Seča (SI, 0.9 km)",
+   "ref": {
+    "name": "Portorož",
+    "geonameid": 3192682,
+    "y": 45.51429,
+    "x": 13.59206,
+    "km": 2.5,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2839
+ },
+ {
+  "key": "slovenie|velika-planina|463:146",
+  "src": "croatie-bosnie-slovenie.json#83",
+  "n": "Velika planina",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mekinje (SI, 7.1 km)",
+   "ref": {
+    "name": "Kamnik",
+    "geonameid": 3198365,
+    "y": 46.22587,
+    "x": 14.61207,
+    "km": 8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 13,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2837
+ },
+ {
+  "key": "slovenie|bogojina|467:163",
+  "src": "croatie-bosnie-slovenie.json#99",
+  "n": "Église de Bogojina",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Moravske Toplice (SI, 5.7 km)",
+   "ref": {
+    "name": "Murska Sobota",
+    "geonameid": 3194648,
+    "y": 46.6625,
+    "x": 16.16639,
+    "km": 10.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2842
+ },
+ {
+  "key": "slovenie|rogla|465:153",
+  "src": "croatie-bosnie-slovenie.json#81",
+  "n": "Rogla",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vitanje (SI, 8.4 km)",
+   "ref": {
+    "name": "Zreče",
+    "geonameid": 3339120,
+    "y": 46.38222,
+    "x": 15.37917,
+    "km": 8.6,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2841
+ },
+ {
+  "key": "slovenie|stanjel|458:138",
+  "src": "croatie-bosnie-slovenie.json#90",
+  "n": "Štanjel",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Komen (SI, 7.5 km)",
+   "ref": {
+    "name": "Sežana",
+    "geonameid": 3190945,
+    "y": 45.70924,
+    "x": 13.87333,
+    "km": 12.9,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2840
+ },
+ {
+  "key": "slovenie|novo-mesto|458:152",
+  "src": "croatie-bosnie-slovenie.json#102",
+  "n": "Novo mesto",
+  "p": "Slovénie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Novo Mesto (SI, 0.1 km)",
+   "ref": {
+    "name": "Novo Mesto",
+    "geonameid": 3194351,
+    "y": 45.80397,
+    "x": 15.16886,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 3194351
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2844
+ },
+ {
+  "key": "slovenie|rakov-skocjan|458:143",
+  "src": "croatie-bosnie-slovenie.json#87",
+  "n": "Rakov Škocjan",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rakek (SI, 2.7 km)",
+   "ref": {
+    "name": "Cerknica",
+    "geonameid": 3202709,
+    "y": 45.79306,
+    "x": 14.3625,
+    "km": 5.2,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2843
+ },
+ {
+  "key": "slovenie|koper|455:137",
+  "src": "croatie-bosnie-slovenie.json#107",
+  "n": "Koper",
+  "p": "Slovénie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Koper (SI, 0.1 km)",
+   "ref": {
+    "name": "Koper",
+    "geonameid": 3197753,
+    "y": 45.54694,
+    "x": 13.72944,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.13
+  },
+  "links": {
+   "geonames": 3197753
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 2845
+ },
+ {
+  "key": "slovenie|tolmin|462:137",
+  "src": "croatie-bosnie-slovenie.json#92",
+  "n": "Gorges de Tolmin",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tolmin (SI, 1.2 km)",
+   "ref": {
+    "name": "Tolmin",
+    "geonameid": 3189038,
+    "y": 46.18304,
+    "x": 13.73321,
+    "km": 1.2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2846
+ },
+ {
+  "key": "slovenie|zelenci|465:137",
+  "src": "croatie-bosnie-slovenie.json#95",
+  "n": "Zelenci",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kranjska Gora (SI, 5.2 km)",
+   "ref": {
+    "name": "Kranjska Gora",
+    "geonameid": 3197373,
+    "y": 46.45689,
+    "x": 13.77824,
+    "km": 5.2,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2847
+ },
+ {
+  "key": "slovenie|chateau-grad|468:161",
+  "src": "croatie-bosnie-slovenie.json#100",
+  "n": "Château de Grad",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Grad (SI, 0.5 km)",
+   "ref": {
+    "name": "Murska Sobota",
+    "geonameid": 3194648,
+    "y": 46.6625,
+    "x": 16.16639,
+    "km": 16.3,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "slovenie|zuzemberk|458:149",
+  "src": "croatie-bosnie-slovenie.json#104",
+  "n": "Château de Žužemberk",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Žužemberk (SI, 0.2 km)",
+   "ref": {
+    "name": "Trebnje",
+    "geonameid": 3188886,
+    "y": 45.90417,
+    "x": 15.02167,
+    "km": 10.8,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "slovenie|kropa|463:142",
+  "src": "croatie-bosnie-slovenie.json#110",
+  "n": "Kropa",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Radovljica (SI, 6.4 km)",
+   "ref": {
+    "name": "Radovljica",
+    "geonameid": 3192063,
+    "y": 46.34444,
+    "x": 14.17444,
+    "km": 6.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "slovenie|chartreuse-zice|463:154",
+  "src": "croatie-bosnie-slovenie.json#101",
+  "n": "Chartreuse de Žiče",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Slovenske Konjice (SI, 4.2 km)",
+   "ref": {
+    "name": "Slovenske Konjice",
+    "geonameid": 3190530,
+    "y": 46.33667,
+    "x": 15.42583,
+    "km": 4.2,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "slovenie|smartno|460:135",
+  "src": "croatie-bosnie-slovenie.json#91",
+  "n": "Šmartno",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dobrovo (SI, 2.4 km)",
+   "ref": {
+    "name": "Nova Gorica",
+    "geonameid": 3194452,
+    "y": 45.95604,
+    "x": 13.64837,
+    "km": 8.6,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "slovenie|savica|463:138",
+  "src": "croatie-bosnie-slovenie.json#97",
+  "n": "Cascade de Savica",
+  "p": "Slovénie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bohinjska Bistrica (SI, 12.1 km)",
+   "ref": {
+    "name": "Bohinjska Bistrica",
+    "geonameid": 3203808,
+    "y": 46.27216,
+    "x": 13.9535,
+    "km": 12.1,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "slovenie|sneznik|457:144",
+  "src": "croatie-bosnie-slovenie.json#106",
+  "n": "Château de Snežnik",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leskova Dolina (SI, 4.6 km)",
+   "ref": {
+    "name": "Cerknica",
+    "geonameid": 3202709,
+    "y": 45.79306,
+    "x": 14.3625,
+    "km": 16,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "slovenie|idrija|460:140",
+  "src": "croatie-bosnie-slovenie.json#85",
+  "n": "Idrija",
+  "p": "Slovénie",
+  "c": "patrimoine",
+  "issues": [
+   "à contrôler : à 234 m de la fiche 988 « Patrimoine du mercure »"
+  ],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Idrija (SI, 0.2 km)",
+   "ref": {
+    "name": "Idrija",
+    "geonameid": 3199171,
+    "y": 46.00278,
+    "x": 14.03056,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "collision": {
+   "id": 988,
+   "n": "Patrimoine du mercure",
+   "km": 0.234
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "à contrôler : à 234 m de la fiche 988 « Patrimoine du mercure »"
+ }
+]

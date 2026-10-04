@@ -20,7 +20,7 @@ const tmp = path.resolve(args.includes('--tmp') ? args[args.indexOf('--tmp') + 1
 const PKGS = ['all-the-cities@3.1.0', 'cities.json@1.1.65', '@worldwideview/wwv-plugin-unesco-sites@1.0.0'];
 const NE_URL = 'https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_populated_places.geojson';
 // Les pays du catalogue, plus les micro-États voisins (utiles pour reconnaître une frontière).
-const CC = new Set([...Object.values(COUNTRIES).map((c) => c[0]), 'XK', 'MC', 'SM', 'VA', 'LI', 'MT']);
+const CC = new Set([...Object.values(COUNTRIES).map((c) => c[0]), 'AX', 'XK', 'MC', 'SM', 'VA', 'LI', 'MT']);
 
 fs.mkdirSync(tmp, { recursive: true });
 if (!fs.existsSync(path.join(tmp, 'package.json'))) fs.writeFileSync(path.join(tmp, 'package.json'), '{"private":true}');

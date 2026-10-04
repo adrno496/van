@@ -1,0 +1,2309 @@
+[
+ {
+  "key": "royaume-uni|glen-coe|567:-50",
+  "src": "royaume-uni-irlande.json#21",
+  "n": "Glen Coe",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fort William (GB, 17.2 km)",
+   "ref": {
+    "name": "Fort William",
+    "geonameid": null,
+    "y": 56.816478,
+    "x": -5.112076,
+    "km": 17.2,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 21,
+   "van": 13,
+   "sing": 12,
+   "val": 14,
+   "acc": 5,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 84,
+  "decision": "retenu",
+  "i": 3400
+ },
+ {
+  "key": "royaume-uni|skara-brae|590:-33",
+  "src": "royaume-uni-irlande.json#32",
+  "n": "Skara Brae",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stromness (GB, 9.7 km)",
+   "ref": {
+    "name": "Stromness",
+    "geonameid": 2636638,
+    "y": 58.96498,
+    "x": -3.29601,
+    "km": 9.7,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 14,
+   "val": 15,
+   "acc": 2,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3401
+ },
+ {
+  "key": "royaume-uni|canterbury|513:11",
+  "src": "royaume-uni-irlande.json#49",
+  "n": "Canterbury",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Canterbury (GB, 0.2 km)",
+   "ref": {
+    "name": "Canterbury",
+    "geonameid": 2653877,
+    "y": 51.27904,
+    "x": 1.07992,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.22
+  },
+  "links": {
+   "geonames": 2653877,
+   "unesco": "https://whc.unesco.org/en/list/496"
+  },
+  "score": {
+   "tour": 17,
+   "van": 8,
+   "sing": 11,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 3402
+ },
+ {
+  "key": "royaume-uni|cotswolds|519:-18",
+  "src": "royaume-uni-irlande.json#57",
+  "n": "Cotswolds",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bourton on the Water (GB, 0.3 km)",
+   "ref": {
+    "name": "Bourton on the Water",
+    "geonameid": 2655087,
+    "y": 51.88584,
+    "x": -1.75492,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.27
+  },
+  "links": {
+   "geonames": 2655087
+  },
+  "score": {
+   "tour": 18,
+   "van": 11,
+   "sing": 9,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 3403
+ },
+ {
+  "key": "royaume-uni|lindisfarne|557:-18",
+  "src": "royaume-uni-irlande.json#41",
+  "n": "Lindisfarne",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 2.8,
+   "otherCountry": null,
+   "nearestLocality": "Belford (GB, 7.9 km)",
+   "ref": {
+    "name": "Berwick-Upon-Tweed",
+    "geonameid": 2655819,
+    "y": 55.76868,
+    "x": -2.00537,
+    "km": 16.9,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3404
+ },
+ {
+  "key": "royaume-uni|eilean-donan|573:-55",
+  "src": "royaume-uni-irlande.json#24",
+  "n": "Château d'Eilean Donan",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1,
+   "otherCountry": null,
+   "nearestLocality": "Portree (GB, 43.5 km)",
+   "ref": {
+    "name": "Portree",
+    "geonameid": 2640006,
+    "y": 57.41288,
+    "x": -6.19418,
+    "km": 43.5,
+    "statedKm": 44
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3405
+ },
+ {
+  "key": "royaume-uni|stirling|561:-39",
+  "src": "royaume-uni-irlande.json#26",
+  "n": "Château de Stirling",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stirling (GB, 0.8 km)",
+   "ref": {
+    "name": "Stirling",
+    "geonameid": 2636910,
+    "y": 56.11903,
+    "x": -3.93682,
+    "km": 0.8,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 8,
+   "sing": 10,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3406
+ },
+ {
+  "key": "royaume-uni|durham|548:-16",
+  "src": "royaume-uni-irlande.json#42",
+  "n": "Durham",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Durham (GB, 0.3 km)",
+   "ref": {
+    "name": "Durham",
+    "geonameid": 2650628,
+    "y": 54.77676,
+    "x": -1.57566,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.33
+  },
+  "links": {
+   "geonames": 2650628,
+   "unesco": "https://whc.unesco.org/en/list/370"
+  },
+  "score": {
+   "tour": 16,
+   "van": 7,
+   "sing": 11,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3407
+ },
+ {
+  "key": "royaume-uni|bannau-brycheiniog|519:-34",
+  "src": "royaume-uni-irlande.json#12",
+  "n": "Parc national des Bannau Brycheiniog",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Brecon (GB, 7.7 km)",
+   "ref": {
+    "name": "Brecon",
+    "geonameid": 2654817,
+    "y": 51.94612,
+    "x": -3.38887,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 12,
+   "sing": 9,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3408
+ },
+ {
+  "key": "royaume-uni|pierres-callanish|582:-67",
+  "src": "royaume-uni-irlande.json#33",
+  "n": "Pierres de Callanish",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.6,
+   "otherCountry": null,
+   "nearestLocality": "Stornoway (GB, 21.1 km)",
+   "ref": {
+    "name": "Stornoway",
+    "geonameid": 2636790,
+    "y": 58.20925,
+    "x": -6.38649,
+    "km": 21.1,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 2,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3409
+ },
+ {
+  "key": "royaume-uni|belfast|546:-59",
+  "src": "royaume-uni-irlande.json#0",
+  "n": "Belfast",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Belfast (GB, 0.3 km)",
+   "ref": {
+    "name": "Belfast",
+    "geonameid": 2655984,
+    "y": 54.59682,
+    "x": -5.92541,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.31
+  },
+  "links": {
+   "geonames": 2655984,
+   "qid": "Q10686"
+  },
+  "score": {
+   "tour": 18,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3412
+ },
+ {
+  "key": "royaume-uni|ben-nevis-glen-nevis|568:-50",
+  "src": "royaume-uni-irlande.json#22",
+  "n": "Ben Nevis et Glen Nevis",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fort William (GB, 7.0 km)",
+   "ref": {
+    "name": "Fort William",
+    "geonameid": null,
+    "y": 56.816478,
+    "x": -5.112076,
+    "km": 7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 11,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3410
+ },
+ {
+  "key": "royaume-uni|dunnottar|569:-22",
+  "src": "royaume-uni-irlande.json#36",
+  "n": "Château de Dunnottar",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Stonehaven (GB, 2.1 km)",
+   "ref": {
+    "name": "Stonehaven",
+    "geonameid": 2636814,
+    "y": 56.96365,
+    "x": -2.21177,
+    "km": 2.1,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3413
+ },
+ {
+  "key": "royaume-uni|peak-district|533:-18",
+  "src": "royaume-uni-irlande.json#46",
+  "n": "Parc national du Peak District",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hope Valley (GB, 2.2 km)",
+   "ref": {
+    "name": "Chapel en le Frith",
+    "geonameid": 2653368,
+    "y": 53.32407,
+    "x": -1.91291,
+    "km": 9.3,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 12,
+   "sing": 9,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3411
+ },
+ {
+  "key": "royaume-uni|seven-sisters|507:2",
+  "src": "royaume-uni-irlande.json#51",
+  "n": "Seven Sisters",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.2,
+   "otherCountry": null,
+   "nearestLocality": "Friston (GB, 2.4 km)",
+   "ref": {
+    "name": "Eastbourne",
+    "geonameid": 2650497,
+    "y": 50.76871,
+    "x": 0.28453,
+    "km": 6.5,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3414
+ },
+ {
+  "key": "royaume-uni|bamburgh|556:-17",
+  "src": "royaume-uni-irlande.json#40",
+  "n": "Château de Bamburgh",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bamburgh (GB, 0.5 km)",
+   "ref": {
+    "name": "Alnwick",
+    "geonameid": 2657438,
+    "y": 55.41318,
+    "x": -1.70563,
+    "km": 21.8,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3415
+ },
+ {
+  "key": "royaume-uni|derry|550:-73",
+  "src": "royaume-uni-irlande.json#1",
+  "n": "Derry",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Londonderry County Borough (GB, 0.1 km)",
+   "ref": {
+    "name": "Derry",
+    "geonameid": 2643736,
+    "y": 54.9981,
+    "x": -7.30934,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 2643736
+  },
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3416
+ },
+ {
+  "key": "royaume-uni|lomond|561:-46",
+  "src": "royaume-uni-irlande.json#28",
+  "n": "Loch Lomond",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Balloch (GB, 11.7 km)",
+   "ref": {
+    "name": "Helensburgh",
+    "geonameid": 2647178,
+    "y": 56.00614,
+    "x": -4.72648,
+    "km": 11.9,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 8,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3417
+ },
+ {
+  "key": "royaume-uni|dartmoor|506:-38",
+  "src": "royaume-uni-irlande.json#54",
+  "n": "Parc national du Dartmoor",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bovey Tracey (GB, 5.8 km)",
+   "ref": {
+    "name": "Bovey Tracey",
+    "geonameid": 2655081,
+    "y": 50.59259,
+    "x": -3.67543,
+    "km": 5.8,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3418
+ },
+ {
+  "key": "royaume-uni|davids|519:-53",
+  "src": "royaume-uni-irlande.json#10",
+  "n": "St Davids",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saint Davids (GB, 0.3 km)",
+   "ref": {
+    "name": "Haverfordwest",
+    "geonameid": 2647311,
+    "y": 51.80169,
+    "x": -4.96914,
+    "km": 22.4,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3419
+ },
+ {
+  "key": "royaume-uni|urquhart|573:-44",
+  "src": "royaume-uni-irlande.json#25",
+  "n": "Château d'Urquhart",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Drumnadrochit (GB, 2.6 km)",
+   "ref": {
+    "name": "Inverness",
+    "geonameid": null,
+    "y": 57.467124,
+    "x": -4.233266,
+    "km": 20.2,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3422
+ },
+ {
+  "key": "royaume-uni|dunluce|552:-66",
+  "src": "royaume-uni-irlande.json#3",
+  "n": "Château de Dunluce",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bushmills (GB, 3.9 km)",
+   "ref": {
+    "name": "Portrush",
+    "geonameid": 2640004,
+    "y": 55.19592,
+    "x": -6.6493,
+    "km": 4.7,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3423
+ },
+ {
+  "key": "royaume-uni|tintagel|507:-48",
+  "src": "royaume-uni-irlande.json#53",
+  "n": "Château de Tintagel",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": null,
+   "nearestLocality": "Tintagel (GB, 0.9 km)",
+   "ref": {
+    "name": "Camelford",
+    "geonameid": 2653927,
+    "y": 50.62185,
+    "x": -4.67963,
+    "km": 7.6,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3424
+ },
+ {
+  "key": "royaume-uni|chester|532:-29",
+  "src": "royaume-uni-irlande.json#48",
+  "n": "Chester",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chester (GB, 0.1 km)",
+   "ref": {
+    "name": "Chester",
+    "geonameid": 2653228,
+    "y": 53.1905,
+    "x": -2.89189,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2653228,
+   "qid": "Q170263"
+  },
+  "score": {
+   "tour": 15,
+   "van": 7,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3425
+ },
+ {
+  "key": "royaume-uni|michael-s|501:-55",
+  "src": "royaume-uni-irlande.json#52",
+  "n": "St Michael's Mount",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.3,
+   "otherCountry": null,
+   "nearestLocality": "Marazion (GB, 1.0 km)",
+   "ref": {
+    "name": "Penzance",
+    "geonameid": 2640377,
+    "y": 50.11861,
+    "x": -5.53715,
+    "km": 4.2,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3420
+ },
+ {
+  "key": "royaume-uni|whitby|545:-6",
+  "src": "royaume-uni-irlande.json#43",
+  "n": "Whitby",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Whitby (GB, 0.4 km)",
+   "ref": {
+    "name": "Whitby",
+    "geonameid": 2634135,
+    "y": 54.48774,
+    "x": -0.61498,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.42
+  },
+  "links": {
+   "geonames": 2634135
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3421
+ },
+ {
+  "key": "royaume-uni|baie-rhossili|516:-43",
+  "src": "royaume-uni-irlande.json#13",
+  "n": "Baie de Rhossili",
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Burry Port (GB, 13.2 km)",
+   "ref": {
+    "name": "Swansea",
+    "geonameid": null,
+    "y": 51.629987,
+    "x": -3.950002,
+    "km": 24.5,
+    "statedKm": 25
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3428
+ },
+ {
+  "key": "royaume-uni|salisbury|511:-18",
+  "src": "royaume-uni-irlande.json#58",
+  "n": "Cathédrale de Salisbury",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Salisbury (GB, 0.5 km)",
+   "ref": {
+    "name": "Salisbury",
+    "geonameid": 2638664,
+    "y": 51.06931,
+    "x": -1.79569,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 10,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3426
+ },
+ {
+  "key": "royaume-uni|mull|566:-61",
+  "src": "royaume-uni-irlande.json#34",
+  "n": "Île de Mull",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tobermory (GB, 0.3 km)",
+   "ref": {
+    "name": "Oban",
+    "geonameid": 2641108,
+    "y": 56.41535,
+    "x": -5.47184,
+    "km": 43.2,
+    "statedKm": 43
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 2,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3429
+ },
+ {
+  "key": "royaume-uni|malham-cove|541:-22",
+  "src": "royaume-uni-irlande.json#44",
+  "n": "Malham Cove",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Settle (GB, 7.8 km)",
+   "ref": {
+    "name": "Settle",
+    "geonameid": 2638192,
+    "y": 54.06865,
+    "x": -2.2772,
+    "km": 7.8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3427
+ },
+ {
+  "key": "royaume-uni|mourne|542:-59",
+  "src": "royaume-uni-irlande.json#6",
+  "n": "Montagnes de Mourne",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Newcastle (GB, 4.6 km)",
+   "ref": {
+    "name": "Newcastle",
+    "geonameid": 6695976,
+    "y": 54.21804,
+    "x": -5.88979,
+    "km": 4.6,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3430
+ },
+ {
+  "key": "royaume-uni|exmoor|512:-38",
+  "src": "royaume-uni-irlande.json#55",
+  "n": "Parc national d'Exmoor",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lynton (GB, 0.9 km)",
+   "ref": {
+    "name": "Ilfracombe",
+    "geonameid": 2646276,
+    "y": 51.2093,
+    "x": -4.11344,
+    "km": 20,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3431
+ },
+ {
+  "key": "royaume-uni|corde-carrick-rede|552:-63",
+  "src": "royaume-uni-irlande.json#2",
+  "n": "Pont de corde de Carrick-a-Rede",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Ballintoy Harbour (GB, 2.4 km)",
+   "ref": {
+    "name": "Ballycastle",
+    "geonameid": 2656531,
+    "y": 55.20444,
+    "x": -6.24298,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3432
+ },
+ {
+  "key": "royaume-uni|tintern|517:-27",
+  "src": "royaume-uni-irlande.json#17",
+  "n": "Abbaye de Tintern",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tintern (GB, 0.3 km)",
+   "ref": {
+    "name": "Chepstow",
+    "geonameid": 2653256,
+    "y": 51.64087,
+    "x": -2.67683,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3435
+ },
+ {
+  "key": "royaume-uni|falaises-blanches-douvres|511:13",
+  "src": "royaume-uni-irlande.json#50",
+  "n": "Falaises blanches de Douvres",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dover (GB, 1.9 km)",
+   "ref": {
+    "name": "Dover",
+    "geonameid": 2651048,
+    "y": 51.12598,
+    "x": 1.31257,
+    "km": 1.9,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3434
+ },
+ {
+  "key": "royaume-uni|lincoln|532:-5",
+  "src": "royaume-uni-irlande.json#47",
+  "n": "Lincoln",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lincoln (GB, 0.8 km)",
+   "ref": {
+    "name": "Lincoln",
+    "geonameid": 2644487,
+    "y": 53.22683,
+    "x": -0.53792,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.84
+  },
+  "links": {
+   "geonames": 2644487
+  },
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 9,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3436
+ },
+ {
+  "key": "royaume-uni|portmeirion|529:-41",
+  "src": "royaume-uni-irlande.json#14",
+  "n": "Portmeirion",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Porthmadog (GB, 2.8 km)",
+   "ref": {
+    "name": "Porthmadog",
+    "geonameid": 2640045,
+    "y": 52.92924,
+    "x": -4.13137,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 13,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3437
+ },
+ {
+  "key": "royaume-uni|viaduc-glenfinnan|569:-54",
+  "src": "royaume-uni-irlande.json#23",
+  "n": "Viaduc de Glenfinnan",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fort William (GB, 20.5 km)",
+   "ref": {
+    "name": "Fort William",
+    "geonameid": 2649169,
+    "y": 56.81648,
+    "x": -5.11208,
+    "km": 20.5,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3433
+ },
+ {
+  "key": "royaume-uni|rievaulx|543:-11",
+  "src": "royaume-uni-irlande.json#45",
+  "n": "Abbaye de Rievaulx",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Helmsley (GB, 4.1 km)",
+   "ref": {
+    "name": "Kirkbymoorside",
+    "geonameid": 2645304,
+    "y": 54.27014,
+    "x": -0.93218,
+    "km": 12.1,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3439
+ },
+ {
+  "key": "royaume-uni|bealach-na-ba|574:-57",
+  "src": "royaume-uni-irlande.json#29",
+  "n": "Bealach na Bà",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Portree (GB, 30.0 km)",
+   "ref": {
+    "name": "Portree",
+    "geonameid": 2640006,
+    "y": 57.41288,
+    "x": -6.19418,
+    "km": 30,
+    "statedKm": 30
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 14,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3438
+ },
+ {
+  "key": "royaume-uni|smoo|586:-47",
+  "src": "royaume-uni-irlande.json#30",
+  "n": "Grotte de Smoo",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Thurso (GB, 69.3 km)",
+   "ref": {
+    "name": "Thurso",
+    "geonameid": 2635881,
+    "y": 58.59271,
+    "x": -3.52594,
+    "km": 69.3,
+    "statedKm": 69
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 12,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3440
+ },
+ {
+  "key": "royaume-uni|tenby|517:-47",
+  "src": "royaume-uni-irlande.json#11",
+  "n": "Tenby",
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tenby (GB, 0.1 km)",
+   "ref": {
+    "name": "Tenby",
+    "geonameid": 2636104,
+    "y": 51.67279,
+    "x": -4.70447,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3441
+ },
+ {
+  "key": "royaume-uni|torridon|575:-55",
+  "src": "royaume-uni-irlande.json#39",
+  "n": "Torridon",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Portree (GB, 43.2 km)",
+   "ref": {
+    "name": "Portree",
+    "geonameid": 2640006,
+    "y": 57.41288,
+    "x": -6.19418,
+    "km": 43.2,
+    "statedKm": 43
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3442
+ },
+ {
+  "key": "royaume-uni|cardiff|515:-32",
+  "src": "royaume-uni-irlande.json#16",
+  "n": "Cardiff",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cardiff (GB, 0.2 km)",
+   "ref": {
+    "name": "Cardiff",
+    "geonameid": 2653822,
+    "y": 51.48,
+    "x": -3.18,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 2653822,
+   "qid": "Q10690"
+  },
+  "score": {
+   "tour": 15,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 71
+ },
+ {
+  "key": "royaume-uni|glasgow|559:-43",
+  "src": "royaume-uni-irlande.json#27",
+  "n": "Glasgow",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Glasgow (GB, 0.4 km)",
+   "ref": {
+    "name": "Glasgow",
+    "geonameid": 2648579,
+    "y": 55.86515,
+    "x": -4.25763,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.38
+  },
+  "links": {
+   "geonames": 2648579,
+   "qid": "Q4093"
+  },
+  "score": {
+   "tour": 16,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 71
+ },
+ {
+  "key": "royaume-uni|andrews|563:-28",
+  "src": "royaume-uni-irlande.json#35",
+  "n": "St Andrews",
+  "p": "Royaume-Uni",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « St Andrews » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saint Andrews (GB, 0.2 km)",
+   "ref": {
+    "name": "Saint Andrews",
+    "geonameid": 2638864,
+    "y": 56.33871,
+    "x": -2.79902,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 2638864
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 6,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 71
+ },
+ {
+  "key": "royaume-uni|melrose|556:-27",
+  "src": "royaume-uni-irlande.json#38",
+  "n": "Abbaye de Melrose",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Melrose (GB, 0.6 km)",
+   "ref": {
+    "name": "Melrose",
+    "geonameid": 2642769,
+    "y": 55.59969,
+    "x": -2.7277,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 9,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 70
+ },
+ {
+  "key": "royaume-uni|caerphilly|516:-32",
+  "src": "royaume-uni-irlande.json#15",
+  "n": "Château de Caerphilly",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Caerphilly (GB, 0.2 km)",
+   "ref": {
+    "name": "Caerphilly",
+    "geonameid": 2654089,
+    "y": 51.57452,
+    "x": -3.218,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 70
+ },
+ {
+  "key": "royaume-uni|culzean|554:-48",
+  "src": "royaume-uni-irlande.json#37",
+  "n": "Château de Culzean",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Maybole (GB, 6.9 km)",
+   "ref": {
+    "name": "Maybole",
+    "geonameid": 2642882,
+    "y": 55.35503,
+    "x": -4.68026,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 70
+ },
+ {
+  "key": "royaume-uni|cheddar|513:-28",
+  "src": "royaume-uni-irlande.json#56",
+  "n": "Gorges de Cheddar",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bradley Cross (GB, 1.0 km)",
+   "ref": {
+    "name": "Cheddar",
+    "geonameid": 2653281,
+    "y": 51.27537,
+    "x": -2.77662,
+    "km": 1.4,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 68
+ },
+ {
+  "key": "royaume-uni|peninsule-llyn|528:-47",
+  "src": "royaume-uni-irlande.json#20",
+  "n": "Péninsule de Llŷn",
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nefyn (GB, 19.4 km)",
+   "ref": {
+    "name": "Pwllheli",
+    "geonameid": 2639828,
+    "y": 52.8899,
+    "x": -4.41451,
+    "km": 22.2,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 68
+ },
+ {
+  "key": "royaume-uni|south-stack|533:-47",
+  "src": "royaume-uni-irlande.json#19",
+  "n": "South Stack",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Holyhead (GB, 4.4 km)",
+   "ref": {
+    "name": "Holyhead",
+    "geonameid": 2646686,
+    "y": 53.30621,
+    "x": -4.63211,
+    "km": 4.4,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 68
+ },
+ {
+  "key": "royaume-uni|temple-mussenden|552:-68",
+  "src": "royaume-uni-irlande.json#4",
+  "n": "Temple de Mussenden",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Castlerock (GB, 2.6 km)",
+   "ref": {
+    "name": "Portstewart",
+    "geonameid": 2639991,
+    "y": 55.18132,
+    "x": -6.71402,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 67
+ },
+ {
+  "key": "royaume-uni|marble-arch|543:-78",
+  "src": "royaume-uni-irlande.json#7",
+  "n": "Grottes de Marble Arch",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Enniskillen (GB, 14.7 km)",
+   "ref": {
+    "name": "Enniskillen",
+    "geonameid": 2649984,
+    "y": 54.34615,
+    "x": -7.64133,
+    "km": 14.7,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "royaume-uni|holkham|530:8",
+  "src": "royaume-uni-irlande.json#59",
+  "n": "Plage de Holkham",
+  "p": "Royaume-Uni",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Wells-next-the-Sea (GB, 3.7 km)",
+   "ref": {
+    "name": "Wells-next-the-Sea",
+    "geonameid": 2634567,
+    "y": 52.95164,
+    "x": 0.8511,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "royaume-uni|carrickfergus|547:-58",
+  "src": "royaume-uni-irlande.json#9",
+  "n": "Château de Carrickfergus",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Carrickfergus (GB, 0.3 km)",
+   "ref": {
+    "name": "Carrickfergus",
+    "geonameid": 2653680,
+    "y": 54.7158,
+    "x": -5.8058,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 8,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "royaume-uni|ardvreck|582:-50",
+  "src": "royaume-uni-irlande.json#31",
+  "n": "Château d'Ardvreck",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ullapool (GB, 31.3 km)",
+   "ref": {
+    "name": "Ullapool",
+    "geonameid": 2635199,
+    "y": 57.89872,
+    "x": -5.16039,
+    "km": 31.3,
+    "statedKm": 32
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "royaume-uni|glenariff|550:-61",
+  "src": "royaume-uni-irlande.json#5",
+  "n": "Glenariff",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Glenariff (GB, 4.5 km)",
+   "ref": {
+    "name": "Ballymena",
+    "geonameid": 2656490,
+    "y": 54.86357,
+    "x": -6.27628,
+    "km": 20.2,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "royaume-uni|elan|523:-36",
+  "src": "royaume-uni-irlande.json#18",
+  "n": "Vallée de l'Elan",
+  "p": "Royaume-Uni",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rhayader (GB, 5.2 km)",
+   "ref": {
+    "name": "Rhayader",
+    "geonameid": 2639470,
+    "y": 52.30154,
+    "x": -3.51146,
+    "km": 5.2,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "royaume-uni|stewart|546:-56",
+  "src": "royaume-uni-irlande.json#8",
+  "n": "Mount Stewart",
+  "p": "Royaume-Uni",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Greyabbey (GB, 3.3 km)",
+   "ref": {
+    "name": "Newtownards",
+    "geonameid": 2641519,
+    "y": 54.59236,
+    "x": -5.69092,
+    "km": 7.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ }
+]

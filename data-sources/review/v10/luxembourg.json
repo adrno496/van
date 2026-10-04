@@ -1,0 +1,509 @@
+[
+ {
+  "key": "luxembourg|clervaux|501:60",
+  "src": "allemagne-luxembourg.json#96",
+  "n": "Clervaux",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Clervaux (LU, 0.0 km)",
+   "ref": {
+    "name": "Clervaux",
+    "geonameid": 2960684,
+    "y": 50.05472,
+    "x": 6.03139,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2960684
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3469
+ },
+ {
+  "key": "luxembourg|esch-sure|499:59",
+  "src": "allemagne-luxembourg.json#97",
+  "n": "Esch-sur-Sûre",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Esch-sur-Sûre (LU, 0.1 km)",
+   "ref": {
+    "name": "Wiltz",
+    "geonameid": 2959977,
+    "y": 49.96547,
+    "x": 5.9339,
+    "km": 6.1,
+    "statedKm": 6
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 2960595
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3470
+ },
+ {
+  "key": "luxembourg|mullerthal-petite-suisse-luxembourgeoise|498:63",
+  "src": "allemagne-luxembourg.json#92",
+  "n": "Mullerthal — Petite Suisse luxembourgeoise",
+  "p": "Luxembourg",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Consdorf (LU, 1.8 km)",
+   "ref": {
+    "name": "Echternach",
+    "geonameid": 2960630,
+    "y": 49.81212,
+    "x": 6.41846,
+    "km": 5.6,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3471
+ },
+ {
+  "key": "luxembourg|schengen|495:64",
+  "src": "allemagne-luxembourg.json#102",
+  "n": "Schengen",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.4,
+   "otherCountry": "Germany",
+   "nearestLocality": "Schengen (LU, 0.2 km)",
+   "ref": {
+    "name": "Mondorf-les-Bains",
+    "geonameid": 2960257,
+    "y": 49.505,
+    "x": 6.28111,
+    "km": 7.2,
+    "statedKm": 7
+   },
+   "status": "vérifié",
+   "snapped": 0.22
+  },
+  "links": {
+   "geonames": 2960107
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 7,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3472
+ },
+ {
+  "key": "luxembourg|echternach|498:64",
+  "src": "allemagne-luxembourg.json#93",
+  "n": "Echternach",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.6,
+   "otherCountry": "Germany",
+   "nearestLocality": "Echternach (LU, 0.1 km)",
+   "ref": {
+    "name": "Echternach",
+    "geonameid": 2960630,
+    "y": 49.81212,
+    "x": 6.41846,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 2960630
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3473
+ },
+ {
+  "key": "luxembourg|bourscheid|499:61",
+  "src": "allemagne-luxembourg.json#100",
+  "n": "Château de Bourscheid",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bourscheid (LU, 0.2 km)",
+   "ref": {
+    "name": "Ettelbruck",
+    "geonameid": 2960589,
+    "y": 49.8475,
+    "x": 6.10417,
+    "km": 7.5,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3474
+ },
+ {
+  "key": "luxembourg|beaufort|498:63",
+  "src": "allemagne-luxembourg.json#94",
+  "n": "Château de Beaufort",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Beaufort (LU, 0.1 km)",
+   "ref": {
+    "name": "Beaufort",
+    "geonameid": 2960809,
+    "y": 49.83583,
+    "x": 6.29167,
+    "km": 0.1,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 3475
+ },
+ {
+  "key": "luxembourg|wiltz|500:59",
+  "src": "allemagne-luxembourg.json#99",
+  "n": "Wiltz",
+  "p": "Luxembourg",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Wiltz (LU, 0.1 km)",
+   "ref": {
+    "name": "Wiltz",
+    "geonameid": 2959977,
+    "y": 49.96547,
+    "x": 5.9339,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2959977
+  },
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 3476
+ },
+ {
+  "key": "luxembourg|remich-moselle-luxembourgeoise|495:64",
+  "src": "allemagne-luxembourg.json#101",
+  "n": "Remich — Moselle luxembourgeoise",
+  "p": "Luxembourg",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1.2,
+   "otherCountry": "Germany",
+   "nearestLocality": "Remich (LU, 0.0 km)",
+   "ref": {
+    "name": "Remich",
+    "geonameid": 2960154,
+    "y": 49.545,
+    "x": 6.36694,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 0
+  },
+  "total": 54,
+  "decision": "retenu",
+  "i": 3477
+ },
+ {
+  "key": "luxembourg|fond-gras|495:59",
+  "src": "allemagne-luxembourg.json#104",
+  "n": "Fond-de-Gras",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lamadelaine (LU, 1.5 km)",
+   "ref": {
+    "name": "Differdange",
+    "geonameid": 2960651,
+    "y": 49.52417,
+    "x": 5.89139,
+    "km": 2.3,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 8,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 53,
+  "decision": "retenu",
+  "i": 3478
+ },
+ {
+  "key": "luxembourg|hauts-fourneaux-belval|495:59",
+  "src": "allemagne-luxembourg.json#103",
+  "n": "Hauts fourneaux de Belval",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Belvaux (LU, 1.8 km)",
+   "ref": {
+    "name": "Esch-sur-Alzette",
+    "geonameid": 2960596,
+    "y": 49.49583,
+    "x": 5.98056,
+    "km": 2.6,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 51
+ },
+ {
+  "key": "luxembourg|larochette|498:62",
+  "src": "allemagne-luxembourg.json#95",
+  "n": "Larochette",
+  "p": "Luxembourg",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Larochette (LU, 0.3 km)",
+   "ref": {
+    "name": "Larochette",
+    "geonameid": 2960350,
+    "y": 49.78362,
+    "x": 6.21891,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 48
+ },
+ {
+  "key": "luxembourg|haute-sure|499:59",
+  "src": "allemagne-luxembourg.json#98",
+  "n": "Lac de la Haute-Sûre",
+  "p": "Luxembourg",
+  "c": "nature",
+  "issues": [
+   "doublon d'un autre candidat : « Esch-sur-Sûre »"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bavigne (LU, 2.7 km)",
+   "ref": {
+    "name": "Wiltz",
+    "geonameid": 2959977,
+    "y": 49.96547,
+    "x": 5.9339,
+    "km": 6.8,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "doublon d'un autre candidat : « Esch-sur-Sûre »"
+ }
+]

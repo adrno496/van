@@ -2,8 +2,27 @@
  "note": "Arbitrages manuels après lecture de data-sources/review/v10 : keep = garder malgré la règle automatique (raison en commentaire ci-dessous) ; drop = écarter avec la raison.",
  "keepReasons": {
   "italie|come|458:91": "Côme (ville) est à 27 km du point « Lac de Côme » : la ville au bout du lac est une étape distincte, pas un doublon du lac.",
-  "italie|stelvio|465:105": "Le col routier du Stelvio est une expérience de route à part entière, à 8 km du point du parc national."
+  "italie|stelvio|465:105": "Le col routier du Stelvio est une expérience de route à part entière, à 8 km du point du parc national.",
+  "roumanie|cozia|453:243": "Le monastère de Cozia (XIVe s.) est un monument majeur de Valachie, distinct du parc national Cozia dont le point est à 11 km."
  },
- "keep": ["italie|come|458:91", "italie|stelvio|465:105"],
- "drop": {}
+ "keep": [
+  "italie|come|458:91",
+  "italie|stelvio|465:105",
+  "roumanie|cozia|453:243"
+ ],
+ "drop": {},
+ "edit": {
+  "Finlande|Hailuoto": {
+   "why": "« ferry gratuit » est une information de prix (volatile) : retirée du texte.",
+   "set": {
+    "d": "Île plate de dunes, pinèdes et villages de pêcheurs dans le golfe de Botnie, reliée au continent par un ferry depuis Oulunsalo ; phare à la pointe ouest."
+   }
+  },
+  "Suède|Fårö": {
+   "why": "« bac gratuit » est une information de prix (volatile) : retirée du texte.",
+   "set": {
+    "d": "Île au nord de Gotland, reliée par un bac, célèbre pour ses raukar, piliers calcaires sculptés par la mer, et liée au cinéaste Ingmar Bergman."
+   }
+  }
+ }
 }

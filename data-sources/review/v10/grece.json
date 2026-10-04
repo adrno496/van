@@ -1,0 +1,3822 @@
+[
+ {
+  "key": "grece|kastoria|405:213",
+  "src": "grece.json#0",
+  "n": "Kastoria",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kastoria (GR, 0.5 km)",
+   "ref": {
+    "name": "Kastoria",
+    "geonameid": 735927,
+    "y": 40.52165,
+    "x": 21.26341,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.52
+  },
+  "links": {
+   "geonames": 735927
+  },
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3007
+ },
+ {
+  "key": "grece|lagune-balos|356:236",
+  "src": "grece.json#83",
+  "n": "Lagune de Balos",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kolympári (GR, 17.8 km)",
+   "ref": {
+    "name": "Kíssamos",
+    "geonameid": 259718,
+    "y": 35.49459,
+    "x": 23.65375,
+    "km": 11.3,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3008
+ },
+ {
+  "key": "grece|voidokilia|370:217",
+  "src": "grece.json#70",
+  "n": "Plage de Voidokilia",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pýlos (GR, 6.6 km)",
+   "ref": {
+    "name": "Pýlos",
+    "geonameid": 255293,
+    "y": 36.91298,
+    "x": 21.6965,
+    "km": 6.6,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3009
+ },
+ {
+  "key": "grece|elafonissi|353:235",
+  "src": "grece.json#82",
+  "n": "Elafonissi",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Palaióchora (GR, 13.6 km)",
+   "ref": {
+    "name": "Kíssamos",
+    "geonameid": 259718,
+    "y": 35.49459,
+    "x": 23.65375,
+    "km": 26.9,
+    "statedKm": 27
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3010
+ },
+ {
+  "key": "grece|metsovo|398:212",
+  "src": "grece.json#7",
+  "n": "Metsovo",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Metsovo (GR, 0.2 km)",
+   "ref": {
+    "name": "Metsovo",
+    "geonameid": 257083,
+    "y": 39.76944,
+    "x": 21.18222,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 257083
+  },
+  "score": {
+   "tour": 17,
+   "van": 12,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3011
+ },
+ {
+  "key": "grece|hosios-loukas|384:227",
+  "src": "grece.json#47",
+  "n": "Monastère d'Hosios Loukas",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Steíri (GR, 3.4 km)",
+   "ref": {
+    "name": "Dístomo",
+    "geonameid": 263034,
+    "y": 38.42892,
+    "x": 22.66728,
+    "km": 7.8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3012
+ },
+ {
+  "key": "grece|parga|393:204",
+  "src": "grece.json#9",
+  "n": "Parga",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": null,
+   "nearestLocality": "Párga (GR, 0.1 km)",
+   "ref": {
+    "name": "Párga",
+    "geonameid": 255736,
+    "y": 39.28572,
+    "x": 20.40044,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.13
+  },
+  "links": {
+   "geonames": 255736
+  },
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3013
+ },
+ {
+  "key": "grece|messene-antique|372:219",
+  "src": "grece.json#73",
+  "n": "Messène antique",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Meligalás (GR, 6.2 km)",
+   "ref": {
+    "name": "Messíni",
+    "geonameid": 257152,
+    "y": 37.05111,
+    "x": 22.00778,
+    "km": 15.9,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3014
+ },
+ {
+  "key": "grece|samothrace|405:255",
+  "src": "grece.json#42",
+  "n": "Samothrace",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Samothráki (GR, 3.1 km)",
+   "ref": {
+    "name": "Samothráki",
+    "geonameid": 734359,
+    "y": 40.47333,
+    "x": 25.52222,
+    "km": 3.1,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3015
+ },
+ {
+  "key": "grece|leonidio|372:229",
+  "src": "grece.json#81",
+  "n": "Leonidio",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leonídio (GR, 0.1 km)",
+   "ref": {
+    "name": "Leonídio",
+    "geonameid": 258500,
+    "y": 37.16679,
+    "x": 22.85773,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 258500
+  },
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3016
+ },
+ {
+  "key": "grece|naupacte|384:218",
+  "src": "grece.json#54",
+  "n": "Naupacte",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Náfpaktos (GR, 0.1 km)",
+   "ref": {
+    "name": "Náfpaktos",
+    "geonameid": 256639,
+    "y": 38.39167,
+    "x": 21.8275,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 256639
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3017
+ },
+ {
+  "key": "grece|kerkini|412:231",
+  "src": "grece.json#34",
+  "n": "Lac Kerkini",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chrysochórafa (GR, 9.4 km)",
+   "ref": {
+    "name": "Sidirókastro",
+    "geonameid": 734310,
+    "y": 41.23499,
+    "x": 23.38899,
+    "km": 21.8,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3019
+ },
+ {
+  "key": "grece|peninsule-sithonia|401:238",
+  "src": "grece.json#31",
+  "n": "Péninsule de Sithonia",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": null,
+   "nearestLocality": "Néos Marmarás (GR, 0.1 km)",
+   "ref": {
+    "name": "Néos Marmarás",
+    "geonameid": 734939,
+    "y": 40.0961,
+    "x": 23.78323,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3020
+ },
+ {
+  "key": "grece|spinalonga|353:257",
+  "src": "grece.json#85",
+  "n": "Spinalonga",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": null,
+   "nearestLocality": "Eloúnda (GR, 3.9 km)",
+   "ref": {
+    "name": "Ágios Nikólaos",
+    "geonameid": 263824,
+    "y": 35.19106,
+    "x": 25.71524,
+    "km": 12,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 7,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3018
+ },
+ {
+  "key": "grece|methoni|368:217",
+  "src": "grece.json#71",
+  "n": "Forteresse de Méthoni",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Methóni (GR, 0.5 km)",
+   "ref": {
+    "name": "Pýlos",
+    "geonameid": 255293,
+    "y": 36.91298,
+    "x": 21.6965,
+    "km": 10.9,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3022
+ },
+ {
+  "key": "grece|konitsa|400:208",
+  "src": "grece.json#8",
+  "n": "Konitsa",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kónitsa (GR, 0.8 km)",
+   "ref": {
+    "name": "Kónitsa",
+    "geonameid": 735636,
+    "y": 40.04861,
+    "x": 20.75667,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.79
+  },
+  "links": {
+   "geonames": 735636
+  },
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3023
+ },
+ {
+  "key": "grece|matala|350:248",
+  "src": "grece.json#91",
+  "n": "Matala",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.7,
+   "otherCountry": null,
+   "nearestLocality": "Tympáki (GR, 8.9 km)",
+   "ref": {
+    "name": "Moíres",
+    "geonameid": 256842,
+    "y": 35.05143,
+    "x": 24.8733,
+    "km": 12.9,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3024
+ },
+ {
+  "key": "grece|pella|408:225",
+  "src": "grece.json#29",
+  "n": "Pella",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pélla (GR, 0.3 km)",
+   "ref": {
+    "name": "Giannitsá",
+    "geonameid": 733776,
+    "y": 40.79194,
+    "x": 22.4075,
+    "km": 10.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3021
+ },
+ {
+  "key": "grece|dimitsana|376:220",
+  "src": "grece.json#74",
+  "n": "Dimitsana",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dimitsána (GR, 0.3 km)",
+   "ref": {
+    "name": "Megalópoli",
+    "geonameid": 257395,
+    "y": 37.40111,
+    "x": 22.14222,
+    "km": 23.4,
+    "statedKm": 23
+   },
+   "status": "vérifié",
+   "snapped": 0.26
+  },
+  "links": {
+   "geonames": 263075
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3026
+ },
+ {
+  "key": "grece|nestos|411:248",
+  "src": "grece.json#40",
+  "n": "Gorges du Nestos",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Petrochóri (GR, 6.9 km)",
+   "ref": {
+    "name": "Xanthi",
+    "geonameid": null,
+    "y": 41.14179,
+    "x": 24.883587,
+    "km": 11.3,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3027
+ },
+ {
+  "key": "grece|palmeraie-vai|353:263",
+  "src": "grece.json#87",
+  "n": "Palmeraie de Vai",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Palekastro (GR, 6.2 km)",
+   "ref": {
+    "name": "Sitia",
+    "geonameid": 253759,
+    "y": 35.20783,
+    "x": 26.10467,
+    "km": 15.3,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3028
+ },
+ {
+  "key": "grece|preveli|352:245",
+  "src": "grece.json#90",
+  "n": "Preveli",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Atsipópoulo (GR, 22.3 km)",
+   "ref": {
+    "name": "Rethymno",
+    "geonameid": 254352,
+    "y": 35.36555,
+    "x": 24.48232,
+    "km": 23.5,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3025
+ },
+ {
+  "key": "grece|sources-acheron|393:206",
+  "src": "grece.json#11",
+  "n": "Sources de l'Achéron",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kanaláki (GR, 10.4 km)",
+   "ref": {
+    "name": "Paramythiá",
+    "geonameid": 255760,
+    "y": 39.47111,
+    "x": 20.51111,
+    "km": 17.8,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3029
+ },
+ {
+  "key": "grece|cythere|361:230",
+  "src": "grece.json#79",
+  "n": "Cythère",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Kýthira (GR, 0.7 km)",
+   "ref": {
+    "name": "Kýthira",
+    "geonameid": 259710,
+    "y": 36.14955,
+    "x": 22.98979,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3032
+ },
+ {
+  "key": "grece|gortyne|351:249",
+  "src": "grece.json#92",
+  "n": "Gortyne",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ágioi Déka (GR, 1.9 km)",
+   "ref": {
+    "name": "Moíres",
+    "geonameid": 256842,
+    "y": 35.05143,
+    "x": 24.8733,
+    "km": 6.8,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3031
+ },
+ {
+  "key": "grece|pylos-baie-navarin|369:217",
+  "src": "grece.json#68",
+  "n": "Pylos et baie de Navarin",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Pýlos (GR, 0.0 km)",
+   "ref": {
+    "name": "Pýlos",
+    "geonameid": 255293,
+    "y": 36.91298,
+    "x": 21.6965,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 255293
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3030
+ },
+ {
+  "key": "grece|skopelos|391:237",
+  "src": "grece.json#26",
+  "n": "Skopelos",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Skópelos (GR, 0.1 km)",
+   "ref": {
+    "name": "Skópelos",
+    "geonameid": 253581,
+    "y": 39.12144,
+    "x": 23.72686,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3033
+ },
+ {
+  "key": "grece|chlemoutsi|379:211",
+  "src": "grece.json#55",
+  "n": "Château de Chlemoutsi",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Arkoúdi (GR, 4.9 km)",
+   "ref": {
+    "name": "Lechainá",
+    "geonameid": 258522,
+    "y": 37.93333,
+    "x": 21.26667,
+    "km": 13.1,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3038
+ },
+ {
+  "key": "grece|galaxidi|384:224",
+  "src": "grece.json#48",
+  "n": "Galaxidi",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Galaxídhion (GR, 0.5 km)",
+   "ref": {
+    "name": "Itéa",
+    "geonameid": 261715,
+    "y": 38.43201,
+    "x": 22.42443,
+    "km": 7.1,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3039
+ },
+ {
+  "key": "grece|gythio|368:226",
+  "src": "grece.json#80",
+  "n": "Gythio",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gýtheio (GR, 0.6 km)",
+   "ref": {
+    "name": "Gýtheio",
+    "geonameid": 251297,
+    "y": 36.755,
+    "x": 22.56417,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.58
+  },
+  "links": {
+   "geonames": 251297
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3040
+ },
+ {
+  "key": "grece|karpenissi|389:218",
+  "src": "grece.json#53",
+  "n": "Karpenissi",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Karpenísi (GR, 0.5 km)",
+   "ref": {
+    "name": "Karpenísi",
+    "geonameid": 260891,
+    "y": 38.91218,
+    "x": 21.79836,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.51
+  },
+  "links": {
+   "geonames": 260891
+  },
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3041
+ },
+ {
+  "key": "grece|daphni|380:236",
+  "src": "grece.json#59",
+  "n": "Monastère de Daphni",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chaïdári (GR, 2.6 km)",
+   "ref": {
+    "name": "Chaïdári",
+    "geonameid": 260183,
+    "y": 38.01135,
+    "x": 23.66597,
+    "km": 2.6,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/537"
+  },
+  "score": {
+   "tour": 13,
+   "van": 5,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3034
+ },
+ {
+  "key": "grece|nea-moni-chios|384:261",
+  "src": "grece.json#97",
+  "n": "Nea Moni de Chios",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chios (GR, 7.1 km)",
+   "ref": {
+    "name": "Hios",
+    "geonameid": null,
+    "y": 38.368109,
+    "x": 26.13581,
+    "km": 7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 9,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3042
+ },
+ {
+  "key": "grece|nymfaio|406:213",
+  "src": "grece.json#2",
+  "n": "Nymfaio",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chlói (GR, 12.5 km)",
+   "ref": {
+    "name": "Flórina",
+    "geonameid": 736229,
+    "y": 40.78197,
+    "x": 21.40981,
+    "km": 17.4,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3035
+ },
+ {
+  "key": "grece|plateau-lassithi|352:255",
+  "src": "grece.json#86",
+  "n": "Plateau du Lassithi",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mokhós (GR, 10.2 km)",
+   "ref": {
+    "name": "Neápoli",
+    "geonameid": 256589,
+    "y": 35.25627,
+    "x": 25.60415,
+    "km": 14.8,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3036
+ },
+ {
+  "key": "grece|xanthi|411:249",
+  "src": "grece.json#39",
+  "n": "Xanthi",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Xánthi (GR, 0.8 km)",
+   "ref": {
+    "name": "Xanthi",
+    "geonameid": null,
+    "y": 41.14179,
+    "x": 24.883587,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.79
+  },
+  "links": {
+   "geonames": 733840,
+   "qid": "Q210296"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3037
+ },
+ {
+  "key": "grece|bains-pozar|410:219",
+  "src": "grece.json#37",
+  "n": "Bains de Pozar",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loutráki (GR, 1.5 km)",
+   "ref": {
+    "name": "Aridaía",
+    "geonameid": 736753,
+    "y": 40.97306,
+    "x": 22.05639,
+    "km": 10.6,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3046
+ },
+ {
+  "key": "grece|dion|402:225",
+  "src": "grece.json#30",
+  "n": "Dion",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Díon (GR, 0.5 km)",
+   "ref": {
+    "name": "Kateríni",
+    "geonameid": 735914,
+    "y": 40.26956,
+    "x": 22.50608,
+    "km": 10.9,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3043
+ },
+ {
+  "key": "grece|lousios|376:221",
+  "src": "grece.json#75",
+  "n": "Gorges du Lousios",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dimitsána (GR, 4.5 km)",
+   "ref": {
+    "name": "Megalópoli",
+    "geonameid": 257395,
+    "y": 37.40111,
+    "x": 22.14222,
+    "km": 18.9,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3044
+ },
+ {
+  "key": "grece|molyvos|394:262",
+  "src": "grece.json#96",
+  "n": "Molyvos",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Míthymna (GR, 0.2 km)",
+   "ref": {
+    "name": "Kalloní",
+    "geonameid": 261396,
+    "y": 39.23318,
+    "x": 26.20724,
+    "km": 15.3,
+    "statedKm": 15
+   },
+   "status": "vérifié",
+   "snapped": 0.21
+  },
+  "links": {
+   "geonames": 256879
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3047
+ },
+ {
+  "key": "grece|sivota|394:202",
+  "src": "grece.json#15",
+  "n": "Sivota",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Platariá (GR, 5.6 km)",
+   "ref": {
+    "name": "Igoumenítsa",
+    "geonameid": 261807,
+    "y": 39.50342,
+    "x": 20.26728,
+    "km": 10.9,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3045
+ },
+ {
+  "key": "grece|koukounaries|392:234",
+  "src": "grece.json#25",
+  "n": "Koukounaries",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Skiáthos (GR, 8.0 km)",
+   "ref": {
+    "name": "Skiáthos",
+    "geonameid": 253643,
+    "y": 39.16227,
+    "x": 23.49089,
+    "km": 8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3049
+ },
+ {
+  "key": "grece|plastira|393:218",
+  "src": "grece.json#27",
+  "n": "Lac Plastira",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Morfovoúni (GR, 11.4 km)",
+   "ref": {
+    "name": "Kardítsa",
+    "geonameid": 260989,
+    "y": 39.36485,
+    "x": 21.92191,
+    "km": 19.5,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 12,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3051
+ },
+ {
+  "key": "grece|arkadi|353:246",
+  "src": "grece.json#88",
+  "n": "Monastère d'Arkadi",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Agía Foteiní (GR, 6.2 km)",
+   "ref": {
+    "name": "Rethymno",
+    "geonameid": 254352,
+    "y": 35.36555,
+    "x": 24.48232,
+    "km": 14.6,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 7,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3048
+ },
+ {
+  "key": "grece|plaka|395:210",
+  "src": "grece.json#16",
+  "n": "Pont de Plaka",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Voulgaréli (GR, 15.7 km)",
+   "ref": {
+    "name": "Ioánnina",
+    "geonameid": 261779,
+    "y": 39.66486,
+    "x": 20.85189,
+    "km": 28.1,
+    "statedKm": 28
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3052
+ },
+ {
+  "key": "grece|thassos|408:247",
+  "src": "grece.json#43",
+  "n": "Thassos",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "localité « Thássos » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Thásos (GR, 0.2 km)",
+   "ref": {
+    "name": "Thásos",
+    "geonameid": 734094,
+    "y": 40.77806,
+    "x": 24.70944,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3050
+ },
+ {
+  "key": "grece|amphipolis|408:238",
+  "src": "grece.json#35",
+  "n": "Amphipolis",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ofrínion (GR, 6.1 km)",
+   "ref": {
+    "name": "Asproválta",
+    "geonameid": 736694,
+    "y": 40.73049,
+    "x": 23.7118,
+    "km": 15.2,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3053
+ },
+ {
+  "key": "grece|falassarna|355:236",
+  "src": "grece.json#84",
+  "n": "Falassarna",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kíssamos (GR, 7.0 km)",
+   "ref": {
+    "name": "Kíssamos",
+    "geonameid": 259718,
+    "y": 35.49459,
+    "x": 23.65375,
+    "km": 7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3054
+ },
+ {
+  "key": "grece|melissani|383:206",
+  "src": "grece.json#20",
+  "n": "Grotte de Melissani",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Argostoli » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sámi (GR, 2.1 km)",
+   "ref": {
+    "name": "Sámi",
+    "geonameid": 254123,
+    "y": 38.25081,
+    "x": 20.64686,
+    "km": 2.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 7,
+   "sing": 13,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3055
+ },
+ {
+  "key": "grece|necromancee-acheron|392:205",
+  "src": "grece.json#10",
+  "n": "Nécromancée d'Achéron",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kanaláki (GR, 5.6 km)",
+   "ref": {
+    "name": "Párga",
+    "geonameid": 255736,
+    "y": 39.28572,
+    "x": 20.40044,
+    "km": 12.8,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3056
+ },
+ {
+  "key": "grece|ouranoupoli|403:240",
+  "src": "grece.json#32",
+  "n": "Ouranoupoli",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.6,
+   "otherCountry": null,
+   "nearestLocality": "Ouranoupolis (GR, 0.6 km)",
+   "ref": {
+    "name": "Ierissós",
+    "geonameid": 736130,
+    "y": 40.39748,
+    "x": 23.87505,
+    "km": 11.9,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3057
+ },
+ {
+  "key": "grece|siatista|403:216",
+  "src": "grece.json#3",
+  "n": "Siatista",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Siátista (GR, 1.0 km)",
+   "ref": {
+    "name": "Siátista",
+    "geonameid": 734315,
+    "y": 40.26194,
+    "x": 21.54417,
+    "km": 1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1
+  },
+  "links": {
+   "geonames": 734315
+  },
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3058
+ },
+ {
+  "key": "grece|tempe|399:226",
+  "src": "grece.json#23",
+  "n": "Vallée de Tempé",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pyrgetós (GR, 2.9 km)",
+   "ref": {
+    "name": "Larissa",
+    "geonameid": null,
+    "y": 39.630409,
+    "x": 22.420016,
+    "km": 32.5,
+    "statedKm": 32
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3059
+ },
+ {
+  "key": "grece|elafonissos|365:230",
+  "src": "grece.json#78",
+  "n": "Elafonissos",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "hors des contours simplifiés (5.6 km) : côte ou île"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 5.6,
+   "otherCountry": null,
+   "nearestLocality": "Kýthira (GR, 36.0 km)",
+   "ref": {
+    "name": "Neápoli",
+    "geonameid": null,
+    "y": 36.51147,
+    "x": 23.06033,
+    "km": 10.6,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 5,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3062
+ },
+ {
+  "key": "grece|paxos|392:202",
+  "src": "grece.json#17",
+  "n": "Paxos",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "hors des contours simplifiés (17.1 km) : côte ou île"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 17.1,
+   "otherCountry": null,
+   "nearestLocality": "Gáïos (GR, 0.2 km)",
+   "ref": {
+    "name": "Párga",
+    "geonameid": 255736,
+    "y": 39.28572,
+    "x": 20.40044,
+    "km": 21.1,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 9,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3060
+ },
+ {
+  "key": "grece|poros|375:235",
+  "src": "grece.json#64",
+  "n": "Poros",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Póros (GR, 0.1 km)",
+   "ref": {
+    "name": "Póros",
+    "geonameid": 254865,
+    "y": 37.49944,
+    "x": 23.45361,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3063
+ },
+ {
+  "key": "grece|thermopyles|388:225",
+  "src": "grece.json#49",
+  "n": "Thermopyles",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mólos (GR, 9.6 km)",
+   "ref": {
+    "name": "Lamia",
+    "geonameid": null,
+    "y": 38.898999,
+    "x": 22.434004,
+    "km": 14.4,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3061
+ },
+ {
+  "key": "grece|volos|394:229",
+  "src": "grece.json#24",
+  "n": "Volos",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Volos (GR, 0.1 km)",
+   "ref": {
+    "name": "Volos",
+    "geonameid": 251833,
+    "y": 39.36103,
+    "x": 22.94248,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 251833,
+   "qid": "Q200036"
+  },
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3064
+ },
+ {
+  "key": "grece|canal-corinthe|379:230",
+  "src": "grece.json#65",
+  "n": "Canal de Corinthe",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kyrás Vrýsi (GR, 2.1 km)",
+   "ref": {
+    "name": "Kórinthos",
+    "geonameid": 259289,
+    "y": 37.94007,
+    "x": 22.9513,
+    "km": 3,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 9,
+   "acc": 5,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3065
+ },
+ {
+  "key": "grece|eleusis|380:235",
+  "src": "grece.json#61",
+  "n": "Éleusis",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Elefsína (GR, 0.4 km)",
+   "ref": {
+    "name": "Elefsína",
+    "geonameid": 262752,
+    "y": 38.04135,
+    "x": 23.54295,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 6,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3066
+ },
+ {
+  "key": "grece|karystos|380:244",
+  "src": "grece.json#51",
+  "n": "Karystos",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Kárystos (GR, 0.3 km)",
+   "ref": {
+    "name": "Kárystos",
+    "geonameid": 260935,
+    "y": 38.01333,
+    "x": 24.41611,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.35
+  },
+  "links": {
+   "geonames": 260935
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3069
+ },
+ {
+  "key": "grece|nicopolis|390:207",
+  "src": "grece.json#12",
+  "n": "Nicopolis",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Néos Oropós (GR, 15.9 km)",
+   "ref": {
+    "name": "Préveza",
+    "geonameid": 254698,
+    "y": 38.95617,
+    "x": 20.7505,
+    "km": 6,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3067
+ },
+ {
+  "key": "grece|nestor|370:217",
+  "src": "grece.json#69",
+  "n": "Palais de Nestor",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chóra (GR, 3.3 km)",
+   "ref": {
+    "name": "Pýlos",
+    "geonameid": 255293,
+    "y": 36.91298,
+    "x": 21.6965,
+    "km": 12.7,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3068
+ },
+ {
+  "key": "grece|didymoteicho|413:265",
+  "src": "grece.json#46",
+  "n": "Didymoteicho",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Didymóteicho (GR, 0.1 km)",
+   "ref": {
+    "name": "Didymóteicho",
+    "geonameid": 736447,
+    "y": 41.34806,
+    "x": 26.49611,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 736447
+  },
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3071
+ },
+ {
+  "key": "grece|egine-temple-aphaia|378:235",
+  "src": "grece.json#63",
+  "n": "Égine — temple d'Aphaïa",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Aigina » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Selínia (GR, 19.9 km)",
+   "ref": {
+    "name": "Selínia",
+    "geonameid": 254030,
+    "y": 37.9332,
+    "x": 23.53147,
+    "km": 19.9,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1,
+   "geo": 8
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3072
+ },
+ {
+  "key": "grece|petralona|404:232",
+  "src": "grece.json#33",
+  "n": "Grotte de Petralona",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Néa Tríglia (GR, 8.5 km)",
+   "ref": {
+    "name": "Néa Kallikráteia",
+    "geonameid": 735016,
+    "y": 40.31312,
+    "x": 23.06343,
+    "km": 10.2,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 6,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3073
+ },
+ {
+  "key": "grece|grotte-lacs|380:221",
+  "src": "grece.json#56",
+  "n": "Grotte des Lacs",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kleitoría (GR, 8.1 km)",
+   "ref": {
+    "name": "Kalávryta",
+    "geonameid": 261537,
+    "y": 38.03222,
+    "x": 22.1125,
+    "km": 7.1,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3070
+ },
+ {
+  "key": "grece|kritsa-panagia-kera|352:256",
+  "src": "grece.json#95",
+  "n": "Kritsa et Panagia Kera",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kritsá (GR, 0.1 km)",
+   "ref": {
+    "name": "Ágios Nikólaos",
+    "geonameid": 263824,
+    "y": 35.19106,
+    "x": 25.71524,
+    "km": 7.4,
+    "statedKm": 7
+   },
+   "status": "vérifié",
+   "snapped": 0.06
+  },
+  "links": {
+   "geonames": 258759
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3074
+ },
+ {
+  "key": "grece|veria|405:222",
+  "src": "grece.json#36",
+  "n": "Véria",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Veria » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Véroia (GR, 0.1 km)",
+   "ref": {
+    "name": "Véroia",
+    "geonameid": 733905,
+    "y": 40.52437,
+    "x": 22.20242,
+    "km": 0.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 733905
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3075
+ },
+ {
+  "key": "grece|argos|376:227",
+  "src": "grece.json#67",
+  "n": "Argos",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Árgos (GR, 1.3 km)",
+   "ref": {
+    "name": "Árgos",
+    "geonameid": 264670,
+    "y": 37.63333,
+    "x": 22.73333,
+    "km": 1.3,
+    "statedKm": 1
+   },
+   "status": "vérifié",
+   "snapped": 1.32
+  },
+  "links": {
+   "geonames": 264670
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3076
+ },
+ {
+  "key": "grece|neda|374:218",
+  "src": "grece.json#57",
+  "n": "Cascades de la Néda",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Avlón (GR, 3.7 km)",
+   "ref": {
+    "name": "Kyparissía",
+    "geonameid": 259782,
+    "y": 37.25111,
+    "x": 21.67361,
+    "km": 20.7,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3077
+ },
+ {
+  "key": "grece|koroni|368:220",
+  "src": "grece.json#72",
+  "n": "Koroni",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Koróni (GR, 0.1 km)",
+   "ref": {
+    "name": "Pýlos",
+    "geonameid": 255293,
+    "y": 36.91298,
+    "x": 21.6965,
+    "km": 26.8,
+    "statedKm": 27
+   },
+   "status": "vérifié",
+   "snapped": 0.1
+  },
+  "links": {
+   "geonames": 259265
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3078
+ },
+ {
+  "key": "grece|vouliagmeni|378:238",
+  "src": "grece.json#58",
+  "n": "Lac de Vouliagmeni",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Vouliagméni (GR, 0.9 km)",
+   "ref": {
+    "name": "Vouliagméni",
+    "geonameid": 251773,
+    "y": 37.81423,
+    "x": 23.77892,
+    "km": 0.9,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 6,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3079
+ },
+ {
+  "key": "grece|samarina|401:210",
+  "src": "grece.json#4",
+  "n": "Samarina",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kónitsa (GR, 20.3 km)",
+   "ref": {
+    "name": "Grevená",
+    "geonameid": 736151,
+    "y": 40.08452,
+    "x": 21.42744,
+    "km": 37.8,
+    "statedKm": 37
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 2,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "grece|alexandroupoli|408:259",
+  "src": "grece.json#41",
+  "n": "Alexandroupoli",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Alexandroupoli (GR, 0.6 km)",
+   "ref": {
+    "name": "Alexandroupoli",
+    "geonameid": null,
+    "y": 40.848619,
+    "x": 25.87441,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.59
+  },
+  "links": {
+   "geonames": 736928,
+   "qid": "Q190847"
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 7,
+   "val": 7,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "grece|imbros|352:242",
+  "src": "grece.json#89",
+  "n": "Gorges d'Imbros",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chóra Sfakíon (GR, 4.1 km)",
+   "ref": {
+    "name": "Chaniá",
+    "geonameid": 260114,
+    "y": 35.51124,
+    "x": 24.02921,
+    "km": 33.6,
+    "statedKm": 34
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "grece|heraklion|353:251",
+  "src": "grece.json#93",
+  "n": "Héraklion",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "« Irakleio » ne correspond qu'à un homonyme lointain : contrôle par Irákleion (1.5 km)",
+   "localité « Irakleio » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Irákleion (GR, 1.5 km)",
+   "ref": {
+    "name": "Irákleion",
+    "geonameid": 261745,
+    "y": 35.32787,
+    "x": 25.14341,
+    "km": 1.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "grece|arta|392:210",
+  "src": "grece.json#14",
+  "n": "Pont d'Arta",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Árta (GR, 0.7 km)",
+   "ref": {
+    "name": "Árta",
+    "geonameid": 264559,
+    "y": 39.16014,
+    "x": 20.98561,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "grece|porta-panagia-pyli|395:216",
+  "src": "grece.json#28",
+  "n": "Porta Panagia et pont de Pyli",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pýli (GR, 0.3 km)",
+   "ref": {
+    "name": "Tríkala",
+    "geonameid": 252664,
+    "y": 39.55493,
+    "x": 21.76837,
+    "km": 16.9,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "grece|aptera|355:241",
+  "src": "grece.json#94",
+  "n": "Aptera",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kalýves (GR, 3.3 km)",
+   "ref": {
+    "name": "Chaniá",
+    "geonameid": 260114,
+    "y": 35.51124,
+    "x": 24.02921,
+    "km": 11.5,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "grece|rhamnonte|382:240",
+  "src": "grece.json#62",
+  "n": "Rhamnonte",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Káto Soúlion (GR, 5.6 km)",
+   "ref": {
+    "name": "Marathónas",
+    "geonameid": 257717,
+    "y": 38.15317,
+    "x": 23.96278,
+    "km": 9.1,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "grece|ithaque|384:207",
+  "src": "grece.json#22",
+  "n": "Ithaque",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "« Vathý » ne correspond qu'à un homonyme lointain : contrôle par Itháki (0.2 km)",
+   "localité « Vathý » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Itháki (GR, 0.2 km)",
+   "ref": {
+    "name": "Itháki",
+    "geonameid": 261708,
+    "y": 38.36421,
+    "x": 20.71848,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "grece|loutra-edipsou|389:230",
+  "src": "grece.json#50",
+  "n": "Loutra Edipsou",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Loutra Aidipsou » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.8,
+   "otherCountry": null,
+   "nearestLocality": "Loutrá Aidhipsoú (GR, 0.2 km)",
+   "ref": {
+    "name": "Loutrá Aidhipsoú",
+    "geonameid": 258075,
+    "y": 38.85695,
+    "x": 23.04739,
+    "km": 0.2,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "grece|nemee|378:227",
+  "src": "grece.json#66",
+  "n": "Némée",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Neméa (GR, 4.6 km)",
+   "ref": {
+    "name": "Neméa",
+    "geonameid": 256558,
+    "y": 37.82068,
+    "x": 22.66102,
+    "km": 4.6,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "grece|soufli|412:263",
+  "src": "grece.json#45",
+  "n": "Soufli",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Souflí (GR, 1.2 km)",
+   "ref": {
+    "name": "Souflí",
+    "geonameid": 734187,
+    "y": 41.19194,
+    "x": 26.29944,
+    "km": 1.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.25
+  },
+  "links": {
+   "geonames": 734187
+  },
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 9,
+   "val": 8,
+   "acc": 3,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "grece|achilleion|396:199",
+  "src": "grece.json#18",
+  "n": "Achilleion",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Kérkyra » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kynopiástes (GR, 1.8 km)",
+   "ref": {
+    "name": "Kynopiástes",
+    "geonameid": 2463670,
+    "y": 39.56785,
+    "x": 19.88362,
+    "km": 1.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 6,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "grece|aliki-thassos|406:247",
+  "src": "grece.json#44",
+  "n": "Aliki (Thassos)",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Thássos » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Potamiá (GR, 12.6 km)",
+   "ref": {
+    "name": "Potamiá",
+    "geonameid": 734496,
+    "y": 40.71633,
+    "x": 24.72859,
+    "km": 12.6,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "grece|brauron|379:240",
+  "src": "grece.json#60",
+  "n": "Brauron",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Artémida (GR, 4.7 km)",
+   "ref": {
+    "name": "Artémida",
+    "geonameid": 258038,
+    "y": 37.96727,
+    "x": 23.99684,
+    "km": 4.7,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 6,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "grece|fiskardo|385:206",
+  "src": "grece.json#21",
+  "n": "Fiskardo",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "localité « Argostoli » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Itháki (GR, 16.3 km)",
+   "ref": {
+    "name": "Itháki",
+    "geonameid": 261708,
+    "y": 38.36421,
+    "x": 20.71848,
+    "km": 16.3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "grece|stymphale|379:225",
+  "src": "grece.json#77",
+  "n": "Lac Stymphale",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stymfalía (GR, 2.0 km)",
+   "ref": {
+    "name": "Neméa",
+    "geonameid": 256558,
+    "y": 37.82068,
+    "x": 22.66102,
+    "km": 18.1,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "grece|sidari-canal-amour|398:197",
+  "src": "grece.json#19",
+  "n": "Sidari — Canal d'Amour",
+  "p": "Grèce",
+  "c": "plage",
+  "issues": [],
+  "flags": [
+   "localité « Kérkyra » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Agios Georgis (GR, 8.0 km)",
+   "ref": {
+    "name": "Agios Georgis",
+    "geonameid": 6692641,
+    "y": 39.72363,
+    "x": 19.69969,
+    "km": 8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "grece|karytaina|375:220",
+  "src": "grece.json#76",
+  "n": "Karytaina",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Megalópoli (GR, 13.3 km)",
+   "ref": {
+    "name": "Megalópoli",
+    "geonameid": 257395,
+    "y": 37.40111,
+    "x": 22.14222,
+    "km": 13.3,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "grece|kassope-zalongo|391:207",
+  "src": "grece.json#13",
+  "n": "Kassopé et Zalongo",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Néos Oropós (GR, 5.3 km)",
+   "ref": {
+    "name": "Préveza",
+    "geonameid": 254698,
+    "y": 38.95617,
+    "x": 20.7505,
+    "km": 22.1,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "grece|polyfytos|402:220",
+  "src": "grece.json#6",
+  "n": "Lac Polyfytos",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sérvia (GR, 3.6 km)",
+   "ref": {
+    "name": "Sérvia",
+    "geonameid": 734328,
+    "y": 40.17972,
+    "x": 21.99444,
+    "km": 3.6,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 8,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "grece|florina|408:214",
+  "src": "grece.json#5",
+  "n": "Florina",
+  "p": "Grèce",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Flórina (GR, 0.0 km)",
+   "ref": {
+    "name": "Flórina",
+    "geonameid": 736229,
+    "y": 40.78197,
+    "x": 21.40981,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 736229
+  },
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 6,
+   "val": 6,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "grece|eretrie|384:238",
+  "src": "grece.json#52",
+  "n": "Érétrie",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.5,
+   "otherCountry": null,
+   "nearestLocality": "Erétria (GR, 1.0 km)",
+   "ref": {
+    "name": "Erétria",
+    "geonameid": 262628,
+    "y": 38.40097,
+    "x": 23.8022,
+    "km": 1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ },
+ {
+  "key": "grece|olynthe|403:234",
+  "src": "grece.json#38",
+  "n": "Olynthe",
+  "p": "Grèce",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Nea Moudania » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ólynthos (GR, 1.1 km)",
+   "ref": {
+    "name": "Ólynthos",
+    "geonameid": 734996,
+    "y": 40.29147,
+    "x": 23.34205,
+    "km": 1.1,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 2,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 51
+ },
+ {
+  "key": "grece|prespa|408:211",
+  "src": "grece.json#1",
+  "n": "Lacs Prespa",
+  "p": "Grèce",
+  "c": "nature",
+  "issues": [
+   "doublon : fiche 725 « Parc national de Prespa » (15.2 km)"
+  ],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Laimós (GR, 5.9 km)",
+   "ref": {
+    "name": "Flórina",
+    "geonameid": 736229,
+    "y": 40.78197,
+    "x": 21.40981,
+    "km": 28.1,
+    "statedKm": 28
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 13,
+   "sing": 14,
+   "val": 14,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "rejeté",
+  "reason": "doublon : fiche 725 « Parc national de Prespa » (15.2 km)"
+ }
+]

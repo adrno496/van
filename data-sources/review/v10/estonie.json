@@ -1,0 +1,771 @@
+[
+ {
+  "key": "estonie|kuressaare|582:225",
+  "src": "nordiques-baltes.json#61",
+  "n": "Kuressaare",
+  "p": "Estonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tehumardi (EE, 15.5 km)",
+   "ref": {
+    "name": "Kuressaare",
+    "geonameid": 590939,
+    "y": 58.24806,
+    "x": 22.50389,
+    "km": 1.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 3514
+ },
+ {
+  "key": "estonie|lahemaa|595:260",
+  "src": "nordiques-baltes.json#59",
+  "n": "Parc national de Lahemaa",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loksa (EE, 15.0 km)",
+   "ref": {
+    "name": "Loksa",
+    "geonameid": 590552,
+    "y": 59.57639,
+    "x": 25.72139,
+    "km": 15,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 12,
+   "sing": 11,
+   "val": 14,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3515
+ },
+ {
+  "key": "estonie|tartu|584:267",
+  "src": "nordiques-baltes.json#68",
+  "n": "Tartu",
+  "p": "Estonie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tartu (EE, 0.4 km)",
+   "ref": {
+    "name": "Tartu",
+    "geonameid": 588335,
+    "y": 58.38062,
+    "x": 26.72509,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.37
+  },
+  "links": {
+   "geonames": 588335,
+   "qid": "Q13972"
+  },
+  "score": {
+   "tour": 17,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3516
+ },
+ {
+  "key": "estonie|cratere-kaali|584:227",
+  "src": "nordiques-baltes.json#62",
+  "n": "Cratère de Kaali",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kuressaare (EE, 16.9 km)",
+   "ref": {
+    "name": "Kuressaare",
+    "geonameid": 590939,
+    "y": 58.24806,
+    "x": 22.50389,
+    "km": 16.9,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 14,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3517
+ },
+ {
+  "key": "estonie|haapsalu|589:235",
+  "src": "nordiques-baltes.json#65",
+  "n": "Haapsalu",
+  "p": "Estonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Haapsalu (EE, 0.2 km)",
+   "ref": {
+    "name": "Haapsalu",
+    "geonameid": 592225,
+    "y": 58.94306,
+    "x": 23.54139,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 592225,
+   "qid": "Q191106"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3518
+ },
+ {
+  "key": "estonie|soomaa|584:250",
+  "src": "nordiques-baltes.json#67",
+  "n": "Parc national de Soomaa",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mõisaküla (EE, 38.5 km)",
+   "ref": {
+    "name": "Pärnu",
+    "geonameid": null,
+    "y": 58.374743,
+    "x": 24.513584,
+    "km": 30.7,
+    "statedKm": 31
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3519
+ },
+ {
+  "key": "estonie|phare-kopu|589:222",
+  "src": "nordiques-baltes.json#64",
+  "n": "Phare de Kõpu",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kärdla (EE, 32.9 km)",
+   "ref": {
+    "name": "Kärdla",
+    "geonameid": 591632,
+    "y": 58.99778,
+    "x": 22.74917,
+    "km": 32.9,
+    "statedKm": 33
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3520
+ },
+ {
+  "key": "estonie|parnu|584:245",
+  "src": "nordiques-baltes.json#66",
+  "n": "Pärnu",
+  "p": "Estonie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pärnu (EE, 0.0 km)",
+   "ref": {
+    "name": "Pärnu",
+    "geonameid": 589580,
+    "y": 58.38588,
+    "x": 24.49711,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 589580,
+   "qid": "Q102365"
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3521
+ },
+ {
+  "key": "estonie|manoir-alatskivi|586:271",
+  "src": "nordiques-baltes.json#75",
+  "n": "Manoir d'Alatskivi",
+  "p": "Estonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Alatskivi (EE, 0.4 km)",
+   "ref": {
+    "name": "Tartu",
+    "geonameid": 588335,
+    "y": 58.38062,
+    "x": 26.72509,
+    "km": 34.1,
+    "statedKm": 34
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3522
+ },
+ {
+  "key": "estonie|kasmu|596:259",
+  "src": "nordiques-baltes.json#60",
+  "n": "Käsmu",
+  "p": "Estonie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Loksa (EE, 11.6 km)",
+   "ref": {
+    "name": "Loksa",
+    "geonameid": 590552,
+    "y": 59.57639,
+    "x": 25.72139,
+    "km": 11.6,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3523
+ },
+ {
+  "key": "estonie|otepaa|581:265",
+  "src": "nordiques-baltes.json#73",
+  "n": "Otepää",
+  "p": "Estonie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Otepää (EE, 0.1 km)",
+   "ref": {
+    "name": "Otepää",
+    "geonameid": null,
+    "y": 58.05833,
+    "x": 26.49667,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": null
+  },
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3524
+ },
+ {
+  "key": "estonie|suur-munamagi|577:271",
+  "src": "nordiques-baltes.json#69",
+  "n": "Suur Munamägi",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Võru (EE, 13.5 km)",
+   "ref": {
+    "name": "Võru",
+    "geonameid": 587450,
+    "y": 57.83389,
+    "x": 27.01944,
+    "km": 13.5,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3525
+ },
+ {
+  "key": "estonie|matsalu|587:238",
+  "src": "nordiques-baltes.json#76",
+  "n": "Parc national de Matsalu",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lihula (EE, 6.5 km)",
+   "ref": {
+    "name": "Haapsalu",
+    "geonameid": null,
+    "y": 58.943056,
+    "x": 23.541389,
+    "km": 27.7,
+    "statedKm": 28
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3526
+ },
+ {
+  "key": "estonie|taevaskoja|581:270",
+  "src": "nordiques-baltes.json#72",
+  "n": "Taevaskoja",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Põlva (EE, 6.5 km)",
+   "ref": {
+    "name": "Põlva",
+    "geonameid": 589375,
+    "y": 58.06028,
+    "x": 27.06944,
+    "km": 6.5,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3527
+ },
+ {
+  "key": "estonie|falaise-pakri|594:240",
+  "src": "nordiques-baltes.json#78",
+  "n": "Falaise de Pakri",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Paldiski (EE, 3.7 km)",
+   "ref": {
+    "name": "Paldiski",
+    "geonameid": 589663,
+    "y": 59.35667,
+    "x": 24.05306,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "estonie|couvent-puhtitsa|592:275",
+  "src": "nordiques-baltes.json#74",
+  "n": "Couvent de Pühtitsa",
+  "p": "Estonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Voka (EE, 22.9 km)",
+   "ref": {
+    "name": "Jõhvi",
+    "geonameid": 591893,
+    "y": 59.35917,
+    "x": 27.42111,
+    "km": 18.3,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "estonie|falaise-panga|586:223",
+  "src": "nordiques-baltes.json#63",
+  "n": "Falaise de Panga",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kuressaare (EE, 37.8 km)",
+   "ref": {
+    "name": "Kuressaare",
+    "geonameid": 590939,
+    "y": 58.24806,
+    "x": 22.50389,
+    "km": 37.8,
+    "statedKm": 37
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "estonie|rouge|577:269",
+  "src": "nordiques-baltes.json#70",
+  "n": "Rõuge",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rõuge (EE, 0.8 km)",
+   "ref": {
+    "name": "Võru",
+    "geonameid": 587450,
+    "y": 57.83389,
+    "x": 27.01944,
+    "km": 13,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "estonie|piusa|578:275",
+  "src": "nordiques-baltes.json#71",
+  "n": "Grottes de Piusa",
+  "p": "Estonie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Võru (EE, 26.4 km)",
+   "ref": {
+    "name": "Võru",
+    "geonameid": 587450,
+    "y": 57.83389,
+    "x": 27.01944,
+    "km": 26.4,
+    "statedKm": 26
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "estonie|padise|592:241",
+  "src": "nordiques-baltes.json#77",
+  "n": "Monastère de Padise",
+  "p": "Estonie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Paldiski (EE, 15.0 km)",
+   "ref": {
+    "name": "Paldiski",
+    "geonameid": 589663,
+    "y": 59.35667,
+    "x": 24.05306,
+    "km": 15,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ }
+]

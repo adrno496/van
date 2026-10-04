@@ -1,0 +1,1199 @@
+[
+ {
+  "key": "bosnie|konjic|437:180",
+  "src": "croatie-bosnie-slovenie.json#53",
+  "n": "Konjic",
+  "p": "Bosnie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Konjic (BA, 0.2 km)",
+   "ref": {
+    "name": "Konjic",
+    "geonameid": 3337476,
+    "y": 43.65126,
+    "x": 17.96082,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 3337476
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2882
+ },
+ {
+  "key": "bosnie|pocitelj|431:177",
+  "src": "croatie-bosnie-slovenie.json#48",
+  "n": "Počitelj",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tasovčići (BA, 2.5 km)",
+   "ref": {
+    "name": "Čapljina",
+    "geonameid": 3202873,
+    "y": 43.12139,
+    "x": 17.68444,
+    "km": 4.1,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2883
+ },
+ {
+  "key": "bosnie|travnik|442:177",
+  "src": "croatie-bosnie-slovenie.json#58",
+  "n": "Travnik",
+  "p": "Bosnie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Travnik (BA, 0.1 km)",
+   "ref": {
+    "name": "Travnik",
+    "geonameid": 3188924,
+    "y": 44.22637,
+    "x": 17.66583,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3188924
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2884
+ },
+ {
+  "key": "bosnie|trebinje|427:183",
+  "src": "croatie-bosnie-slovenie.json#50",
+  "n": "Trebinje",
+  "p": "Bosnie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Trebinje (BA, 0.1 km)",
+   "ref": {
+    "name": "Trebinje",
+    "geonameid": 3188893,
+    "y": 42.71197,
+    "x": 18.34362,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 3188893
+  },
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2885
+ },
+ {
+  "key": "bosnie|livno|438:170",
+  "src": "croatie-bosnie-slovenie.json#62",
+  "n": "Livno",
+  "p": "Bosnie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Livno (BA, 0.0 km)",
+   "ref": {
+    "name": "Livno",
+    "geonameid": 3196410,
+    "y": 43.82695,
+    "x": 17.00746,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 3196410
+  },
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2886
+ },
+ {
+  "key": "bosnie|banja-luka|448:172",
+  "src": "croatie-bosnie-slovenie.json#65",
+  "n": "Banja Luka",
+  "p": "Bosnie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Banja Luka (BA, 0.7 km)",
+   "ref": {
+    "name": "Banja Luka",
+    "geonameid": 3204541,
+    "y": 44.77842,
+    "x": 17.19386,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.75
+  },
+  "links": {
+   "geonames": 3204541,
+   "qid": "Q131127"
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2888
+ },
+ {
+  "key": "bosnie|bihac|448:159",
+  "src": "croatie-bosnie-slovenie.json#63",
+  "n": "Bihać",
+  "p": "Bosnie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bihać (BA, 0.1 km)",
+   "ref": {
+    "name": "Bihać",
+    "geonameid": 3204222,
+    "y": 44.81694,
+    "x": 15.87083,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 3204222
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2889
+ },
+ {
+  "key": "bosnie|blidinje|436:175",
+  "src": "croatie-bosnie-slovenie.json#61",
+  "n": "Parc naturel de Blidinje",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Drežnica (BA, 20.0 km)",
+   "ref": {
+    "name": "Posušje",
+    "geonameid": 3192669,
+    "y": 43.47281,
+    "x": 17.32621,
+    "km": 21.2,
+    "statedKm": 21
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2887
+ },
+ {
+  "key": "bosnie|lukomir|436:182",
+  "src": "croatie-bosnie-slovenie.json#54",
+  "n": "Lukomir",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gračanica (BA, 13.1 km)",
+   "ref": {
+    "name": "Konjic",
+    "geonameid": 3337476,
+    "y": 43.65126,
+    "x": 17.96082,
+    "km": 18.9,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 13,
+   "val": 11,
+   "acc": 2,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2890
+ },
+ {
+  "key": "bosnie|tuzla|445:187",
+  "src": "croatie-bosnie-slovenie.json#68",
+  "n": "Tuzla",
+  "p": "Bosnie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tuzla (BA, 0.7 km)",
+   "ref": {
+    "name": "Tuzla",
+    "geonameid": 3188582,
+    "y": 44.53842,
+    "x": 18.66709,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.71
+  },
+  "links": {
+   "geonames": 3188582,
+   "qid": "Q174684"
+  },
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 2891
+ },
+ {
+  "key": "bosnie|jablanica|437:178",
+  "src": "croatie-bosnie-slovenie.json#77",
+  "n": "Jablanica",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jablanica (BA, 0.2 km)",
+   "ref": {
+    "name": "Jablanica",
+    "geonameid": 3344411,
+    "y": 43.66028,
+    "x": 17.76167,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 8,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2893
+ },
+ {
+  "key": "bosnie|jahorina|437:186",
+  "src": "croatie-bosnie-slovenie.json#55",
+  "n": "Jahorina",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Koran (BA, 8.2 km)",
+   "ref": {
+    "name": "Pale",
+    "geonameid": 3193692,
+    "y": 43.81664,
+    "x": 18.56949,
+    "km": 8.9,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2894
+ },
+ {
+  "key": "bosnie|kraljeva-sutjeska|441:182",
+  "src": "croatie-bosnie-slovenie.json#56",
+  "n": "Kraljeva Sutjeska",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gornja Breza (BA, 7.7 km)",
+   "ref": {
+    "name": "Kakanj",
+    "geonameid": 3198490,
+    "y": 44.13311,
+    "x": 18.12292,
+    "km": 8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2896
+ },
+ {
+  "key": "bosnie|memorial-srebrenica-potocari|442:193",
+  "src": "croatie-bosnie-slovenie.json#69",
+  "n": "Mémorial de Srebrenica-Potočari",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bratunac (BA, 3.8 km)",
+   "ref": {
+    "name": "Srebrenica",
+    "geonameid": 3190159,
+    "y": 44.10748,
+    "x": 19.29669,
+    "km": 5.7,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 6,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2895
+ },
+ {
+  "key": "bosnie|vrelo-bosne|438:183",
+  "src": "croatie-bosnie-slovenie.json#72",
+  "n": "Vrelo Bosne",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ilidža (BA, 2.7 km)",
+   "ref": {
+    "name": "Ilidža",
+    "geonameid": 3199145,
+    "y": 43.82939,
+    "x": 18.30003,
+    "km": 2.7,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 2892
+ },
+ {
+  "key": "bosnie|boracko|436:180",
+  "src": "croatie-bosnie-slovenie.json#52",
+  "n": "Lac de Boračko",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Pazarić (BA, 28.1 km)",
+   "ref": {
+    "name": "Konjic",
+    "geonameid": 3337476,
+    "y": 43.65126,
+    "x": 17.96082,
+    "km": 12,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2898
+ },
+ {
+  "key": "bosnie|necropole-radimlja|431:179",
+  "src": "croatie-bosnie-slovenie.json#49",
+  "n": "Nécropole de Radimlja",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stolac (BA, 2.2 km)",
+   "ref": {
+    "name": "Stolac",
+    "geonameid": 3189823,
+    "y": 43.084,
+    "x": 17.95995,
+    "km": 2.2,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 5,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2897
+ },
+ {
+  "key": "bosnie|bijambare|441:185",
+  "src": "croatie-bosnie-slovenie.json#75",
+  "n": "Bijambare",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vareš (BA, 17.4 km)",
+   "ref": {
+    "name": "Olovo",
+    "geonameid": 3194133,
+    "y": 44.1277,
+    "x": 18.58065,
+    "km": 9.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 57,
+  "decision": "retenu",
+  "i": 2900
+ },
+ {
+  "key": "bosnie|franciscain-fojnica|440:179",
+  "src": "croatie-bosnie-slovenie.json#57",
+  "n": "Monastère franciscain de Fojnica",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fojnica (BA, 0.6 km)",
+   "ref": {
+    "name": "Fojnica",
+    "geonameid": 3200829,
+    "y": 43.95952,
+    "x": 17.90288,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 57,
+  "decision": "retenu",
+  "i": 2899
+ },
+ {
+  "key": "bosnie|krupa-na-vrbasu|446:171",
+  "src": "croatie-bosnie-slovenie.json#66",
+  "n": "Krupa na Vrbasu",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Krupa na Vrbasu (BA, 1.0 km)",
+   "ref": {
+    "name": "Banja Luka",
+    "geonameid": 3204541,
+    "y": 44.77842,
+    "x": 17.19386,
+    "km": 17.1,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 56,
+  "decision": "retenu",
+  "i": 2903
+ },
+ {
+  "key": "bosnie|me-ugorje|432:177",
+  "src": "croatie-bosnie-slovenie.json#51",
+  "n": "Međugorje",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Međugorje (BA, 0.8 km)",
+   "ref": {
+    "name": "Čitluk",
+    "geonameid": 3202564,
+    "y": 43.22861,
+    "x": 17.70083,
+    "km": 4.8,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 10,
+   "val": 7,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 56,
+  "decision": "retenu",
+  "i": 2901
+ },
+ {
+  "key": "bosnie|neum|429:176",
+  "src": "croatie-bosnie-slovenie.json#71",
+  "n": "Neum",
+  "p": "Bosnie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Neum (BA, 0.1 km)",
+   "ref": {
+    "name": "Neum",
+    "geonameid": 3194514,
+    "y": 42.92333,
+    "x": 17.61556,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 9,
+   "val": 6,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 56,
+  "decision": "retenu",
+  "i": 2904
+ },
+ {
+  "key": "bosnie|tunnel-sarajevo|438:183",
+  "src": "croatie-bosnie-slovenie.json#73",
+  "n": "Tunnel de Sarajevo",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ilidža (BA, 3.2 km)",
+   "ref": {
+    "name": "Ilidža",
+    "geonameid": 3199145,
+    "y": 43.82939,
+    "x": 18.30003,
+    "km": 3.2,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 6,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 56,
+  "decision": "retenu",
+  "i": 2902
+ },
+ {
+  "key": "bosnie|ostrozac|449:159",
+  "src": "croatie-bosnie-slovenie.json#64",
+  "n": "Château d'Ostrožac",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ostrožac (BA, 0.9 km)",
+   "ref": {
+    "name": "Cazin",
+    "geonameid": 3202822,
+    "y": 44.96694,
+    "x": 15.94306,
+    "km": 5.7,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 9,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 55,
+  "decision": "retenu",
+  "i": 2906
+ },
+ {
+  "key": "bosnie|trebevic|438:184",
+  "src": "croatie-bosnie-slovenie.json#76",
+  "n": "Mont Trebević",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lukavica (BA, 5.2 km)",
+   "ref": {
+    "name": "Sarajevo",
+    "geonameid": null,
+    "y": 43.850022,
+    "x": 18.383002,
+    "km": 5.1,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 11,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 55,
+  "decision": "retenu",
+  "i": 2905
+ },
+ {
+  "key": "bosnie|gradacac|449:184",
+  "src": "croatie-bosnie-slovenie.json#74",
+  "n": "Gradačac",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gradačac (BA, 0.1 km)",
+   "ref": {
+    "name": "Gradačac",
+    "geonameid": 3199744,
+    "y": 44.87851,
+    "x": 18.42764,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 8,
+   "van": 6,
+   "sing": 8,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "bosnie|vranduk|443:179",
+  "src": "croatie-bosnie-slovenie.json#59",
+  "n": "Forteresse de Vranduk",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zenica (BA, 10.4 km)",
+   "ref": {
+    "name": "Zenica",
+    "geonameid": null,
+    "y": 44.219974,
+    "x": 17.919981,
+    "km": 8.5,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "bosnie|rama|438:176",
+  "src": "croatie-bosnie-slovenie.json#60",
+  "n": "Lac de Rama",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Prozor (BA, 2.5 km)",
+   "ref": {
+    "name": "Prozor",
+    "geonameid": 3192279,
+    "y": 43.82222,
+    "x": 17.60917,
+    "km": 2.5,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ },
+ {
+  "key": "bosnie|hutovo-blato|431:178",
+  "src": "croatie-bosnie-slovenie.json#70",
+  "n": "Parc naturel de Hutovo blato",
+  "p": "Bosnie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tasovčići (BA, 7.9 km)",
+   "ref": {
+    "name": "Čapljina",
+    "geonameid": 3202873,
+    "y": 43.12139,
+    "x": 17.68444,
+    "km": 10.4,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 52
+ },
+ {
+  "key": "bosnie|doboj|447:181",
+  "src": "croatie-bosnie-slovenie.json#67",
+  "n": "Forteresse de Doboj",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Doboj (BA, 0.5 km)",
+   "ref": {
+    "name": "Doboj",
+    "geonameid": 3201984,
+    "y": 44.73179,
+    "x": 18.08698,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 8,
+   "van": 7,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 51
+ },
+ {
+  "key": "bosnie|zvornik|444:191",
+  "src": "croatie-bosnie-slovenie.json#78",
+  "n": "Forteresse de Zvornik",
+  "p": "Bosnie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zvornik (BA, 0.3 km)",
+   "ref": {
+    "name": "Zvornik",
+    "geonameid": 3186246,
+    "y": 44.38605,
+    "x": 19.10247,
+    "km": 0.3,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 8,
+   "van": 7,
+   "sing": 7,
+   "val": 8,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 48
+ }
+]

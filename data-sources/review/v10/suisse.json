@@ -1,0 +1,2469 @@
+[
+ {
+  "key": "suisse|chillon|464:69",
+  "src": "suisse-autriche.json#0",
+  "n": "Château de Chillon",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Villeneuve (CH, 1.7 km)",
+   "ref": {
+    "name": "Montreux",
+    "geonameid": 2659601,
+    "y": 46.43301,
+    "x": 6.91143,
+    "km": 2.4,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 22,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 84,
+  "decision": "retenu",
+  "i": 2619
+ },
+ {
+  "key": "suisse|grindelwald|466:80",
+  "src": "suisse-autriche.json#15",
+  "n": "Grindelwald",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Grindelwald (CH, 0.4 km)",
+   "ref": {
+    "name": "Grindelwald",
+    "geonameid": 2660498,
+    "y": 46.62396,
+    "x": 8.03601,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 21,
+   "van": 11,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 2620
+ },
+ {
+  "key": "suisse|oeschinen|465:77",
+  "src": "suisse-autriche.json#14",
+  "n": "Lac d'Oeschinen",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kandersteg (CH, 4.3 km)",
+   "ref": {
+    "name": "Frutigen",
+    "geonameid": 2660707,
+    "y": 46.58723,
+    "x": 7.64945,
+    "km": 11.6,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 2621
+ },
+ {
+  "key": "suisse|suisse|467:101",
+  "src": "suisse-autriche.json#52",
+  "n": "Parc national suisse",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zernez (CH, 0.0 km)",
+   "ref": {
+    "name": "Scuol",
+    "geonameid": 2658660,
+    "y": 46.79671,
+    "x": 10.29804,
+    "km": 19.1,
+    "statedKm": 19
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 12,
+   "sing": 13,
+   "val": 15,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 2622
+ },
+ {
+  "key": "suisse|gothard|466:86",
+  "src": "suisse-autriche.json#62",
+  "n": "Col du Saint-Gothard",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Airolo (CH, 5.2 km)",
+   "ref": {
+    "name": "Airolo",
+    "geonameid": 2661830,
+    "y": 46.52855,
+    "x": 8.61189,
+    "km": 5.2,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 15,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 79,
+  "decision": "retenu",
+  "i": 2623
+ },
+ {
+  "key": "suisse|bale|476:76",
+  "src": "suisse-autriche.json#32",
+  "n": "Bâle",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Basel (CH, 1.5 km)",
+   "ref": {
+    "name": "Basel",
+    "geonameid": 2661604,
+    "y": 47.55839,
+    "x": 7.57327,
+    "km": 1.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.46
+  },
+  "links": {
+   "geonames": 2661604,
+   "qid": "Q78"
+  },
+  "score": {
+   "tour": 19,
+   "van": 7,
+   "sing": 10,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2624
+ },
+ {
+  "key": "suisse|creux-van|469:67",
+  "src": "suisse-autriche.json#38",
+  "n": "Creux du Van",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Travers (CH, 4.0 km)",
+   "ref": {
+    "name": "Couvet",
+    "geonameid": 2661086,
+    "y": 46.92525,
+    "x": 6.6327,
+    "km": 7.2,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 13,
+   "val": 14,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2625
+ },
+ {
+  "key": "suisse|viamala|467:94",
+  "src": "suisse-autriche.json#55",
+  "n": "Gorges de la Viamala",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Thusis (CH, 3.7 km)",
+   "ref": {
+    "name": "Thusis",
+    "geonameid": 2658371,
+    "y": 46.69724,
+    "x": 9.43938,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2626
+ },
+ {
+  "key": "suisse|furka|466:84",
+  "src": "suisse-autriche.json#13",
+  "n": "Col de la Furka",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Meiringen (CH, 24.5 km)",
+   "ref": {
+    "name": "Andermatt",
+    "geonameid": 2661750,
+    "y": 46.63565,
+    "x": 8.59388,
+    "km": 15.4,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 15,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2627
+ },
+ {
+  "key": "suisse|saas-fee|461:79",
+  "src": "suisse-autriche.json#6",
+  "n": "Saas-Fee",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saas-Fee (CH, 0.1 km)",
+   "ref": {
+    "name": "Visp",
+    "geonameid": 2658112,
+    "y": 46.2937,
+    "x": 7.88149,
+    "km": 20.9,
+    "statedKm": 21
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2658898
+  },
+  "score": {
+   "tour": 18,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2628
+ },
+ {
+  "key": "suisse|ursanne|474:72",
+  "src": "suisse-autriche.json#35",
+  "n": "Saint-Ursanne",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Glovelier (CH, 5.0 km)",
+   "ref": {
+    "name": "Porrentruy",
+    "geonameid": 2659171,
+    "y": 47.41728,
+    "x": 7.07573,
+    "km": 8.4,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2630
+ },
+ {
+  "key": "suisse|maggia|463:86",
+  "src": "suisse-autriche.json#61",
+  "n": "Valle Maggia",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cevio (CH, 0.2 km)",
+   "ref": {
+    "name": "Locarno",
+    "geonameid": 2659869,
+    "y": 46.17086,
+    "x": 8.79953,
+    "km": 22.2,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 2629
+ },
+ {
+  "key": "suisse|einsiedeln|471:88",
+  "src": "suisse-autriche.json#24",
+  "n": "Abbaye d'Einsiedeln",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Einsiedeln (CH, 0.4 km)",
+   "ref": {
+    "name": "Einsiedeln",
+    "geonameid": 2660925,
+    "y": 47.12849,
+    "x": 8.74735,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 2631
+ },
+ {
+  "key": "suisse|rigi|471:85",
+  "src": "suisse-autriche.json#25",
+  "n": "Rigi",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Küssnacht (CH, 4.6 km)",
+   "ref": {
+    "name": "Küssnacht",
+    "geonameid": 2660088,
+    "y": 47.08557,
+    "x": 8.44206,
+    "km": 4.6,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2633
+ },
+ {
+  "key": "suisse|viaduc-landwasser|467:97",
+  "src": "suisse-autriche.json#59",
+  "n": "Viaduc de Landwasser",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tiefencastel (CH, 7.7 km)",
+   "ref": {
+    "name": "Davos",
+    "geonameid": 2661039,
+    "y": 46.80429,
+    "x": 9.83723,
+    "km": 18.4,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 3,
+   "rel": 9,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2632
+ },
+ {
+  "key": "suisse|andermatt|466:86",
+  "src": "suisse-autriche.json#19",
+  "n": "Andermatt",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Andermatt (CH, 0.0 km)",
+   "ref": {
+    "name": "Andermatt",
+    "geonameid": 2661750,
+    "y": 46.63565,
+    "x": 8.59388,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2661750
+  },
+  "score": {
+   "tour": 15,
+   "van": 13,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2634
+ },
+ {
+  "key": "suisse|klausen|469:89",
+  "src": "suisse-autriche.json#20",
+  "n": "Col du Klausen",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Linthal (CH, 12.3 km)",
+   "ref": {
+    "name": "Altdorf",
+    "geonameid": 2661780,
+    "y": 46.88042,
+    "x": 8.64441,
+    "km": 16,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 15,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2636
+ },
+ {
+  "key": "suisse|haut-lieu-tectonique-suisse-sardona|469:92",
+  "src": "suisse-autriche.json#23",
+  "n": "Haut lieu tectonique suisse Sardona",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Schwanden (CH, 11.6 km)",
+   "ref": {
+    "name": "Glarus",
+    "geonameid": 2660594,
+    "y": 47.04057,
+    "x": 9.06804,
+    "km": 15.8,
+    "statedKm": 16
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 9,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2637
+ },
+ {
+  "key": "suisse|soleure|472:75",
+  "src": "suisse-autriche.json#34",
+  "n": "Soleure",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Solothurn (CH, 0.0 km)",
+   "ref": {
+    "name": "Solothurn",
+    "geonameid": 2658564,
+    "y": 47.20791,
+    "x": 7.53714,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 2658564,
+   "qid": "Q68965"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 2635
+ },
+ {
+  "key": "suisse|grimsel|466:83",
+  "src": "suisse-autriche.json#17",
+  "n": "Col du Grimsel",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Meiringen (CH, 21.7 km)",
+   "ref": {
+    "name": "Meiringen",
+    "geonameid": 2659700,
+    "y": 46.72709,
+    "x": 8.1872,
+    "km": 21.7,
+    "statedKm": 22
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 15,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2640
+ },
+ {
+  "key": "suisse|simplon|463:80",
+  "src": "suisse-autriche.json#8",
+  "n": "Col du Simplon",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Trasquera (IT, 14.6 km)",
+   "ref": {
+    "name": "Brig",
+    "geonameid": 2661394,
+    "y": 46.31667,
+    "x": 7.98333,
+    "km": 8.2,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 13,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2642
+ },
+ {
+  "key": "suisse|engelberg|468:84",
+  "src": "suisse-autriche.json#26",
+  "n": "Engelberg",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Engelberg (CH, 0.2 km)",
+   "ref": {
+    "name": "Engelberg",
+    "geonameid": 2660902,
+    "y": 46.82107,
+    "x": 8.40133,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.23
+  },
+  "links": {
+   "geonames": 2660902
+  },
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2638
+ },
+ {
+  "key": "suisse|etang-gruere|472:71",
+  "src": "suisse-autriche.json#37",
+  "n": "Étang de la Gruère",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tramelan (CH, 4.3 km)",
+   "ref": {
+    "name": "Saignelégier",
+    "geonameid": 2658882,
+    "y": 47.25619,
+    "x": 6.99648,
+    "km": 4.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2643
+ },
+ {
+  "key": "suisse|lausanne|465:66",
+  "src": "suisse-autriche.json#1",
+  "n": "Lausanne",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lausanne (CH, 0.8 km)",
+   "ref": {
+    "name": "Lausanne",
+    "geonameid": 2659994,
+    "y": 46.516,
+    "x": 6.63282,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.76
+  },
+  "links": {
+   "geonames": 2659994,
+   "qid": "Q807"
+  },
+  "score": {
+   "tour": 18,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2639
+ },
+ {
+  "key": "suisse|santis|472:93",
+  "src": "suisse-autriche.json#51",
+  "n": "Säntis",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Wildhaus (CH, 4.9 km)",
+   "ref": {
+    "name": "Urnäsch",
+    "geonameid": 2658223,
+    "y": 47.31669,
+    "x": 9.2795,
+    "km": 8.9,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 11,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2641
+ },
+ {
+  "key": "suisse|augusta-raurica|475:77",
+  "src": "suisse-autriche.json#33",
+  "n": "Augusta Raurica",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kaiseraugst (CH, 0.7 km)",
+   "ref": {
+    "name": "Kaiseraugst",
+    "geonameid": 2660204,
+    "y": 47.53966,
+    "x": 7.72605,
+    "km": 0.7,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2645
+ },
+ {
+  "key": "suisse|susten|467:84",
+  "src": "suisse-autriche.json#18",
+  "n": "Col du Susten",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Engelberg (CH, 10.7 km)",
+   "ref": {
+    "name": "Meiringen",
+    "geonameid": 2659700,
+    "y": 46.72709,
+    "x": 8.1872,
+    "km": 19.8,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 15,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2647
+ },
+ {
+  "key": "suisse|chaux-fonds|471:68",
+  "src": "suisse-autriche.json#39",
+  "n": "La Chaux-de-Fonds",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "La Chaux-de-Fonds (CH, 0.1 km)",
+   "ref": {
+    "name": "La Chaux-de-Fonds",
+    "geonameid": 2660076,
+    "y": 47.09993,
+    "x": 6.82586,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 2660076
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 9,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2646
+ },
+ {
+  "key": "suisse|zurich|474:85",
+  "src": "suisse-autriche.json#43",
+  "n": "Zurich",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zürich (Kreis 1) / Rathaus (CH, 0.2 km)",
+   "ref": {
+    "name": "Zürich",
+    "geonameid": 2657896,
+    "y": 47.36667,
+    "x": 8.55,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.79
+  },
+  "links": {
+   "geonames": 2657896,
+   "qid": "Q72"
+  },
+  "score": {
+   "tour": 19,
+   "van": 6,
+   "sing": 9,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2644
+ },
+ {
+  "key": "suisse|abbatiale-romainmotier|467:65",
+  "src": "suisse-autriche.json#4",
+  "n": "Abbatiale de Romainmôtier",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Les Clées (CH, 4.3 km)",
+   "ref": {
+    "name": "Orbe",
+    "geonameid": 2659289,
+    "y": 46.72504,
+    "x": 6.53069,
+    "km": 6.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2649
+ },
+ {
+  "key": "suisse|barrage-grande-dixence|461:74",
+  "src": "suisse-autriche.json#10",
+  "n": "Barrage de la Grande Dixence",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Evolène (CH, 7.9 km)",
+   "ref": {
+    "name": "Sion",
+    "geonameid": null,
+    "y": 46.239003,
+    "x": 7.354,
+    "km": 18,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 13,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2648
+ },
+ {
+  "key": "suisse|ruinaulta|468:93",
+  "src": "suisse-autriche.json#56",
+  "n": "Ruinaulta",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Flims (CH, 2.4 km)",
+   "ref": {
+    "name": "Flims",
+    "geonameid": 2660757,
+    "y": 46.83705,
+    "x": 9.28458,
+    "km": 2.4,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2650
+ },
+ {
+  "key": "suisse|loeche-bains|464:76",
+  "src": "suisse-autriche.json#7",
+  "n": "Loèche-les-Bains",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Leukerbad (CH, 0.0 km)",
+   "ref": {
+    "name": "Leuk",
+    "geonameid": 2659908,
+    "y": 46.31736,
+    "x": 7.63412,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 2659907
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2651
+ },
+ {
+  "key": "suisse|pilatus|470:83",
+  "src": "suisse-autriche.json#27",
+  "n": "Pilatus",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hergiswil (CH, 4.2 km)",
+   "ref": {
+    "name": "Alpnach",
+    "geonameid": 2661789,
+    "y": 46.94227,
+    "x": 8.2718,
+    "km": 4.3,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2653
+ },
+ {
+  "key": "suisse|schaffhouse|477:86",
+  "src": "suisse-autriche.json#45",
+  "n": "Schaffhouse",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Schaffhausen (CH, 0.2 km)",
+   "ref": {
+    "name": "Schaffhausen",
+    "geonameid": 2658761,
+    "y": 47.69732,
+    "x": 8.63493,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.23
+  },
+  "links": {
+   "geonames": 2658761,
+   "qid": "Q9009"
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2652
+ },
+ {
+  "key": "suisse|walensee|471:92",
+  "src": "suisse-autriche.json#48",
+  "n": "Walensee",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Quarten (CH, 3.6 km)",
+   "ref": {
+    "name": "Walenstadt",
+    "geonameid": 2658061,
+    "y": 47.12411,
+    "x": 9.31194,
+    "km": 8.5,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2654
+ },
+ {
+  "key": "suisse|avenches|469:70",
+  "src": "suisse-autriche.json#3",
+  "n": "Avenches",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Avenches (CH, 0.1 km)",
+   "ref": {
+    "name": "Avenches",
+    "geonameid": 2661661,
+    "y": 46.88004,
+    "x": 7.04071,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2655
+ },
+ {
+  "key": "suisse|arenenberg|477:91",
+  "src": "suisse-autriche.json#46",
+  "n": "Château d'Arenenberg",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ermatingen (CH, 1.7 km)",
+   "ref": {
+    "name": "Ermatingen",
+    "geonameid": 2660869,
+    "y": 47.67057,
+    "x": 9.08573,
+    "km": 1.7,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2661
+ },
+ {
+  "key": "suisse|grandson|468:66",
+  "src": "suisse-autriche.json#2",
+  "n": "Château de Grandson",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Grandson (CH, 0.0 km)",
+   "ref": {
+    "name": "Grandson",
+    "geonameid": 2660529,
+    "y": 46.80946,
+    "x": 6.646,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2658
+ },
+ {
+  "key": "suisse|habsbourg|475:82",
+  "src": "suisse-autriche.json#30",
+  "n": "Château de Habsbourg",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Schinznach Bad (CH, 1.8 km)",
+   "ref": {
+    "name": "Brugg",
+    "geonameid": 2661374,
+    "y": 47.48096,
+    "x": 8.20869,
+    "km": 2.8,
+    "statedKm": 3
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2660
+ },
+ {
+  "key": "suisse|tarasp|468:103",
+  "src": "suisse-autriche.json#54",
+  "n": "Château de Tarasp",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Scuol (CH, 3.5 km)",
+   "ref": {
+    "name": "Scuol",
+    "geonameid": 2658660,
+    "y": 46.79671,
+    "x": 10.29804,
+    "km": 3.5,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2656
+ },
+ {
+  "key": "suisse|guarda|468:102",
+  "src": "suisse-autriche.json#53",
+  "n": "Guarda",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zernez (CH, 9.7 km)",
+   "ref": {
+    "name": "Scuol",
+    "geonameid": 2658660,
+    "y": 46.79671,
+    "x": 10.29804,
+    "km": 11.4,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2657
+ },
+ {
+  "key": "suisse|klontalersee|470:90",
+  "src": "suisse-autriche.json#22",
+  "n": "Klöntalersee",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vorderthal (CH, 12.1 km)",
+   "ref": {
+    "name": "Glarus",
+    "geonameid": 2660594,
+    "y": 47.04057,
+    "x": 9.06804,
+    "km": 6.8,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 12,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2659
+ },
+ {
+  "key": "suisse|maurice|462:70",
+  "src": "suisse-autriche.json#9",
+  "n": "Abbaye de Saint-Maurice",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Saint-Maurice (CH, 0.0 km)",
+   "ref": {
+    "name": "Saint-Maurice",
+    "geonameid": 2658864,
+    "y": 46.21826,
+    "x": 7.0032,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2662
+ },
+ {
+  "key": "suisse|locarno|462:88",
+  "src": "suisse-autriche.json#60",
+  "n": "Locarno",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Locarno (CH, 0.4 km)",
+   "ref": {
+    "name": "Locarno",
+    "geonameid": 2659869,
+    "y": 46.17086,
+    "x": 8.79953,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.36
+  },
+  "links": {
+   "geonames": 2659869
+  },
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2663
+ },
+ {
+  "key": "suisse|soglio|463:95",
+  "src": "suisse-autriche.json#58",
+  "n": "Soglio",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Chiavenna » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Promontogno (CH, 1.5 km)",
+   "ref": {
+    "name": "Promontogno",
+    "geonameid": 2659133,
+    "y": 46.33939,
+    "x": 9.55759,
+    "km": 1.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 1,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2665
+ },
+ {
+  "key": "suisse|thoune|468:76",
+  "src": "suisse-autriche.json#16",
+  "n": "Thoune",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Thun (CH, 1.1 km)",
+   "ref": {
+    "name": "Thun",
+    "geonameid": 2658377,
+    "y": 46.75118,
+    "x": 7.62166,
+    "km": 1.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.1
+  },
+  "links": {
+   "geonames": 2658377
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2664
+ },
+ {
+  "key": "suisse|fribourg|468:72",
+  "src": "suisse-autriche.json#41",
+  "n": "Fribourg",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Fribourg (CH, 0.9 km)",
+   "ref": {
+    "name": "Fribourg",
+    "geonameid": 2660718,
+    "y": 46.80237,
+    "x": 7.15128,
+    "km": 0.9,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.93
+  },
+  "links": {
+   "geonames": 2660718,
+   "qid": "Q36378"
+  },
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "suisse|grimentz|462:76",
+  "src": "suisse-autriche.json#12",
+  "n": "Grimentz",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chalais (CH, 11.0 km)",
+   "ref": {
+    "name": "Sierre",
+    "geonameid": 2658606,
+    "y": 46.29192,
+    "x": 7.53559,
+    "km": 12.9,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "suisse|lenzbourg|474:82",
+  "src": "suisse-autriche.json#29",
+  "n": "Château de Lenzbourg",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lenzburg (CH, 0.6 km)",
+   "ref": {
+    "name": "Lenzburg",
+    "geonameid": 2659952,
+    "y": 47.38853,
+    "x": 8.17503,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "suisse|coire|469:95",
+  "src": "suisse-autriche.json#57",
+  "n": "Coire",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Chur (CH, 0.1 km)",
+   "ref": {
+    "name": "Chur",
+    "geonameid": 2661169,
+    "y": 46.84986,
+    "x": 9.53287,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.12
+  },
+  "links": {
+   "geonames": 2661169,
+   "qid": "Q69007"
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "suisse|neuchatel|470:69",
+  "src": "suisse-autriche.json#40",
+  "n": "Neuchâtel",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Neuchâtel (CH, 0.1 km)",
+   "ref": {
+    "name": "Neuchâtel",
+    "geonameid": 2659496,
+    "y": 46.99179,
+    "x": 6.931,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 2659496,
+   "qid": "Q69345"
+  },
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "suisse|porrentruy|474:71",
+  "src": "suisse-autriche.json#36",
+  "n": "Porrentruy",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Porrentruy (CH, 0.2 km)",
+   "ref": {
+    "name": "Porrentruy",
+    "geonameid": 2659171,
+    "y": 47.41728,
+    "x": 7.07573,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.22
+  },
+  "links": {
+   "geonames": 2659171
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "suisse|pyramides-euseigne|462:74",
+  "src": "suisse-autriche.json#11",
+  "n": "Pyramides d'Euseigne",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hérémence (CH, 1.7 km)",
+   "ref": {
+    "name": "Sion",
+    "geonameid": null,
+    "y": 46.239003,
+    "x": 7.354,
+    "km": 9.1,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 64
+ },
+ {
+  "key": "suisse|muri|473:83",
+  "src": "suisse-autriche.json#31",
+  "n": "Abbaye de Muri",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Muri (CH, 0.0 km)",
+   "ref": {
+    "name": "Muri",
+    "geonameid": 2659531,
+    "y": 47.27428,
+    "x": 8.33854,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suisse|winterthour|475:87",
+  "src": "suisse-autriche.json#44",
+  "n": "Winterthour",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stadt Winterthur (Kreis 1) / Altstadt (CH, 0.3 km)",
+   "ref": {
+    "name": "Winterthur",
+    "geonameid": 2657970,
+    "y": 47.50564,
+    "x": 8.72413,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.66
+  },
+  "links": {
+   "geonames": 2657970
+  },
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 62
+ },
+ {
+  "key": "suisse|joux|466:63",
+  "src": "suisse-autriche.json#5",
+  "n": "Lac de Joux",
+  "p": "Suisse",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "localité « Le Sentier » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "L'Abbaye (CH, 2.5 km)",
+   "ref": {
+    "name": "L'Abbaye",
+    "geonameid": 2660080,
+    "y": 46.64966,
+    "x": 6.31907,
+    "km": 2.5,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 9,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 61
+ },
+ {
+  "key": "suisse|morat|469:71",
+  "src": "suisse-autriche.json#42",
+  "n": "Morat",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Murten » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Murten/Morat (CH, 0.0 km)",
+   "ref": {
+    "name": "Murten/Morat",
+    "geonameid": 2659529,
+    "y": 46.92827,
+    "x": 7.11715,
+    "km": 0,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 60
+ },
+ {
+  "key": "suisse|werdenberg|472:95",
+  "src": "suisse-autriche.json#50",
+  "n": "Werdenberg",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Buchs (CH, 1.1 km)",
+   "ref": {
+    "name": "Buchs",
+    "geonameid": 2661349,
+    "y": 47.16743,
+    "x": 9.47794,
+    "km": 1.1,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "suisse|zoug|472:85",
+  "src": "suisse-autriche.json#28",
+  "n": "Zoug",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zug (CH, 0.7 km)",
+   "ref": {
+    "name": "Zug",
+    "geonameid": 2657908,
+    "y": 47.17242,
+    "x": 8.51745,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.71
+  },
+  "links": {
+   "geonames": 2657908,
+   "qid": "Q68144"
+  },
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 7,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ },
+ {
+  "key": "suisse|chartreuse-ittingen|476:89",
+  "src": "suisse-autriche.json#47",
+  "n": "Chartreuse d'Ittingen",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hüttwilen (CH, 2.7 km)",
+   "ref": {
+    "name": "Frauenfeld",
+    "geonameid": 2660727,
+    "y": 47.55776,
+    "x": 8.89893,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "suisse|rapperswil|472:88",
+  "src": "suisse-autriche.json#49",
+  "n": "Rapperswil",
+  "p": "Suisse",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "localité « Rapperswil-Jona » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rapperswil (CH, 0.3 km)",
+   "ref": {
+    "name": "Rapperswil",
+    "geonameid": 2659099,
+    "y": 47.22557,
+    "x": 8.82228,
+    "km": 0.3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel",
+   "snapped": 0.32
+  },
+  "links": {
+   "geonames": 2659099
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "suisse|prairie-grutli|470:86",
+  "src": "suisse-autriche.json#21",
+  "n": "Prairie du Grütli",
+  "p": "Suisse",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Brunnen » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ingenbohl (CH, 3.8 km)",
+   "ref": {
+    "name": "Ingenbohl",
+    "geonameid": 2660261,
+    "y": 46.9988,
+    "x": 8.61529,
+    "km": 3.8,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 12,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ }
+]

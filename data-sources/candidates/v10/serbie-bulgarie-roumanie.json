@@ -1,0 +1,3856 @@
+[
+ {
+  "n": "Forteresse de Golubac",
+  "alt": [
+   "Golubački grad",
+   "Golubac"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Serbie orientale (Braničevo)",
+  "y": 44.6611,
+  "x": 21.6753,
+  "pt": "forteresse",
+  "near": "Veliko Gradište",
+  "nearKm": 17,
+  "d": "Forteresse médiévale hérissée de tours, dressée sur un rocher à l'entrée des gorges du Danube, là où le fleuve se resserre. Restaurée, elle est l'une des silhouettes les plus photogéniques de Serbie.",
+  "v": "Les remparts et les tours · la vue sur le Danube à l'entrée des Portes de Fer · la route du Danube vers Donji Milanovac",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 18,
+   "van": 13,
+   "sing": 12,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Lepenski Vir",
+  "alt": [
+   "Лепенски Вир"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Serbie orientale (Bor)",
+  "y": 44.5575,
+  "x": 22.0261,
+  "pt": "musée et site",
+  "near": "Donji Milanovac",
+  "nearKm": 14,
+  "d": "Site mésolithique majeur au bord du Danube, avec des maisons trapézoïdales et des sculptures en grès à visage de poisson parmi les plus anciennes d'Europe, abrité sous un toit protecteur.",
+  "v": "Les sculptures anthropomorphes · les fondations des habitations · le panorama sur le Danube",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 14,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Forteresse de Smederevo",
+  "alt": [
+   "Smederevska tvrđava"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Serbie centrale (Podunavlje)",
+  "y": 44.67,
+  "x": 20.931,
+  "pt": "forteresse",
+  "near": "Smederevo",
+  "nearKm": 1,
+  "d": "Immense forteresse triangulaire du XVe siècle, dernière capitale de la Serbie médiévale, flanquée de tours le long du Danube et de la Jezava. L'une des plus grandes forteresses de plaine d'Europe.",
+  "v": "Le château intérieur du despote Đurađ Branković · le chemin de ronde · les berges du Danube",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Viminacium",
+  "alt": [
+   "Виминацијум"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Serbie orientale (Braničevo)",
+  "y": 44.735,
+  "x": 21.214,
+  "pt": "parc archéologique",
+  "near": "Kostolac",
+  "nearKm": 4,
+  "d": "Vestiges d'une capitale de la province romaine de Mésie supérieure et camp légionnaire : thermes, amphithéâtre, mausolée et nécropoles aux fresques, mis en valeur dans un parc archéologique.",
+  "v": "L'amphithéâtre · les thermes · le mausolée et les tombes peintes · les ossements de mammouth",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Sremski Karlovci",
+  "alt": [
+   "Карловци"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Petite ville historique",
+  "region": "Voïvodine (Syrmie)",
+  "y": 45.203,
+  "x": 19.934,
+  "pt": "place centrale",
+  "near": "Sremski Karlovci",
+  "nearKm": 0,
+  "d": "Petite ville baroque au pied de la Fruška Gora, ancien siège du patriarcat serbe, avec cathédrale, séminaire et fontaine des Quatre Lions. Vignobles réputés pour le bermet.",
+  "v": "La cathédrale Saint-Nicolas · la fontaine des Quatre Lions · la chapelle de la Paix · les caves à vin",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monastère de Krušedol",
+  "alt": [
+   "Manastir Krušedol"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Voïvodine (Fruška Gora)",
+  "y": 45.1181,
+  "x": 19.9414,
+  "pt": "monastère",
+  "near": "Irig",
+  "nearKm": 7,
+  "d": "Monastère du début du XVIe siècle, le plus important des monastères de la Fruška Gora, nécropole de la dynastie Branković, aux intérieurs entièrement couverts de fresques baroques.",
+  "v": "L'église et ses fresques · l'iconostase · les sentiers forestiers de la Fruška Gora",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Subotica",
+  "alt": [
+   "Szabadka",
+   "Суботица"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Ville Art nouveau",
+  "region": "Voïvodine (Bačka du Nord)",
+  "y": 46.1,
+  "x": 19.665,
+  "pt": "centre-ville",
+  "near": "Subotica",
+  "nearKm": 0,
+  "d": "Ville frontalière hongroise et serbe connue pour son architecture Sécession hongroise : hôtel de ville aux tuiles Zsolnay, synagogue Art nouveau et palais Raichle.",
+  "v": "L'hôtel de ville et sa tour · la synagogue · le palais Raichle · la rue piétonne Korzo",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Lac de Palić",
+  "alt": [
+   "Palićko jezero",
+   "Palics"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Lac et station thermale",
+  "region": "Voïvodine (Bačka du Nord)",
+  "y": 46.103,
+  "x": 19.762,
+  "pt": "rive du lac",
+  "near": "Subotica",
+  "nearKm": 7,
+  "d": "Lac de plaine bordé d'une station Belle Époque aux pavillons de style Sécession hongroise, parcs et promenade lacustre, à l'est de Subotica.",
+  "v": "Le château d'eau et la grande terrasse · la promenade du lac · le parc et les villas",
+  "s": "mai-sept",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Sombor",
+  "alt": [
+   "Сомбор",
+   "Zombor"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Voïvodine (Bačka de l'Ouest)",
+  "y": 45.774,
+  "x": 19.112,
+  "pt": "centre-ville",
+  "near": "Sombor",
+  "nearKm": 0,
+  "d": "Ville verte de Bačka aux larges avenues plantées d'arbres, au centre baroque et austro-hongrois, siège du comitat de Bács-Bodrog dont le palais domine la ville.",
+  "v": "Le palais du comitat et la grande toile de la bataille de Senta · la cathédrale · la rue piétonne",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Zrenjanin",
+  "alt": [
+   "Зрењанин",
+   "Nagybecskerek"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Voïvodine (Banat central)",
+  "y": 45.381,
+  "x": 20.391,
+  "pt": "place de la Liberté",
+  "near": "Zrenjanin",
+  "nearKm": 0,
+  "d": "Principale ville du Banat serbe, au centre baroque et éclectique coloré autour de la place de la Liberté, traversée par le vieux Begej et son petit pont.",
+  "v": "La place de la Liberté et le palais du comitat · le petit pont sur le Begej · la cathédrale",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Sables de Deliblato",
+  "alt": [
+   "Deliblatska peščara",
+   "Делиблатска пешчара"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Réserve naturelle (dunes)",
+  "region": "Voïvodine (Banat du Sud)",
+  "y": 44.92,
+  "x": 21.05,
+  "pt": "centre du massif sableux",
+  "near": "Kovin",
+  "nearKm": 20,
+  "d": "La plus grande étendue de sable continental d'Europe, ancien désert de dunes fixées par la steppe et les forêts, refuge d'une faune de steppe pannonienne.",
+  "v": "Les dunes boisées et les steppes · l'observation des oiseaux de proie · les sentiers depuis Deliblato",
+  "s": "avr-juin, sept-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Vršac",
+  "alt": [
+   "Вршац",
+   "Versec"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Ville et vignobles",
+  "region": "Voïvodine (Banat du Sud)",
+  "y": 45.117,
+  "x": 21.303,
+  "pt": "centre-ville",
+  "near": "Vršac",
+  "nearKm": 0,
+  "d": "Ville baroque du Banat au pied des collines viticoles, dominée par la tour médiévale de la Kula, au cœur d'un des plus anciens vignobles de Serbie.",
+  "v": "La tour de Vršac et le panorama sur la plaine · la cathédrale Saint-Gérard · les caves du vignoble",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Mokra Gora — Šarganska osmica",
+  "alt": [
+   "Šargan Eight",
+   "Šarganska osmica",
+   "Drvengrad"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Chemin de fer historique",
+  "region": "Serbie occidentale (Zlatibor)",
+  "y": 43.792,
+  "x": 19.505,
+  "pt": "gare de Mokra Gora",
+  "near": "Užice",
+  "nearKm": 29,
+  "d": "Ligne à voie étroite restaurée dont le tracé en huit, avec tunnels et viaducs, franchit le col de Šargan. Tout près, le village de bois Drvengrad construit par Emir Kusturica.",
+  "v": "Le train touristique sur la boucle en huit · le village de Drvengrad (Küstendorf) · les paysages du massif de Tara",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 13,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Méandres de l'Uvac",
+  "alt": [
+   "Uvac",
+   "Meandri Uvca"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Canyon à méandres",
+  "region": "Serbie occidentale (Zlatibor)",
+  "y": 43.38,
+  "x": 19.95,
+  "pt": "belvédère de Molitva",
+  "near": "Sjenica",
+  "nearKm": 12,
+  "d": "Réserve naturelle où la rivière Uvac dessine des méandres encaissés dans un plateau calcaire, territoire du vautour fauve, observables depuis le belvédère de Molitva.",
+  "v": "Le belvédère sur les méandres · les vautours fauves · la grotte d'Ušak en bateau",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 14,
+   "val": 14,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Zlatibor",
+  "alt": [
+   "Златибор"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Serbie occidentale (Zlatibor)",
+  "y": 43.728,
+  "x": 19.696,
+  "pt": "lac de la station",
+  "near": "Čajetina",
+  "nearKm": 3,
+  "d": "Plateau de moyenne montagne couvert de prairies et de pins, la station la plus fréquentée de Serbie et une bonne base pour Sirogojno, Mokra Gora et Tara.",
+  "v": "Le lac et la promenade de la station · la télécabine Gold Gondola · les randonnées sur le plateau",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 7,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Grotte de Stopića",
+  "alt": [
+   "Stopića pećina"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Grotte visitable",
+  "region": "Serbie occidentale (Zlatibor)",
+  "y": 43.717,
+  "x": 19.825,
+  "pt": "entrée de la grotte",
+  "near": "Čajetina",
+  "nearKm": 10,
+  "d": "Grotte de la région de Zlatibor dont l'entrée monumentale abrite une série de bassins de travertin en gradins, alimentés par un ruisseau souterrain.",
+  "v": "Les bassins de travertin (bigrovi) · la grande salle d'entrée · la cascade intérieure",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Sirogojno",
+  "alt": [
+   "Musée Staro selo",
+   "Staro selo Sirogojno"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Écomusée en plein air",
+  "region": "Serbie occidentale (Zlatibor)",
+  "y": 43.686,
+  "x": 19.882,
+  "pt": "musée en plein air",
+  "near": "Čajetina",
+  "nearKm": 15,
+  "d": "Musée en plein air « Staro selo » qui réunit des fermes, maisons et dépendances en bois de la région de Zlatibor, sur un versant de montagne, à côté d'une église en bois.",
+  "v": "Les maisons traditionnelles en rondins · l'église Saint-Pierre-et-Paul · les tricots de laine de Sirogojno",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Gorge d'Ovčar-Kablar",
+  "alt": [
+   "Ovčarsko-kablarska klisura"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Gorge à méandres",
+  "region": "Serbie centrale (Morava)",
+  "y": 43.901,
+  "x": 20.2,
+  "pt": "Ovčar Banja",
+  "near": "Čačak",
+  "nearKm": 12,
+  "d": "Gorge boisée où la Morava occidentale serpente entre les monts Ovčar et Kablar, surnommée le « Mont Athos serbe » pour ses dix monastères médiévaux.",
+  "v": "Les monastères de Blagoveštenje et de Nikolje · le belvédère de Kablar sur les méandres · Ovčar Banja",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Žiča",
+  "alt": [
+   "Manastir Žiča"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Serbie centrale (Raška)",
+  "y": 43.7124,
+  "x": 20.6464,
+  "pt": "monastère",
+  "near": "Kraljevo",
+  "nearKm": 4,
+  "d": "Monastère du XIIIe siècle fondé par Stefan le Premier-Couronné, premier siège de l'archevêché serbe et lieu de couronnement des rois, reconnaissable à ses murs peints en rouge.",
+  "v": "L'église de l'Ascension et ses fresques · la tour d'entrée · le cadre de la vallée de l'Ibar",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monastère de Ravanica",
+  "alt": [
+   "Manastir Ravanica"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Serbie centrale (Pomoravlje)",
+  "y": 43.9627,
+  "x": 21.5639,
+  "pt": "monastère",
+  "near": "Ćuprija",
+  "nearKm": 16,
+  "d": "Fondation du prince Lazar au XIVe siècle, premier grand exemple de l'école morave aux façades sculptées de rosaces, qui abrite les reliques du prince tombé à Kosovo Polje.",
+  "v": "L'église et son décor de façade · les fresques · les ruines de l'enceinte fortifiée",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Manasija",
+  "alt": [
+   "Resava",
+   "Manastir Manasija"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Monastère fortifié",
+  "region": "Serbie centrale (Pomoravlje)",
+  "y": 44.0953,
+  "x": 21.4644,
+  "pt": "monastère",
+  "near": "Despotovac",
+  "nearKm": 2,
+  "d": "Monastère du XVe siècle enfermé dans une puissante enceinte à tours, fondé par le despote Stefan Lazarević, centre de l'école de copistes de Resava et chef-d'œuvre de fresques moraves.",
+  "v": "L'enceinte et le donjon du despote · les fresques des guerriers saints · le réfectoire",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Grotte de Resava",
+  "alt": [
+   "Resavska pećina"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Grotte visitable",
+  "region": "Serbie centrale (Pomoravlje)",
+  "y": 44.07,
+  "x": 21.63,
+  "pt": "entrée de la grotte",
+  "near": "Despotovac",
+  "nearKm": 15,
+  "d": "L'une des plus anciennes et plus belles grottes aménagées de Serbie, aux salles ornées de stalactites, draperies et coulées colorées, dans le massif karstique de Beljanica.",
+  "v": "La salle aux draperies · les concrétions colorées · la cascade de Lisine à proximité",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Niš",
+  "alt": [
+   "Ниш"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Serbie du Sud (Nišava)",
+  "y": 43.321,
+  "x": 21.895,
+  "pt": "forteresse",
+  "near": "Niš",
+  "nearKm": 0,
+  "d": "Troisième ville de Serbie et ville natale de Constantin le Grand, avec forteresse ottomane au bord de la Nišava, tour des Crânes et villa impériale de Mediana.",
+  "v": "La forteresse et ses portes · la tour des Crânes (Ćele kula) · le site romain de Mediana · le camp de Crveni Krst",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Gorge de Sićevo",
+  "alt": [
+   "Sićevačka klisura"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Gorge",
+  "region": "Serbie du Sud (Nišava)",
+  "y": 43.334,
+  "x": 22.079,
+  "pt": "village de Sićevo",
+  "near": "Niš",
+  "nearKm": 15,
+  "d": "Gorge calcaire de la Nišava entre Niš et Bela Palanka, aux parois abruptes et belvédères, que suit l'ancienne route vers Sofia.",
+  "v": "Le belvédère sur la gorge · les monastères de la gorge · la route le long de la Nišava",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Pirot",
+  "alt": [
+   "Пирот"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Serbie du Sud (Pirot)",
+  "y": 43.153,
+  "x": 22.586,
+  "pt": "forteresse Momčilov grad",
+  "near": "Pirot",
+  "nearKm": 0,
+  "d": "Ville de la Nišava au pied de la Stara Planina, connue pour ses kilims tissés et sa forteresse médiévale, bonne base pour le parc de Stara Planina.",
+  "v": "La forteresse Momčilov grad · le musée du Ponišavlje (maison Hristić) · les kilims de Pirot",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Đavolja Varoš",
+  "alt": [
+   "Ville du Diable",
+   "Devil's Town",
+   "Ђавоља варош"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Formation géologique",
+  "region": "Serbie du Sud (Toplica)",
+  "y": 42.9956,
+  "x": 21.4072,
+  "pt": "cheminées de fée",
+  "near": "Kuršumlija",
+  "nearKm": 20,
+  "d": "Ensemble de plus de deux cents cheminées de fée coiffées de blocs de pierre, sculptées par l'érosion dans des roches volcaniques, près de sources très minéralisées et rougeâtres.",
+  "v": "Les cheminées de fée · les sources « Đavolja voda » · l'église Sainte-Petka",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 11,
+   "sing": 14,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac de Vlasina",
+  "alt": [
+   "Vlasinsko jezero"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Lac de montagne",
+  "region": "Serbie du Sud (Pčinja)",
+  "y": 42.7,
+  "x": 22.33,
+  "pt": "rive du lac",
+  "near": "Surdulica",
+  "nearKm": 13,
+  "d": "Lac d'altitude au milieu des tourbières, des pâturages et des forêts du plateau de Vlasina, connu pour ses îles flottantes de tourbe.",
+  "v": "Les îles flottantes · la randonnée autour du lac · la baignade en été",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Monastère de Prohor Pčinjski",
+  "alt": [
+   "Prohor Pčinjski"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Serbie du Sud (Pčinja)",
+  "y": 42.3325,
+  "x": 21.8989,
+  "pt": "monastère",
+  "near": "Bujanovac",
+  "nearKm": 18,
+  "d": "Monastère médiéval de la vallée de la Pčinja, fondé au XIe siècle sur le lieu de vie de l'ermite Prochore de Pčinja, lieu de pèlerinage majeur du sud de la Serbie.",
+  "v": "L'église et ses fresques · le cadre boisé de la vallée de la Pčinja",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Mont Rtanj",
+  "alt": [
+   "Rtanj",
+   "Šiljak"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Montagne",
+  "region": "Serbie orientale (Zaječar)",
+  "y": 43.776,
+  "x": 21.893,
+  "pt": "sommet Šiljak",
+  "near": "Boljevac",
+  "nearKm": 8,
+  "d": "Montagne calcaire isolée à la silhouette pyramidale parfaite, entourée de légendes, dont le sommet Šiljak offre une vue sur tout l'est de la Serbie.",
+  "v": "L'ascension du Šiljak et la chapelle ruinée · le thé de montagne (rtanjski čaj) · les prairies du versant",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Sokobanja",
+  "alt": [
+   "Сокобања",
+   "Sokograd"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Station thermale",
+  "region": "Serbie orientale (Zaječar)",
+  "y": 43.643,
+  "x": 21.869,
+  "pt": "centre de la station",
+  "near": "Sokobanja",
+  "nearKm": 0,
+  "d": "Station thermale entre les monts Rtanj et Ozren, avec bain turc du XVe siècle et ruines de la forteresse de Sokograd au-dessus de la gorge de la Moravica.",
+  "v": "La forteresse de Sokograd · le hammam turc · la cascade de Ripaljka · le lac de Bovan",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Vrnjačka Banja",
+  "alt": [
+   "Врњачка Бања"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Station thermale",
+  "region": "Serbie centrale (Raška)",
+  "y": 43.623,
+  "x": 20.896,
+  "pt": "parc thermal",
+  "near": "Vrnjačka Banja",
+  "nearKm": 0,
+  "d": "La plus célèbre station thermale de Serbie, aux parcs et villas du XIXe siècle autour de ses sources, bonne base entre Kraljevo, Kruševac et le Kopaonik.",
+  "v": "Le parc et la source chaude · le château Belimarković · la promenade le long de la rivière",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monastère de Mileševa",
+  "alt": [
+   "Manastir Mileševa"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Serbie occidentale (Zlatibor)",
+  "y": 43.35,
+  "x": 19.722,
+  "pt": "monastère",
+  "near": "Prijepolje",
+  "nearKm": 7,
+  "d": "Monastère du XIIIe siècle célèbre pour la fresque de l'« Ange blanc », chef-d'œuvre de la peinture byzantine, et pour avoir abrité les reliques de saint Sava.",
+  "v": "La fresque de l'Ange blanc · les portraits des rois Nemanjić · la forteresse de Mileševac en amont",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Canyon de Lazar",
+  "alt": [
+   "Lazarev kanjon",
+   "Lazareva pećina"
+  ],
+  "p": "Serbie",
+  "c": "nature",
+  "q": "Canyon et grotte",
+  "region": "Serbie orientale (Bor)",
+  "y": 44.03,
+  "x": 21.99,
+  "pt": "grotte de Lazar",
+  "near": "Bor",
+  "nearKm": 10,
+  "d": "Canyon calcaire étroit et profond près du village de Zlot, à l'entrée duquel s'ouvre la grotte de Lazar, l'une des plus longues grottes explorées de Serbie.",
+  "v": "La grotte de Lazar · le sentier au fond du canyon · les belvédères sur les parois",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Forteresse de Ram",
+  "alt": [
+   "Ramska tvrđava"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Forteresse ottomane",
+  "region": "Serbie orientale (Braničevo)",
+  "y": 44.8122,
+  "x": 21.3372,
+  "pt": "forteresse",
+  "near": "Veliko Gradište",
+  "nearKm": 15,
+  "d": "Petite forteresse ottomane de la fin du XVe siècle perchée sur la rive du Danube, face au fleuve très large à cet endroit, restaurée récemment.",
+  "v": "Les tours et la cour intérieure · la vue sur le Danube · le caravansérail voisin",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Oplenac",
+  "alt": [
+   "Église Saint-Georges d'Oplenac",
+   "Topola"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Mausolée royal",
+  "region": "Serbie centrale (Šumadija)",
+  "y": 44.2467,
+  "x": 20.6864,
+  "pt": "église Saint-Georges",
+  "near": "Topola",
+  "nearKm": 1,
+  "d": "Mausolée de la dynastie Karađorđević sur la colline d'Oplenac, église en marbre blanc dont l'intérieur est couvert de mosaïques reproduisant les fresques des monastères serbes.",
+  "v": "Les mosaïques de l'église · la crypte royale · la maison du roi Pierre et les vignes",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Forteresse de Maglič",
+  "alt": [
+   "Maglič",
+   "Магліч"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Serbie centrale (Raška)",
+  "y": 43.6164,
+  "x": 20.5519,
+  "pt": "forteresse",
+  "near": "Kraljevo",
+  "nearKm": 16,
+  "d": "Forteresse du XIIIe siècle perchée sur un éperon au-dessus d'une boucle de l'Ibar, dans la « vallée des lilas » qui mène à Studenica et au Kopaonik.",
+  "v": "Les tours et le donjon · la vue sur la gorge de l'Ibar",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Forteresse de Bač",
+  "alt": [
+   "Bačka tvrđava",
+   "Bač"
+  ],
+  "p": "Serbie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Voïvodine (Bačka du Sud)",
+  "y": 45.396,
+  "x": 19.228,
+  "pt": "forteresse",
+  "near": "Bač",
+  "nearKm": 1,
+  "d": "Forteresse de plaine du XIVe siècle, la mieux conservée de Voïvodine, autour de laquelle se groupent le monastère franciscain et un hammam ottoman.",
+  "v": "Le donjon et les tours · le monastère franciscain · le monastère orthodoxe de Bođani à proximité",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Novi Pazar",
+  "alt": [
+   "Нови Пазар"
+  ],
+  "p": "Serbie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Serbie (Raška / Sandžak)",
+  "y": 43.137,
+  "x": 20.513,
+  "pt": "centre-ville",
+  "near": "Novi Pazar",
+  "nearKm": 0,
+  "d": "Principale ville du Sandžak, au caractère ottoman marqué (bazar, hammam, mosquée d'Altun-Alem), proche de l'église Saint-Pierre et de Sopoćani.",
+  "v": "La mosquée d'Altun-Alem et le vieux bazar · la forteresse · l'église Saint-Pierre (Petrova crkva)",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Varna",
+  "alt": [
+   "Варна"
+  ],
+  "p": "Bulgarie",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Varna",
+  "y": 43.2141,
+  "x": 27.9147,
+  "pt": "centre-ville",
+  "near": "Varna",
+  "nearKm": 0,
+  "d": "Grande ville balnéaire sur la mer Noire, avec thermes romains, cathédrale de la Dormition et Jardin maritime, dont le musée archéologique expose l'or de la nécropole de Varna.",
+  "v": "L'or de Varna au musée archéologique · les thermes romains · le Jardin maritime et la plage",
+  "s": "avr-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Cap Kaliakra",
+  "alt": [
+   "Nos Kaliakra",
+   "Калиакра"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Cap et falaises",
+  "region": "Dobrich",
+  "y": 43.3617,
+  "x": 28.4656,
+  "pt": "pointe du cap",
+  "near": "Kavarna",
+  "nearKm": 13,
+  "d": "Long promontoire de falaises rouges de plus de 70 m qui s'avance dans la mer Noire, couvert des ruines d'une forteresse médiévale, réserve de steppe littorale.",
+  "v": "Les ruines de la forteresse et la porte · le belvédère au bout du cap · les dauphins et oiseaux marins",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 12,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Balchik",
+  "alt": [
+   "Балчик",
+   "Palais de Balchik"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Palais et jardin botanique",
+  "region": "Dobrich",
+  "y": 43.403,
+  "x": 28.153,
+  "pt": "palais",
+  "near": "Balchik",
+  "nearKm": 1,
+  "d": "Palais d'été de la reine Marie de Roumanie au pied des falaises blanches de Balchik, entouré d'un jardin botanique en terrasses descendant vers la mer.",
+  "v": "Le palais « Nid tranquille » · le jardin botanique et ses cactus · la chapelle Sainte-Marie · le port",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Pobiti Kamani",
+  "alt": [
+   "Forêt de pierres",
+   "Побити камъни"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Formation géologique",
+  "region": "Varna",
+  "y": 43.226,
+  "x": 27.705,
+  "pt": "groupe principal",
+  "near": "Beloslav",
+  "nearKm": 4,
+  "d": "« Forêt de pierres » : centaines de colonnes calcaires naturelles creuses, hautes de plusieurs mètres, plantées dans le sable à l'ouest de Varna.",
+  "v": "Le groupe central de colonnes · le sentier dans les dunes",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monastère d'Aladzha",
+  "alt": [
+   "Aladzha manastir",
+   "Аладжа манастир"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Monastère rupestre",
+  "region": "Varna",
+  "y": 43.278,
+  "x": 28.006,
+  "pt": "monastère",
+  "near": "Varna",
+  "nearKm": 10,
+  "d": "Monastère rupestre médiéval creusé sur plusieurs niveaux dans une falaise calcaire, au milieu de la forêt du parc naturel des Sables d'Or.",
+  "v": "Les cellules et la chapelle taillées dans la roche · les restes de fresques · les catacombes voisines",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Cap Emine",
+  "alt": [
+   "Nos Emine",
+   "Емине"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Cap",
+  "region": "Burgas",
+  "y": 42.703,
+  "x": 27.895,
+  "pt": "pointe du cap",
+  "near": "Obzor",
+  "nearKm": 13,
+  "d": "Cap sauvage où la chaîne du Grand Balkan plonge dans la mer Noire, terminus du sentier de crête Kom–Emine, aux falaises et criques désertes.",
+  "v": "Les falaises et le phare · les ruines de la forteresse d'Emona · les criques au sud du cap",
+  "s": "mai-sept",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 11,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Sozopol",
+  "alt": [
+   "Созопол",
+   "Apollonia"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Vieille ville côtière",
+  "region": "Burgas",
+  "y": 42.417,
+  "x": 27.696,
+  "pt": "vieille ville",
+  "near": "Sozopol",
+  "nearKm": 0,
+  "d": "Ancienne colonie grecque d'Apollonia sur une presqu'île, avec maisons en bois du Renouveau bulgare, remparts restaurés et plages de part et d'autre.",
+  "v": "La vieille ville et ses maisons en bois · les remparts et la tour sud · l'île Saint-Ivan au large · les plages",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Sinemorets et embouchure de la Veleka",
+  "alt": [
+   "Sinemorets",
+   "Veleka",
+   "Синеморец"
+  ],
+  "p": "Bulgarie",
+  "c": "plage",
+  "q": "Village côtier et embouchure",
+  "region": "Burgas (Strandja)",
+  "y": 42.062,
+  "x": 27.976,
+  "pt": "village de Sinemorets",
+  "near": "Tsarevo",
+  "nearKm": 16,
+  "d": "Village au sud du littoral bulgare, dans le parc de Strandja, où la Veleka forme un méandre avant de se jeter dans la mer, séparée par une langue de sable.",
+  "v": "La plage de l'embouchure de la Veleka · la plage de Butamyata · les falaises vers Silistar",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 12,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Réserve de Ropotamo",
+  "alt": [
+   "Ropotamo",
+   "Ропотамо"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Réserve fluviale",
+  "region": "Burgas",
+  "y": 42.325,
+  "x": 27.747,
+  "pt": "embouchure de la Ropotamo",
+  "near": "Primorsko",
+  "nearKm": 7,
+  "d": "Rivière lente bordée de forêts inondables et de nénuphars qui rejoint la mer entre dunes et rochers, dont l'embouchure et la plage d'Arkoutino sont protégées.",
+  "v": "La promenade en bateau sur la rivière · le rocher du Lion · les dunes et la plage d'Arkoutino",
+  "s": "mai-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Yailata",
+  "alt": [
+   "Яйлата",
+   "Kamen Bryag"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Réserve archéologique et falaises",
+  "region": "Dobrich",
+  "y": 43.44,
+  "x": 28.545,
+  "pt": "plateau côtier",
+  "near": "Shabla",
+  "nearKm": 11,
+  "d": "Terrasse côtière au pied de falaises calcaires, avec grottes habitées depuis l'Antiquité, tombes rupestres et forteresse byzantine, au bord de la mer Noire.",
+  "v": "Les tombes et grottes rupestres · la forteresse byzantine · les falaises de Kamen Bryag",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Veliki Preslav",
+  "alt": [
+   "Grand Preslav",
+   "Велики Преслав"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Shumen",
+  "y": 43.15,
+  "x": 26.82,
+  "pt": "réserve archéologique",
+  "near": "Veliki Preslav",
+  "nearKm": 2,
+  "d": "Ruines de la deuxième capitale du Premier Empire bulgare, centre d'un « âge d'or » littéraire au Xe siècle : remparts, palais et église ronde dite Église d'or.",
+  "v": "L'Église ronde · les remparts et la porte sud · le musée et l'icône en céramique de saint Théodore",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monument des Fondateurs de l'État bulgare",
+  "alt": [
+   "Shumen",
+   "Създатели на българската държава"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Monument",
+  "region": "Shumen",
+  "y": 43.269,
+  "x": 26.924,
+  "pt": "monument",
+  "near": "Shumen",
+  "nearKm": 1,
+  "d": "Gigantesque monument socialiste en béton dressé sur le plateau au-dessus de Shumen pour les 1 300 ans de la Bulgarie, avec ses figures de khans et ses mosaïques.",
+  "v": "Les sculptures monumentales des khans · les mosaïques · la forteresse médiévale de Shumen",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Ruse",
+  "alt": [
+   "Русе",
+   "Roussé"
+  ],
+  "p": "Bulgarie",
+  "c": "ville",
+  "q": "Ville danubienne",
+  "region": "Ruse",
+  "y": 43.848,
+  "x": 25.955,
+  "pt": "place de la Liberté",
+  "near": "Ruse",
+  "nearKm": 0,
+  "d": "Ville du Danube surnommée « la petite Vienne » pour ses façades néo-baroques et Belle Époque, point de départ vers les églises rupestres d'Ivanovo et le Rusenski Lom.",
+  "v": "La place de la Liberté et le monument · le théâtre et les façades du centre · la promenade du Danube",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Forteresse de Cherven",
+  "alt": [
+   "Cherven",
+   "Червен"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Ruse (Rusenski Lom)",
+  "y": 43.6167,
+  "x": 26.0233,
+  "pt": "forteresse",
+  "near": "Dve Mogili",
+  "nearKm": 12,
+  "d": "Ruines d'une ville médiévale fortifiée sur un éperon dans un méandre du Cherni Lom, au cœur du parc naturel de Rusenski Lom.",
+  "v": "La tour du donjon · les églises en ruine · le panorama sur le canyon du Lom",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Forteresse Baba Vida",
+  "alt": [
+   "Baba Vida",
+   "Баба Вида"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Vidin",
+  "y": 43.996,
+  "x": 22.885,
+  "pt": "forteresse",
+  "near": "Vidin",
+  "nearKm": 1,
+  "d": "Forteresse médiévale parmi les mieux conservées de Bulgarie, au bord du Danube à Vidin, entourée de douves, bâtie sur des fondations romaines.",
+  "v": "Les douves et les tours · le chemin de ronde sur le Danube · la vieille ville de Vidin",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Chiprovtsi",
+  "alt": [
+   "Чипровци"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Montana",
+  "y": 43.384,
+  "x": 22.881,
+  "pt": "centre du village",
+  "near": "Montana",
+  "nearKm": 28,
+  "d": "Ancien centre minier et catholique du XVIIe siècle au pied du Balkan occidental, célèbre pour ses tapis tissés, avec monastère voisin.",
+  "v": "Le musée historique et ses tapis · le monastère de Chiprovtsi · les cascades des environs",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Grotte de Ledenika",
+  "alt": [
+   "Ledenika",
+   "Леденика"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Grotte visitable",
+  "region": "Vratsa",
+  "y": 43.204,
+  "x": 23.493,
+  "pt": "entrée de la grotte",
+  "near": "Vratsa",
+  "nearKm": 5,
+  "d": "Grotte du Balkan de Vratsa dont l'entrée gèle l'hiver, aux salles ornées de stalactites et de stalagmites, au-dessus des gorges de Vratsata.",
+  "v": "La grande salle « Concert » · les concrétions · la route par le défilé de Vratsata",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Troyan",
+  "alt": [
+   "Troyanski manastir",
+   "Троянски манастир"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Lovech",
+  "y": 42.893,
+  "x": 24.81,
+  "pt": "monastère",
+  "near": "Troyan",
+  "nearKm": 8,
+  "d": "Troisième plus grand monastère de Bulgarie, dans la vallée de la Cherni Osam, aux fresques de Zahari Zograf et à l'iconostase sculptée.",
+  "v": "Les fresques de Zahari Zograf · l'iconostase en bois sculpté · le village d'Oreshak",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Etara",
+  "alt": [
+   "Etar",
+   "Етъра"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Écomusée en plein air",
+  "region": "Gabrovo",
+  "y": 42.8,
+  "x": 25.36,
+  "pt": "rue des artisans",
+  "near": "Gabrovo",
+  "nearKm": 9,
+  "d": "Musée en plein air reconstituant une rue d'artisans du Renouveau bulgare, avec ateliers en activité et machines mues par l'eau (moulins, foulons).",
+  "v": "La rue des artisans · les moulins et foulons hydrauliques · le monastère de Sokolski à proximité",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bozhentsi",
+  "alt": [
+   "Боженци"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Village-musée",
+  "region": "Gabrovo",
+  "y": 42.87,
+  "x": 25.435,
+  "pt": "centre du village",
+  "near": "Tryavna",
+  "nearKm": 5,
+  "d": "Village-musée du XIXe siècle accroché aux collines du Balkan, aux maisons de pierre à toits de lauzes et rues pavées, préservé dans son ensemble.",
+  "v": "Les maisons à toits de lauzes · la maison Doncho Popa · l'église Saint-Prophète-Élie",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Tryavna",
+  "alt": [
+   "Трявна"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Petite ville historique",
+  "region": "Gabrovo",
+  "y": 42.8667,
+  "x": 25.4917,
+  "pt": "place de l'horloge",
+  "near": "Tryavna",
+  "nearKm": 0,
+  "d": "Petite ville du Renouveau bulgare célèbre pour son école de sculpture sur bois et de peinture d'icônes, avec maisons à encorbellements et tour de l'horloge.",
+  "v": "La place Kaltcheva et la tour de l'horloge · le musée de la sculpture sur bois · la maison Daskalov",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monastère de Dryanovo",
+  "alt": [
+   "Dryanovski manastir",
+   "Bacho Kiro"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Gabrovo",
+  "y": 42.956,
+  "x": 25.445,
+  "pt": "monastère",
+  "near": "Dryanovo",
+  "nearKm": 4,
+  "d": "Monastère blotti dans une gorge boisée de l'Andaka, théâtre d'un siège de l'insurrection d'Avril 1876, voisin de la grotte de Bacho Kiro.",
+  "v": "Le monastère et son ossuaire · la grotte de Bacho Kiro · les sentiers de la gorge",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col de Chipka",
+  "alt": [
+   "Shipka",
+   "Шипченски проход",
+   "Pic Stoletov"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Col et monument",
+  "region": "Gabrovo / Stara Zagora",
+  "y": 42.7484,
+  "x": 25.3213,
+  "pt": "monument de la Liberté",
+  "near": "Kazanlak",
+  "nearKm": 15,
+  "d": "Col du Grand Balkan où se joua une bataille décisive de la guerre russo-turque de 1877, couronné par le monument de la Liberté sur le pic Stoletov.",
+  "v": "Le monument et sa vue sur la vallée des Roses · l'église-mémorial de Chipka en contrebas · la route du col",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 12,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bouzloudja",
+  "alt": [
+   "Buzludzha",
+   "Бузлуджа"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Monument",
+  "region": "Stara Zagora",
+  "y": 42.7358,
+  "x": 25.3936,
+  "pt": "monument",
+  "near": "Kazanlak",
+  "nearKm": 13,
+  "d": "Monument en forme de soucoupe volante construit en 1981 pour le Parti communiste bulgare au sommet d'un pic du Balkan, devenu une icône du patrimoine socialiste.",
+  "v": "La silhouette du monument et de sa tour · la vue sur le Balkan · la route depuis le col de Chipka",
+  "s": "mai-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 10,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Sinite Kamani",
+  "alt": [
+   "Pierres bleues",
+   "Сините камъни"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Parc naturel",
+  "region": "Sliven",
+  "y": 42.705,
+  "x": 26.36,
+  "pt": "plateau de Karandila",
+  "near": "Sliven",
+  "nearKm": 4,
+  "d": "Parc naturel aux falaises de roche bleutée qui dominent Sliven, accessible par télésiège jusqu'au plateau de Karandila, avec l'arche du Halkata.",
+  "v": "Le télésiège et le plateau de Karandila · l'arche rocheuse Halkata · les sentiers de crête",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Zheravna",
+  "alt": [
+   "Жеравна"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Village-musée",
+  "region": "Sliven",
+  "y": 42.833,
+  "x": 26.457,
+  "pt": "centre du village",
+  "near": "Kotel",
+  "nearKm": 6,
+  "d": "Village-musée du Renouveau bulgare aux maisons de bois à étage et rues pavées, au pied du Balkan oriental, dont la maison natale de l'écrivain Yordan Yovkov.",
+  "v": "Les maisons en bois · la maison de Rusi Chorbadzhi · l'église Saint-Nicolas",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Monastère de Bachkovo",
+  "alt": [
+   "Bachkovski manastir",
+   "Бачковски манастир"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Plovdiv",
+  "y": 41.942,
+  "x": 24.849,
+  "pt": "monastère",
+  "near": "Asenovgrad",
+  "nearKm": 8,
+  "d": "Deuxième plus grand monastère de Bulgarie, fondé au XIe siècle dans la vallée de la Chepelarska, avec un ossuaire aux fresques byzantines rares.",
+  "v": "L'église de la Vierge et l'icône miraculeuse · le réfectoire peint · l'ossuaire médiéval",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Forteresse d'Asen",
+  "alt": [
+   "Asenova krepost",
+   "Асенова крепост"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Plovdiv",
+  "y": 41.987,
+  "x": 24.873,
+  "pt": "église de la forteresse",
+  "near": "Asenovgrad",
+  "nearKm": 3,
+  "d": "Forteresse médiévale perchée sur un piton au-dessus de la gorge de la Chepelarska, avec l'église de la Sainte-Mère-de-Dieu-de-Petrich restée debout.",
+  "v": "L'église de la forteresse · le panorama sur la gorge et la plaine de Thrace",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Hisarya",
+  "alt": [
+   "Хисаря",
+   "Diocletianopolis"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Ville thermale antique",
+  "region": "Plovdiv",
+  "y": 42.504,
+  "x": 24.701,
+  "pt": "porte Kamilite",
+  "near": "Hisarya",
+  "nearKm": 0,
+  "d": "Station thermale dont l'enceinte romaine de Diocletianopolis est l'une des mieux préservées de Bulgarie, avec la porte monumentale « Kamilite » et un tombeau peint.",
+  "v": "La porte Kamilite · les remparts romains · le tombeau romain · les sources minérales",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Trigrad et la Gorge du Diable",
+  "alt": [
+   "Dyavolskoto garlo",
+   "Gorge de Trigrad"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Gorge et grotte",
+  "region": "Smolyan (Rhodopes)",
+  "y": 41.615,
+  "x": 24.38,
+  "pt": "grotte de la Gorge du Diable",
+  "near": "Devin",
+  "nearKm": 14,
+  "d": "Gorge de marbre aux parois de plus de 200 m dans les Rhodopes, où la rivière Trigradska disparaît dans la grotte de la Gorge du Diable et sa cascade souterraine.",
+  "v": "La grotte de la Gorge du Diable · la route dans la gorge de Trigrad · la grotte de Yagodina voisine",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 12,
+   "sing": 13,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Ponts merveilleux",
+  "alt": [
+   "Chudnite mostove",
+   "Чудните мостове"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Arches naturelles",
+  "region": "Smolyan (Rhodopes)",
+  "y": 41.821,
+  "x": 24.583,
+  "pt": "grand pont",
+  "near": "Chepelare",
+  "nearKm": 14,
+  "d": "Deux arches rocheuses géantes en marbre creusées par un ancien cours d'eau dans une vallée boisée des Rhodopes.",
+  "v": "Le grand pont et son tunnel · le petit pont · les forêts d'Erkyupryia",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Shiroka Laka",
+  "alt": [
+   "Широка лъка"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Smolyan (Rhodopes)",
+  "y": 41.683,
+  "x": 24.583,
+  "pt": "centre du village",
+  "near": "Smolyan",
+  "nearKm": 16,
+  "d": "Village des Rhodopes aux maisons blanches fortifiées et ponts en dos d'âne, célèbre pour son école de musique folklorique et sa fête des Kukeri.",
+  "v": "Les maisons rhodopiennes · les ponts en pierre · l'église de la Dormition",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Kovachevitsa",
+  "alt": [
+   "Ковачевица"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Blagoevgrad (Rhodopes occidentales)",
+  "y": 41.68,
+  "x": 23.826,
+  "pt": "centre du village",
+  "near": "Gotse Delchev",
+  "nearKm": 14,
+  "d": "Village de montagne en pierre, sur la pente d'une vallée des Rhodopes occidentales, aux maisons-tours de schiste à toits de lauzes, réserve architecturale.",
+  "v": "Les maisons de pierre à toits de lauzes · l'église Saint-Nicolas · le village voisin de Leshten",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Perperikon",
+  "alt": [
+   "Перперикон"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Kardzhali (Rhodopes orientales)",
+  "y": 41.7186,
+  "x": 25.4644,
+  "pt": "acropole",
+  "near": "Kardzhali",
+  "nearKm": 11,
+  "d": "Ville sanctuaire thrace taillée dans un piton rocheux des Rhodopes orientales, avec temple, palais et forteresse médiévale creusés dans la roche.",
+  "v": "L'autel taillé dans la roche · le palais-sanctuaire · la forteresse sommitale",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Melnik",
+  "alt": [
+   "Мелник",
+   "Pyramides de Melnik",
+   "Monastère de Rozhen"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Blagoevgrad",
+  "y": 41.523,
+  "x": 23.393,
+  "pt": "centre du village",
+  "near": "Sandanski",
+  "nearKm": 10,
+  "d": "Plus petite ville de Bulgarie, nichée parmi des pyramides de sable érodées, connue pour ses maisons du Renouveau et ses caves de vin rouge Shiroka melnishka.",
+  "v": "La maison Kordopoulov et sa cave · les pyramides de sable · le monastère de Rozhen à quelques km",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bansko",
+  "alt": [
+   "Банско"
+  ],
+  "p": "Bulgarie",
+  "c": "ville",
+  "q": "Station de montagne",
+  "region": "Blagoevgrad",
+  "y": 41.838,
+  "x": 23.488,
+  "pt": "vieille ville",
+  "near": "Bansko",
+  "nearKm": 0,
+  "d": "Bourg du Renouveau bulgare au pied du Pirin, aux maisons fortifiées et tavernes, devenu la principale station de ski du pays et une base de randonnée.",
+  "v": "L'église de la Sainte-Trinité · la maison de Neofit Rilski · la télécabine vers le Pirin",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Sept lacs de Rila",
+  "alt": [
+   "Sedemte rilski ezera",
+   "Седемте рилски езера"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Lacs glaciaires",
+  "region": "Kyustendil (Rila)",
+  "y": 42.203,
+  "x": 23.318,
+  "pt": "refuge des Sept Lacs",
+  "near": "Sapareva Banya",
+  "nearKm": 10,
+  "d": "Chapelet de sept lacs glaciaires étagés entre 2 100 et 2 500 m dans le massif de Rila, accessibles par télésiège puis sentier.",
+  "v": "Le télésiège depuis Panichishte · les sentiers jusqu'aux lacs de l'Œil et du Rein · le belvédère sur les sept lacs",
+  "s": "juil-sept",
+  "du": "1 j",
+  "w": 1,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 19,
+   "van": 12,
+   "sing": 13,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Zemen",
+  "alt": [
+   "Zemenski manastir",
+   "Земенски манастир"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Pernik",
+  "y": 42.471,
+  "x": 22.733,
+  "pt": "monastère",
+  "near": "Radomir",
+  "nearKm": 20,
+  "d": "Petite église cubique médiévale près de la gorge de la Struma, aux fresques du XIVe siècle remarquables, au-dessus du défilé de Zemen.",
+  "v": "Les fresques de l'église Saint-Jean · le défilé de Zemen sur la Struma",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Vitosha",
+  "alt": [
+   "Витоша",
+   "Cherni Vrah",
+   "Aleko"
+  ],
+  "p": "Bulgarie",
+  "c": "nature",
+  "q": "Parc naturel de montagne",
+  "region": "Sofia-Capitale",
+  "y": 42.585,
+  "x": 23.293,
+  "pt": "Aleko, base du Cherni Vrah",
+  "near": "Sofia",
+  "nearKm": 13,
+  "d": "Massif dominant Sofia, plus ancien parc naturel des Balkans, aux pentes couvertes de moraines rocheuses (rivières de pierre), culminant au Cherni Vrah.",
+  "v": "La montée au Cherni Vrah · la rivière de pierres de Zlatnite Mostove · la cascade de Boyana",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Arbanasi",
+  "alt": [
+   "Арбанаси"
+  ],
+  "p": "Bulgarie",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Veliko Tarnovo",
+  "y": 43.1,
+  "x": 25.667,
+  "pt": "centre du village",
+  "near": "Veliko Tarnovo",
+  "nearKm": 5,
+  "d": "Village perché sur le plateau dominant Veliko Tarnovo, aux maisons de marchands fortifiées et églises aux intérieurs entièrement peints des XVIe-XVIIe siècles.",
+  "v": "L'église de la Nativité et ses fresques · la maison Konstantsaliev · la vue sur Tsarevets",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Cluj-Napoca",
+  "alt": [
+   "Cluj",
+   "Kolozsvár",
+   "Klausenburg"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville universitaire",
+  "region": "Transylvanie (Cluj)",
+  "y": 46.77,
+  "x": 23.59,
+  "pt": "place de l'Union",
+  "near": "Cluj-Napoca",
+  "nearKm": 0,
+  "d": "Capitale historique de la Transylvanie, ville universitaire animée autour de l'église gothique Saint-Michel et de la statue de Mathias Corvin, porte vers les monts Apuseni.",
+  "v": "L'église Saint-Michel et la place de l'Union · le palais Bánffy · le jardin botanique · la citadelle",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Grotte glaciaire de Scărișoara",
+  "alt": [
+   "Peștera Scărișoara",
+   "Ghețarul Scărișoara"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Grotte glaciaire",
+  "region": "Monts Apuseni (Alba)",
+  "y": 46.4897,
+  "x": 22.8106,
+  "pt": "entrée du gouffre",
+  "near": "Câmpeni",
+  "nearKm": 23,
+  "d": "Grotte des monts Apuseni abritant l'un des plus grands glaciers souterrains d'Europe, accessible par un gouffre d'entrée et des escaliers jusqu'au bloc de glace.",
+  "v": "Le gouffre d'entrée · le glacier souterrain et ses stalagmites de glace · les hameaux du plateau",
+  "s": "mai-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Grotte de l'Ours",
+  "alt": [
+   "Peștera Urșilor",
+   "Chișcău"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Grotte visitable",
+  "region": "Monts Apuseni (Bihor)",
+  "y": 46.5536,
+  "x": 22.5776,
+  "pt": "entrée de la grotte",
+  "near": "Beiuș",
+  "nearKm": 21,
+  "d": "Grotte des Apuseni découverte en 1975, aux concrétions spectaculaires, où furent retrouvés de nombreux squelettes d'ours des cavernes.",
+  "v": "Les galeries aux stalagmites · les ossements d'ours des cavernes · le village de Chișcău",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Oradea",
+  "alt": [
+   "Nagyvárad",
+   "Großwardein"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville Art nouveau",
+  "region": "Crișana (Bihor)",
+  "y": 47.057,
+  "x": 21.93,
+  "pt": "place de l'Union",
+  "near": "Oradea",
+  "nearKm": 0,
+  "d": "Ville au patrimoine Art nouveau parmi les plus riches d'Europe, avec palais Sécession, passage Vulturul Negru et citadelle en étoile, restaurés.",
+  "v": "Le palais Vulturul Negru et son passage · la place de l'Union · la citadelle · le palais épiscopal baroque",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château de Carei",
+  "alt": [
+   "Castelul Károlyi",
+   "Carei"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Satu Mare",
+  "y": 47.688,
+  "x": 22.47,
+  "pt": "château",
+  "near": "Carei",
+  "nearKm": 1,
+  "d": "Château néogothique de la famille Károlyi au cœur d'un grand parc dendrologique, à la frontière hongroise, l'un des plus beaux châteaux du nord-ouest du pays.",
+  "v": "Les salles restaurées · le parc dendrologique · les douves",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Porolissum",
+  "alt": [
+   "Moigrad"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Sălaj",
+  "y": 47.178,
+  "x": 23.16,
+  "pt": "porte prétorienne",
+  "near": "Zalău",
+  "nearKm": 8,
+  "d": "Ville et camp romain qui gardait la frontière nord de la Dacie romaine, sur des collines dominant la vallée, avec porte reconstituée et amphithéâtre.",
+  "v": "La porte prétorienne reconstituée · l'amphithéâtre · le tracé du limes",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Cimetière joyeux de Săpânța",
+  "alt": [
+   "Cimitirul Vesel",
+   "Merry Cemetery"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Cimetière",
+  "region": "Maramureș",
+  "y": 47.971,
+  "x": 23.6945,
+  "pt": "cimetière",
+  "near": "Sighetu Marmației",
+  "nearKm": 15,
+  "d": "Cimetière aux croix de bois sculptées et peintes en bleu vif par Stan Ioan Pătraș puis ses successeurs, chacune portant une épitaphe humoristique illustrant la vie du défunt.",
+  "v": "Les croix peintes et leurs épitaphes · l'atelier-maison de Pătraș · le monastère de Săpânța-Peri",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 16,
+   "van": 10,
+   "sing": 15,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Sighetu Marmației",
+  "alt": [
+   "Sighet",
+   "Mémorial de Sighet"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Ville et mémorial",
+  "region": "Maramureș",
+  "y": 47.929,
+  "x": 23.89,
+  "pt": "mémorial",
+  "near": "Sighetu Marmației",
+  "nearKm": 0,
+  "d": "Ville du Maramureș sur la Tisza dont l'ancienne prison politique abrite le Mémorial des victimes du communisme, et musée du village du Maramureș.",
+  "v": "Le Mémorial des victimes du communisme · le musée du village du Maramureș · la maison d'Elie Wiesel",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 11,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Mocănița de la Vaser",
+  "alt": [
+   "Mocănița",
+   "Vișeu de Sus"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Chemin de fer forestier",
+  "region": "Maramureș",
+  "y": 47.713,
+  "x": 24.428,
+  "pt": "gare de Vișeu de Sus",
+  "near": "Vișeu de Sus",
+  "nearKm": 1,
+  "d": "L'un des derniers chemins de fer forestiers à vapeur en activité d'Europe, remontant la vallée boisée de la Vaser au cœur des montagnes du Maramureș.",
+  "v": "Le train à vapeur dans la vallée de la Vaser · l'arrêt de Paltin · la vallée sauvage",
+  "s": "mai-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 11,
+   "sing": 14,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Col de Prislop",
+  "alt": [
+   "Pasul Prislop"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Col routier",
+  "region": "Maramureș / Suceava",
+  "y": 47.61,
+  "x": 24.862,
+  "pt": "col",
+  "near": "Borșa",
+  "nearKm": 16,
+  "d": "Col routier entre Maramureș et Bucovine, entre les monts Rodna et Maramureș, avec la vue sur le Pietrosul Rodnei, sur la route de Borșa à Vatra Dornei.",
+  "v": "La cascade des Chevaux près de Borșa · la vue sur les monts Rodna · la descente vers la Bucovine",
+  "s": "mai-oct",
+  "du": "passage",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 12,
+   "sing": 9,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Bistrița",
+  "alt": [
+   "Beszterce",
+   "Bistritz"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville saxonne",
+  "region": "Bistrița-Năsăud",
+  "y": 47.133,
+  "x": 24.496,
+  "pt": "église évangélique",
+  "near": "Bistrița",
+  "nearKm": 0,
+  "d": "Ancienne ville saxonne du nord de la Transylvanie, avec haute église évangélique gothique, maisons à arcades du Sugălete et tour des Tonneliers, sur la route du col de Tihuța.",
+  "v": "L'église évangélique et sa tour · les arcades du Sugălete · la tour des Tonneliers",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Citadelle de Suceava",
+  "alt": [
+   "Cetatea de Scaun a Sucevei"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Suceava (Bucovine)",
+  "y": 47.645,
+  "x": 26.269,
+  "pt": "citadelle",
+  "near": "Suceava",
+  "nearKm": 2,
+  "d": "Forteresse des princes de Moldavie, résidence d'Étienne le Grand, qui a résisté au siège de Mehmed II, aujourd'hui restaurée au-dessus de la ville.",
+  "v": "La citadelle et ses courtines · le musée du village de Bucovine voisin · le monastère Saint-Jean-le-Nouveau en ville",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monastère de Putna",
+  "alt": [
+   "Mănăstirea Putna"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Suceava (Bucovine)",
+  "y": 47.87,
+  "x": 25.599,
+  "pt": "monastère",
+  "near": "Rădăuți",
+  "nearKm": 24,
+  "d": "Monastère fondé en 1466 par Étienne le Grand, qui y est inhumé, haut lieu spirituel de la Roumanie au fond d'une vallée boisée de Bucovine.",
+  "v": "Le tombeau d'Étienne le Grand · le trésor du monastère · la cellule de Daniil Sihastrul",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rarău et Pietrele Doamnei",
+  "alt": [
+   "Pietrele Doamnei",
+   "Masivul Rarău"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Massif et rochers",
+  "region": "Suceava (Bucovine)",
+  "y": 47.447,
+  "x": 25.564,
+  "pt": "Pietrele Doamnei",
+  "near": "Câmpulung Moldovenesc",
+  "nearKm": 10,
+  "d": "Rochers calcaires spectaculaires au sommet du massif du Rarău, accessibles par une route de montagne, avec panorama sur les montagnes de Bucovine.",
+  "v": "Les Pietrele Doamnei · le monastère de Rarău · les gorges de Moara Dracului",
+  "s": "juin-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 11,
+   "sing": 11,
+   "val": 12,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Monastère de Neamț",
+  "alt": [
+   "Mănăstirea Neamț"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Neamț (Moldavie)",
+  "y": 47.262,
+  "x": 26.199,
+  "pt": "monastère",
+  "near": "Târgu Neamț",
+  "nearKm": 14,
+  "d": "L'un des plus anciens et plus grands monastères de Moldavie, dont l'église de l'Ascension (XVe siècle) est un modèle du style moldave.",
+  "v": "L'église de l'Ascension · la bibliothèque et le musée · les monastères d'Agapia et de Văratec voisins",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Citadelle de Neamț",
+  "alt": [
+   "Cetatea Neamțului"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Neamț (Moldavie)",
+  "y": 47.213,
+  "x": 26.341,
+  "pt": "citadelle",
+  "near": "Târgu Neamț",
+  "nearKm": 2,
+  "d": "Forteresse moldave du XIVe siècle sur une colline boisée, renforcée par Étienne le Grand, accessible par un long pont sur arches.",
+  "v": "Le pont d'accès · la cour et les salles · la vue sur Târgu Neamț",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Iași",
+  "alt": [
+   "Iasi"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Moldavie (Iași)",
+  "y": 47.159,
+  "x": 27.587,
+  "pt": "palais de la Culture",
+  "near": "Iași",
+  "nearKm": 0,
+  "d": "Ancienne capitale de la Moldavie et grande ville universitaire, dominée par le palais de la Culture néogothique et l'église des Trois-Hiérarques sculptée.",
+  "v": "Le palais de la Culture · l'église des Trois-Hiérarques · le monastère Golia · le jardin botanique",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Lac Sainte-Anne",
+  "alt": [
+   "Lacul Sfânta Ana",
+   "Szent Anna-tó"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Lac de cratère",
+  "region": "Harghita (Pays sicule)",
+  "y": 46.126,
+  "x": 25.888,
+  "pt": "rive du lac",
+  "near": "Miercurea Ciuc",
+  "nearKm": 27,
+  "d": "Le seul lac de cratère volcanique de Roumanie, rond et entouré de forêts, voisin de la tourbière de Mohoș au fond d'un second cratère.",
+  "v": "La promenade autour du lac · la tourbière de Mohoș · la station de Băile Tușnad",
+  "s": "mai-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Târgu Mureș",
+  "alt": [
+   "Marosvásárhely"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Mureș",
+  "y": 46.545,
+  "x": 24.562,
+  "pt": "palais de la Culture",
+  "near": "Târgu Mureș",
+  "nearKm": 0,
+  "d": "Ville sicule et roumaine dont le palais de la Culture Sécession, aux vitraux et salle des miroirs, et la citadelle médiévale rythment le centre.",
+  "v": "Le palais de la Culture et la salle des miroirs · la préfecture · la citadelle",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Biertan",
+  "alt": [
+   "Birthälm"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Église fortifiée",
+  "region": "Sibiu",
+  "y": 46.135,
+  "x": 24.521,
+  "pt": "église fortifiée",
+  "near": "Mediaș",
+  "nearKm": 13,
+  "d": "Église-forteresse saxonne entourée de trois enceintes, sur une colline au-dessus du village, l'une des plus grandes de Transylvanie et ancien siège épiscopal luthérien.",
+  "v": "L'église et son autel polyptyque · la porte de la sacristie à serrure · la « prison » des époux · les enceintes",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 1,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 17,
+   "van": 10,
+   "sing": 13,
+   "val": 14,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Viscri",
+  "alt": [
+   "Deutsch-Weißkirch"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Village et église fortifiée",
+  "region": "Brașov",
+  "y": 46.055,
+  "x": 25.087,
+  "pt": "église fortifiée",
+  "near": "Rupea",
+  "nearKm": 10,
+  "d": "Village saxon préservé aux maisons colorées alignées le long de la rue, dominé par une église fortifiée blanche, au bout d'une route de campagne.",
+  "v": "L'église fortifiée et ses tours · la rue principale et ses maisons · les promenades en charrette",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 10,
+   "sing": 13,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Église fortifiée de Prejmer",
+  "alt": [
+   "Prejmer",
+   "Tartlau"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Église fortifiée",
+  "region": "Brașov",
+  "y": 45.722,
+  "x": 25.775,
+  "pt": "église fortifiée",
+  "near": "Prejmer",
+  "nearKm": 0,
+  "d": "La mieux conservée des églises fortifiées d'Europe de l'Est, entourée d'une enceinte circulaire massive dont le chemin de ronde dessert des centaines de chambres de refuge.",
+  "v": "Les chambres de refuge sur quatre niveaux · le chemin de ronde · l'église gothique en croix grecque",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": true,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Citadelle de Râșnov",
+  "alt": [
+   "Cetatea Râșnov",
+   "Rosenau"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Citadelle",
+  "region": "Brașov",
+  "y": 45.588,
+  "x": 25.463,
+  "pt": "citadelle",
+  "near": "Râșnov",
+  "nearKm": 1,
+  "d": "Citadelle paysanne médiévale perchée au-dessus de Râșnov, entre Brașov et Bran, avec maisons de refuge et puits légendaire, face aux monts Bucegi.",
+  "v": "Les ruelles de la citadelle · le puits creusé dans la roche · la vue sur le Bucegi et la vallée",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Citadelle de Făgăraș",
+  "alt": [
+   "Cetatea Făgărașului"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Château fort",
+  "region": "Brașov",
+  "y": 45.845,
+  "x": 24.974,
+  "pt": "citadelle",
+  "near": "Făgăraș",
+  "nearKm": 1,
+  "d": "Forteresse entourée de douves en eau, résidence des princes de Transylvanie, au cœur du Pays de Făgăraș au pied des monts du même nom.",
+  "v": "Les douves et le château · le musée du Pays de Făgăraș · la vue sur les monts Făgăraș",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Transalpina",
+  "alt": [
+   "DN67C",
+   "Pasul Urdele",
+   "Rânca"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Route de montagne",
+  "region": "Gorj / Vâlcea / Alba",
+  "y": 45.29,
+  "x": 23.682,
+  "pt": "station de Rânca",
+  "near": "Novaci",
+  "nearKm": 12,
+  "d": "Route la plus haute de Roumanie, qui franchit les monts Parâng par le col d'Urdele à plus de 2 100 m, traversant alpages et crêtes entre l'Olténie et la Transylvanie.",
+  "v": "Le col d'Urdele · les lacets au-dessus de Rânca · la descente vers Obârșia Lotrului",
+  "s": "juil-sept",
+  "du": "1 j",
+  "w": 1,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 18,
+   "van": 15,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Rimetea",
+  "alt": [
+   "Torockó"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Village historique",
+  "region": "Alba (Apuseni)",
+  "y": 46.453,
+  "x": 23.57,
+  "pt": "centre du village",
+  "near": "Aiud",
+  "nearKm": 20,
+  "d": "Village hongrois aux maisons blanches à pignons alignées au pied de la falaise de Piatra Secuiului, derrière laquelle le soleil se lève deux fois.",
+  "v": "Les maisons blanches du centre · l'ascension de Piatra Secuiului · les gorges de Râmeț à proximité",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Timișoara",
+  "alt": [
+   "Temesvár",
+   "Temeswar"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville d'art",
+  "region": "Banat (Timiș)",
+  "y": 45.756,
+  "x": 21.229,
+  "pt": "place de l'Union",
+  "near": "Timișoara",
+  "nearKm": 0,
+  "d": "Capitale du Banat et berceau de la révolution de 1989, aux places baroques et façades Sécession, avec cathédrale orthodoxe aux toits polychromes.",
+  "v": "La place de l'Union et ses palais · la place de la Victoire et la cathédrale · le musée de la Révolution",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Cascade de Bigăr",
+  "alt": [
+   "Cascada Bigăr"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Cascade",
+  "region": "Banat (Caraș-Severin)",
+  "y": 44.9975,
+  "x": 21.921,
+  "pt": "cascade",
+  "near": "Bozovici",
+  "nearKm": 9,
+  "d": "Cascade en forme de dôme couvert de mousse sur laquelle l'eau se divise en mille filets, au bord de la route des gorges de la Miniș.",
+  "v": "La cascade et son voile de mousse · les gorges de la Miniș · la source de Bigăr",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 13,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Statue de Décébal et chaudrons du Danube",
+  "alt": [
+   "Chipul lui Decebal",
+   "Cazanele Dunării"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Défilé fluvial",
+  "region": "Mehedinți",
+  "y": 44.623,
+  "x": 22.29,
+  "pt": "statue de Décébal",
+  "near": "Orșova",
+  "nearKm": 14,
+  "d": "Rive roumaine des Portes de Fer, où le Danube s'étrangle dans les « chaudrons », dominée par le visage géant de Décébal sculpté dans la falaise.",
+  "v": "Le visage de Décébal · les Grands et Petits Chaudrons en bateau · le monastère de Mraconia",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 16,
+   "van": 13,
+   "sing": 13,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Băile Herculane",
+  "alt": [
+   "Herkulesbad"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Station thermale",
+  "region": "Banat (Caraș-Severin)",
+  "y": 44.879,
+  "x": 22.414,
+  "pt": "centre historique",
+  "near": "Băile Herculane",
+  "nearKm": 0,
+  "d": "Station thermale antique dans la vallée de la Cerna, aux bains impériaux austro-hongrois aujourd'hui délabrés et à la statue d'Hercule, porte du parc Domogled.",
+  "v": "La statue d'Hercule · les bains néobaroques · les sources chaudes de la vallée de la Cerna",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Craiova",
+  "alt": [
+   "Krajowa"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville historique",
+  "region": "Olténie (Dolj)",
+  "y": 44.319,
+  "x": 23.796,
+  "pt": "centre-ville",
+  "near": "Craiova",
+  "nearKm": 0,
+  "d": "Capitale de l'Olténie, avec centre Belle Époque, musée d'Art installé dans le palais Jean Mihail (salle Brâncuși) et grand parc romantique.",
+  "v": "Le palais Jean Mihail et les œuvres de Brâncuși · le parc Nicolae Romanescu · le centre piéton",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Grotte des Femmes",
+  "alt": [
+   "Peștera Muierii",
+   "Baia de Fier"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Grotte visitable",
+  "region": "Olténie (Gorj)",
+  "y": 45.195,
+  "x": 23.754,
+  "pt": "entrée de la grotte",
+  "near": "Novaci",
+  "nearKm": 7,
+  "d": "Grotte de la gorge de la Galbena au pied du Parâng, où furent retrouvés certains des plus anciens restes humains modernes d'Europe et des ossements d'ours des cavernes.",
+  "v": "Les galeries aménagées · les ossements d'ours · les gorges de la Galbena",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Monastère de Cozia",
+  "alt": [
+   "Mănăstirea Cozia"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Monastère orthodoxe",
+  "region": "Vâlcea",
+  "y": 45.272,
+  "x": 24.304,
+  "pt": "monastère",
+  "near": "Călimănești",
+  "nearKm": 4,
+  "d": "Monastère du XIVe siècle fondé par Mircea l'Ancien au bord de l'Olt, dont l'église aux façades en briques et pierre est un modèle de l'art valaque.",
+  "v": "L'église de la Sainte-Trinité et ses fresques · le tombeau de Mircea l'Ancien · le défilé de l'Olt",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 12,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Monastère de Curtea de Argeș",
+  "alt": [
+   "Mănăstirea Curtea de Argeș",
+   "Curtea de Argeș"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Église monastique",
+  "region": "Argeș",
+  "y": 45.15,
+  "x": 24.674,
+  "pt": "cathédrale épiscopale",
+  "near": "Curtea de Argeș",
+  "nearKm": 1,
+  "d": "Église du XVIe siècle à la façade ciselée comme une pièce d'orfèvrerie, liée à la légende de Maître Manole, nécropole des premiers rois de Roumanie.",
+  "v": "La façade sculptée et ses tours torsadées · les tombeaux royaux · l'église princière Saint-Nicolas en ville",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Château de Peleș",
+  "alt": [
+   "Castelul Peleș",
+   "Sinaia"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Château",
+  "region": "Prahova (Vallée de la Prahova)",
+  "y": 45.3597,
+  "x": 25.5426,
+  "pt": "château",
+  "near": "Sinaia",
+  "nearKm": 1,
+  "d": "Résidence d'été néo-Renaissance du roi Carol Ier, dans la forêt au-dessus de Sinaia, aux intérieurs somptueux de boiseries, armes et vitraux.",
+  "v": "Les salles d'apparat et l'armurerie · le château de Pelișor · le monastère de Sinaia",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 1,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 19,
+   "van": 10,
+   "sing": 12,
+   "val": 14,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Babele et Sphinx des Bucegi",
+  "alt": [
+   "Babele",
+   "Sfinxul",
+   "Munții Bucegi"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Formation géologique",
+  "region": "Prahova (Bucegi)",
+  "y": 45.4058,
+  "x": 25.4644,
+  "pt": "rochers de Babele",
+  "near": "Bușteni",
+  "nearKm": 6,
+  "d": "Rochers érodés aux formes étranges sur le plateau des monts Bucegi, dont le célèbre Sphinx, accessibles par télécabine depuis Bușteni.",
+  "v": "Le Sphinx · les champignons de pierre de Babele · la croix des Héros sur le Caraiman",
+  "s": "juin-oct",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 15,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Târgoviște",
+  "alt": [
+   "Curtea Domnească"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Cour princière",
+  "region": "Dâmbovița",
+  "y": 44.933,
+  "x": 25.457,
+  "pt": "tour Chindia",
+  "near": "Târgoviște",
+  "nearKm": 1,
+  "d": "Ancienne capitale de la Valachie, dont la cour princière en ruines est dominée par la tour Chindia liée à Vlad l'Empaleur.",
+  "v": "La tour Chindia · l'église princière et ses fresques · le parc Chindia",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Volcans de boue de Berca",
+  "alt": [
+   "Vulcanii Noroioși",
+   "Pâclele Mari"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Volcans de boue",
+  "region": "Buzău (Carpates de courbure)",
+  "y": 45.35,
+  "x": 26.709,
+  "pt": "Pâclele Mari",
+  "near": "Buzău",
+  "nearKm": 24,
+  "d": "Petits cônes de boue grise qui bouillonnent sous la pression de gaz naturels, dans un paysage lunaire dénudé des collines de Buzău.",
+  "v": "Les cônes actifs de Pâclele Mari · les Pâclele Mici · le paysage de collines érodées",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 14,
+   "van": 11,
+   "sing": 14,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Mausolée de Mărășești",
+  "alt": [
+   "Mausoleul de la Mărășești"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Mémorial",
+  "region": "Vrancea",
+  "y": 45.88,
+  "x": 27.231,
+  "pt": "mausolée",
+  "near": "Mărășești",
+  "nearKm": 1,
+  "d": "Mausolée de la bataille de Mărășești (1917), victoire roumaine de la Première Guerre mondiale, rotonde à crypte et fresques sur les combats.",
+  "v": "La crypte · la coupole peinte · le belvédère sur l'ancien champ de bataille",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 9,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Brăila",
+  "alt": [
+   "Braila"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Brăila",
+  "y": 45.271,
+  "x": 27.979,
+  "pt": "place Traian",
+  "near": "Brăila",
+  "nearKm": 0,
+  "d": "Port danubien au plan en éventail, aux façades Belle Époque héritées du commerce des céréales, au bord du Danube et près des marais du Petit Delta de Brăila.",
+  "v": "La place Traian et la tour de l'horloge · les rues du vieux centre · la promenade du Danube",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Constanța",
+  "alt": [
+   "Tomis"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Dobroudja (Constanța)",
+  "y": 44.173,
+  "x": 28.657,
+  "pt": "vieille ville",
+  "near": "Constanța",
+  "nearKm": 0,
+  "d": "Grand port de la mer Noire, l'antique Tomis où fut exilé Ovide, avec casino Art nouveau, grande mosaïque romaine et musée d'histoire.",
+  "v": "Le casino sur la falaise · l'édifice à mosaïque romain · le musée d'Histoire et d'Archéologie · la mosquée Carol Ier",
+  "s": "toute l'année",
+  "du": "1 j",
+  "w": 2,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Histria",
+  "alt": [
+   "Istros",
+   "Cetatea Histria"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Dobroudja (Constanța)",
+  "y": 44.547,
+  "x": 28.774,
+  "pt": "site antique",
+  "near": "Năvodari",
+  "nearKm": 28,
+  "d": "Plus ancienne cité grecque de Roumanie, fondée au VIIe siècle av. J.-C. au bord du lac Sinoe, avec remparts, thermes et basiliques en bordure de la lagune.",
+  "v": "Les remparts et la basilique · les thermes · le musée · la vue sur le lac Sinoe",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 11,
+   "sing": 11,
+   "val": 13,
+   "acc": 3
+  }
+ },
+ {
+  "n": "Tropaeum Traiani",
+  "alt": [
+   "Adamclisi"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Monument romain",
+  "region": "Dobroudja (Constanța)",
+  "y": 44.0866,
+  "x": 27.9573,
+  "pt": "monument",
+  "near": "Adamclisi",
+  "nearKm": 1,
+  "d": "Monument triomphal reconstitué érigé par Trajan après la conquête de la Dacie, orné de métopes sculptées, près des ruines de la cité romaine du même nom.",
+  "v": "Le monument reconstitué · les métopes originales au musée · les ruines de la cité romaine",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Vama Veche",
+  "alt": [
+   "2 Mai"
+  ],
+  "p": "Roumanie",
+  "c": "plage",
+  "q": "Village côtier",
+  "region": "Dobroudja (Constanța)",
+  "y": 43.753,
+  "x": 28.576,
+  "pt": "plage",
+  "near": "Mangalia",
+  "nearKm": 7,
+  "d": "Dernier village de la côte roumaine avant la Bulgarie, plage à l'esprit bohème, voisin de 2 Mai et de ses falaises basses en bordure de la réserve marine.",
+  "v": "La plage de Vama Veche · le village de 2 Mai · la réserve marine 2 Mai–Vama Veche",
+  "s": "juin-sept",
+  "du": "1 j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 9,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Citadelle d'Enisala",
+  "alt": [
+   "Cetatea Enisala",
+   "Heracleea"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Forteresse médiévale",
+  "region": "Dobroudja (Tulcea)",
+  "y": 44.886,
+  "x": 28.824,
+  "pt": "citadelle",
+  "near": "Babadag",
+  "nearKm": 9,
+  "d": "Forteresse génoise du XIVe siècle sur une colline calcaire dominant les lacs Razim et Babadag, en lisière de la réserve du Delta du Danube.",
+  "v": "Les remparts · la vue sur le lac Razim · la ferme traditionnelle d'Enisala",
+  "s": "avr-oct",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Tulcea",
+  "alt": [
+   "Тулча"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Ville portuaire",
+  "region": "Dobroudja (Tulcea)",
+  "y": 45.179,
+  "x": 28.805,
+  "pt": "front de Danube",
+  "near": "Tulcea",
+  "nearKm": 0,
+  "d": "Port fluvial porte d'entrée du Delta du Danube, d'où partent les bateaux pour Sulina et les canaux, avec centre d'éco-tourisme du Delta.",
+  "v": "Le centre d'éco-tourisme et son aquarium · la promenade du Danube · le départ des bateaux pour le Delta",
+  "s": "avr-oct",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Palais de Mogoșoaia",
+  "alt": [
+   "Palatul Mogoșoaia"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Palais",
+  "region": "Ilfov",
+  "y": 44.529,
+  "x": 26.004,
+  "pt": "palais",
+  "near": "Buftea",
+  "nearKm": 6,
+  "d": "Palais de Constantin Brâncoveanu (début du XVIIIe siècle), exemple majeur du style brâncovenesc mêlant Renaissance vénitienne et art ottoman, au bord d'un lac.",
+  "v": "Le palais et ses loggias · l'église Saint-Georges · le parc au bord du lac",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Lac de l'Ours de Sovata",
+  "alt": [
+   "Lacul Ursu",
+   "Sovata"
+  ],
+  "p": "Roumanie",
+  "c": "nature",
+  "q": "Lac salé héliothermique",
+  "region": "Mureș",
+  "y": 46.596,
+  "x": 25.076,
+  "pt": "Lac de l'Ours",
+  "near": "Sovata",
+  "nearKm": 1,
+  "d": "Lac salé en forme de peau d'ours dont l'eau stratifiée chauffe naturellement en profondeur, au cœur d'une station thermale aux villas en bois.",
+  "v": "La baignade dans le Lac de l'Ours · les villas de la station · la mine de sel de Praid voisine",
+  "s": "juin-sept",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Vatra Dornei",
+  "alt": [
+   "Vatra Dornei"
+  ],
+  "p": "Roumanie",
+  "c": "ville",
+  "q": "Station thermale",
+  "region": "Suceava (Bucovine)",
+  "y": 47.346,
+  "x": 25.36,
+  "pt": "centre de la station",
+  "near": "Vatra Dornei",
+  "nearKm": 0,
+  "d": "Station thermale et de montagne de la Bucovine, au casino Belle Époque et parc fréquenté par les écureuils, base pour Rarău, le Călimani et le col de Tihuța.",
+  "v": "Le casino et le parc · la télécabine du Dealul Negru · la vallée de la Bistrița",
+  "s": "toute l'année",
+  "du": "½ j",
+  "w": 3,
+  "unesco": false,
+  "conf": "haute",
+  "sc": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 10,
+   "acc": 5
+  }
+ },
+ {
+  "n": "Ulpia Traiana Sarmizegetusa",
+  "alt": [
+   "Sarmizegetusa",
+   "Ulpia Traiana"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Site archéologique",
+  "region": "Hunedoara (Pays de Hațeg)",
+  "y": 45.516,
+  "x": 22.788,
+  "pt": "forum et amphithéâtre",
+  "near": "Hațeg",
+  "nearKm": 16,
+  "d": "Capitale de la Dacie romaine fondée par Trajan, avec forum, temples et amphithéâtre, dans le pays de Hațeg au pied du Retezat.",
+  "v": "L'amphithéâtre · le forum · le musée · l'église de Densuș à proximité",
+  "s": "avr-oct",
+  "du": "2 h",
+  "w": 2,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 13,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Mine de sel de Slănic",
+  "alt": [
+   "Salina Slănic",
+   "Slănic Prahova"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Mine de sel",
+  "region": "Prahova",
+  "y": 45.237,
+  "x": 25.938,
+  "pt": "entrée de la mine",
+  "near": "Slănic",
+  "nearKm": 1,
+  "d": "Ancienne mine de sel aux salles trapézoïdales gigantesques creusées dans le sel, avec sculptures salines, et le lac salé de la Grotte du Sel à l'extérieur.",
+  "v": "Les grandes salles souterraines · les sculptures de sel · la « Grota Miresei » et le lac salé",
+  "s": "toute l'année",
+  "du": "2 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 10,
+   "acc": 4
+  }
+ },
+ {
+  "n": "Citadelle de Rupea",
+  "alt": [
+   "Cetatea Rupea",
+   "Reps"
+  ],
+  "p": "Roumanie",
+  "c": "patrimoine",
+  "q": "Citadelle",
+  "region": "Brașov",
+  "y": 46.04,
+  "x": 25.208,
+  "pt": "citadelle",
+  "near": "Rupea",
+  "nearKm": 1,
+  "d": "Citadelle paysanne saxonne étagée sur une colline de basalte, aux enceintes successives restaurées, dominant la route entre Brașov et Sighișoara.",
+  "v": "Les trois enceintes · la tour du sommet · la vue sur la campagne saxonne et Viscri",
+  "s": "toute l'année",
+  "du": "1 h",
+  "w": 3,
+  "unesco": false,
+  "conf": "moyenne",
+  "sc": {
+   "tour": 12,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5
+  }
+ }
+]

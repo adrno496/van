@@ -122,11 +122,22 @@ var showLabels = true, allLabels = false, showCountry = true, labels = [], label
 // Largeur réelle d'un nom, pour une taille de police de 1 : mesurée une fois dans la police des noms (canevas hors page),
 // elle remplace l'estimation « nombre de lettres × 0,56 » qui sous-estimait les noms larges et laissait des noms se chevaucher.
 var labelCtx = null;
+// Police des noms lue dans la feuille de style (jeton --font-body), sans getComputedStyle : lire un style calculé
+// forcerait le navigateur à recalculer toute la page au démarrage, juste après la création des marqueurs.
+function labelFont() {
+  try {
+    for (var i = 0; i < document.styleSheets.length; i++) {
+      var rules = document.styleSheets[i].cssRules;
+      for (var j = 0; j < rules.length; j++) { var v = rules[j].style && rules[j].style.getPropertyValue('--font-body'); if (v) return v.trim(); }
+    }
+  } catch (e) { /* feuille illisible : police générique */ }
+  return 'sans-serif';
+}
 function labelWidth(L) {
   if (L._twn !== L.n) {
     L._twn = L.n; L._tw = L.n.length * .56;
     try {
-      if (!labelCtx) { labelCtx = document.createElement('canvas').getContext('2d'); labelCtx.font = '600 100px ' + (getComputedStyle(document.documentElement).getPropertyValue('--font-body').trim() || 'sans-serif'); }
+      if (!labelCtx) { labelCtx = document.createElement('canvas').getContext('2d'); labelCtx.font = '600 100px ' + labelFont(); }
       var w = labelCtx.measureText(L.n).width / 100; if (w > 0) L._tw = w;
     } catch (e) { /* estimation conservée */ }
   }

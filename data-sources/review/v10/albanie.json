@@ -1,0 +1,1378 @@
+[
+ {
+  "key": "albanie|durres|413:194",
+  "src": "albanie-macedoine-montenegro.json#4",
+  "n": "Durrës",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.3,
+   "otherCountry": null,
+   "nearestLocality": "Durrës (AL, 1.4 km)",
+   "ref": {
+    "name": "Durrës",
+    "geonameid": null,
+    "y": 41.3178,
+    "x": 19.448208,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 1.37
+  },
+  "links": {
+   "geonames": 3185728,
+   "qid": "Q83285"
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 11,
+   "val": 13,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 80,
+  "decision": "retenu",
+  "i": 2922
+ },
+ {
+  "key": "albanie|ksamil|398:200",
+  "src": "albanie-macedoine-montenegro.json#7",
+  "n": "Ksamil",
+  "p": "Albanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ksamil (AL, 0.0 km)",
+   "ref": {
+    "name": "Sarandë",
+    "geonameid": 363243,
+    "y": 39.87534,
+    "x": 20.00477,
+    "km": 11.9,
+    "statedKm": 12
+   },
+   "status": "vérifié",
+   "snapped": 0.03
+  },
+  "links": {
+   "geonames": 2595331
+  },
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 2923
+ },
+ {
+  "key": "albanie|koman|421:198",
+  "src": "albanie-macedoine-montenegro.json#23",
+  "n": "Lac de Koman",
+  "p": "Albanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Qerret (AL, 6.1 km)",
+   "ref": {
+    "name": "Pukë",
+    "geonameid": 3184388,
+    "y": 42.04444,
+    "x": 19.89972,
+    "km": 9.3,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 14,
+   "sing": 14,
+   "val": 14,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 2924
+ },
+ {
+  "key": "albanie|voskopoje|406:206",
+  "src": "albanie-macedoine-montenegro.json#1",
+  "n": "Voskopojë",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Voskopojë (AL, 0.0 km)",
+   "ref": {
+    "name": "Korçë",
+    "geonameid": null,
+    "y": 40.616676,
+    "x": 20.766664,
+    "km": 15.2,
+    "statedKm": 17
+   },
+   "status": "vérifié",
+   "snapped": 0.05
+  },
+  "links": {
+   "geonames": 781182
+  },
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 2925
+ },
+ {
+  "key": "albanie|osum|405:202",
+  "src": "albanie-macedoine-montenegro.json#29",
+  "n": "Canyons de l'Osum",
+  "p": "Albanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Çorovodë (AL, 0.5 km)",
+   "ref": {
+    "name": "Çorovodë",
+    "geonameid": 783408,
+    "y": 40.50417,
+    "x": 20.22722,
+    "km": 0.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 12,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2927
+ },
+ {
+  "key": "albanie|korce|406:208",
+  "src": "albanie-macedoine-montenegro.json#0",
+  "n": "Korçë",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Korçë (AL, 0.0 km)",
+   "ref": {
+    "name": "Korçë",
+    "geonameid": 782756,
+    "y": 40.61861,
+    "x": 20.78083,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 782756,
+   "qid": "Q116341"
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 2926
+ },
+ {
+  "key": "albanie|porto-palermo|401:198",
+  "src": "albanie-macedoine-montenegro.json#9",
+  "n": "Château de Porto Palermo",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.6,
+   "otherCountry": null,
+   "nearestLocality": "Himarë (AL, 6.1 km)",
+   "ref": {
+    "name": "Himarë",
+    "geonameid": 3185377,
+    "y": 40.10167,
+    "x": 19.74472,
+    "km": 6.1,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 2928
+ },
+ {
+  "key": "albanie|vlore|405:195",
+  "src": "albanie-macedoine-montenegro.json#5",
+  "n": "Vlorë",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vlorë (AL, 0.7 km)",
+   "ref": {
+    "name": "Vlorë",
+    "geonameid": 3183719,
+    "y": 40.4686,
+    "x": 19.48318,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.75
+  },
+  "links": {
+   "geonames": 3183719,
+   "qid": "Q159610"
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 2929
+ },
+ {
+  "key": "albanie|byllis|405:197",
+  "src": "albanie-macedoine-montenegro.json#13",
+  "n": "Byllis",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hekal (AL, 2.4 km)",
+   "ref": {
+    "name": "Ballsh",
+    "geonameid": 3186145,
+    "y": 40.59889,
+    "x": 19.73472,
+    "km": 6.5,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 2930
+ },
+ {
+  "key": "albanie|bains-thermaux-benje-langarica|402:204",
+  "src": "albanie-macedoine-montenegro.json#19",
+  "n": "Bains thermaux de Bënjë et canyon de Langarica",
+  "p": "Albanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Petran (AL, 4.3 km)",
+   "ref": {
+    "name": "Përmet",
+    "geonameid": null,
+    "y": 40.233996,
+    "x": 20.351998,
+    "km": 6.7,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 13,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 2931
+ },
+ {
+  "key": "albanie|lagune-narta-zvernec|405:194",
+  "src": "albanie-macedoine-montenegro.json#6",
+  "n": "Lagune de Narta et monastère de Zvërnec",
+  "p": "Albanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Novoselë (AL, 13.7 km)",
+   "ref": {
+    "name": "Vlorë",
+    "geonameid": 3183719,
+    "y": 40.4686,
+    "x": 19.48318,
+    "km": 8,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 11,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 2932
+ },
+ {
+  "key": "albanie|elbasan|411:201",
+  "src": "albanie-macedoine-montenegro.json#21",
+  "n": "Elbasan",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Elbasan (AL, 0.0 km)",
+   "ref": {
+    "name": "Elbasan",
+    "geonameid": 783263,
+    "y": 41.1125,
+    "x": 20.08222,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0
+  },
+  "links": {
+   "geonames": 783263,
+   "qid": "Q114257"
+  },
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2933
+ },
+ {
+  "key": "albanie|sarande|399:200",
+  "src": "albanie-macedoine-montenegro.json#8",
+  "n": "Sarandë",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sarandë (AL, 0.1 km)",
+   "ref": {
+    "name": "Sarandë",
+    "geonameid": 363243,
+    "y": 39.87534,
+    "x": 20.00477,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.07
+  },
+  "links": {
+   "geonames": 363243,
+   "qid": "Q193226"
+  },
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 2934
+ },
+ {
+  "key": "albanie|lin|411:206",
+  "src": "albanie-macedoine-montenegro.json#3",
+  "n": "Lin",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rajcë (AL, 5.8 km)",
+   "ref": {
+    "name": "Pogradec",
+    "geonameid": 781988,
+    "y": 40.9025,
+    "x": 20.6525,
+    "km": 18.2,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 5,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2936
+ },
+ {
+  "key": "albanie|gjipe|401:197",
+  "src": "albanie-macedoine-montenegro.json#11",
+  "n": "Plage et canyon de Gjipe",
+  "p": "Albanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dhërmi (AL, 3.9 km)",
+   "ref": {
+    "name": "Himarë",
+    "geonameid": 3185377,
+    "y": 40.10167,
+    "x": 19.74472,
+    "km": 6.8,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 2935
+ },
+ {
+  "key": "albanie|rodon|416:194",
+  "src": "albanie-macedoine-montenegro.json#28",
+  "n": "Cap de Rodon",
+  "p": "Albanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Velipojë (AL, 32.7 km)",
+   "ref": {
+    "name": "Durrës",
+    "geonameid": 3185728,
+    "y": 41.32355,
+    "x": 19.45469,
+    "km": 29.1,
+    "statedKm": 30
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 11,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 2937
+ },
+ {
+  "key": "albanie|dhermi|401:196",
+  "src": "albanie-macedoine-montenegro.json#10",
+  "n": "Dhërmi",
+  "p": "Albanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dhërmi (AL, 0.5 km)",
+   "ref": {
+    "name": "Himarë",
+    "geonameid": 3185377,
+    "y": 40.10167,
+    "x": 19.74472,
+    "km": 10.7,
+    "statedKm": 12
+   },
+   "status": "vérifié",
+   "snapped": 0.5
+  },
+  "links": {
+   "geonames": null
+  },
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 2938
+ },
+ {
+  "key": "albanie|kukes|421:204",
+  "src": "albanie-macedoine-montenegro.json#31",
+  "n": "Kukës",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kukës (AL, 0.0 km)",
+   "ref": {
+    "name": "Kukës",
+    "geonameid": 782661,
+    "y": 42.07694,
+    "x": 20.42194,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 782661,
+   "qid": "Q210197"
+  },
+  "score": {
+   "tour": 8,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 2939
+ },
+ {
+  "key": "albanie|permet|402:204",
+  "src": "albanie-macedoine-montenegro.json#18",
+  "n": "Përmet",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Përmet (AL, 0.2 km)",
+   "ref": {
+    "name": "Përmet",
+    "geonameid": null,
+    "y": 40.233996,
+    "x": 20.351998,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.19
+  },
+  "links": {
+   "geonames": 782070,
+   "qid": "Q642856"
+  },
+  "score": {
+   "tour": 11,
+   "van": 11,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 60,
+  "decision": "retenu",
+  "i": 2940
+ },
+ {
+  "key": "albanie|ardenica|408:196",
+  "src": "albanie-macedoine-montenegro.json#20",
+  "n": "Monastère d'Ardenica",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kolonjë (AL, 1.5 km)",
+   "ref": {
+    "name": "Lushnjë",
+    "geonameid": 3184862,
+    "y": 40.94194,
+    "x": 19.705,
+    "km": 16.7,
+    "statedKm": 15
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 2942
+ },
+ {
+  "key": "albanie|shengjin|418:196",
+  "src": "albanie-macedoine-montenegro.json#25",
+  "n": "Shëngjin",
+  "p": "Albanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Shëngjin (AL, 0.0 km)",
+   "ref": {
+    "name": "Lezhë",
+    "geonameid": 3184935,
+    "y": 41.78361,
+    "x": 19.64361,
+    "km": 5.3,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 2941
+ },
+ {
+  "key": "albanie|bovilla|414:199",
+  "src": "albanie-macedoine-montenegro.json#22",
+  "n": "Lac de Bovilla",
+  "p": "Albanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Zall-Bastar (AL, 1.4 km)",
+   "ref": {
+    "name": "Krujë",
+    "geonameid": 3185082,
+    "y": 41.50917,
+    "x": 19.79278,
+    "km": 13.1,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2943
+ },
+ {
+  "key": "albanie|peshkopi|417:204",
+  "src": "albanie-macedoine-montenegro.json#27",
+  "n": "Peshkopi",
+  "p": "Albanie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Peshkopi (AL, 0.1 km)",
+   "ref": {
+    "name": "Peshkopi",
+    "geonameid": 782061,
+    "y": 41.685,
+    "x": 20.42889,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 782061,
+   "qid": "Q223154"
+  },
+  "score": {
+   "tour": 9,
+   "van": 10,
+   "sing": 7,
+   "val": 8,
+   "acc": 3,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2944
+ },
+ {
+  "key": "albanie|phoenice|399:201",
+  "src": "albanie-macedoine-montenegro.json#16",
+  "n": "Phoenice",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Finiq (AL, 0.8 km)",
+   "ref": {
+    "name": "Sarandë",
+    "geonameid": 363243,
+    "y": 39.87534,
+    "x": 20.00477,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2945
+ },
+ {
+  "key": "albanie|velipoje|419:194",
+  "src": "albanie-macedoine-montenegro.json#24",
+  "n": "Plage de Velipojë",
+  "p": "Albanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.9,
+   "otherCountry": null,
+   "nearestLocality": "Velipojë (AL, 2.9 km)",
+   "ref": {
+    "name": "Shkodër",
+    "geonameid": 3184081,
+    "y": 42.06828,
+    "x": 19.51258,
+    "km": 24.1,
+    "statedKm": 24
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 7,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 58,
+  "decision": "retenu",
+  "i": 2946
+ },
+ {
+  "key": "albanie|mes|421:196",
+  "src": "albanie-macedoine-montenegro.json#26",
+  "n": "Pont de Mes",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Shkodër (AL, 6.0 km)",
+   "ref": {
+    "name": "Shkodër",
+    "geonameid": null,
+    "y": 42.068452,
+    "x": 19.51885,
+    "km": 5.7,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 57,
+  "decision": "retenu",
+  "i": 2947
+ },
+ {
+  "key": "albanie|dardhe|405:208",
+  "src": "albanie-macedoine-montenegro.json#2",
+  "n": "Dardhë",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Drenovë (AL, 7.6 km)",
+   "ref": {
+    "name": "Korçë",
+    "geonameid": 782756,
+    "y": 40.61861,
+    "x": 20.78083,
+    "km": 11.7,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 55,
+  "decision": "retenu",
+  "i": 2948
+ },
+ {
+  "key": "albanie|mesopotam|399:201",
+  "src": "albanie-macedoine-montenegro.json#17",
+  "n": "Monastère de Mesopotam",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Mesopotam (AL, 0.2 km)",
+   "ref": {
+    "name": "Sarandë",
+    "geonameid": 363243,
+    "y": 39.87534,
+    "x": 20.00477,
+    "km": 8.5,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 55,
+  "decision": "retenu",
+  "i": 2950
+ },
+ {
+  "key": "albanie|borsh|401:198",
+  "src": "albanie-macedoine-montenegro.json#12",
+  "n": "Plage de Borsh",
+  "p": "Albanie",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Himarë (AL, 10.3 km)",
+   "ref": {
+    "name": "Himarë",
+    "geonameid": 3185377,
+    "y": 40.10167,
+    "x": 19.74472,
+    "km": 10.3,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 55,
+  "decision": "retenu",
+  "i": 2949
+ },
+ {
+  "key": "albanie|antigonee|401:202",
+  "src": "albanie-macedoine-montenegro.json#15",
+  "n": "Antigonée",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Odrie (AL, 1.0 km)",
+   "ref": {
+    "name": "Gjirokastër",
+    "geonameid": null,
+    "y": 40.078998,
+    "x": 20.149003,
+    "km": 7.1,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 54,
+  "decision": "retenu",
+  "i": 2951
+ },
+ {
+  "key": "albanie|libohove|400:203",
+  "src": "albanie-macedoine-montenegro.json#32",
+  "n": "Libohovë",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Libohovë (AL, 0.0 km)",
+   "ref": {
+    "name": "Gjirokastër",
+    "geonameid": null,
+    "y": 40.078998,
+    "x": 20.149003,
+    "km": 11.1,
+    "statedKm": 12
+   },
+   "status": "vérifié",
+   "snapped": 0.02
+  },
+  "links": {
+   "geonames": 782523
+  },
+  "score": {
+   "tour": 9,
+   "van": 9,
+   "sing": 9,
+   "val": 9,
+   "acc": 3,
+   "rel": 6,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 52,
+  "decision": "retenu",
+  "i": 2952
+ },
+ {
+  "key": "albanie|amantia|404:197",
+  "src": "albanie-macedoine-montenegro.json#14",
+  "n": "Amantia",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sevaster (AL, 4.0 km)",
+   "ref": {
+    "name": "Selenicë",
+    "geonameid": 3184197,
+    "y": 40.53056,
+    "x": 19.63583,
+    "km": 18.5,
+    "statedKm": 18
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 51,
+  "decision": "retenu",
+  "i": 2953
+ },
+ {
+  "key": "albanie|kanine|404:195",
+  "src": "albanie-macedoine-montenegro.json#33",
+  "n": "Château de Kaninë",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kotë (AL, 9.3 km)",
+   "ref": {
+    "name": "Vlorë",
+    "geonameid": 3183719,
+    "y": 40.4686,
+    "x": 19.48318,
+    "km": 4.1,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 51,
+  "decision": "retenu",
+  "i": 2954
+ },
+ {
+  "key": "albanie|petrele|413:199",
+  "src": "albanie-macedoine-montenegro.json#30",
+  "n": "Château de Petrelë",
+  "p": "Albanie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Petrelë (AL, 0.1 km)",
+   "ref": {
+    "name": "Tirana",
+    "geonameid": 3183875,
+    "y": 41.3275,
+    "x": 19.81889,
+    "km": 8.8,
+    "statedKm": 9
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 9,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 51,
+  "decision": "retenu",
+  "i": 2956
+ },
+ {
+  "key": "albanie|sources-drilon|409:207",
+  "src": "albanie-macedoine-montenegro.json#34",
+  "n": "Sources du Drilon",
+  "p": "Albanie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Buçimas (AL, 3.1 km)",
+   "ref": {
+    "name": "Pogradec",
+    "geonameid": null,
+    "y": 40.899996,
+    "x": 20.664001,
+    "km": 4.7,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 51,
+  "decision": "retenu",
+  "i": 2955
+ }
+]

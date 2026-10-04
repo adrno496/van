@@ -1,0 +1,1644 @@
+[
+ {
+  "key": "slovaquie|bojnice|488:186",
+  "src": "slovaquie-hongrie.json#14",
+  "n": "Château de Bojnice",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bojnice (SK, 0.8 km)",
+   "ref": {
+    "name": "Bojnice",
+    "geonameid": 3061015,
+    "y": 48.78511,
+    "x": 18.5864,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 19,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3103
+ },
+ {
+  "key": "slovaquie|kosice|487:213",
+  "src": "slovaquie-hongrie.json#31",
+  "n": "Košice",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Košice (SK, 0.8 km)",
+   "ref": {
+    "name": "Košice",
+    "geonameid": 724443,
+    "y": 48.71395,
+    "x": 21.25808,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.76
+  },
+  "links": {
+   "geonames": 724443,
+   "qid": "Q25409"
+  },
+  "score": {
+   "tour": 19,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 81,
+  "decision": "retenu",
+  "i": 3104
+ },
+ {
+  "key": "slovaquie|orava|493:194",
+  "src": "slovaquie-hongrie.json#19",
+  "n": "Château d'Orava",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Oravský Podzámok (SK, 0.3 km)",
+   "ref": {
+    "name": "Dolný Kubín",
+    "geonameid": 3060405,
+    "y": 49.20983,
+    "x": 19.30341,
+    "km": 7,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 20,
+   "van": 11,
+   "sing": 13,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3105
+ },
+ {
+  "key": "slovaquie|devin|482:170",
+  "src": "slovaquie-hongrie.json#0",
+  "n": "Château de Devín",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0,
+   "otherCountry": "Austria",
+   "nearestLocality": "Devín (SK, 0.4 km)",
+   "ref": {
+    "name": "Bratislava",
+    "geonameid": 3060972,
+    "y": 48.14816,
+    "x": 17.10674,
+    "km": 9.9,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 77,
+  "decision": "retenu",
+  "i": 3106
+ },
+ {
+  "key": "slovaquie|trencin|489:180",
+  "src": "slovaquie-hongrie.json#13",
+  "n": "Trenčín",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Trenčín (SK, 0.1 km)",
+   "ref": {
+    "name": "Trenčín",
+    "geonameid": 3057140,
+    "y": 48.89452,
+    "x": 18.04436,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.11
+  },
+  "links": {
+   "geonames": 3057140
+  },
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3107
+ },
+ {
+  "key": "slovaquie|kremnica|487:189",
+  "src": "slovaquie-hongrie.json#23",
+  "n": "Kremnica",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kremnica (SK, 0.1 km)",
+   "ref": {
+    "name": "Kremnica",
+    "geonameid": 3059282,
+    "y": 48.70519,
+    "x": 18.91834,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.09
+  },
+  "links": {
+   "geonames": 3059282
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3108
+ },
+ {
+  "key": "slovaquie|nitra|483:181",
+  "src": "slovaquie-hongrie.json#10",
+  "n": "Nitra",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nitra (SK, 0.8 km)",
+   "ref": {
+    "name": "Nitra",
+    "geonameid": 3058531,
+    "y": 48.30763,
+    "x": 18.08453,
+    "km": 0.8,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.78
+  },
+  "links": {
+   "geonames": 3058531
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3109
+ },
+ {
+  "key": "slovaquie|trnava|484:176",
+  "src": "slovaquie-hongrie.json#5",
+  "n": "Trnava",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Trnava (SK, 0.1 km)",
+   "ref": {
+    "name": "Trnava",
+    "geonameid": 3057124,
+    "y": 48.37741,
+    "x": 17.58723,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3057124,
+   "qid": "Q26175"
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3110
+ },
+ {
+  "key": "slovaquie|cerveny-kamen|484:173",
+  "src": "slovaquie-hongrie.json#1",
+  "n": "Château de Červený Kameň",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Častá (SK, 2.3 km)",
+   "ref": {
+    "name": "Pezinok",
+    "geonameid": 3058210,
+    "y": 48.28986,
+    "x": 17.26664,
+    "km": 12.3,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3112
+ },
+ {
+  "key": "slovaquie|glace-dobsina|489:203",
+  "src": "slovaquie-hongrie.json#34",
+  "n": "Grotte de glace de Dobšiná",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dobšiná (SK, 7.7 km)",
+   "ref": {
+    "name": "Dobšiná",
+    "geonameid": 724893,
+    "y": 48.82073,
+    "x": 20.36988,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3111
+ },
+ {
+  "key": "slovaquie|cachtice|487:178",
+  "src": "slovaquie-hongrie.json#8",
+  "n": "Château de Čachtice",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Čachtice (SK, 2.3 km)",
+   "ref": {
+    "name": "Čachtice",
+    "geonameid": 3060839,
+    "y": 48.71226,
+    "x": 17.78704,
+    "km": 2.3,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 9,
+   "sing": 12,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3113
+ },
+ {
+  "key": "slovaquie|zadiel|486:208",
+  "src": "slovaquie-hongrie.json#32",
+  "n": "Gorge de Zádiel",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Turňa nad Bodvou (SK, 4.1 km)",
+   "ref": {
+    "name": "Turňa nad Bodvou",
+    "geonameid": null,
+    "y": 48.59999,
+    "x": 20.88093,
+    "km": 4.1,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3114
+ },
+ {
+  "key": "slovaquie|stara-lubovna|493:207",
+  "src": "slovaquie-hongrie.json#29",
+  "n": "Château de Stará Ľubovňa",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stará Ľubovňa (SK, 1.5 km)",
+   "ref": {
+    "name": "Stará Ľubovňa",
+    "geonameid": 723505,
+    "y": 49.29859,
+    "x": 20.6862,
+    "km": 1.5,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3115
+ },
+ {
+  "key": "slovaquie|rochers-sulov|492:186",
+  "src": "slovaquie-hongrie.json#17",
+  "n": "Rochers de Súľov",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Predmier (SK, 5.0 km)",
+   "ref": {
+    "name": "Bytča",
+    "geonameid": 3060852,
+    "y": 49.22404,
+    "x": 18.55878,
+    "km": 6.4,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3116
+ },
+ {
+  "key": "slovaquie|cicmany|490:185",
+  "src": "slovaquie-hongrie.json#20",
+  "n": "Čičmany",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tužina (SK, 9.8 km)",
+   "ref": {
+    "name": "Rajec",
+    "geonameid": 3057910,
+    "y": 49.08899,
+    "x": 18.64007,
+    "km": 17.4,
+    "statedKm": 17
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 13,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3119
+ },
+ {
+  "key": "slovaquie|lomnicky-stit|492:202",
+  "src": "slovaquie-hongrie.json#37",
+  "n": "Lomnický štít",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vysoké Tatry (SK, 6.9 km)",
+   "ref": {
+    "name": "Vysoké Tatry",
+    "geonameid": 723119,
+    "y": 49.13637,
+    "x": 20.24386,
+    "km": 6.9,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3117
+ },
+ {
+  "key": "slovaquie|skalica|488:172",
+  "src": "slovaquie-hongrie.json#9",
+  "n": "Skalica",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Skalica (SK, 0.0 km)",
+   "ref": {
+    "name": "Skalica",
+    "geonameid": 3057630,
+    "y": 48.8449,
+    "x": 17.22635,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3057630
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3121
+ },
+ {
+  "key": "slovaquie|spania|488:191",
+  "src": "slovaquie-hongrie.json#24",
+  "n": "Špania Dolina",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Nemce (SK, 6.3 km)",
+   "ref": {
+    "name": "Banská Bystrica",
+    "geonameid": 3061186,
+    "y": 48.73946,
+    "x": 19.15349,
+    "km": 7.8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 11,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3120
+ },
+ {
+  "key": "slovaquie|strbske-pleso|491:201",
+  "src": "slovaquie-hongrie.json#36",
+  "n": "Štrbské Pleso",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Štrba (SK, 6.8 km)",
+   "ref": {
+    "name": "Štrba",
+    "geonameid": 723468,
+    "y": 49.05913,
+    "x": 20.07975,
+    "km": 6.8,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 2
+  },
+  "total": 66,
+  "decision": "retenu",
+  "i": 3118
+ },
+ {
+  "key": "slovaquie|kezmarok|491:204",
+  "src": "slovaquie-hongrie.json#27",
+  "n": "Kežmarok",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kežmarok (SK, 0.3 km)",
+   "ref": {
+    "name": "Kežmarok",
+    "geonameid": 724503,
+    "y": 49.13571,
+    "x": 20.43352,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.28
+  },
+  "links": {
+   "geonames": 724503
+  },
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 9,
+   "src": 5,
+   "geo": 2
+  },
+  "total": 65,
+  "decision": "retenu",
+  "i": 3122
+ },
+ {
+  "key": "slovaquie|beckov|488:179",
+  "src": "slovaquie-hongrie.json#15",
+  "n": "Château de Beckov",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ivanovce (SK, 4.5 km)",
+   "ref": {
+    "name": "Nové Mesto nad Váhom",
+    "geonameid": 3058477,
+    "y": 48.75763,
+    "x": 17.8309,
+    "km": 6,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3123
+ },
+ {
+  "key": "slovaquie|bois-tvrdosin|493:196",
+  "src": "slovaquie-hongrie.json#22",
+  "n": "Église en bois de Tvrdošín",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tvrdošín (SK, 0.1 km)",
+   "ref": {
+    "name": "Tvrdošín",
+    "geonameid": 3057063,
+    "y": 49.337,
+    "x": 19.556,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 9,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 64,
+  "decision": "retenu",
+  "i": 3124
+ },
+ {
+  "key": "slovaquie|bois-hronsek|486:192",
+  "src": "slovaquie-hongrie.json#25",
+  "n": "Église en bois de Hronsek",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vlkanová (SK, 2.8 km)",
+   "ref": {
+    "name": "Sliač",
+    "geonameid": null,
+    "y": 48.61668,
+    "x": 19.13715,
+    "km": 3.7,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {
+   "unesco": "https://whc.unesco.org/en/list/1273"
+  },
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3126
+ },
+ {
+  "key": "slovaquie|aragonite-ochtina|487:203",
+  "src": "slovaquie-hongrie.json#33",
+  "n": "Grotte d'aragonite d'Ochtiná",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jelšava (SK, 6.3 km)",
+   "ref": {
+    "name": "Jelšava",
+    "geonameid": null,
+    "y": 48.62908,
+    "x": 20.24141,
+    "km": 6.3,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 14,
+   "val": 13,
+   "acc": 3,
+   "rel": 5,
+   "src": 3,
+   "geo": 4
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3125
+ },
+ {
+  "key": "slovaquie|komarno|478:181",
+  "src": "slovaquie-hongrie.json#11",
+  "n": "Komárno",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": "Hungary",
+   "nearestLocality": "Komárno (SK, 0.6 km)",
+   "ref": {
+    "name": "Komárno",
+    "geonameid": 3059436,
+    "y": 47.76356,
+    "x": 18.12263,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.62
+  },
+  "links": {
+   "geonames": 3059436
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3128
+ },
+ {
+  "key": "slovaquie|andy-warhol-medzilaborce|493:219",
+  "src": "slovaquie-hongrie.json#41",
+  "n": "Musée Andy Warhol de Medzilaborce",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Medzilaborce (SK, 0.1 km)",
+   "ref": {
+    "name": "Medzilaborce",
+    "geonameid": 724156,
+    "y": 49.27195,
+    "x": 21.90073,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 12,
+   "val": 8,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3129
+ },
+ {
+  "key": "slovaquie|presov|490:212",
+  "src": "slovaquie-hongrie.json#30",
+  "n": "Prešov",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Prešov (SK, 0.4 km)",
+   "ref": {
+    "name": "Prešov",
+    "geonameid": null,
+    "y": 48.999734,
+    "x": 21.239365,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.43
+  },
+  "links": {
+   "geonames": 723819,
+   "qid": "Q26119"
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 63,
+  "decision": "retenu",
+  "i": 3127
+ },
+ {
+  "key": "slovaquie|strecno|492:189",
+  "src": "slovaquie-hongrie.json#18",
+  "n": "Château de Strečno",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Strečno » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Varín (SK, 3.0 km)",
+   "ref": {
+    "name": "Varín",
+    "geonameid": null,
+    "y": 49.20229,
+    "x": 18.87073,
+    "km": 3,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 6,
+   "src": 1,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3130
+ },
+ {
+  "key": "slovaquie|piestany|486:178",
+  "src": "slovaquie-hongrie.json#7",
+  "n": "Piešťany",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Piešťany (SK, 0.1 km)",
+   "ref": {
+    "name": "Piešťany",
+    "geonameid": 3058202,
+    "y": 48.59479,
+    "x": 17.82591,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3058202
+  },
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 8,
+   "val": 8,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 62,
+  "decision": "retenu",
+  "i": 3131
+ },
+ {
+  "key": "slovaquie|modra|483:173",
+  "src": "slovaquie-hongrie.json#2",
+  "n": "Modra",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Modra (SK, 0.1 km)",
+   "ref": {
+    "name": "Modra",
+    "geonameid": 3058663,
+    "y": 48.33397,
+    "x": 17.30711,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.08
+  },
+  "links": {
+   "geonames": 3058663
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 8,
+   "acc": 4,
+   "rel": 10,
+   "src": 5,
+   "geo": 6
+  },
+  "total": 61,
+  "decision": "retenu",
+  "i": 3132
+ },
+ {
+  "key": "slovaquie|sastin|486:171",
+  "src": "slovaquie-hongrie.json#4",
+  "n": "Basilique de Šaštín",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Šaštín-Stráže (SK, 0.2 km)",
+   "ref": {
+    "name": "Šaštín-Stráže",
+    "geonameid": null,
+    "y": 48.63721,
+    "x": 17.1453,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 59,
+  "decision": "retenu",
+  "i": 3133
+ },
+ {
+  "key": "slovaquie|bois-hervartov|492:212",
+  "src": "slovaquie-hongrie.json#26",
+  "n": "Église en bois de Hervartov",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kľušov (SK, 4.7 km)",
+   "ref": {
+    "name": "Bardejov",
+    "geonameid": 725168,
+    "y": 49.29175,
+    "x": 21.27271,
+    "km": 7.7,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 5,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "slovaquie|zilina|492:187",
+  "src": "slovaquie-hongrie.json#21",
+  "n": "Žilina",
+  "p": "Slovaquie",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Žilina (SK, 0.0 km)",
+   "ref": {
+    "name": "Žilina",
+    "geonameid": 3056508,
+    "y": 49.22315,
+    "x": 18.73941,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 3056508,
+   "qid": "Q25797"
+  },
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 7,
+   "val": 8,
+   "acc": 5,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 58
+ },
+ {
+  "key": "slovaquie|smolenice|485:174",
+  "src": "slovaquie-hongrie.json#6",
+  "n": "Château de Smolenice",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Smolenice (SK, 0.6 km)",
+   "ref": {
+    "name": "Smolenice",
+    "geonameid": 3057552,
+    "y": 48.50478,
+    "x": 17.43067,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "slovaquie|bois-ladomirova|493:216",
+  "src": "slovaquie-hongrie.json#28",
+  "n": "Église en bois de Ladomirová",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "UNESCO annoncé, point de la liste UNESCO éloigné (bien en série ou à vérifier)"
+  ],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Svidník (SK, 4.5 km)",
+   "ref": {
+    "name": "Svidník",
+    "geonameid": 723417,
+    "y": 49.30819,
+    "x": 21.5703,
+    "km": 4.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 5,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "slovaquie|topolcianky|484:184",
+  "src": "slovaquie-hongrie.json#12",
+  "n": "Topoľčianky",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Topoľčianky (SK, 0.7 km)",
+   "ref": {
+    "name": "Topoľčianky",
+    "geonameid": null,
+    "y": 48.41615,
+    "x": 18.41282,
+    "km": 0.7,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 8,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 57
+ },
+ {
+  "key": "slovaquie|manin|491:185",
+  "src": "slovaquie-hongrie.json#16",
+  "n": "Gorge de Manín",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Plevník-Drienové (SK, 4.0 km)",
+   "ref": {
+    "name": "Považská Bystrica",
+    "geonameid": 3058060,
+    "y": 49.12153,
+    "x": 18.42169,
+    "km": 6.1,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 9,
+   "sing": 10,
+   "val": 9,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "slovaquie|jasov|487:210",
+  "src": "slovaquie-hongrie.json#39",
+  "n": "Monastère de Jasov",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Jasov (SK, 0.5 km)",
+   "ref": {
+    "name": "Moldava nad Bodvou",
+    "geonameid": 724111,
+    "y": 48.61428,
+    "x": 20.99957,
+    "km": 7.4,
+    "statedKm": 7
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 56
+ },
+ {
+  "key": "slovaquie|danubiana|480:172",
+  "src": "slovaquie-hongrie.json#3",
+  "n": "Danubiana",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Hamuliakovo (SK, 1.0 km)",
+   "ref": {
+    "name": "Šamorín",
+    "geonameid": 3057757,
+    "y": 48.03015,
+    "x": 17.30972,
+    "km": 5.4,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 10,
+   "val": 8,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "slovaquie|zemplinska-sirava|488:220",
+  "src": "slovaquie-hongrie.json#40",
+  "n": "Lac Zemplínska šírava",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Vinné (SK, 2.4 km)",
+   "ref": {
+    "name": "Michalovce",
+    "geonameid": 724144,
+    "y": 48.75434,
+    "x": 21.9195,
+    "km": 5.9,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 9,
+   "sing": 6,
+   "val": 7,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 55
+ },
+ {
+  "key": "slovaquie|manoir-betliar|487:205",
+  "src": "slovaquie-hongrie.json#35",
+  "n": "Manoir de Betliar",
+  "p": "Slovaquie",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Rožňava (SK, 5.5 km)",
+   "ref": {
+    "name": "Rožňava",
+    "geonameid": 723713,
+    "y": 48.66009,
+    "x": 20.53758,
+    "km": 5.5,
+    "statedKm": 5
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 54
+ },
+ {
+  "key": "slovaquie|belianska|492:203",
+  "src": "slovaquie-hongrie.json#38",
+  "n": "Grotte de Belianska",
+  "p": "Slovaquie",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Lendak (SK, 3.3 km)",
+   "ref": {
+    "name": "Kežmarok",
+    "geonameid": 724503,
+    "y": 49.13571,
+    "x": 20.43352,
+    "km": 13.7,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 11,
+   "van": 8,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 53
+ }
+]

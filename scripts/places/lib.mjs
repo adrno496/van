@@ -23,6 +23,10 @@ export const COUNTRIES = {
   'Luxembourg': ['LU', 'Luxembourg'], 'Lituanie': ['LT', 'Lithuania'], 'Lettonie': ['LV', 'Latvia'], 'Estonie': ['EE', 'Estonia'],
   'Andorre': ['AD', 'Andorra'], 'Finlande': ['FI', 'Finland']
 };
+// Territoires rattachés à un pays du catalogue mais dessinés à part sur la carte (contour) ou codés à part dans GeoNames.
+export const ATTACHED = { 'Finlande': { shapes: ['Åland'], cc: ['AX'] } };
+export const shapeNames = (p) => [COUNTRIES[p][1], ...((ATTACHED[p] || {}).shapes || [])];
+export const ccOf = (p) => [COUNTRIES[p][0], ...((ATTACHED[p] || {}).cc || [])];
 export const CATEGORIES = ['ville', 'nature', 'patrimoine', 'plage', 'pratique', 'boulot', 'base'];
 export const TOURIST_CATEGORIES = ['ville', 'nature', 'patrimoine', 'plage'];
 

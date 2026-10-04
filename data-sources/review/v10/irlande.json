@@ -1,0 +1,1320 @@
+[
+ {
+  "key": "irlande|slea-head|521:-105",
+  "src": "royaume-uni-irlande.json#61",
+  "n": "Slea Head",
+  "p": "Irlande",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Dingle (IE, 13.3 km)",
+   "ref": {
+    "name": "Dingle",
+    "geonameid": 2964782,
+    "y": 52.14083,
+    "x": -10.26889,
+    "km": 13.3,
+    "statedKm": 13
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 18,
+   "van": 13,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 78,
+  "decision": "retenu",
+  "i": 3443
+ },
+ {
+  "key": "irlande|clonmacnoise|533:-80",
+  "src": "royaume-uni-irlande.json#83",
+  "n": "Clonmacnoise",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Athlone (IE, 11.2 km)",
+   "ref": {
+    "name": "Athlone",
+    "geonameid": 3313472,
+    "y": 53.42278,
+    "x": -7.93722,
+    "km": 11.2,
+    "statedKm": 11
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 8,
+   "sing": 12,
+   "val": 14,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3444
+ },
+ {
+  "key": "irlande|kilkenny|527:-72",
+  "src": "royaume-uni-irlande.json#88",
+  "n": "Kilkenny",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kilkenny (IE, 0.5 km)",
+   "ref": {
+    "name": "Kilkenny",
+    "geonameid": 2963398,
+    "y": 52.65417,
+    "x": -7.25222,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.5
+  },
+  "links": {
+   "geonames": 2963398,
+   "qid": "Q109092"
+  },
+  "score": {
+   "tour": 16,
+   "van": 8,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 76,
+  "decision": "retenu",
+  "i": 3445
+ },
+ {
+  "key": "irlande|falaises-slieve-league|546:-87",
+  "src": "royaume-uni-irlande.json#84",
+  "n": "Falaises de Slieve League",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Killybegs (IE, 15.0 km)",
+   "ref": {
+    "name": "Donegal",
+    "geonameid": null,
+    "y": 54.650009,
+    "x": -8.116673,
+    "km": 36.5,
+    "statedKm": 37
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 17,
+   "van": 11,
+   "sing": 12,
+   "val": 13,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 75,
+  "decision": "retenu",
+  "i": 3446
+ },
+ {
+  "key": "irlande|dingle|521:-103",
+  "src": "royaume-uni-irlande.json#60",
+  "n": "Dingle",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dingle (IE, 0.0 km)",
+   "ref": {
+    "name": "Dingle",
+    "geonameid": 2964782,
+    "y": 52.14083,
+    "x": -10.26889,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.01
+  },
+  "links": {
+   "geonames": 2964782
+  },
+  "score": {
+   "tour": 16,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3447
+ },
+ {
+  "key": "irlande|downpatrick-head|543:-93",
+  "src": "royaume-uni-irlande.json#79",
+  "n": "Downpatrick Head",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 1,
+   "otherCountry": null,
+   "nearestLocality": "Inishcrone (IE, 20.4 km)",
+   "ref": {
+    "name": "Ballina",
+    "geonameid": 2966778,
+    "y": 54.11667,
+    "x": -9.16667,
+    "km": 25.9,
+    "statedKm": 26
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 74,
+  "decision": "retenu",
+  "i": 3448
+ },
+ {
+  "key": "irlande|croagh-patrick|538:-97",
+  "src": "royaume-uni-irlande.json#77",
+  "n": "Croagh Patrick",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Westport (IE, 10.3 km)",
+   "ref": {
+    "name": "Westport",
+    "geonameid": 2960970,
+    "y": 53.8,
+    "x": -9.51667,
+    "km": 10.3,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3449
+ },
+ {
+  "key": "irlande|achill|540:-102",
+  "src": "royaume-uni-irlande.json#78",
+  "n": "Île d'Achill",
+  "p": "Irlande",
+  "c": "plage",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Belmullet (IE, 31.5 km)",
+   "ref": {
+    "name": "Westport",
+    "geonameid": 2960970,
+    "y": 53.8,
+    "x": -9.51667,
+    "km": 48.3,
+    "statedKm": 48
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 12,
+   "sing": 11,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 73,
+  "decision": "retenu",
+  "i": 3450
+ },
+ {
+  "key": "irlande|cobh|519:-83",
+  "src": "royaume-uni-irlande.json#66",
+  "n": "Cobh",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 2.3,
+   "otherCountry": null,
+   "nearestLocality": "Cobh (IE, 0.0 km)",
+   "ref": {
+    "name": "Cobh",
+    "geonameid": 2965260,
+    "y": 51.85046,
+    "x": -8.2948,
+    "km": 0,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.04
+  },
+  "links": {
+   "geonames": 2965260
+  },
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 10,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3451
+ },
+ {
+  "key": "irlande|galway|533:-91",
+  "src": "royaume-uni-irlande.json#74",
+  "n": "Galway",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Gaillimh (IE, 0.4 km)",
+   "ref": {
+    "name": "Galway",
+    "geonameid": null,
+    "y": 53.27245,
+    "x": -9.05095,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.43
+  },
+  "links": {
+   "geonames": null,
+   "qid": "Q129610"
+  },
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3452
+ },
+ {
+  "key": "irlande|kinsale|517:-85",
+  "src": "royaume-uni-irlande.json#65",
+  "n": "Kinsale",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Kinsale (IE, 0.6 km)",
+   "ref": {
+    "name": "Kinsale",
+    "geonameid": 2963155,
+    "y": 51.7075,
+    "x": -8.53056,
+    "km": 0.6,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.6
+  },
+  "links": {
+   "geonames": 2963155
+  },
+  "score": {
+   "tour": 14,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3453
+ },
+ {
+  "key": "irlande|malin-head|554:-74",
+  "src": "royaume-uni-irlande.json#85",
+  "n": "Malin Head",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Carndonagh (IE, 16.1 km)",
+   "ref": {
+    "name": "Buncrana",
+    "geonameid": 2654332,
+    "y": 55.13333,
+    "x": -7.45,
+    "km": 28,
+    "statedKm": 28
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3454
+ },
+ {
+  "key": "irlande|mizen-head|514:-98",
+  "src": "royaume-uni-irlande.json#64",
+  "n": "Mizen Head",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Bantry (IE, 36.0 km)",
+   "ref": {
+    "name": "Bantry",
+    "geonameid": 2966356,
+    "y": 51.68025,
+    "x": -9.45254,
+    "km": 36,
+    "statedKm": 36
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 11,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 72,
+  "decision": "retenu",
+  "i": 3455
+ },
+ {
+  "key": "irlande|peninsule-beara|516:-100",
+  "src": "royaume-uni-irlande.json#63",
+  "n": "Péninsule de Beara",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cahersiveen (IE, 36.6 km)",
+   "ref": {
+    "name": "Bantry",
+    "geonameid": 2966356,
+    "y": 51.68025,
+    "x": -9.45254,
+    "km": 41.1,
+    "statedKm": 41
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 13,
+   "sing": 10,
+   "val": 12,
+   "acc": 3,
+   "rel": 6,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3456
+ },
+ {
+  "key": "irlande|waterford|523:-71",
+  "src": "royaume-uni-irlande.json#71",
+  "n": "Waterford",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Waterford (IE, 0.2 km)",
+   "ref": {
+    "name": "Waterford",
+    "geonameid": 2960992,
+    "y": 52.25833,
+    "x": -7.11194,
+    "km": 0.2,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.17
+  },
+  "links": {
+   "geonames": 2960992,
+   "qid": "Q183551"
+  },
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 11,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 10
+  },
+  "total": 71,
+  "decision": "retenu",
+  "i": 3457
+ },
+ {
+  "key": "irlande|carrowmore|543:-85",
+  "src": "royaume-uni-irlande.json#82",
+  "n": "Carrowmore",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Ballysadare (IE, 4.4 km)",
+   "ref": {
+    "name": "Sligo",
+    "geonameid": null,
+    "y": 54.267061,
+    "x": -8.483317,
+    "km": 2.9,
+    "statedKm": 4
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3458
+ },
+ {
+  "key": "irlande|cahir|524:-79",
+  "src": "royaume-uni-irlande.json#70",
+  "n": "Château de Cahir",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cahir (IE, 0.4 km)",
+   "ref": {
+    "name": "Cahir",
+    "geonameid": 2965873,
+    "y": 52.37694,
+    "x": -7.92167,
+    "km": 0.4,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 8,
+   "sing": 9,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3459
+ },
+ {
+  "key": "irlande|trim|536:-68",
+  "src": "royaume-uni-irlande.json#91",
+  "n": "Château de Trim",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Trim (IE, 0.1 km)",
+   "ref": {
+    "name": "Trim",
+    "geonameid": 2961107,
+    "y": 53.555,
+    "x": -6.79167,
+    "km": 0.1,
+    "statedKm": 0
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3460
+ },
+ {
+  "key": "irlande|loop-head|526:-99",
+  "src": "royaume-uni-irlande.json#72",
+  "n": "Loop Head",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.1,
+   "otherCountry": null,
+   "nearestLocality": "Ballybunnion (IE, 18.4 km)",
+   "ref": {
+    "name": "Kilrush",
+    "geonameid": 2963218,
+    "y": 52.64011,
+    "x": -9.48509,
+    "km": 31.3,
+    "statedKm": 31
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 11,
+   "sing": 10,
+   "val": 11,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 70,
+  "decision": "retenu",
+  "i": 3461
+ },
+ {
+  "key": "irlande|kylemore|536:-99",
+  "src": "royaume-uni-irlande.json#75",
+  "n": "Abbaye de Kylemore",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Westport (IE, 36.1 km)",
+   "ref": {
+    "name": "Westport",
+    "geonameid": 2960970,
+    "y": 53.8,
+    "x": -9.51667,
+    "km": 36.1,
+    "statedKm": 36
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 16,
+   "van": 9,
+   "sing": 10,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 6
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3462
+ },
+ {
+  "key": "irlande|ceide-fields|543:-95",
+  "src": "royaume-uni-irlande.json#80",
+  "n": "Céide Fields",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.4,
+   "otherCountry": null,
+   "nearestLocality": "Crossmolina (IE, 24.8 km)",
+   "ref": {
+    "name": "Ballina",
+    "geonameid": 2966778,
+    "y": 54.11667,
+    "x": -9.16667,
+    "km": 28.4,
+    "statedKm": 29
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 13,
+   "val": 13,
+   "acc": 4,
+   "rel": 6,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3463
+ },
+ {
+  "key": "irlande|phare-fanad-head|553:-76",
+  "src": "royaume-uni-irlande.json#86",
+  "n": "Phare de Fanad Head",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.8,
+   "otherCountry": null,
+   "nearestLocality": "Ramelton (IE, 26.6 km)",
+   "ref": {
+    "name": "Buncrana",
+    "geonameid": 2654332,
+    "y": 55.13333,
+    "x": -7.45,
+    "km": 19.6,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 10,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 10,
+   "src": 3,
+   "geo": 10
+  },
+  "total": 69,
+  "decision": "retenu",
+  "i": 3464
+ },
+ {
+  "key": "irlande|blarney|519:-86",
+  "src": "royaume-uni-irlande.json#68",
+  "n": "Château de Blarney",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Blarney (IE, 0.6 km)",
+   "ref": {
+    "name": "Blarney",
+    "geonameid": 2966107,
+    "y": 51.93333,
+    "x": -8.56667,
+    "km": 0.6,
+    "statedKm": 1
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 7,
+   "sing": 10,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 68,
+  "decision": "retenu",
+  "i": 3465
+ },
+ {
+  "key": "irlande|cork|519:-85",
+  "src": "royaume-uni-irlande.json#67",
+  "n": "Cork",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cork (IE, 0.3 km)",
+   "ref": {
+    "name": "Cork",
+    "geonameid": 2965140,
+    "y": 51.89797,
+    "x": -8.47061,
+    "km": 0.3,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.35
+  },
+  "links": {
+   "geonames": 2965140,
+   "qid": "Q36647"
+  },
+  "score": {
+   "tour": 14,
+   "van": 7,
+   "sing": 8,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3467
+ },
+ {
+  "key": "irlande|grianan-aileach|550:-74",
+  "src": "royaume-uni-irlande.json#87",
+  "n": "Grianán of Aileach",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Culmore (GB, 10.7 km)",
+   "ref": {
+    "name": "Buncrana",
+    "geonameid": 2654332,
+    "y": 55.13333,
+    "x": -7.45,
+    "km": 12.3,
+    "statedKm": 12
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 8,
+   "sing": 11,
+   "val": 11,
+   "acc": 4,
+   "rel": 10,
+   "src": 3,
+   "geo": 8
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3468
+ },
+ {
+  "key": "irlande|westport|538:-95",
+  "src": "royaume-uni-irlande.json#76",
+  "n": "Westport",
+  "p": "Irlande",
+  "c": "ville",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Westport (IE, 0.5 km)",
+   "ref": {
+    "name": "Westport",
+    "geonameid": 2960970,
+    "y": 53.8,
+    "x": -9.51667,
+    "km": 0.5,
+    "statedKm": 0
+   },
+   "status": "vérifié",
+   "snapped": 0.54
+  },
+  "links": {
+   "geonames": 2960970
+  },
+  "score": {
+   "tour": 14,
+   "van": 10,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5,
+   "geo": 4
+  },
+  "total": 67,
+  "decision": "retenu",
+  "i": 3466
+ },
+ {
+  "key": "irlande|jerpoint|525:-72",
+  "src": "royaume-uni-irlande.json#89",
+  "n": "Abbaye de Jerpoint",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Thomastown (IE, 2.3 km)",
+   "ref": {
+    "name": "Thomastown",
+    "geonameid": 2961224,
+    "y": 52.52667,
+    "x": -7.13722,
+    "km": 2.3,
+    "statedKm": 2
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "irlande|adare|526:-88",
+  "src": "royaume-uni-irlande.json#73",
+  "n": "Adare",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Adare (IE, 0.4 km)",
+   "ref": {
+    "name": "Limerick",
+    "geonameid": null,
+    "y": 52.664704,
+    "x": -8.62305,
+    "km": 15.9,
+    "statedKm": 15
+   },
+   "status": "vérifié",
+   "snapped": 0.41
+  },
+  "links": {
+   "geonames": 2967076
+  },
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 5,
+   "rel": 10,
+   "src": 5
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "irlande|gap-dunloe|520:-96",
+  "src": "royaume-uni-irlande.json#62",
+  "n": "Gap of Dunloe",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Cill Airne (IE, 9.6 km)",
+   "ref": {
+    "name": "Killarney",
+    "geonameid": null,
+    "y": 52.0504,
+    "x": -9.516665,
+    "km": 8.6,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 15,
+   "van": 10,
+   "sing": 10,
+   "val": 12,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "irlande|monasterboice|538:-64",
+  "src": "royaume-uni-irlande.json#92",
+  "n": "Monasterboice",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Tullyallen (IE, 4.6 km)",
+   "ref": {
+    "name": "Drogheda",
+    "geonameid": null,
+    "y": 53.719265,
+    "x": -6.347763,
+    "km": 8,
+    "statedKm": 8
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 7,
+   "sing": 11,
+   "val": 13,
+   "acc": 4,
+   "rel": 10,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "irlande|phare-hook-head|521:-69",
+  "src": "royaume-uni-irlande.json#90",
+  "n": "Phare de Hook Head",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [
+   "localité « Tramore » absente du gazetier : contrôle par la localité la plus proche"
+  ],
+  "geo": {
+   "inCountry": false,
+   "borderKm": 0.2,
+   "otherCountry": null,
+   "nearestLocality": "Dunmore East (IE, 5.6 km)",
+   "ref": {
+    "name": "Dunmore East",
+    "geonameid": 2964492,
+    "y": 52.15108,
+    "x": -6.99872,
+    "km": 5.6,
+    "statedKm": null,
+    "fallback": true
+   },
+   "status": "partiel"
+  },
+  "links": {},
+  "score": {
+   "tour": 13,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 1
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 66
+ },
+ {
+  "key": "irlande|benbulben|544:-85",
+  "src": "royaume-uni-irlande.json#81",
+  "n": "Benbulben",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Sligo (IE, 10.8 km)",
+   "ref": {
+    "name": "Sligo",
+    "geonameid": 2961423,
+    "y": 54.26969,
+    "x": -8.46943,
+    "km": 10.8,
+    "statedKm": 10
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 14,
+   "van": 9,
+   "sing": 12,
+   "val": 11,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 65
+ },
+ {
+  "key": "irlande|gougane-barra|518:-93",
+  "src": "royaume-uni-irlande.json#69",
+  "n": "Gougane Barra",
+  "p": "Irlande",
+  "c": "nature",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Dunmanway (IE, 19.4 km)",
+   "ref": {
+    "name": "Bantry",
+    "geonameid": 2966356,
+    "y": 51.68025,
+    "x": -9.45254,
+    "km": 19.9,
+    "statedKm": 20
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 12,
+   "van": 9,
+   "sing": 10,
+   "val": 10,
+   "acc": 3,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 63
+ },
+ {
+  "key": "irlande|rock-dunamase|530:-72",
+  "src": "royaume-uni-irlande.json#93",
+  "n": "Rock of Dunamase",
+  "p": "Irlande",
+  "c": "patrimoine",
+  "issues": [],
+  "flags": [],
+  "geo": {
+   "inCountry": true,
+   "borderKm": 0,
+   "otherCountry": null,
+   "nearestLocality": "Stradbally (IE, 4.3 km)",
+   "ref": {
+    "name": "Portlaoise",
+    "geonameid": 2962026,
+    "y": 53.03441,
+    "x": -7.29979,
+    "km": 5.9,
+    "statedKm": 6
+   },
+   "status": "vérifié"
+  },
+  "links": {},
+  "score": {
+   "tour": 10,
+   "van": 7,
+   "sing": 9,
+   "val": 10,
+   "acc": 4,
+   "rel": 6,
+   "src": 3
+  },
+  "decision": "réserve",
+  "reason": "cible du pays atteinte par de meilleurs candidats",
+  "total": 59
+ }
+]

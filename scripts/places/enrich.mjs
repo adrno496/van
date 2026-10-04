@@ -17,7 +17,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {
   COUNTRIES, TOURIST_CATEGORIES, SOURCES_DIR, REF_DIR, LIEUX_DIR, noac, slugOf, km, nameCore, sameName, dupName, dupNames,
-  countryShapes, insideShape, distanceToShape, gazetteer, loadData, readCountryFile, writeCountryFile, readJSON, writeJSON
+  countryShapes, insideShape, distanceToShape, gazetteer, shapeNames, ccOf, loadData, readCountryFile, writeCountryFile, readJSON, writeJSON
 } from './lib.mjs';
 
 const args = process.argv.slice(2);
@@ -41,7 +41,7 @@ const SEASON_OK = /^(toute l'année|Saison et accès à vérifier)$|(jan|fév|fe
 const DATA = loadData(), SHAPES = countryShapes(DATA.pays), G = gazetteer();
 const UNESCO = readJSON(path.join(REF_DIR, 'unesco-europe.json'), { sites: [] }).sites;
 const NE = readJSON(path.join(REF_DIR, 'naturalearth-places-europe.json'), { places: [] }).places;
-const shapeOf = (p) => SHAPES.find((s) => s.n === COUNTRIES[p][1]);
+const shapesOf = (p) => SHAPES.filter((s) => shapeNames(p).includes(s.n));
 const cellOf = (p) => Math.floor(p.x * 2) + ':' + Math.floor(p.y * 2);   // ~ 40 × 55 km
 export const keyOf = (c) => slugOf(c.p) + '|' + slugOf(nameCore(c.n)) + '|' + Math.round(c.y * 10) + ':' + Math.round(c.x * 10);
 
@@ -56,9 +56,11 @@ const keep = new Set(decisions.keep || []), drop = decisions.drop || {};
 const ledger = readJSON(LEDGER, {});
 
 const raw = [];
+// Corrections de texte arbitrées à la revue (« Pays|Nom » → champs remplacés), tracées dans _decisions.json.
+const edits = decisions.edit || {};
 for (const f of fs.readdirSync(CAND_DIR).filter((f) => f.endsWith('.json') && !f.startsWith('_')).sort()) {
   const list = JSON.parse(fs.readFileSync(path.join(CAND_DIR, f), 'utf8'));
-  list.forEach((c, k) => raw.push({ ...c, _src: `${f}#${k}` }));
+  list.forEach((c, k) => { const e = edits[c.p + '|' + c.n]; raw.push({ ...c, ...(e ? e.set : {}), _src: `${f}#${k}`, _edited: !!e }); });
 }
 
 /* ── 2. Contrôles de chaque candidat ── */
@@ -80,26 +82,33 @@ function check(c) {
   if (/^(Localité|Lieu|Site) (situé|située)/i.test(c.d)) out.issues.push('description générique');
   if (out.issues.length) return out;
   out.key = keyOf(c);
-  const cc = COUNTRIES[c.p][0], shape = shapeOf(c.p);
+  const ccs = ccOf(c.p), cc = ccs[0], shapes = shapesOf(c.p);
 
   // Appartenance au pays (contours simplifiés de la carte : tolérance côtière et frontalière)
-  const inside = insideShape(shape, c), border = inside ? 0 : distanceToShape(shape, c);
-  const other = SHAPES.find((s) => s !== shape && insideShape(s, c));
+  const inside = shapes.some((s) => insideShape(s, c)), border = inside ? 0 : Math.min(...shapes.map((s) => distanceToShape(s, c)));
+  const other = SHAPES.find((s) => !shapes.includes(s) && insideShape(s, c));
   out.geo.inCountry = inside; out.geo.borderKm = +border.toFixed(1); out.geo.otherCountry = other ? other.n : null;
   const swapped = { x: c.y, y: c.x };
-  if (!inside && insideShape(shape, swapped)) out.issues.push('latitude et longitude inversées');
+  if (!inside && shapes.some((s) => insideShape(s, swapped))) out.issues.push('latitude et longitude inversées');
   const nearestAny = G.nearest(c);
   out.geo.nearestLocality = nearestAny ? `${nearestAny.n} (${nearestAny.cc}, ${nearestAny.km.toFixed(1)} km)` : null;
   if (!inside) {
     if (other && border > 2) out.issues.push(`point dans un autre pays (${other.n}), à ${border.toFixed(1)} km de ${c.p}`);
-    else if (border > 12 && !(nearestAny && nearestAny.cc === cc && nearestAny.km < 15)) out.issues.push(`point hors du pays (${border.toFixed(1)} km), probablement en mer`);
+    else if (border > 12 && !(nearestAny && ccs.includes(nearestAny.cc) && nearestAny.km < 15)) out.issues.push(`point hors du pays (${border.toFixed(1)} km), probablement en mer`);
     else if (border > 3) out.flags.push(`hors des contours simplifiés (${border.toFixed(1)} km) : côte ou île`);
   }
 
   // Localité de référence déclarée : distance cohérente avec celle annoncée
-  const homonyms = [c.near, ...c.near.split(/[\/,(]/)].map((n) => G.find(cc, n)).flat();
-  const neMatch = NE.filter((p) => p.cc === cc && [p.n, p.fr].some((n) => n && noac(n) === noac(c.near)));
-  const refs = [...homonyms, ...neMatch.map((p) => ({ n: p.n, y: p.y, x: p.x, id: null }))];
+  const homonyms = ccs.flatMap((k) => [c.near, ...c.near.split(/[\/,(]/)].map((n) => G.find(k, n)).flat());
+  const neMatch = NE.filter((p) => ccs.includes(p.cc) && [p.n, p.fr].some((n) => n && noac(n) === noac(c.near)));
+  let refs = [...homonyms, ...neMatch.map((p) => ({ n: p.n, y: p.y, x: p.x, id: null }))];
+  // Homonyme lointain (« Irakleio » d'Attique pour Héraklion de Crète) alors qu'une localité du pays est tout près :
+  // le nom déclaré n'est pas celui du gazetier ; on contrôle alors par la localité la plus proche.
+  const closest = ccs.map((k) => G.nearest(c, { cc: k })).filter(Boolean).sort((a, b) => a.km - b.km)[0];
+  if (refs.length && Math.min(...refs.map((r) => km(c, r))) > 100 && closest && closest.km <= Math.max(10, (Number(c.nearKm) || 0) + 5)) {
+    out.flags.push(`« ${c.near} » ne correspond qu'à un homonyme lointain : contrôle par ${closest.n} (${closest.km.toFixed(1)} km)`);
+    refs = [];
+  }
   if (refs.length) {
     const ref = refs.map((r) => ({ r, d: km(c, r) })).sort((a, b) => a.d - b.d)[0];
     // La distance mesurée doit concorder avec la distance annoncée : écart toléré max(5 km, 50 % de l'annoncé).
@@ -110,9 +119,12 @@ function check(c) {
     if (gap > allowed) out.issues.push(`à ${ref.d.toFixed(1)} km de ${c.near} (annoncé ${stated} km) : coordonnées incohérentes`);
     out.geo.status = gap <= allowed ? 'vérifié' : 'écart';
   } else {
-    const loc = G.nearest(c, { cc });
+    // Repli : la localité du pays la plus proche, à moins de 40 km — 90 km dans les zones presque vides (Laponie,
+    // nord de Gotland…) si le point est franchement à l'intérieur du pays.
+    const loc = closest, limit = inside ? 90 : 40;
     out.geo.ref = loc ? { name: loc.n, geonameid: loc.id, y: loc.y, x: loc.x, km: +loc.km.toFixed(1), statedKm: null, fallback: true } : null;
-    if (!loc || loc.km > 40) out.issues.push(`localité « ${c.near} » introuvable et aucune localité du pays à moins de 40 km`);
+    if (!loc || loc.km > limit) out.issues.push(`localité « ${c.near} » introuvable et aucune localité du pays à moins de ${limit} km`);
+    else if (loc.km > 40) out.flags.push(`zone peu peuplée : localité la plus proche à ${loc.km.toFixed(0)} km`);
     out.geo.status = 'partiel';
     out.flags.push(`localité « ${c.near} » absente du gazetier : contrôle par la localité la plus proche`);
   }
@@ -120,11 +132,11 @@ function check(c) {
   // Une ville ou un village présent dans GeoNames prend les coordonnées et la référence GeoNames.
   if (c.c === 'ville' || /village|ville|bourg|cité|town|port/i.test(c.q)) {
     const names = [c.n, ...c.alt];
-    const town = names.map((n) => G.find(cc, n)).flat().map((r) => ({ r, d: km(c, r) })).filter((o) => o.d < 6).sort((a, b) => a.d - b.d)[0];
+    const town = ccs.flatMap((k) => names.map((n) => G.find(k, n)).flat()).map((r) => ({ r, d: km(c, r) })).filter((o) => o.d < 6).sort((a, b) => a.d - b.d)[0];
     if (town) {
       out.links.geonames = town.r.id; out.geo.snapped = +town.d.toFixed(2);
       c.y = town.r.y; c.x = town.r.x;
-      const ne = NE.find((p) => p.cc === cc && p.qid && km(p, town.r) < 5 && [p.n, p.fr].some((n) => names.some((m) => noac(m) === noac(n))));
+      const ne = NE.find((p) => ccs.includes(p.cc) && p.qid && km(p, town.r) < 5 && [p.n, p.fr].some((n) => names.some((m) => noac(m) === noac(n))));
       if (ne) out.links.qid = ne.qid;
     }
   }

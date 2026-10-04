@@ -9,7 +9,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import {
-  COUNTRIES, CATEGORIES, TOURIST_CATEGORIES, SOURCES_DIR, km, sameName, dupName, countryShapes, insideShape, distanceToShape, gazetteer, loadData, loadPlaces, readJSON, writeJSON, slugOf
+  COUNTRIES, CATEGORIES, TOURIST_CATEGORIES, SOURCES_DIR, shapeNames, ccOf, km, sameName, dupName, countryShapes, insideShape, distanceToShape, gazetteer, loadData, loadPlaces, readJSON, writeJSON, slugOf
 } from './lib.mjs';
 import { catalogue, PERSONAL } from '../../build/planner.mjs';
 
@@ -67,11 +67,12 @@ info.total = { before: baseline.total, after: places.length };
 /* Géographie : pays annoncé, mer, inversion, collisions */
 info.geo = { outside: [], swapped: [], tooFar: [] };
 for (const L of places) {
-  const shape = SHAPES.find((s) => s.n === (COUNTRIES[L.p] || [])[1]); if (!shape) continue;
-  if (insideShape(shape, L)) continue;
-  const border = distanceToShape(shape, L), other = SHAPES.find((s) => s !== shape && insideShape(s, L));
-  const loc = G.nearest(L), sameCC = loc && loc.cc === COUNTRIES[L.p][0] && loc.km < 15;
-  const swapped = insideShape(shape, { x: L.y, y: L.x });
+  if (!COUNTRIES[L.p]) continue;
+  const shapes = SHAPES.filter((s) => shapeNames(L.p).includes(s.n));
+  if (shapes.some((s) => insideShape(s, L))) continue;
+  const border = Math.min(...shapes.map((s) => distanceToShape(s, L))), other = SHAPES.find((s) => !shapes.includes(s) && insideShape(s, L));
+  const loc = G.nearest(L), sameCC = loc && ccOf(L.p).includes(loc.cc) && loc.km < 15;
+  const swapped = shapes.some((s) => insideShape(s, { x: L.y, y: L.x }));
   const report = isNew(L) ? fail : warn, tag = `${L.i} « ${L.n} » (${L.p})`;
   if (swapped) { info.geo.swapped.push(L.i); report('geo', `${tag} : latitude et longitude probablement inversées`); }
   else if (other && border > 2) { info.geo.outside.push(L.i); report('geo', `${tag} : point dans ${other.n}, à ${border.toFixed(1)} km du pays annoncé`); }
@@ -93,9 +94,9 @@ for (const L of fresh) {
   info.fresh.geoStatus[r.geo.status] = (info.fresh.geoStatus[r.geo.status] || 0) + 1;
   if (r.geo.ref && r.geo.ref.y != null) {
     // Même règle que enrich.mjs (écart max(5 km, 50 %) entre distance mesurée et annoncée), +1 km pour les villes
-    // recalées sur GeoNames ; contrôle de repli : localité du pays la plus proche à moins de 40 km.
+    // recalées sur GeoNames ; contrôle de repli : localité du pays la plus proche à moins de 40 km (90 km dans le pays, zones presque vides).
     const d = km(L, r.geo.ref), stated = r.geo.ref.statedKm || 0;
-    if (r.geo.ref.fallback ? d > 40 : Math.abs(d - stated) > Math.max(5, stated * 0.5) + 1) fail('geo', `${tag} : à ${d.toFixed(1)} km de sa localité de référence ${r.geo.ref.name} (annoncé ${stated} km)`);
+    if (r.geo.ref.fallback ? d > (r.geo.inCountry ? 90 : 40) : Math.abs(d - stated) > Math.max(5, stated * 0.5) + 1) fail('geo', `${tag} : à ${d.toFixed(1)} km de sa localité de référence ${r.geo.ref.name} (annoncé ${stated} km)`);
   }
   if (!['nature', 'patrimoine', 'ville', 'plage'].includes(L.c)) fail('categorie', `${tag} : une nouvelle fiche doit être touristique (pas « ${L.c} »)`);
   if (L.d.length < 40) fail('texte', `${tag} : description trop courte`);
