@@ -1,0 +1,294 @@
+{
+  "dir": "/tmp/claude-0/-home-user-van/95c70645-2663-5e28-9de4-242abdde10ce/scratchpad/base5",
+  "publicDir": "/tmp/claude-0/-home-user-van/95c70645-2663-5e28-9de4-242abdde10ce/scratchpad/base5/dist/public/app",
+  "generatedAt": "2026-10-04T12:41:49.305Z",
+  "durationS": 59,
+  "totals": {
+    "tests": 36,
+    "pass": 36,
+    "fail": 0
+  },
+  "measures": {
+    "svgNodes": 3702,
+    "import2000Ms": 2275,
+    "endurance": {
+      "apres1tour": {
+        "nodes": 7345,
+        "listeners": 184,
+        "heapMb": 7.16,
+        "dom": 5250,
+        "labels": 206
+      },
+      "apres5tours": {
+        "nodes": 7345,
+        "listeners": 184,
+        "heapMb": 7.18,
+        "dom": 5250,
+        "labels": 206
+      }
+    },
+    "longRoute": {
+      "paintMs": 85,
+      "filterMs": 89,
+      "favShown": 300,
+      "steps": 200,
+      "nums": 200,
+      "overflow": 0,
+      "numsAfter": 0
+    }
+  },
+  "results": [
+    {
+      "group": "marqueurs",
+      "title": "un seul élément SVG par lieu, noms dans un calque à part",
+      "status": "PASS",
+      "detail": "",
+      "ms": 8
+    },
+    {
+      "group": "marqueurs",
+      "title": "chaque catégorie a sa forme, sur la carte et dans la légende",
+      "status": "PASS",
+      "detail": "",
+      "ms": 177
+    },
+    {
+      "group": "marqueurs",
+      "title": "contour d'épaisseur constante à l'écran, sans non-scaling-stroke",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1121
+    },
+    {
+      "group": "marqueurs",
+      "title": "survol : le lieu le plus proche est désigné, comme au clic",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1247
+    },
+    {
+      "group": "marqueurs",
+      "title": "catégorie modifiée : la forme et le halo suivent",
+      "status": "PASS",
+      "detail": "",
+      "ms": 20
+    },
+    {
+      "group": "marqueurs",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "retour-mobile",
+      "title": "aperçu d'un lieu : « retour » le referme, la page reste ouverte",
+      "status": "PASS",
+      "detail": "",
+      "ms": 427
+    },
+    {
+      "group": "retour-mobile",
+      "title": "fenêtre puis rubrique : un « retour » par niveau",
+      "status": "PASS",
+      "detail": "",
+      "ms": 854
+    },
+    {
+      "group": "retour-mobile",
+      "title": "éditeur du carnet : « retour » enregistre le brouillon et revient à la liste",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1348
+    },
+    {
+      "group": "retour-mobile",
+      "title": "retour à la carte par l'interface : aucune entrée d'historique en trop",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1538
+    },
+    {
+      "group": "retour-mobile",
+      "title": "grand écran : l'historique n'est pas touché",
+      "status": "PASS",
+      "detail": "",
+      "ms": 876
+    },
+    {
+      "group": "retour-mobile",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "securite-etendue",
+      "title": "liens : seuls http et https sont acceptés",
+      "status": "PASS",
+      "detail": "",
+      "ms": 30
+    },
+    {
+      "group": "securite-etendue",
+      "title": "source d'une fiche en « javascript: » : aucun lien produit",
+      "status": "PASS",
+      "detail": "",
+      "ms": 67
+    },
+    {
+      "group": "securite-etendue",
+      "title": "carnet piégé (titre, texte, légende, lieu, auteur) : restauré comme du texte",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2420
+    },
+    {
+      "group": "securite-etendue",
+      "title": "blog exporté depuis un carnet piégé : aucun script, aucun gestionnaire, texte échappé",
+      "status": "PASS",
+      "detail": "",
+      "ms": 798
+    },
+    {
+      "group": "securite-etendue",
+      "title": "photo hostile (SVG, URL distante, javascript:) : sauvegarde refusée en bloc",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3678
+    },
+    {
+      "group": "securite-etendue",
+      "title": "pollution de prototype par un fichier : sans effet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2160
+    },
+    {
+      "group": "securite-etendue",
+      "title": "JSON mal formé, tronqué, mauvais types, très profond : refusés sans casse",
+      "status": "PASS",
+      "detail": "",
+      "ms": 5988
+    },
+    {
+      "group": "securite-etendue",
+      "title": "chaînes très longues : tronquées aux limites, interface intacte",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3456
+    },
+    {
+      "group": "securite-etendue",
+      "title": "import volumineux : 2 000 étapes acceptées, 2 001 refusées",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3442
+    },
+    {
+      "group": "securite-etendue",
+      "title": "politique de sécurité : un gestionnaire injecté est bloqué par le navigateur",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1077
+    },
+    {
+      "group": "securite-etendue",
+      "title": "aucune requête réseau pendant l'usage (recherche, fiche, trajet, carnet, export)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1355
+    },
+    {
+      "group": "securite-etendue",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "endurance",
+      "title": "zoom, déplacement, filtres, navigation, fiches répétés : ni nœuds, ni écouteurs, ni mémoire accumulés",
+      "status": "PASS",
+      "detail": "",
+      "ms": 16180
+    },
+    {
+      "group": "endurance",
+      "title": "long trajet (200 étapes) et 300 favoris : interface réactive, rien ne déborde",
+      "status": "PASS",
+      "detail": "",
+      "ms": 511
+    },
+    {
+      "group": "endurance",
+      "title": "restauration complète juste après le démarrage : un enregistrement en attente ne l'écrase pas",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1923
+    },
+    {
+      "group": "endurance",
+      "title": "carnet volumineux (60 articles, 120 photos) : restauration, affichage, images libérées à la suppression",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2745
+    },
+    {
+      "group": "endurance",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "public",
+      "title": "démarrage : tous les lieux publics, aucune base, aucune erreur",
+      "status": "PASS",
+      "detail": "",
+      "ms": 20
+    },
+    {
+      "group": "public",
+      "title": "aucun texte personnel dans le fichier ni dans la page",
+      "status": "PASS",
+      "detail": "",
+      "ms": 263
+    },
+    {
+      "group": "public",
+      "title": "rubrique « Bases d'hébergement » absente, recherche sans résultat personnel",
+      "status": "PASS",
+      "detail": "",
+      "ms": 175
+    },
+    {
+      "group": "public",
+      "title": "toutes les idées de parcours se chargent, sans étape manquante",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1120
+    },
+    {
+      "group": "public",
+      "title": "données d'une version personnelle (trajet et notes sur des bases) : démarrage propre, le reste conservé",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1049
+    },
+    {
+      "group": "public",
+      "title": "politique de sécurité et absence de requête : identiques à la version personnelle",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3
+    },
+    {
+      "group": "public",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    }
+  ]
+}

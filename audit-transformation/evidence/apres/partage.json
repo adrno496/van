@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-04T13:41:44.929Z",
+  "engine": "Chromium + serveur de développement (PGlite)",
+  "totals": {
+    "tests": 19,
+    "pass": 19,
+    "fail": 0
+  },
+  "results": [
+    {
+      "title": "espace fermé (sans « community ») : état honnête, aucune connexion autorisée ni tentée, aucun script de Partage",
+      "status": "PASS",
+      "detail": "",
+      "ms": 166
+    },
+    {
+      "title": "lecture sans compte : liste des contributions publiées seulement, recherche, filtres, fiche, badge « Communauté »",
+      "status": "PASS",
+      "detail": "",
+      "ms": 892
+    },
+    {
+      "title": "compte : inscription, pseudo, proposition avec aperçu et confirmation, statut « en attente », modération, publication",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1201
+    },
+    {
+      "title": "XSS stockée : même un contenu hostile présent en base est affiché comme du texte ; lien javascript: jamais rendu",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1061
+    },
+    {
+      "title": "formulaire : circuit (étapes réordonnées), spot (position arrondie), retour d'expérience ; modifier la sienne ; jamais celle d'un autre",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1977
+    },
+    {
+      "title": "pagination : 12 par page, « Voir plus » ajoute la suite sans doublon",
+      "status": "PASS",
+      "detail": "",
+      "ms": 725
+    },
+    {
+      "title": "circuit → Planner : « Ajouter à mon Planner » et « Créer mon circuit » font une copie locale, l'original et le catalogue restent intacts",
+      "status": "PASS",
+      "detail": "",
+      "ms": 4500
+    },
+    {
+      "title": "spot → « Ajouter à mes lieux » : lieu personnel, jamais dans le catalogue ; lien piégé refusé sans effet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 3142
+    },
+    {
+      "title": "Planner → Partage : aperçu, étapes décochables, lieu de base jamais partagé, notes absentes, rien d'envoyé sans confirmation",
+      "status": "PASS",
+      "detail": "",
+      "ms": 4216
+    },
+    {
+      "title": "favoris, « utile », signalement depuis la fiche ; trois signalements retirent la contribution",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1421
+    },
+    {
+      "title": "sans droits côté navigateur : page de modération inutilisable sans rôle serveur, jeton forgé refusé, attaques directes de l'API refusées",
+      "status": "PASS",
+      "detail": "",
+      "ms": 393
+    },
+    {
+      "title": "photos (stockage imité) : dossier d'un autre compte, faux type, SVG, HTML et taille refusés ; lecture seulement si la contribution est visible",
+      "status": "PASS",
+      "detail": "",
+      "ms": 232
+    },
+    {
+      "title": "photos depuis le formulaire : recompressées sur l'appareil (GPS retiré), description obligatoire, visibles seulement une fois publiées",
+      "status": "PASS",
+      "detail": "",
+      "ms": 897
+    },
+    {
+      "title": "débit : inscriptions et tentatives de connexion limitées par adresse (serveur imité) ; contributions limitées par la base",
+      "status": "PASS",
+      "detail": "",
+      "ms": 4865
+    },
+    {
+      "title": "serveur injoignable : bandeau, pages lisibles, blog intact, aucune relance automatique",
+      "status": "PASS",
+      "detail": "",
+      "ms": 7670
+    },
+    {
+      "title": "CSP : seule l'origine du serveur communautaire est joignable, et seulement depuis les pages de Partage",
+      "status": "PASS",
+      "detail": "",
+      "ms": 404
+    },
+    {
+      "title": "dist : aucune clé de service, aucun secret, aucun outil de développement publié ; seule la clé anon est présente",
+      "status": "PASS",
+      "detail": "",
+      "ms": 64
+    },
+    {
+      "title": "compte : export de ses données, déconnexion, suppression du compte confirmée par le pseudo",
+      "status": "PASS",
+      "detail": "",
+      "ms": 557
+    },
+    {
+      "title": "accessibilité et mobile : champs nommés, pas de débordement à 320 px, cibles de 44 px",
+      "status": "PASS",
+      "detail": "",
+      "ms": 5053
+    }
+  ]
+}

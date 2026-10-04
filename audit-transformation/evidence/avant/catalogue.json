@@ -1,0 +1,156 @@
+{
+  "dir": "/tmp/claude-0/-home-user-van/95c70645-2663-5e28-9de4-242abdde10ce/scratchpad/base5",
+  "batch": "v10",
+  "generatedAt": "2026-10-04T12:42:18.498Z",
+  "measures": {
+    "validate": {
+      "errors": 0,
+      "warnings": 15,
+      "total": {
+        "before": 1600,
+        "after": 3400
+      },
+      "fresh": {
+        "count": 1800,
+        "withSource": 708,
+        "withQid": 148,
+        "geoStatus": {
+          "vérifié": 1771,
+          "partiel": 29
+        }
+      },
+      "collisions": 5
+    },
+    "build_personal_ms": 378,
+    "build_public_ms": 391,
+    "places": {
+      "personal": 3400,
+      "public": 3395,
+      "fresh": 1800
+    },
+    "site": {
+      "pages": 35,
+      "sitemap": false
+    },
+    "readyMs": 449.30000000074506,
+    "searchMs": {
+      "median": 2.1,
+      "max": 20
+    },
+    "filterMs": {
+      "Italie": 10.7,
+      "France": 10.1,
+      "Espagne": 7.3,
+      "Andorre": 6.7,
+      "Luxembourg": 4.5
+    },
+    "addCountry": {
+      "Italie": {
+        "steps": 34,
+        "ms": 20.6
+      },
+      "France": {
+        "steps": 29,
+        "ms": 14.8
+      },
+      "Espagne": {
+        "steps": 24,
+        "ms": 9.3
+      }
+    },
+    "labels": {
+      "europe": {
+        "shown": 206,
+        "overlaps": 0,
+        "markers": 3400
+      },
+      "Italie": {
+        "shown": 205,
+        "overlaps": 0,
+        "markers": 3400
+      },
+      "France": {
+        "shown": 220,
+        "overlaps": 0,
+        "markers": 3400
+      },
+      "Espagne": {
+        "shown": 174,
+        "overlaps": 0,
+        "markers": 3400
+      },
+      "Italie zoomée": {
+        "shown": 106,
+        "overlaps": 0,
+        "markers": 3400
+      }
+    }
+  },
+  "results": [
+    {
+      "name": "données : validate.mjs — quotas, identifiants, QID, coordonnées, pays, catégories, format, provenance, public",
+      "status": "PASS",
+      "ms": 17763
+    },
+    {
+      "name": "construction : Planner personnel et public avec le catalogue enrichi (≥ 3 200 lieux)",
+      "status": "PASS",
+      "ms": 833
+    },
+    {
+      "name": "site : pages destinations et compteurs suivent le catalogue",
+      "status": "PASS",
+      "ms": 992
+    },
+    {
+      "name": "démarrage : tous les lieux chargés et dessinés, aucune erreur",
+      "status": "PASS",
+      "ms": 562
+    },
+    {
+      "name": "recherche : 30 nouveaux lieux, répartis dans tous les pays, se trouvent par leur nom",
+      "status": "PASS",
+      "ms": 1004
+    },
+    {
+      "name": "filtre pays : Italie, France, Espagne et petits pays — la carte et la liste ne montrent que ce pays",
+      "status": "PASS",
+      "ms": 693
+    },
+    {
+      "name": "« Ajouter tout un pays » : les incontournables d'Italie, de France et d'Espagne entrent dans le trajet",
+      "status": "PASS",
+      "ms": 763
+    },
+    {
+      "name": "liens profonds : #pays=, #lieu= et #q= vers de nouveaux lieux",
+      "status": "PASS",
+      "ms": 1714
+    },
+    {
+      "name": "carte lisible : noms limités et sans chevauchement en vue d'ensemble et dans les pays denses (Italie, France, Espagne)",
+      "status": "PASS",
+      "ms": 2263
+    },
+    {
+      "name": "Explorer : « Voir 24 lieux de plus » et « Nouveautés » montrent le nouveau lot",
+      "status": "PASS",
+      "ms": 538
+    },
+    {
+      "name": "« Près de moi » : les nouveaux lieux voisins sont proposés",
+      "status": "PASS",
+      "ms": 563
+    },
+    {
+      "name": "mobile : carte dense de l'Italie utilisable (filtre, zoom, aperçu d'un nouveau lieu)",
+      "status": "PASS",
+      "ms": 816
+    },
+    {
+      "name": "version publique : nouvelles fiches présentes, aucune base",
+      "status": "PASS",
+      "ms": 30
+    }
+  ]
+}

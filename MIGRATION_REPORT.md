@@ -15,8 +15,8 @@ nouveau n'est écrit dans `atlasvan.v3`, qui reste lisible par la version préc�
 
 Contrôles : `tests/migration.mjs --old audit-refonte-v3/baseline/index.v2-final.html --new index.html` (sauvegardes et
 données de l'ancienne version relues par la nouvelle) — voir `TEST_REPORT.md` ; e2e « sauvegarde », « carnet »,
-« lieux personnels » ; `tests/partage.mjs` (import d'un circuit et d'un spot : `atlasvan.v3` relu après rechargement,
-catalogue inchangé, lieux personnels non dupliqués).
+« lieux personnels » ; `tests/partage.mjs` (import d'un circuit et d'un spot : trajet enregistré dans `atlasvan.v3`, lieux personnels
+retrouvés au chargement suivant sans doublon, catalogue inchangé).
 
 Aucune donnée locale n'est effacée par cette version. La seule suppression nouvelle est volontaire et confirmée :
 « Supprimer mon compte » (côté serveur Partage), qui n'efface rien sur l'appareil hormis la session Partage.
