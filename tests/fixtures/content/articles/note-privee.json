@@ -1,0 +1,8 @@
+{
+  "slug": "note-privee",
+  "title": "Note privée de test à ne jamais publier",
+  "date": "2026-03-11",
+  "text": "Contenu privé de la note de test : publié mais pas public.",
+  "visibility": "private",
+  "status": "published"
+}

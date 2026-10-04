@@ -1,0 +1,33 @@
+baseline-apparie — charge 6.28 — médiane de 5 démarrages (ms)
+phase                   ordinateur  mobile×4
+FCP                        96        172
+DATA_PARSE                 22         91
+APP_SCRIPT                 91        398
+COMPILE                    52        235
+COUNTRY_RENDER             18         73
+MARKER_RENDER              13         61
+WIRE                       11         50
+LISTS                       7         34
+VIEW_FIRST_LAYOUT          15         67
+INITIAL_FILTER_LABELS      13         53
+ROUTE                       6         21
+BOOT_TOTAL                 87        378
+READY                     223        923
+PARSE_HTML                132        582
+LAYOUT                     30        113
+RECALC_STYLE               27        121
+PAINT                      39        113
+GC                          9         28
+LONG_TASKS                  1          3
+LONG_TASK_MAX              92        403
+LONG_TASK_TOTAL            92        609
+BLOCKING_TIME_AFTER_FCP    24        459
+interaction (tâche)     ordinateur  mobile×4   [script/style/layout mobile]
+FIRST_INTERACTION          24        109      [2/39/26]
+ZOOM                       32        114      [0/32/12]
+PAN                       261        603      [29/49/146]
+FILTER_APPLY               54        230      [124/56/16]
+SEARCH                     50        117      [114/1/0]
+SHOW_PLACE                 27        171      [0/78/52]
+ROUTE_51                   65        282      [63/67/89]
+DOM {"total":9603,"svg":6647,"markerNodes":6405,"markers":1600,"textNodes":1681,"labelsShown":77,"groups":1658,"countryPaths":47,"jsEventListeners":189,"heapUsedMb":6.6,"documents":6}

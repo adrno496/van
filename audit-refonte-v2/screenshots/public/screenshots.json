@@ -1,0 +1,128 @@
+{
+  "dir": "/Users/dreano/Downloads/van-main/dist-public",
+  "url": "http://127.0.0.1:60100/",
+  "generatedAt": "2026-10-04T07:31:48.978Z",
+  "shots": [
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "01-carte",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "04-trajet",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "08-parametres",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "09-filtres",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "10-recherche",
+      "file": "audit-refonte-v2/screenshots/public/desktop-1440x900__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "01-carte",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "04-trajet",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "08-parametres",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "09-filtres",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "10-recherche",
+      "file": "audit-refonte-v2/screenshots/public/mobile-390x844__10-recherche.png",
+      "horizontalOverflowPx": 0
+    }
+  ],
+  "errors": {}
+}

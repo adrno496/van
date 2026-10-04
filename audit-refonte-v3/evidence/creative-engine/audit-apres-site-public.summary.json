@@ -1,0 +1,2034 @@
+{
+ "run": {
+  "id": "audit_1791105570129",
+  "engine": "9.1.0",
+  "mode": "BALANCED",
+  "created_at": "2026-10-04T09:19:30.129Z"
+ },
+ "subject": {
+  "hash": "3b0f3a27cec3a7580a6f95d1fa99eb011891a7365362f432a84bc5f8eb3cc03c",
+  "files": 77
+ },
+ "certification": {
+  "status": "FAIL",
+  "blockers": [
+   "ACCESSIBILITY_MANUAL_REVIEW",
+   "PERFORMANCE_LAB_LIGHTHOUSE",
+   "PROJECT_SPEC_FACTUAL_CONTEXT"
+  ]
+ },
+ "quality": 79,
+ "metrics": {
+  "metrics": {
+   "value": null,
+   "status": null,
+   "evidence_level": null
+  }
+ },
+ "static": {
+  "security": {
+   "status": "PARTIAL",
+   "score": null
+  },
+  "html": {
+   "status": "PASS",
+   "score": null
+  },
+  "links": {
+   "status": "PASS",
+   "score": null
+  },
+  "seo": {
+   "status": "FAIL",
+   "score": {
+    "name": "SEO_TECHNICAL_SCORE",
+    "layer": "static",
+    "value": 66.7,
+    "axes": {
+     "A": {
+      "axis": "A",
+      "name": "HTML et métadonnées",
+      "weight": 20,
+      "findings": 4,
+      "score": 91
+     },
+     "B": {
+      "axis": "B",
+      "name": "Indexabilité",
+      "weight": 20,
+      "findings": 2,
+      "score": 85
+     },
+     "C": {
+      "axis": "C",
+      "name": "Données structurées",
+      "weight": 12,
+      "findings": 0,
+      "score": 100
+     },
+     "D": {
+      "axis": "D",
+      "name": "Graphe de liens et conversion",
+      "weight": 15,
+      "findings": 767,
+      "score": 0
+     },
+     "E": {
+      "axis": "E",
+      "name": "Images",
+      "weight": 10,
+      "findings": 0,
+      "score": 100
+     },
+     "F": {
+      "axis": "F",
+      "name": "Contenu",
+      "weight": 15,
+      "findings": 41,
+      "score": 10
+     },
+     "G": {
+      "axis": "G",
+      "name": "Discovery / IA",
+      "weight": 8,
+      "findings": 0,
+      "score": 100
+     }
+    },
+    "disclaimer": "SEO_TECHNICAL_SCORE est un indicateur de benchmark interne. Ce n’est ni une probabilité de classement, ni un score officiel Google, ni une garantie de trafic ou d’indexation."
+   }
+  },
+  "accessibilityStatic": {
+   "status": "PARTIAL",
+   "score": 90
+  }
+ },
+ "findings": [
+  {
+   "id": "INLINE_EVENT_HANDLER",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "INLINE_SCRIPT",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_KEYWORD_STUFFING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_BROKEN_INTERNAL",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "LINK_NAV_BROKEN",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_THIN",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_THIN",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_THIN",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_THIN",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "LINK_ORPHAN_PAGE",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "SEO_ROBOTS_TXT_MISSING",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_INTENT_UNCLEAR",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_INTENT_UNCLEAR",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_INTENT_UNCLEAR",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_INTENT_UNCLEAR",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "LINK_DUPLICATE_DESTINATION",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "SEO_META_DESCRIPTION_LENGTH_HEURISTIC",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "SEO_ORIGIN_UNKNOWN",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "SEO_ROBOTS_NOINDEX_UNEXPECTED",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "SEO_ROBOTS_NOINDEX_UNEXPECTED",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "SEO_ROBOTS_NOINDEX_UNEXPECTED",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "A11Y_MOBILE_MENU_ESCAPE_MISSING",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-3f37926be1db0aee",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-22da5a903f133d9d",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-6caea6a132d46ff5",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-03bafe704705b660",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-80b1958fa745ea01",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-d618a092aec51ac3",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-8844fb5ae47b9aa6",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-c60b1a6470e36aa4",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-4dcea1c9d5dce77d",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-d90f6be342b40ee8",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-19132e767c49c7ee",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-d30bee31bfca0ac6",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-dc1c48b1843e7f74",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-37c1367a2b865e39",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-79bbdd56f19f8ffc",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-2ff02eee09be4834",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-ff8e1b66b6f06479",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-f2b496583407086d",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-65e0053779172791",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-cab2faeb023619cb",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-fb4225a7f5f6c289",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-77f23e84a9103b79",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-424b71c26be19a26",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-5c52c9d0a79e3c8f",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-a7696772bf1c41d5",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-e4fb600629835303",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-55704939a99a6e49",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-ace063f66f5fcf14",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-0196bc5d2df2484f",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-eddb8e78538646a0",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-1c357255ac0dad8f",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-40645ce9e158ac98",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-d5c0fa1a1666a4b8",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-e5a5b9275561a123",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-8133b6041974899e",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-ec5ed494d3a443f4",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-550448d8d8489bb0",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-0d51e97828ab59f7",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-e28f3c74ef084935",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-1335fee42f6aeca8",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-34dbb305d83f0b7b",
+   "priority": "P1",
+   "title": ""
+  }
+ ],
+ "browser": {
+  "status": "PARTIAL",
+  "summary": {
+   "by_browser": {
+    "chromium": {
+     "status": "PARTIAL",
+     "scenarios": 121
+    }
+   },
+   "responsive": {
+    "status": "PASS",
+    "scenarios": 55,
+    "overflow_scenarios": 0
+   },
+   "console_network": {
+    "status": "PASS",
+    "console_errors": 0,
+    "page_errors": 0,
+    "failed_requests": 0,
+    "http_errors": 0,
+    "third_party_requests": 0
+   },
+   "axe": {
+    "status": "PARTIAL",
+    "scenarios": 55,
+    "violations": 0,
+    "critical_or_serious": 0,
+    "incomplete": 50
+   },
+   "keyboard": {
+    "status": "PASS",
+    "scenarios": 55
+   },
+   "target_size": {
+    "status": "PASS",
+    "below_24_scenarios": 0,
+    "controls_below_44": 30
+   },
+   "skip_link": {
+    "status": "PASS"
+   },
+   "menu": {
+    "status": "PASS"
+   },
+   "forms": {
+    "status": "NA"
+   },
+   "reduced_motion": {
+    "status": "PASS",
+    "scenarios": 22
+   },
+   "zoom": {
+    "status": "PASS",
+    "scenarios": 22
+   },
+   "color_schemes": {
+    "light": {
+     "status": "PARTIAL",
+     "scenarios": 55,
+     "adapted": null
+    }
+   },
+   "rtl": {
+    "status": "NA",
+    "scenarios": 0
+   },
+   "csp": {
+    "status": "PASS",
+    "violations": 0
+   },
+   "seo_runtime": {
+    "status": "PASS",
+    "findings": 0
+   }
+  },
+  "scenarios": [
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      24
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      26
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      22
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      31
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      31
+     ]
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      71
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      84
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      172
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      189
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      269
+     ]
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      68
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      66
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      68
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      65
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      66
+     ]
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      93
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      92
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ],
+     [
+      "color-contrast",
+      83
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      87
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      74
+     ]
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "aria-valid-attr-value",
+      1
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   }
+  ],
+  "by_status": {
+   "PARTIAL": 41,
+   "PASS": 80
+  },
+  "routes": [
+   "/",
+   "/a-propos/",
+   "/app/",
+   "/carnet/",
+   "/confidentialite/",
+   "/destinations/",
+   "/guides/",
+   "/mentions/",
+   "/recherche/",
+   "/road-trips/",
+   "/voyages/"
+  ]
+ },
+ "limitations": [
+  "External audit without a ProjectSpec cannot validate factual provenance, business-specific journeys or structured-data business facts.",
+  "Production certification remains PARTIAL until required project-specific and manual gates are executed."
+ ],
+ "findings_by_rule": {
+  "INLINE_EVENT_HANDLER": 1,
+  "INLINE_SCRIPT": 1,
+  "CONTENT_KEYWORD_STUFFING": 33,
+  "LINK_BROKEN_INTERNAL": 26,
+  "LINK_NAV_BROKEN": 1,
+  "CONTENT_THIN": 4,
+  "LINK_BROKEN_ANCHOR": 738,
+  "LINK_ORPHAN_PAGE": 1,
+  "SEO_ROBOTS_TXT_MISSING": 1,
+  "CONTENT_INTENT_UNCLEAR": 4,
+  "LINK_DUPLICATE_DESTINATION": 1,
+  "SEO_META_DESCRIPTION_LENGTH_HEURISTIC": 1,
+  "SEO_ORIGIN_UNKNOWN": 1,
+  "SEO_ROBOTS_NOINDEX_UNEXPECTED": 3,
+  "A11Y_MOBILE_MENU_ESCAPE_MISSING": 1,
+  "BROWSER_SCENARIO": 41
+ }
+}

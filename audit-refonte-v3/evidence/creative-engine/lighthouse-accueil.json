@@ -1,0 +1,57 @@
+{
+ "note": "Commande « lighthouse » du moteur (page d'accueil du site public, 3 passages, médiane).",
+ "site_public_accueil": {
+  "engine_version": "9.1.0",
+  "command": "lighthouse",
+  "status": "PASS",
+  "results": [
+   {
+    "form_factor": "mobile",
+    "status": "PASS",
+    "median": {
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 1112.743,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1112.743,
+      "speed_index_ms": 1112.743,
+      "tti_ms": 1112.743
+     }
+    }
+   },
+   {
+    "form_factor": "desktop",
+    "status": "PASS",
+    "median": {
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 303.499,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 303.499,
+      "speed_index_ms": 303.499,
+      "tti_ms": 303.499
+     }
+    }
+   }
+  ],
+  "limitations": [
+   "Lab measurement on a local loopback server: not field data.",
+   "Core Web Vitals are assessed at the 75th percentile of real users (CrUX/RUM): NOT_TESTED here.",
+   "INP cannot be measured in the lab; TBT is only a proxy.",
+   "Scores vary with host load; the median of several runs is reported together with the spread."
+  ],
+  "reason": null
+ }
+}

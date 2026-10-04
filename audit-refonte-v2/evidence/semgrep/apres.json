@@ -1,0 +1,349 @@
+{
+ "results": 54,
+ "by_rule": {
+  "html-sink-insertadjacenthtml": 9,
+  "json-parse-untrusted": 9,
+  "html-sink-innerhtml": 24,
+  "storage-write": 12
+ },
+ "by_file": {
+  "js/boot.js": 1,
+  "js/data.js": 1,
+  "js/explore.js": 2,
+  "js/journal.js": 17,
+  "js/location.js": 2,
+  "js/map.js": 1,
+  "js/places.js": 7,
+  "js/route.js": 13,
+  "js/shell.js": 3,
+  "js/state.js": 6,
+  "js/util.js": 1
+ },
+ "errors": 0,
+ "details": [
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/boot.js",
+   "line": 6,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/data.js",
+   "line": 6,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/explore.js",
+   "line": 61,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/explore.js",
+   "line": 78,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/journal.js",
+   "line": 34,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/journal.js",
+   "line": 35,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/journal.js",
+   "line": 109,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/journal.js",
+   "line": 163,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/journal.js",
+   "line": 194,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/journal.js",
+   "line": 198,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/journal.js",
+   "line": 219,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/journal.js",
+   "line": 221,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/journal.js",
+   "line": 237,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/journal.js",
+   "line": 264,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/journal.js",
+   "line": 279,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/journal.js",
+   "line": 284,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/journal.js",
+   "line": 342,
+   "severity": "INFO"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/journal.js",
+   "line": 354,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/journal.js",
+   "line": 375,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/journal.js",
+   "line": 378,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/journal.js",
+   "line": 378,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/location.js",
+   "line": 8,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/location.js",
+   "line": 83,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/map.js",
+   "line": 183,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/places.js",
+   "line": 109,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/places.js",
+   "line": 128,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/places.js",
+   "line": 149,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/places.js",
+   "line": 156,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/places.js",
+   "line": 173,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/places.js",
+   "line": 214,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/places.js",
+   "line": 227,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 52,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 70,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 99,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/route.js",
+   "line": 114,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/route.js",
+   "line": 123,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/route.js",
+   "line": 176,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 213,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 234,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/route.js",
+   "line": 253,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 279,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 282,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 286,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/route.js",
+   "line": 348,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/shell.js",
+   "line": 38,
+   "severity": "WARNING"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/shell.js",
+   "line": 121,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/shell.js",
+   "line": 133,
+   "severity": "INFO"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/state.js",
+   "line": 111,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/state.js",
+   "line": 117,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/state.js",
+   "line": 139,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/state.js",
+   "line": 159,
+   "severity": "INFO"
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/state.js",
+   "line": 169,
+   "severity": "INFO"
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/state.js",
+   "line": 170,
+   "severity": "INFO"
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/util.js",
+   "line": 48,
+   "severity": "WARNING"
+  }
+ ]
+}

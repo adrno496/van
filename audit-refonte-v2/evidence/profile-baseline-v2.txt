@@ -1,0 +1,33 @@
+baseline-v2 — charge 5.21 — médiane de 5 démarrages (ms)
+phase                   ordinateur  mobile×4
+FCP                       116        156
+DATA_PARSE                 23         77
+APP_SCRIPT                101        345
+COMPILE                    55        206
+COUNTRY_RENDER             19         62
+MARKER_RENDER              14         53
+WIRE                       12         42
+LISTS                       8         30
+VIEW_FIRST_LAYOUT          16         61
+INITIAL_FILTER_LABELS      16         45
+ROUTE                       7         18
+BOOT_TOTAL                 97        329
+READY                     265        825
+PARSE_HTML                144        504
+LAYOUT                     36         98
+RECALC_STYLE               36        111
+PAINT                      51        104
+GC                         12         23
+LONG_TASKS                  1          3
+LONG_TASK_MAX             102        348
+LONG_TASK_TOTAL           102        529
+BLOCKING_TIME_AFTER_FCP    26        379
+interaction (tâche)     ordinateur  mobile×4   [script/style/layout mobile]
+FIRST_INTERACTION          30         98      [1/36/26]
+ZOOM                       39        104      [1/31/11]
+PAN                       256        557      [23/48/131]
+FILTER_APPLY               93        217      [107/57/18]
+SEARCH                     39        103      [101/1/0]
+SHOW_PLACE                 32        141      [0/65/40]
+ROUTE_51                   77        269      [64/64/77]
+DOM {"total":9603,"svg":6647,"markerNodes":6405,"markers":1600,"textNodes":1681,"labelsShown":77,"groups":1658,"countryPaths":47,"jsEventListeners":189,"heapUsedMb":6.7,"documents":6}

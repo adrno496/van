@@ -1,0 +1,15 @@
+{
+  "slug": "guide-de-test",
+  "title": "Guide de test",
+  "summary": "Un guide rédigé, avec une source.",
+  "text": "Corps du guide de test.",
+  "sources": [
+    {
+      "label": "Source officielle de test",
+      "url": "https://example.org/source"
+    }
+  ],
+  "visibility": "public",
+  "status": "published",
+  "updatedAt": "2026-05-01"
+}

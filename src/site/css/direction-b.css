@@ -1,0 +1,25 @@
+/* Direction B — « Carnet de route contemporain ».
+   Papier, repères et étiquettes : la carte est une page de carnet, l'itinéraire un trait de crayon en pointillé. */
+:root{--hero-bg:#ece3d0;--hero-text:var(--text);--hero-text-2:var(--text-2);--hero-min:min(80vh,780px);--plate-radius:3px;--pl-sea:#e7ecea;--pl-land:#f2ecdf;--pl-land-line:#b7ab94;--pl-hi:#fdf9ef;--pl-dot:#3d5a4a;
+  --r-pill:6px;--section:clamp(48px,7vw,96px)}
+.hero{--pl-sea:#ece3d0;--pl-land:#f6f0e2;--pl-land-line:#a89b82;--pl-dot:#5a6b54;--pl-dot-strong:#8b4618;--pl-route-bg:#f6f0e2}
+.hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#ece3d0 0%,#ece3d0 32%,rgba(236,227,208,.6) 48%,rgba(236,227,208,0) 66%)}
+.hero-title{font-style:italic;font-weight:500}
+.hero-title em{font-style:normal;font-weight:var(--display-weight);color:var(--accent-text)}
+.hero .btn-ghost{color:var(--text)}
+.pl-route{stroke-dasharray:1.6 1.2}
+.card-media{border:1px solid var(--border-strong);box-shadow:5px 5px 0 var(--sand)}
+.card-link:hover .card-media{box-shadow:7px 7px 0 var(--sand)}
+.badge{transform:rotate(-1.5deg);border-style:dashed;background:#fff8e6}
+.section-title{display:inline-block;padding-bottom:6px;border-bottom:3px solid var(--accent)}
+.section-quiet{background-color:var(--surface-2);background-image:linear-gradient(var(--line) 1px,transparent 1px);background-size:100% 34px}
+.band{background:var(--sand);color:var(--text)}
+.band p{color:var(--text-2)}
+.band-title,.atlas-number{color:var(--text)}
+.band .btn-light{background:var(--text);color:var(--surface)}
+.band .btn-light:hover{background:var(--accent);color:var(--on-accent)}
+.stops-numbered > li::before{border-radius:4px;transform:rotate(-3deg)}
+@media (max-width:899px){
+  .hero::before{background:linear-gradient(0deg,#ece3d0 0%,#ece3d0 34%,rgba(236,227,208,.6) 48%,rgba(236,227,208,0) 66%)}
+}
+@media (prefers-reduced-motion:reduce){.badge,.stops-numbered > li::before{transform:none}}

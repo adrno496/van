@@ -1,0 +1,629 @@
+{
+ "semgrep_version": "1.179.0",
+ "scanned": [
+  "js/core.js",
+  "js/layer.js"
+ ],
+ "errors": 0,
+ "counts": {
+  "json-parse-untrusted": 11,
+  "storage-write": 11,
+  "html-sink-innerhtml": 23,
+  "html-sink-insertadjacenthtml": 34,
+  "window-open": 2,
+  "blocking-dialog": 9,
+  "function-reassignment": 32
+ },
+ "results": [
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/core.js",
+   "line": 43
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/core.js",
+   "line": 55
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 254
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 373
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 389
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/core.js",
+   "line": 425
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 448
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 488
+  },
+  {
+   "rule": "window-open",
+   "file": "js/core.js",
+   "line": 519
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 558
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 628
+  },
+  {
+   "rule": "window-open",
+   "file": "js/core.js",
+   "line": 633
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/core.js",
+   "line": 637
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 653
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 709
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 732
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 745
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 747
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 761
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 772
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 781
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 785
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/core.js",
+   "line": 803
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 805
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/core.js",
+   "line": 806
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 807
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 810
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/core.js",
+   "line": 811
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 832
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 833
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 836
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/core.js",
+   "line": 839
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/core.js",
+   "line": 840
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 841
+  },
+  {
+   "rule": "blocking-dialog",
+   "file": "js/core.js",
+   "line": 845
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 856
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 859
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 860
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/core.js",
+   "line": 863
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/core.js",
+   "line": 863
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 7
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 10
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 11
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 12
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 13
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 14
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 14
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 20
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 27
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 30
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 34
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 34
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 35
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 35
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 36
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 36
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 37
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 39
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 46
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 48
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 48
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 49
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 49
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 50
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 56
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 61
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/layer.js",
+   "line": 79
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/layer.js",
+   "line": 80
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 87
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 93
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 93
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 96
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 96
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 98
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 101
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 103
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 104
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 109
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 115
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/layer.js",
+   "line": 115
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/layer.js",
+   "line": 115
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/layer.js",
+   "line": 115
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 120
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 120
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 124
+  },
+  {
+   "rule": "json-parse-untrusted",
+   "file": "js/layer.js",
+   "line": 127
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 130
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 132
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 133
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 135
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 139
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 139
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 140
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 145
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/layer.js",
+   "line": 146
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 150
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 151
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 156
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 159
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 160
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 164
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 166
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 166
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 169
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 171
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 178
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 181
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 181
+  },
+  {
+   "rule": "storage-write",
+   "file": "js/layer.js",
+   "line": 182
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 192
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 198
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 200
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 203
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 204
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 205
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 206
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 207
+  },
+  {
+   "rule": "function-reassignment",
+   "file": "js/layer.js",
+   "line": 214
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 215
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 216
+  },
+  {
+   "rule": "html-sink-innerhtml",
+   "file": "js/layer.js",
+   "line": 217
+  },
+  {
+   "rule": "html-sink-insertadjacenthtml",
+   "file": "js/layer.js",
+   "line": 217
+  }
+ ]
+}

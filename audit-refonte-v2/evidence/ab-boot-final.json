@@ -1,0 +1,253 @@
+{
+  "generatedAt": "2026-10-04T07:28:39.976Z",
+  "runs": 11,
+  "cpu": 4,
+  "viewport": "390x844",
+  "load1": 12.6,
+  "variants": [
+    {
+      "name": "v1-final",
+      "median": {
+        "fcp": 208,
+        "ready": 976,
+        "longTasks": 3,
+        "longTaskMax": 441,
+        "longTaskTotal": 654,
+        "blockingAfterFcp": 503,
+        "nodes": 7765
+      },
+      "min": {
+        "fcp": 172,
+        "ready": 962,
+        "longTasks": 3,
+        "longTaskMax": 355,
+        "longTaskTotal": 598,
+        "blockingAfterFcp": 439,
+        "nodes": 7765
+      },
+      "samples": [
+        {
+          "fcp": 224,
+          "ready": 973.6000001430511,
+          "longTasks": 3,
+          "longTaskMax": 420,
+          "longTaskTotal": 654,
+          "blockingAfterFcp": 504,
+          "nodes": 7765
+        },
+        {
+          "fcp": 208,
+          "ready": 1015.2999999523163,
+          "longTasks": 3,
+          "longTaskMax": 424,
+          "longTaskTotal": 650,
+          "blockingAfterFcp": 500,
+          "nodes": 7765
+        },
+        {
+          "fcp": 184,
+          "ready": 1023.6000001430511,
+          "longTasks": 3,
+          "longTaskMax": 446,
+          "longTaskTotal": 690,
+          "blockingAfterFcp": 540,
+          "nodes": 7765
+        },
+        {
+          "fcp": 216,
+          "ready": 1122.8999998569489,
+          "longTasks": 3,
+          "longTaskMax": 497,
+          "longTaskTotal": 733,
+          "blockingAfterFcp": 583,
+          "nodes": 7765
+        },
+        {
+          "fcp": 208,
+          "ready": 1001.2999999523163,
+          "longTasks": 3,
+          "longTaskMax": 441,
+          "longTaskTotal": 651,
+          "blockingAfterFcp": 501,
+          "nodes": 7765
+        },
+        {
+          "fcp": 216,
+          "ready": 969.4000000953674,
+          "longTasks": 4,
+          "longTaskMax": 355,
+          "longTaskTotal": 639,
+          "blockingAfterFcp": 439,
+          "nodes": 7765
+        },
+        {
+          "fcp": 220,
+          "ready": 961.7000000476837,
+          "longTasks": 3,
+          "longTaskMax": 431,
+          "longTaskTotal": 598,
+          "blockingAfterFcp": 448,
+          "nodes": 7765
+        },
+        {
+          "fcp": 184,
+          "ready": 976.2999999523163,
+          "longTasks": 3,
+          "longTaskMax": 444,
+          "longTaskTotal": 657,
+          "blockingAfterFcp": 507,
+          "nodes": 7765
+        },
+        {
+          "fcp": 256,
+          "ready": 1108.4000000953674,
+          "longTasks": 4,
+          "longTaskMax": 483,
+          "longTaskTotal": 778,
+          "blockingAfterFcp": 578,
+          "nodes": 7765
+        },
+        {
+          "fcp": 196,
+          "ready": 970.5999999046326,
+          "longTasks": 4,
+          "longTaskMax": 448,
+          "longTaskTotal": 703,
+          "blockingAfterFcp": 503,
+          "nodes": 7765
+        },
+        {
+          "fcp": 172,
+          "ready": 962.0999999046326,
+          "longTasks": 3,
+          "longTaskMax": 417,
+          "longTaskTotal": 637,
+          "blockingAfterFcp": 487,
+          "nodes": 7765
+        }
+      ]
+    },
+    {
+      "name": "final",
+      "median": {
+        "fcp": 188,
+        "ready": 790,
+        "longTasks": 4,
+        "longTaskMax": 138,
+        "longTaskTotal": 351,
+        "blockingAfterFcp": 162,
+        "nodes": 3029
+      },
+      "min": {
+        "fcp": 156,
+        "ready": 679,
+        "longTasks": 2,
+        "longTaskMax": 124,
+        "longTaskTotal": 174,
+        "blockingAfterFcp": 74,
+        "nodes": 3029
+      },
+      "samples": [
+        {
+          "fcp": 200,
+          "ready": 817.0999999046326,
+          "longTasks": 4,
+          "longTaskMax": 138,
+          "longTaskTotal": 351,
+          "blockingAfterFcp": 151,
+          "nodes": 3029
+        },
+        {
+          "fcp": 188,
+          "ready": 821.1000001430511,
+          "longTasks": 5,
+          "longTaskMax": 133,
+          "longTaskTotal": 421,
+          "blockingAfterFcp": 171,
+          "nodes": 3029
+        },
+        {
+          "fcp": 220,
+          "ready": 789.9000000953674,
+          "longTasks": 4,
+          "longTaskMax": 133,
+          "longTaskTotal": 362,
+          "blockingAfterFcp": 162,
+          "nodes": 3029
+        },
+        {
+          "fcp": 200,
+          "ready": 891.5,
+          "longTasks": 4,
+          "longTaskMax": 159,
+          "longTaskTotal": 434,
+          "blockingAfterFcp": 234,
+          "nodes": 3029
+        },
+        {
+          "fcp": 180,
+          "ready": 739.7000000476837,
+          "longTasks": 3,
+          "longTaskMax": 141,
+          "longTaskTotal": 339,
+          "blockingAfterFcp": 189,
+          "nodes": 3029
+        },
+        {
+          "fcp": 156,
+          "ready": 725,
+          "longTasks": 4,
+          "longTaskMax": 125,
+          "longTaskTotal": 334,
+          "blockingAfterFcp": 134,
+          "nodes": 3029
+        },
+        {
+          "fcp": 192,
+          "ready": 860.2000000476837,
+          "longTasks": 4,
+          "longTaskMax": 139,
+          "longTaskTotal": 377,
+          "blockingAfterFcp": 177,
+          "nodes": 3029
+        },
+        {
+          "fcp": 180,
+          "ready": 762.5,
+          "longTasks": 4,
+          "longTaskMax": 140,
+          "longTaskTotal": 351,
+          "blockingAfterFcp": 151,
+          "nodes": 3029
+        },
+        {
+          "fcp": 188,
+          "ready": 743.1999998092651,
+          "longTasks": 4,
+          "longTaskMax": 128,
+          "longTaskTotal": 344,
+          "blockingAfterFcp": 144,
+          "nodes": 3029
+        },
+        {
+          "fcp": 200,
+          "ready": 678.8000001907349,
+          "longTasks": 2,
+          "longTaskMax": 124,
+          "longTaskTotal": 174,
+          "blockingAfterFcp": 74,
+          "nodes": 3029
+        },
+        {
+          "fcp": 188,
+          "ready": 857,
+          "longTasks": 4,
+          "longTaskMax": 146,
+          "longTaskTotal": 435,
+          "blockingAfterFcp": 235,
+          "nodes": 3029
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "dir": "/Users/dreano/Downloads/van-main",
+  "url": "http://127.0.0.1:50262/",
+  "generatedAt": "2026-10-03T23:57:57.023Z",
+  "shots": [
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "desktop-1440x900",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/desktop-1440x900__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "laptop-1280x800",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/laptop-1280x800__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-1024x768",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/tablet-1024x768__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-tactile-1024x768",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/tablet-tactile-1024x768__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet-768x1024",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/tablet-768x1024__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-430x932",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/mobile-430x932__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-390x844",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/mobile-390x844__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-360x800",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/mobile-360x800__10-recherche.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "01-carte",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__01-carte.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "02-fiche-lieu",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__02-fiche-lieu.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "03-idees-parcours",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__03-idees-parcours.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "04-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__04-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "05-carte-avec-trajet",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__05-carte-avec-trajet.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "06-carnet-vide",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__06-carnet-vide.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "07-carnet-editeur",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__07-carnet-editeur.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "08-parametres",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__08-parametres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "09-filtres",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__09-filtres.png",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile-320x568",
+      "screen": "10-recherche",
+      "file": "audit-refonte/screenshots/apres/mobile-320x568__10-recherche.png",
+      "horizontalOverflowPx": 0
+    }
+  ],
+  "errors": {}
+}

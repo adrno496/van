@@ -1,0 +1,362 @@
+{
+ "avant-fichier-unique": {
+  "statut": "COMPLETE",
+  "sentinel_version": "7.0.0-verified-recursive-private",
+  "run_id": "run-20261004T063238Z-78e98b",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "static-triage": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "phases_en_echec": [],
+  "cible_lecture_seule": "PASS",
+  "fichiers_cible": 1,
+  "secrets_dans_artefacts": "PASS",
+  "artefacts_analyses": 21,
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 0,
+  "analyse_statique": {
+   "statut": "COMPLETE_WITH_WARNINGS",
+   "verdict": "PARTIAL",
+   "gate": "BLOCKED",
+   "decision": "DEPLOYMENT_BLOCKED",
+   "requetes_distantes": 0,
+   "code_cible_execute": false,
+   "sorties_reseau_detectees": 0,
+   "tiers_detectes": 0
+  },
+  "constats": {},
+  "constats_detail": [],
+  "triage": {
+   "findings": 0,
+   "gateBlockers": 0,
+   "stillBlocking": 0
+  },
+  "triage_classification": {},
+  "graphe": {
+   "files": 0,
+   "jsParsed": 0,
+   "parseErrors": 0,
+   "nodes": 5,
+   "edges": 0
+  },
+  "duree_s": 19,
+  "memoire_node_relevee": false
+ },
+ "avant-fichiers-separes": {
+  "statut": "COMPLETE",
+  "sentinel_version": "7.0.0-verified-recursive-private",
+  "run_id": "run-20261004T063507Z-f69138",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "static-triage": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "phases_en_echec": [],
+  "cible_lecture_seule": "PASS",
+  "fichiers_cible": 4,
+  "secrets_dans_artefacts": "PASS",
+  "artefacts_analyses": 21,
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 2,
+  "analyse_statique": {
+   "statut": "FAIL",
+   "verdict": "PARTIAL",
+   "gate": "FAIL",
+   "decision": "DEPLOYMENT_BLOCKED",
+   "requetes_distantes": 0,
+   "code_cible_execute": false,
+   "sorties_reseau_detectees": 0,
+   "tiers_detectes": 0
+  },
+  "constats": {
+   "HIGH SENSITIVE_DATA_PERSISTED": 9,
+   "MEDIUM MOBILE_BROWSER_STORAGE_REVIEW": 1
+  },
+  "constats_detail": [
+   "MOBILE_BROWSER_STORAGE_REVIEW assets/app.js:None USER_DATA → DEVICE_STORAGE",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1481 document.createElementNS → indexedDB.open",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1774 document.body.classList.contains → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1774 document.body.classList.remove → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1774 document.createElement → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1774 document.createElementNS → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:286 document.body.classList.contains → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:286 document.body.classList.remove → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:286 document.createElement → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:286 document.createElementNS → localStorage.setItem"
+  ],
+  "triage": {
+   "findings": 10,
+   "gateBlockers": 9,
+   "stillBlocking": 9
+  },
+  "triage_classification": {
+   "UNKNOWN": 10
+  },
+  "graphe": {
+   "files": 2,
+   "jsParsed": 2,
+   "parseErrors": 0,
+   "nodes": 197,
+   "edges": 1553
+  },
+  "duree_s": 83,
+  "memoire_node_relevee": true
+ },
+ "apres-fichier-unique": {
+  "statut": "COMPLETE",
+  "sentinel_version": "7.0.0-verified-recursive-private",
+  "run_id": "run-20261004T073553Z-c2981e",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "static-triage": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "phases_en_echec": [],
+  "cible_lecture_seule": "PASS",
+  "fichiers_cible": 1,
+  "secrets_dans_artefacts": "PASS",
+  "artefacts_analyses": 21,
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 0,
+  "analyse_statique": {
+   "statut": "COMPLETE_WITH_WARNINGS",
+   "verdict": "PARTIAL",
+   "gate": "BLOCKED",
+   "decision": "DEPLOYMENT_BLOCKED",
+   "requetes_distantes": 0,
+   "code_cible_execute": false,
+   "sorties_reseau_detectees": 0,
+   "tiers_detectes": 0
+  },
+  "constats": {},
+  "constats_detail": [],
+  "triage": {
+   "findings": 0,
+   "gateBlockers": 0,
+   "stillBlocking": 0
+  },
+  "triage_classification": {},
+  "graphe": {
+   "files": 0,
+   "jsParsed": 0,
+   "parseErrors": 0,
+   "nodes": 5,
+   "edges": 0
+  },
+  "duree_s": 20,
+  "memoire_node_relevee": false
+ },
+ "apres-fichiers-separes": {
+  "statut": "COMPLETE",
+  "sentinel_version": "7.0.0-verified-recursive-private",
+  "run_id": "run-20261004T073846Z-1d950e",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "static-triage": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "phases_en_echec": [],
+  "cible_lecture_seule": "PASS",
+  "fichiers_cible": 4,
+  "secrets_dans_artefacts": "PASS",
+  "artefacts_analyses": 21,
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 2,
+  "analyse_statique": {
+   "statut": "FAIL",
+   "verdict": "PARTIAL",
+   "gate": "FAIL",
+   "decision": "DEPLOYMENT_BLOCKED",
+   "requetes_distantes": 0,
+   "code_cible_execute": false,
+   "sorties_reseau_detectees": 0,
+   "tiers_detectes": 0
+  },
+  "constats": {
+   "HIGH SENSITIVE_DATA_PERSISTED": 9,
+   "MEDIUM MOBILE_BROWSER_STORAGE_REVIEW": 1
+  },
+  "constats_detail": [
+   "MOBILE_BROWSER_STORAGE_REVIEW assets/app.js:None USER_DATA → DEVICE_STORAGE",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1574 document.createElementNS → indexedDB.open",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.body.classList.contains → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.body.classList.remove → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.createElement → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.createElementNS → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.body.classList.contains → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.body.classList.remove → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.createElement → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.createElementNS → localStorage.setItem"
+  ],
+  "triage": {
+   "findings": 10,
+   "gateBlockers": 9,
+   "stillBlocking": 9
+  },
+  "triage_classification": {
+   "UNKNOWN": 10
+  },
+  "graphe": {
+   "files": 2,
+   "jsParsed": 2,
+   "parseErrors": 0,
+   "nodes": 210,
+   "edges": 1598
+  },
+  "duree_s": 180,
+  "memoire_node_relevee": true
+ },
+ "public-fichier-unique": {
+  "statut": "COMPLETE",
+  "sentinel_version": "7.0.0-verified-recursive-private",
+  "run_id": "run-20261004T074147Z-cbd2b7",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "static-triage": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "phases_en_echec": [],
+  "cible_lecture_seule": "PASS",
+  "fichiers_cible": 1,
+  "secrets_dans_artefacts": "PASS",
+  "artefacts_analyses": 21,
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 0,
+  "analyse_statique": {
+   "statut": "COMPLETE_WITH_WARNINGS",
+   "verdict": "PARTIAL",
+   "gate": "BLOCKED",
+   "decision": "DEPLOYMENT_BLOCKED",
+   "requetes_distantes": 0,
+   "code_cible_execute": false,
+   "sorties_reseau_detectees": 0,
+   "tiers_detectes": 0
+  },
+  "constats": {},
+  "constats_detail": [],
+  "triage": {
+   "findings": 0,
+   "gateBlockers": 0,
+   "stillBlocking": 0
+  },
+  "triage_classification": {},
+  "graphe": {
+   "files": 0,
+   "jsParsed": 0,
+   "parseErrors": 0,
+   "nodes": 5,
+   "edges": 0
+  },
+  "duree_s": 43,
+  "memoire_node_relevee": false
+ },
+ "public-fichiers-separes": {
+  "statut": "COMPLETE",
+  "sentinel_version": "7.0.0-verified-recursive-private",
+  "run_id": "run-20261004T074615Z-2ee5b3",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "static-triage": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "phases_en_echec": [],
+  "cible_lecture_seule": "PASS",
+  "fichiers_cible": 4,
+  "secrets_dans_artefacts": "PASS",
+  "artefacts_analyses": 21,
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 2,
+  "analyse_statique": {
+   "statut": "FAIL",
+   "verdict": "PARTIAL",
+   "gate": "FAIL",
+   "decision": "DEPLOYMENT_BLOCKED",
+   "requetes_distantes": 0,
+   "code_cible_execute": false,
+   "sorties_reseau_detectees": 0,
+   "tiers_detectes": 0
+  },
+  "constats": {
+   "HIGH SENSITIVE_DATA_PERSISTED": 9,
+   "MEDIUM MOBILE_BROWSER_STORAGE_REVIEW": 1
+  },
+  "constats_detail": [
+   "MOBILE_BROWSER_STORAGE_REVIEW assets/app.js:None USER_DATA → DEVICE_STORAGE",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1574 document.createElementNS → indexedDB.open",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.body.classList.contains → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.body.classList.remove → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.createElement → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:1870 document.createElementNS → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.body.classList.contains → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.body.classList.remove → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.createElement → localStorage.setItem",
+   "SENSITIVE_DATA_PERSISTED assets/app.js:303 document.createElementNS → localStorage.setItem"
+  ],
+  "triage": {
+   "findings": 10,
+   "gateBlockers": 9,
+   "stillBlocking": 9
+  },
+  "triage_classification": {
+   "UNKNOWN": 10
+  },
+  "graphe": {
+   "files": 2,
+   "jsParsed": 2,
+   "parseErrors": 0,
+   "nodes": 210,
+   "edges": 1598
+  },
+  "duree_s": 193,
+  "memoire_node_relevee": true
+ }
+}

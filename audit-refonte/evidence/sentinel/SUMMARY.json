@@ -1,0 +1,128 @@
+{
+ "avant-fichier-unique": {
+  "statut": "PARTIAL",
+  "run_id": "run-20261003T221623Z-7f077e",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "cible_lecture_seule": "PASS",
+  "secrets_dans_artefacts": "PASS",
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 0,
+  "constats_vibe": {},
+  "gate_vibe": "BLOCKED",
+  "graphe": {
+   "jsParsed": 0,
+   "nodes": 5,
+   "edges": 0
+  },
+  "recursive": {
+   "status": "COMPLETE_WITH_WARNINGS"
+  }
+ },
+ "avant-scripts-extraits": {
+  "statut": "PARTIAL",
+  "run_id": "run-20261003T222059Z-88ee8e",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "cible_lecture_seule": "PASS",
+  "secrets_dans_artefacts": "PASS",
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 3,
+  "constats_vibe": {
+   "HIGH SENSITIVE_DATA_PERSISTED": 10,
+   "MEDIUM MOBILE_BROWSER_STORAGE_REVIEW": 1
+  },
+  "gate_vibe": "FAIL",
+  "graphe": {
+   "jsParsed": 3,
+   "nodes": 149,
+   "edges": 896
+  },
+  "recursive": {
+   "status": "FAIL"
+  }
+ },
+ "apres-fichier-unique": {
+  "statut": "PARTIAL",
+  "run_id": "run-20261003T235053Z-6e914d",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "cible_lecture_seule": "PASS",
+  "secrets_dans_artefacts": "PASS",
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 0,
+  "constats_vibe": {},
+  "gate_vibe": "BLOCKED",
+  "graphe": {
+   "jsParsed": 0,
+   "nodes": 5,
+   "edges": 0
+  },
+  "recursive": {
+   "status": "COMPLETE_WITH_WARNINGS"
+  }
+ },
+ "apres-fichiers-separes": {
+  "statut": "PARTIAL",
+  "run_id": "run-20261003T235110Z-ad6248",
+  "phases": {
+   "snapshot": "EXECUTED",
+   "secrets-gitleaks": "EXECUTED",
+   "sbom-syft": "EXECUTED",
+   "vulns-grype": "EXECUTED",
+   "vibe-qualify": "EXECUTED",
+   "code-graph": "EXECUTED",
+   "intel": "NOT_APPLICABLE",
+   "recursive-full-scan": "EXECUTED"
+  },
+  "cible_lecture_seule": "PASS",
+  "secrets_dans_artefacts": "PASS",
+  "gitleaks": 0,
+  "grype": 0,
+  "sbom_composants": 0,
+  "fichiers_semantiques": 2,
+  "constats_vibe": {
+   "HIGH SENSITIVE_DATA_PERSISTED": 9,
+   "MEDIUM MOBILE_BROWSER_STORAGE_REVIEW": 1
+  },
+  "gate_vibe": "FAIL",
+  "graphe": {
+   "jsParsed": 2,
+   "nodes": 196,
+   "edges": 1539
+  },
+  "recursive": {
+   "status": "FAIL"
+  }
+ }
+}

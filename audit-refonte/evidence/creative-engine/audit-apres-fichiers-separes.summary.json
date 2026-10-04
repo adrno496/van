@@ -1,0 +1,383 @@
+{
+ "run": {
+  "id": "audit_1791071761500",
+  "engine": "9.1.0",
+  "mode": "BALANCED",
+  "created_at": "2026-10-03T23:56:01.500Z"
+ },
+ "subject": {
+  "hash": "668282a2e4c821c7418a5902dc698848c7cd49cb696815a0a6781de52c8ff91f",
+  "files": 4
+ },
+ "certification": {
+  "status": "FAIL",
+  "blockers": [
+   "ACCESSIBILITY_MANUAL_REVIEW",
+   "PERFORMANCE_LAB_LIGHTHOUSE",
+   "PROJECT_SPEC_FACTUAL_CONTEXT"
+  ]
+ },
+ "quality": 77,
+ "metrics": {
+  "audit.static": {
+   "value": 68,
+   "status": "FAIL",
+   "evidence_level": "E1"
+  },
+  "audit.runtime": {
+   "value": 86,
+   "status": "PARTIAL",
+   "evidence_level": "E3"
+  }
+ },
+ "static": {
+  "security": {
+   "status": "PARTIAL",
+   "score": null,
+   "findings": [
+    "INNERHTML_ASSIGN"
+   ]
+  },
+  "html": {
+   "status": "PASS",
+   "score": null,
+   "findings": []
+  },
+  "links": {
+   "status": "PASS",
+   "score": null,
+   "findings": []
+  },
+  "seo": {
+   "status": "FAIL",
+   "score": 92,
+   "findings": [
+    "LINK_NAV_BROKEN",
+    "SEO_ROBOTS_TXT_MISSING",
+    "CONTENT_INTENT_UNCLEAR",
+    "SEO_ORIGIN_UNKNOWN"
+   ]
+  },
+  "accessibilityStatic": {
+   "status": "PARTIAL",
+   "score": 90,
+   "findings": [
+    "A11Y_MOBILE_MENU_ESCAPE_MISSING"
+   ]
+  }
+ },
+ "findings": [
+  {
+   "id": "INNERHTML_ASSIGN",
+   "priority": "P1",
+   "problem": "Direct innerHTML assignment in generated JS."
+  },
+  {
+   "id": "LINK_NAV_BROKEN",
+   "priority": "P0",
+   "problem": "LINK_NAV_BROKEN on /"
+  },
+  {
+   "id": "SEO_ROBOTS_TXT_MISSING",
+   "priority": "P1",
+   "problem": "SEO_ROBOTS_TXT_MISSING"
+  },
+  {
+   "id": "CONTENT_INTENT_UNCLEAR",
+   "priority": "P1",
+   "problem": "CONTENT_INTENT_UNCLEAR on /"
+  },
+  {
+   "id": "SEO_ORIGIN_UNKNOWN",
+   "priority": "P1",
+   "problem": "SEO_ORIGIN_UNKNOWN"
+  },
+  {
+   "id": "A11Y_MOBILE_MENU_ESCAPE_MISSING",
+   "priority": "P1",
+   "problem": "A11Y_MOBILE_MENU_ESCAPE_MISSING"
+  },
+  {
+   "id": "BROWSER-3f37926be1db0aee",
+   "priority": "P1",
+   "problem": "chromium / mobile-320: PARTIAL"
+  },
+  {
+   "id": "BROWSER-22da5a903f133d9d",
+   "priority": "P1",
+   "problem": "chromium / mobile-390: PARTIAL"
+  },
+  {
+   "id": "BROWSER-6caea6a132d46ff5",
+   "priority": "P1",
+   "problem": "chromium / tablet-820: PARTIAL"
+  },
+  {
+   "id": "BROWSER-03bafe704705b660",
+   "priority": "P1",
+   "problem": "chromium / desktop-1440: PARTIAL"
+  },
+  {
+   "id": "BROWSER-80b1958fa745ea01",
+   "priority": "P1",
+   "problem": "chromium / wide-1920: PARTIAL"
+  }
+ ],
+ "browser": {
+  "status": "PARTIAL",
+  "summary": {
+   "by_browser": {
+    "chromium": {
+     "status": "PARTIAL",
+     "scenarios": 11
+    }
+   },
+   "responsive": {
+    "status": "PASS",
+    "scenarios": 5,
+    "overflow_scenarios": 0
+   },
+   "console_network": {
+    "status": "PASS",
+    "console_errors": 0,
+    "page_errors": 0,
+    "failed_requests": 0,
+    "http_errors": 0,
+    "third_party_requests": 0
+   },
+   "axe": {
+    "status": "PARTIAL",
+    "scenarios": 5,
+    "violations": 0,
+    "critical_or_serious": 0,
+    "incomplete": 5
+   },
+   "keyboard": {
+    "status": "PASS",
+    "scenarios": 5
+   },
+   "target_size": {
+    "status": "PASS",
+    "below_24_scenarios": 0,
+    "controls_below_44": 30
+   },
+   "skip_link": {
+    "status": "PASS"
+   },
+   "menu": {
+    "status": "NA"
+   },
+   "forms": {
+    "status": "NA"
+   },
+   "reduced_motion": {
+    "status": "PASS",
+    "scenarios": 2
+   },
+   "zoom": {
+    "status": "PASS",
+    "scenarios": 2
+   },
+   "color_schemes": {
+    "light": {
+     "status": "PARTIAL",
+     "scenarios": 5,
+     "adapted": null
+    }
+   },
+   "rtl": {
+    "status": "NA",
+    "scenarios": 0
+   },
+   "csp": {
+    "status": "PASS",
+    "violations": 0
+   },
+   "seo_runtime": {
+    "status": "PASS",
+    "findings": 0
+   }
+  },
+  "scenarios": [
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 1,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 1,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 1,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "overflow": [],
+    "unlabeled_fields": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   }
+  ]
+ },
+ "limitations": [
+  "External audit without a ProjectSpec cannot validate factual provenance, business-specific journeys or structured-data business facts.",
+  "Production certification remains PARTIAL until required project-specific and manual gates are executed."
+ ]
+}

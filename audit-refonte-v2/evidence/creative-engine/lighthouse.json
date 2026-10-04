@@ -1,0 +1,219 @@
+{
+ "note": "Lighthouse via Creative Engine, 3 passages, médiane. « avant » = baseline V2 (commit 9fcbc89). Série 1 : avant mesuré au début de la mission ; série 2 : avant et après mesurés l'un derrière l'autre, à la fin. La série 2 fait foi.",
+ "avant_serie1": {
+  "engine_version": "9.1.0",
+  "command": "lighthouse",
+  "status": "PARTIAL",
+  "results": [
+   {
+    "form_factor": "mobile",
+    "status": "PARTIAL",
+    "median": {
+     "scores": {
+      "performance": 81,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 3001.249,
+      "cls": 0,
+      "tbt_ms": 352.5,
+      "fcp_ms": 2860.749,
+      "speed_index_ms": 2860.749,
+      "tti_ms": 3385.964
+     }
+    }
+   },
+   {
+    "form_factor": "desktop",
+    "status": "PASS",
+    "median": {
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 644.811,
+      "cls": 0.014,
+      "tbt_ms": 10.5,
+      "fcp_ms": 613.311,
+      "speed_index_ms": 613.311,
+      "tti_ms": 675.011
+     }
+    }
+   }
+  ],
+  "limitations": [
+   "Lab measurement on a local loopback server: not field data.",
+   "Core Web Vitals are assessed at the 75th percentile of real users (CrUX/RUM): NOT_TESTED here.",
+   "INP cannot be measured in the lab; TBT is only a proxy.",
+   "Scores vary with host load; the median of several runs is reported together with the spread."
+  ],
+  "reason": null
+ },
+ "avant_serie2": {
+  "engine_version": "9.1.0",
+  "command": "lighthouse",
+  "status": "PARTIAL",
+  "results": [
+   {
+    "form_factor": "mobile",
+    "status": "PARTIAL",
+    "median": {
+     "scores": {
+      "performance": 79,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 3043.984,
+      "cls": 0,
+      "tbt_ms": 426,
+      "fcp_ms": 2891.819,
+      "speed_index_ms": 2891.819,
+      "tti_ms": 3453.684
+     }
+    }
+   },
+   {
+    "form_factor": "desktop",
+    "status": "PASS",
+    "median": {
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 657.155,
+      "cls": 0.014,
+      "tbt_ms": 14.5,
+      "fcp_ms": 622.155,
+      "speed_index_ms": 622.155,
+      "tti_ms": 687.855
+     }
+    }
+   }
+  ],
+  "limitations": [
+   "Lab measurement on a local loopback server: not field data.",
+   "Core Web Vitals are assessed at the 75th percentile of real users (CrUX/RUM): NOT_TESTED here.",
+   "INP cannot be measured in the lab; TBT is only a proxy.",
+   "Scores vary with host load; the median of several runs is reported together with the spread."
+  ],
+  "reason": null
+ },
+ "apres": {
+  "engine_version": "9.1.0",
+  "command": "lighthouse",
+  "status": "PARTIAL",
+  "results": [
+   {
+    "form_factor": "mobile",
+    "status": "PARTIAL",
+    "median": {
+     "scores": {
+      "performance": 92,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 2765.002,
+      "cls": 0,
+      "tbt_ms": 61.5,
+      "fcp_ms": 2735.002,
+      "speed_index_ms": 2735.002,
+      "tti_ms": 2922.005
+     }
+    }
+   },
+   {
+    "form_factor": "desktop",
+    "status": "PASS",
+    "median": {
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 651.59,
+      "cls": 0.014,
+      "tbt_ms": 0,
+      "fcp_ms": 633.59,
+      "speed_index_ms": 633.59,
+      "tti_ms": 653.39
+     }
+    }
+   }
+  ],
+  "limitations": [
+   "Lab measurement on a local loopback server: not field data.",
+   "Core Web Vitals are assessed at the 75th percentile of real users (CrUX/RUM): NOT_TESTED here.",
+   "INP cannot be measured in the lab; TBT is only a proxy.",
+   "Scores vary with host load; the median of several runs is reported together with the spread."
+  ],
+  "reason": null
+ },
+ "public": {
+  "engine_version": "9.1.0",
+  "command": "lighthouse",
+  "status": "PARTIAL",
+  "results": [
+   {
+    "form_factor": "mobile",
+    "status": "PARTIAL",
+    "median": {
+     "scores": {
+      "performance": 92,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 2716.023,
+      "cls": 0,
+      "tbt_ms": 14,
+      "fcp_ms": 2691.023,
+      "speed_index_ms": 2691.023,
+      "tti_ms": 2761.423
+     }
+    }
+   },
+   {
+    "form_factor": "desktop",
+    "status": "PASS",
+    "median": {
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 643.744,
+      "cls": 0.014,
+      "tbt_ms": 0,
+      "fcp_ms": 632.744,
+      "speed_index_ms": 632.744,
+      "tti_ms": 644.844
+     }
+    }
+   }
+  ],
+  "limitations": [
+   "Lab measurement on a local loopback server: not field data.",
+   "Core Web Vitals are assessed at the 75th percentile of real users (CrUX/RUM): NOT_TESTED here.",
+   "INP cannot be measured in the lab; TBT is only a proxy.",
+   "Scores vary with host load; the median of several runs is reported together with the spread."
+  ],
+  "reason": null
+ }
+}

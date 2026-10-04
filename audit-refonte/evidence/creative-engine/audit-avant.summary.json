@@ -1,0 +1,402 @@
+{
+ "run": {
+  "id": "audit_1791072679872",
+  "engine": "9.1.0",
+  "mode": "BALANCED",
+  "created_at": "2026-10-04T00:11:19.872Z"
+ },
+ "subject": {
+  "hash": "923a5e329253b68daa5a875ffd764e9ef708e040bca0cae032004682b10edd43",
+  "files": 1
+ },
+ "certification": {
+  "status": "FAIL",
+  "blockers": [
+   "ACCESSIBILITY_MANUAL_REVIEW",
+   "PERFORMANCE_LAB_LIGHTHOUSE",
+   "PROJECT_SPEC_FACTUAL_CONTEXT"
+  ]
+ },
+ "quality": 24,
+ "static": {
+  "security": {
+   "status": "PARTIAL",
+   "findings": [
+    "INLINE_EVENT_HANDLER",
+    "INLINE_SCRIPT"
+   ]
+  },
+  "html": {
+   "status": "PARTIAL",
+   "findings": [
+    "DUPLICATE_ID"
+   ]
+  },
+  "links": {
+   "status": "PASS",
+   "findings": []
+  },
+  "seo": {
+   "status": "FAIL",
+   "findings": [
+    "SEO_H1_COUNT",
+    "SEO_ROBOTS_TXT_MISSING",
+    "SEO_HEADING_HIERARCHY",
+    "SEO_ORIGIN_UNKNOWN"
+   ]
+  },
+  "accessibilityStatic": {
+   "status": "FAIL",
+   "findings": [
+    "A11Y_SKIP_LINK_MISSING",
+    "A11Y_MAIN_TARGET_MISSING",
+    "A11Y_TEXT_DIRECTION_MISSING",
+    "A11Y_FOCUS_VISIBLE_RULE_MISSING",
+    "A11Y_REDUCED_MOTION_RULE_MISSING",
+    "A11Y_TARGET_SIZE_PROXY_MISSING",
+    "A11Y_FORCED_COLORS_ENHANCEMENT_MISSING",
+    "A11Y_MOBILE_MENU_ESCAPE_MISSING",
+    "A11Y_DISCLOSURE_STATE_MISSING"
+   ]
+  }
+ },
+ "findings": [
+  {
+   "id": "INLINE_EVENT_HANDLER",
+   "priority": "P1",
+   "problem": "Inline event handler detected."
+  },
+  {
+   "id": "INLINE_SCRIPT",
+   "priority": "P1",
+   "problem": "Inline executable script detected: it can only be allowed by hash in the Content-Security-Policy."
+  },
+  {
+   "id": "DUPLICATE_ID",
+   "priority": "P1",
+   "problem": "DUPLICATE_ID on /"
+  },
+  {
+   "id": "SEO_H1_COUNT",
+   "priority": "P0",
+   "problem": "SEO_H1_COUNT on /"
+  },
+  {
+   "id": "SEO_ROBOTS_TXT_MISSING",
+   "priority": "P1",
+   "problem": "SEO_ROBOTS_TXT_MISSING"
+  },
+  {
+   "id": "SEO_HEADING_HIERARCHY",
+   "priority": "P1",
+   "problem": "SEO_HEADING_HIERARCHY on /"
+  },
+  {
+   "id": "SEO_ORIGIN_UNKNOWN",
+   "priority": "P1",
+   "problem": "SEO_ORIGIN_UNKNOWN"
+  },
+  {
+   "id": "A11Y_SKIP_LINK_MISSING",
+   "priority": "P0",
+   "problem": "A11Y_SKIP_LINK_MISSING on /"
+  },
+  {
+   "id": "A11Y_MAIN_TARGET_MISSING",
+   "priority": "P0",
+   "problem": "A11Y_MAIN_TARGET_MISSING on /"
+  },
+  {
+   "id": "A11Y_TEXT_DIRECTION_MISSING",
+   "priority": "P1",
+   "problem": "A11Y_TEXT_DIRECTION_MISSING on /"
+  },
+  {
+   "id": "A11Y_FOCUS_VISIBLE_RULE_MISSING",
+   "priority": "P0",
+   "problem": "A11Y_FOCUS_VISIBLE_RULE_MISSING"
+  },
+  {
+   "id": "A11Y_REDUCED_MOTION_RULE_MISSING",
+   "priority": "P0",
+   "problem": "A11Y_REDUCED_MOTION_RULE_MISSING"
+  },
+  {
+   "id": "A11Y_TARGET_SIZE_PROXY_MISSING",
+   "priority": "P1",
+   "problem": "A11Y_TARGET_SIZE_PROXY_MISSING"
+  },
+  {
+   "id": "A11Y_FORCED_COLORS_ENHANCEMENT_MISSING",
+   "priority": "P1",
+   "problem": "A11Y_FORCED_COLORS_ENHANCEMENT_MISSING"
+  },
+  {
+   "id": "A11Y_MOBILE_MENU_ESCAPE_MISSING",
+   "priority": "P1",
+   "problem": "A11Y_MOBILE_MENU_ESCAPE_MISSING"
+  },
+  {
+   "id": "A11Y_DISCLOSURE_STATE_MISSING",
+   "priority": "P0",
+   "problem": "A11Y_DISCLOSURE_STATE_MISSING"
+  },
+  {
+   "id": "BROWSER-3f37926be1db0aee",
+   "priority": "P0",
+   "problem": "chromium / mobile-320: FAIL"
+  },
+  {
+   "id": "BROWSER-22da5a903f133d9d",
+   "priority": "P0",
+   "problem": "chromium / mobile-390: FAIL"
+  },
+  {
+   "id": "BROWSER-6caea6a132d46ff5",
+   "priority": "P0",
+   "problem": "chromium / tablet-820: FAIL"
+  },
+  {
+   "id": "BROWSER-03bafe704705b660",
+   "priority": "P0",
+   "problem": "chromium / desktop-1440: FAIL"
+  },
+  {
+   "id": "BROWSER-80b1958fa745ea01",
+   "priority": "P0",
+   "problem": "chromium / wide-1920: FAIL"
+  },
+  {
+   "id": "BROWSER-50ed8b424e426c46",
+   "priority": "P0",
+   "problem": "chromium / mobile-390: FAIL"
+  },
+  {
+   "id": "BROWSER-c99d12980c58c55d",
+   "priority": "P0",
+   "problem": "chromium / desktop-1440: FAIL"
+  },
+  {
+   "id": "BROWSER-5d683be46f979fb3",
+   "priority": "P0",
+   "problem": "chromium / mobile-390: FAIL"
+  },
+  {
+   "id": "BROWSER-e45603a85d219361",
+   "priority": "P0",
+   "problem": "chromium / desktop-1440: FAIL"
+  },
+  {
+   "id": "BROWSER-b5d7a89b41d75756",
+   "priority": "P0",
+   "problem": "chromium / zoom-200-of-1280x720: FAIL"
+  },
+  {
+   "id": "BROWSER-1c80356b986429b0",
+   "priority": "P0",
+   "problem": "chromium / text-200-at-1280x720: FAIL"
+  }
+ ],
+ "browser": {
+  "status": "FAIL",
+  "summary": {
+   "by_browser": {
+    "chromium": {
+     "status": "FAIL",
+     "scenarios": 11
+    }
+   },
+   "responsive": {
+    "status": "FAIL",
+    "scenarios": 5,
+    "overflow_scenarios": 3
+   },
+   "console_network": {
+    "status": "FAIL",
+    "console_errors": 0,
+    "page_errors": 0,
+    "failed_requests": 0,
+    "http_errors": 0,
+    "third_party_requests": 103
+   },
+   "axe": {
+    "status": "FAIL",
+    "scenarios": 5,
+    "violations": 18,
+    "critical_or_serious": 3,
+    "incomplete": 7
+   },
+   "keyboard": {
+    "status": "FAIL",
+    "scenarios": 5
+   },
+   "target_size": {
+    "status": "FAIL",
+    "below_24_scenarios": 1,
+    "controls_below_44": 4
+   },
+   "skip_link": {
+    "status": "FAIL"
+   },
+   "menu": {
+    "status": "NA"
+   },
+   "forms": {
+    "status": "NA"
+   },
+   "reduced_motion": {
+    "status": "FAIL",
+    "scenarios": 2
+   },
+   "zoom": {
+    "status": "FAIL",
+    "scenarios": 2
+   },
+   "color_schemes": {
+    "light": {
+     "status": "FAIL",
+     "scenarios": 5,
+     "adapted": null
+    }
+   },
+   "rtl": {
+    "status": "NA",
+    "scenarios": 0
+   },
+   "csp": {
+    "status": "FAIL",
+    "violations": 40
+   },
+   "seo_runtime": {
+    "status": "PASS",
+    "findings": 0
+   }
+  },
+  "scenarios": [
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "overflow",
+     "h1_count",
+     "missing_label"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "overflow",
+     "h1_count",
+     "missing_label"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "overflow",
+     "h1_count",
+     "missing_label",
+     "target_size",
+     "keyboard_unreachable",
+     "axe_serious"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "h1_count",
+     "missing_label",
+     "keyboard_unreachable",
+     "axe_serious"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "h1_count",
+     "missing_label",
+     "keyboard_unreachable",
+     "axe_serious"
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "overflow",
+     "h1_count",
+     "missing_label"
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "h1_count",
+     "missing_label"
+    ]
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "overflow",
+     "h1_count",
+     "missing_label",
+     "skip_link"
+    ]
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "h1_count",
+     "missing_label",
+     "skip_link"
+    ]
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "h1_count",
+     "missing_label"
+    ]
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "FAIL",
+    "fail_reasons": [
+     "third_party_request",
+     "h1_count",
+     "missing_label"
+    ]
+   }
+  ]
+ }
+}

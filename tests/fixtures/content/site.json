@@ -1,0 +1,16 @@
+{
+  "name": "Atlas Van",
+  "descriptor": "Atlas de l’Europe en van",
+  "about": [
+    {
+      "title": "Section publique de test",
+      "text": "Texte public de la section « à propos », écrit pour les tests.",
+      "visibility": "public"
+    },
+    {
+      "title": "Section privée de test",
+      "text": "Phrase privée de la section à propos : elle ne doit jamais paraître dans la version publique.",
+      "visibility": "private"
+    }
+  ]
+}

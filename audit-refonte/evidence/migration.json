@@ -1,0 +1,62 @@
+{
+  "old": "/Users/dreano/Downloads/van-main/audit-refonte/baseline/index.baseline.html",
+  "new": "/Users/dreano/Downloads/van-main/index.html",
+  "generatedAt": "2026-10-03T23:50:04.455Z",
+  "totals": {
+    "tests": 10,
+    "pass": 10,
+    "fail": 0
+  },
+  "results": [
+    {
+      "title": "ancienne version : création d'un jeu de données complet",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "nouvelle version : trajet, notes, lieux personnels, fiches et parcours relus à l'identique",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "nouvelle version : carnet et photos relus à l'identique (IndexedDB)",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "nouvelle version : préférence de discrétion conservée et appliquée",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "nouvelle version : aucune erreur, aucune donnée mise de côté",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "nouvelle version : une modification s'enregistre et se relit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "retour à l'ancienne version : elle relit les données écrites par la nouvelle",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "sauvegarde complète de l'ancienne version restaurée par la nouvelle",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "sauvegarde « trajets et fiches » de l'ancienne version restaurée par la nouvelle",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "title": "parcours .json de l'ancienne version importé par la nouvelle",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

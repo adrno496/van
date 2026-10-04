@@ -1,0 +1,550 @@
+{
+ "run": {
+  "id": "audit_1791069909921",
+  "engine": "9.1.0",
+  "mode": "BALANCED",
+  "created_at": "2026-10-03T23:25:09.921Z"
+ },
+ "subject": {
+  "hash": "5fd2c94aa0ccdc9616e227f583a9c99278edf32e8b833c1f28ab8bbb6ac1f7ee",
+  "files": 1
+ },
+ "certification": {
+  "status": "FAIL",
+  "blockers": [
+   "ACCESSIBILITY_MANUAL_REVIEW",
+   "PERFORMANCE_LAB_LIGHTHOUSE",
+   "PROJECT_SPEC_FACTUAL_CONTEXT"
+  ]
+ },
+ "quality": 17,
+ "static": {
+  "security": {
+   "status": "PARTIAL",
+   "findings": [
+    "INLINE_EVENT_HANDLER",
+    "INLINE_SCRIPT"
+   ]
+  },
+  "html": {
+   "status": "FAIL",
+   "findings": [
+    "EMPTY_BUTTON"
+   ]
+  },
+  "links": {
+   "status": "PASS",
+   "findings": []
+  },
+  "seo": {
+   "status": "FAIL",
+   "findings": [
+    "LINK_NAV_BROKEN",
+    "SEO_ROBOTS_TXT_MISSING",
+    "CONTENT_INTENT_UNCLEAR",
+    "SEO_HEADING_HIERARCHY",
+    "SEO_ORIGIN_UNKNOWN"
+   ]
+  },
+  "accessibilityStatic": {
+   "status": "FAIL",
+   "findings": [
+    "A11Y_EMPTY_BUTTON",
+    "A11Y_FOCUS_VISIBLE_RULE_MISSING",
+    "A11Y_REDUCED_MOTION_RULE_MISSING",
+    "A11Y_TARGET_SIZE_PROXY_MISSING",
+    "A11Y_FORCED_COLORS_ENHANCEMENT_MISSING",
+    "A11Y_MOBILE_MENU_ESCAPE_MISSING"
+   ]
+  }
+ },
+ "browser": {
+  "status": "FAIL",
+  "summary": {
+   "by_browser": {
+    "chromium": {
+     "status": "FAIL",
+     "scenarios": 11
+    }
+   },
+   "responsive": {
+    "status": "FAIL",
+    "scenarios": 5,
+    "overflow_scenarios": 1
+   },
+   "console_network": {
+    "status": "PASS",
+    "console_errors": 0,
+    "page_errors": 0,
+    "failed_requests": 0,
+    "http_errors": 0,
+    "third_party_requests": 0
+   },
+   "axe": {
+    "status": "FAIL",
+    "scenarios": 5,
+    "violations": 10,
+    "critical_or_serious": 10,
+    "incomplete": 5
+   },
+   "keyboard": {
+    "status": "FAIL",
+    "scenarios": 5
+   },
+   "target_size": {
+    "status": "PASS",
+    "below_24_scenarios": 0,
+    "controls_below_44": 30
+   },
+   "skip_link": {
+    "status": "PASS"
+   },
+   "menu": {
+    "status": "NA"
+   },
+   "forms": {
+    "status": "NA"
+   },
+   "reduced_motion": {
+    "status": "FAIL",
+    "scenarios": 2
+   },
+   "zoom": {
+    "status": "FAIL",
+    "scenarios": 2
+   },
+   "color_schemes": {
+    "light": {
+     "status": "FAIL",
+     "scenarios": 5,
+     "adapted": null
+    }
+   },
+   "rtl": {
+    "status": "NA",
+    "scenarios": 0
+   },
+   "csp": {
+    "status": "PASS",
+    "violations": 0
+   },
+   "seo_runtime": {
+    "status": "PASS",
+    "findings": 0
+   }
+  },
+  "scenarios": [
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "FAIL",
+    "fail_reasons": [
+     "missing_label",
+     "keyboard_unreachable",
+     "axe_serious"
+    ],
+    "overflow": [],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [
+      [
+       "aria-allowed-attr",
+       "critical"
+      ],
+      [
+       "aria-tooltip-name",
+       "serious"
+      ]
+     ],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": [
+     "Ajouter mon lieu",
+     "Ajout rapide au trajet",
+     "Vue d’ensemble"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "FAIL",
+    "fail_reasons": [
+     "overflow",
+     "missing_label",
+     "keyboard_unreachable",
+     "focus_obscured",
+     "axe_serious"
+    ],
+    "overflow": [
+     {
+      "kind": "TEXT_CROSSES_VIEWPORT_EDGE",
+      "element": "button.chip.on",
+      "left": 358,
+      "right": 404,
+      "viewport": 390,
+      "text": "Nature"
+     },
+     {
+      "kind": "CONTROL_CROSSES_VIEWPORT_EDGE",
+      "element": "button.chip.on",
+      "left": 327,
+      "right": 419,
+      "viewport": 390
+     }
+    ],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [
+      [
+       "aria-allowed-attr",
+       "critical"
+      ],
+      [
+       "aria-tooltip-name",
+       "serious"
+      ]
+     ],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": [
+     "Ajouter mon lieu",
+     "Ajout rapide au trajet",
+     "Vue d’ensemble"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "FAIL",
+    "fail_reasons": [
+     "missing_label",
+     "keyboard_unreachable",
+     "axe_serious"
+    ],
+    "overflow": [],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [
+      [
+       "aria-allowed-attr",
+       "critical"
+      ],
+      [
+       "aria-tooltip-name",
+       "serious"
+      ]
+     ],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": [
+     "Ajouter mon lieu",
+     "Ajout rapide au trajet",
+     "Vue d’ensemble"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "FAIL",
+    "fail_reasons": [
+     "missing_label",
+     "keyboard_unreachable",
+     "axe_serious"
+    ],
+    "overflow": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [
+      [
+       "aria-allowed-attr",
+       "critical"
+      ],
+      [
+       "aria-tooltip-name",
+       "serious"
+      ]
+     ],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": [
+     "Ajouter mon lieu",
+     "Ajout rapide au trajet",
+     "Vue d’ensemble",
+     "Trajet 0",
+     "Idées",
+     "Carnet",
+     "Plus"
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "FAIL",
+    "fail_reasons": [
+     "missing_label",
+     "keyboard_unreachable",
+     "axe_serious"
+    ],
+    "overflow": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [
+      [
+       "aria-allowed-attr",
+       "critical"
+      ],
+      [
+       "aria-tooltip-name",
+       "serious"
+      ]
+     ],
+     "incomplete": [
+      "color-contrast"
+     ]
+    },
+    "keyboard_unreachable": [
+     "Ajouter mon lieu",
+     "Ajout rapide au trajet",
+     "Vue d’ensemble",
+     "Trajet 0",
+     "Idées",
+     "Carnet",
+     "Plus"
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "FAIL",
+    "fail_reasons": [
+     "overflow",
+     "missing_label"
+    ],
+    "overflow": [
+     {
+      "kind": "TEXT_CROSSES_VIEWPORT_EDGE",
+      "element": "button.chip.on",
+      "left": 358,
+      "right": 404,
+      "viewport": 390,
+      "text": "Nature"
+     },
+     {
+      "kind": "CONTROL_CROSSES_VIEWPORT_EDGE",
+      "element": "button.chip.on",
+      "left": 327,
+      "right": 419,
+      "viewport": 390
+     }
+    ],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "FAIL",
+    "fail_reasons": [
+     "missing_label"
+    ],
+    "overflow": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "FAIL",
+    "fail_reasons": [
+     "overflow",
+     "missing_label"
+    ],
+    "overflow": [
+     {
+      "kind": "TEXT_CROSSES_VIEWPORT_EDGE",
+      "element": "button.chip.on",
+      "left": 358,
+      "right": 404,
+      "viewport": 390,
+      "text": "Nature"
+     },
+     {
+      "kind": "CONTROL_CROSSES_VIEWPORT_EDGE",
+      "element": "button.chip.on",
+      "left": 327,
+      "right": 419,
+      "viewport": 390
+     }
+    ],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "FAIL",
+    "fail_reasons": [
+     "missing_label"
+    ],
+    "overflow": [],
+    "targets_below_44": 30,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "FAIL",
+    "fail_reasons": [
+     "overflow",
+     "missing_label"
+    ],
+    "overflow": [
+     {
+      "kind": "CONTROL_CROSSES_VIEWPORT_EDGE",
+      "element": "button.chip.on",
+      "left": 612,
+      "right": 715,
+      "viewport": 640
+     }
+    ],
+    "targets_below_44": 0,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "FAIL",
+    "fail_reasons": [
+     "overflow",
+     "missing_label"
+    ],
+    "overflow": [
+     {
+      "kind": "DOCUMENT_HORIZONTAL_SCROLL",
+      "scrollWidth": 1437,
+      "viewport": 1280
+     },
+     {
+      "kind": "TEXT_CROSSES_VIEWPORT_EDGE",
+      "element": "button#tab-pBlog",
+      "left": 1252,
+      "right": 1351,
+      "viewport": 1280,
+      "text": "Carnet"
+     },
+     {
+      "kind": "CONTROL_CROSSES_VIEWPORT_EDGE",
+      "element": "button#tab-pBlog",
+      "left": 1244,
+      "right": 1359,
+      "viewport": 1280
+     }
+    ],
+    "targets_below_44": 27,
+    "small_targets": [],
+    "unlabeled_fields": [
+     "imp",
+     "journalImportFile",
+     "bkImp"
+    ],
+    "axe": {
+     "violations": [],
+     "incomplete": []
+    },
+    "keyboard_unreachable": []
+   }
+  ]
+ },
+ "limitations": [
+  "External audit without a ProjectSpec cannot validate factual provenance, business-specific journeys or structured-data business facts.",
+  "Production certification remains PARTIAL until required project-specific and manual gates are executed."
+ ]
+}

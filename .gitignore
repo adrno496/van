@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+*.log
+.plugcode/
+dist/
+dist-public/
+test-results/
+# Artefacts bruts de SENTINEL : configuration interne de l'outil, conservés localement seulement (voir LISEZ-MOI.md)
+audit-refonte*/evidence/sentinel/*/
+audit-refonte/evidence/sentinel/tools-doctor.json

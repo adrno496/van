@@ -1,0 +1,190 @@
+{
+  "label": "final",
+  "dir": "/Users/dreano/Downloads/van-main",
+  "generatedAt": "2026-10-04T07:30:20.055Z",
+  "runs": 5,
+  "host": {
+    "cpus": 10,
+    "load1": 13.86
+  },
+  "desktop": {
+    "boot": {
+      "FCP": 120,
+      "DATA_PARSE": 4.3,
+      "APP_SCRIPT": 28.2,
+      "COMPILE": 20.1,
+      "COUNTRY_RENDER": null,
+      "MARKER_RENDER": 9,
+      "WIRE": 2.6,
+      "LISTS": 13.1,
+      "VIEW_FIRST_LAYOUT": 0.3,
+      "INITIAL_FILTER_LABELS": 18.2,
+      "ROUTE": null,
+      "BOOT_TOTAL": 141.7,
+      "READY": 190.6,
+      "PARSE_HTML": 46.1,
+      "LAYOUT": 27.6,
+      "RECALC_STYLE": 20.4,
+      "PAINT": 29.9,
+      "GC": 6.7,
+      "LONG_TASKS": 0,
+      "LONG_TASK_MAX": 0,
+      "LONG_TASK_TOTAL": 0,
+      "BLOCKING_TIME_AFTER_FCP": 0
+    },
+    "interactions": {
+      "FIRST_INTERACTION": {
+        "script": 0.3,
+        "style": 4.9,
+        "layout": 6,
+        "task": 24.4,
+        "wall": 37
+      },
+      "ZOOM": {
+        "script": 0.1,
+        "style": 4.4,
+        "layout": 1.7,
+        "task": 30.2,
+        "wall": 48
+      },
+      "PAN": {
+        "script": 10.2,
+        "style": 11.2,
+        "layout": 48.8,
+        "task": 227.3,
+        "wall": 533
+      },
+      "FILTER_APPLY": {
+        "script": 12,
+        "style": 2.3,
+        "layout": 1.9,
+        "task": 24.3,
+        "wall": 47
+      },
+      "SEARCH": {
+        "script": 14.1,
+        "style": 0.1,
+        "layout": 1,
+        "task": 20.2,
+        "wall": 48
+      },
+      "SHOW_PLACE": {
+        "script": 0,
+        "style": 3.4,
+        "layout": 12.9,
+        "task": 30.2,
+        "wall": 49
+      },
+      "ROUTE_51": {
+        "script": 17.4,
+        "style": 2.8,
+        "layout": 9.6,
+        "task": 47.7,
+        "wall": 53
+      }
+    },
+    "dom": {
+      "total": 5002,
+      "svg": 2047,
+      "markerNodes": 1600,
+      "markers": 1600,
+      "textNodes": 279,
+      "labelsShown": 188,
+      "groups": 60,
+      "countryPaths": 47,
+      "jsEventListeners": 185,
+      "heapUsedMb": 6.8,
+      "documents": 3
+    }
+  },
+  "mobile": {
+    "boot": {
+      "FCP": 152,
+      "DATA_PARSE": 15.5,
+      "APP_SCRIPT": 120.5,
+      "COMPILE": 89.5,
+      "COUNTRY_RENDER": null,
+      "MARKER_RENDER": 39.2,
+      "WIRE": 10.9,
+      "LISTS": 48.8,
+      "VIEW_FIRST_LAYOUT": 1.4,
+      "INITIAL_FILTER_LABELS": 70,
+      "ROUTE": null,
+      "BOOT_TOTAL": 449.8,
+      "READY": 741.6,
+      "PARSE_HTML": 201.4,
+      "LAYOUT": 101.7,
+      "RECALC_STYLE": 86,
+      "PAINT": 104.7,
+      "GC": 17.6,
+      "LONG_TASKS": 4,
+      "LONG_TASK_MAX": 126,
+      "LONG_TASK_TOTAL": 308,
+      "BLOCKING_TIME_AFTER_FCP": 127
+    },
+    "interactions": {
+      "FIRST_INTERACTION": {
+        "script": 2.4,
+        "style": 20.7,
+        "layout": 23.7,
+        "task": 107,
+        "wall": 122
+      },
+      "ZOOM": {
+        "script": 0.6,
+        "style": 19.6,
+        "layout": 4.4,
+        "task": 116.3,
+        "wall": 131
+      },
+      "PAN": {
+        "script": 21.2,
+        "style": 45.2,
+        "layout": 106.4,
+        "task": 664,
+        "wall": 683
+      },
+      "FILTER_APPLY": {
+        "script": 40.9,
+        "style": 6.4,
+        "layout": 4.5,
+        "task": 79.2,
+        "wall": 95
+      },
+      "SEARCH": {
+        "script": 51.4,
+        "style": 0.7,
+        "layout": 0,
+        "task": 61.5,
+        "wall": 70
+      },
+      "SHOW_PLACE": {
+        "script": 2,
+        "style": 37.1,
+        "layout": 46.1,
+        "task": 133.8,
+        "wall": 135
+      },
+      "ROUTE_51": {
+        "script": 68.5,
+        "style": 36.9,
+        "layout": 36.7,
+        "task": 226.1,
+        "wall": 228
+      }
+    },
+    "dom": {
+      "total": 4893,
+      "svg": 1938,
+      "markerNodes": 1600,
+      "markers": 1600,
+      "textNodes": 170,
+      "labelsShown": 77,
+      "groups": 60,
+      "countryPaths": 47,
+      "jsEventListeners": 191,
+      "heapUsedMb": 5.6,
+      "documents": 6
+    }
+  }
+}

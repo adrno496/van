@@ -1,0 +1,134 @@
+{
+  "A": {
+    "mobile-390x844": {
+      "trajet": {
+        "premiereEtapeTopPx": 423,
+        "etapesEntieresVisibles": 2
+      },
+      "explorer": {
+        "lieuxEntiersVisibles": 3
+      },
+      "fiche": {
+        "actionPrincipaleTopPx": 277,
+        "hauteurEnTetePx": 410
+      },
+      "idees": {
+        "parcoursEntiersVisibles": 1
+      },
+      "texte": {
+        "taillePx": 15,
+        "interligne": 1.5,
+        "hauteurCommandePx": 44
+      }
+    },
+    "desktop-1440x900": {
+      "trajet": {
+        "premiereEtapeTopPx": 462,
+        "etapesEntieresVisibles": 2
+      },
+      "explorer": {
+        "lieuxEntiersVisibles": 3
+      },
+      "fiche": {
+        "actionPrincipaleTopPx": 321,
+        "hauteurEnTetePx": 350
+      },
+      "idees": {
+        "parcoursEntiersVisibles": 2
+      },
+      "texte": {
+        "taillePx": 15,
+        "interligne": 1.5,
+        "hauteurCommandePx": 44
+      }
+    }
+  },
+  "B": {
+    "mobile-390x844": {
+      "trajet": {
+        "premiereEtapeTopPx": 423,
+        "etapesEntieresVisibles": 2
+      },
+      "explorer": {
+        "lieuxEntiersVisibles": 3
+      },
+      "fiche": {
+        "actionPrincipaleTopPx": 275,
+        "hauteurEnTetePx": 408
+      },
+      "idees": {
+        "parcoursEntiersVisibles": 2
+      },
+      "texte": {
+        "taillePx": 15,
+        "interligne": 1.5,
+        "hauteurCommandePx": 44
+      }
+    },
+    "desktop-1440x900": {
+      "trajet": {
+        "premiereEtapeTopPx": 462,
+        "etapesEntieresVisibles": 2
+      },
+      "explorer": {
+        "lieuxEntiersVisibles": 3
+      },
+      "fiche": {
+        "actionPrincipaleTopPx": 319,
+        "hauteurEnTetePx": 348
+      },
+      "idees": {
+        "parcoursEntiersVisibles": 2
+      },
+      "texte": {
+        "taillePx": 15,
+        "interligne": 1.5,
+        "hauteurCommandePx": 44
+      }
+    }
+  },
+  "C": {
+    "mobile-390x844": {
+      "trajet": {
+        "premiereEtapeTopPx": 484,
+        "etapesEntieresVisibles": 1
+      },
+      "explorer": {
+        "lieuxEntiersVisibles": 2
+      },
+      "fiche": {
+        "actionPrincipaleTopPx": 303,
+        "hauteurEnTetePx": 446
+      },
+      "idees": {
+        "parcoursEntiersVisibles": 1
+      },
+      "texte": {
+        "taillePx": 16,
+        "interligne": 1.6,
+        "hauteurCommandePx": 48
+      }
+    },
+    "desktop-1440x900": {
+      "trajet": {
+        "premiereEtapeTopPx": 510,
+        "etapesEntieresVisibles": 2
+      },
+      "explorer": {
+        "lieuxEntiersVisibles": 2
+      },
+      "fiche": {
+        "actionPrincipaleTopPx": 349,
+        "hauteurEnTetePx": 382
+      },
+      "idees": {
+        "parcoursEntiersVisibles": 1
+      },
+      "texte": {
+        "taillePx": 16,
+        "interligne": 1.6,
+        "hauteurCommandePx": 48
+      }
+    }
+  }
+}

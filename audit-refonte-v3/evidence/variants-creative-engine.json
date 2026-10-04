@@ -1,0 +1,383 @@
+{
+ "note": "Audit Creative Engine 9.1.0 (--mode balanced) et Lighthouse (3 passages, médiane) de chaque direction, même code, mêmes pages, avant les corrections tirées de cet audit (communes aux trois directions).",
+ "variants": {
+  "A": {
+   "engine": "9.1.0",
+   "quality": 64,
+   "certification": "FAIL",
+   "static": {
+    "security": "PARTIAL",
+    "html": "PASS",
+    "links": "PASS",
+    "seo": "FAIL",
+    "accessibilityStatic": "FAIL"
+   },
+   "findings_by_rule": {
+    "INLINE_EVENT_HANDLER": 1,
+    "INLINE_SCRIPT": 1,
+    "CONTENT_KEYWORD_STUFFING": 58,
+    "LINK_BROKEN_INTERNAL": 26,
+    "LINK_NAV_BROKEN": 1,
+    "CONTENT_THIN": 4,
+    "LINK_BROKEN_ANCHOR": 738,
+    "LINK_ORPHAN_PAGE": 1,
+    "SEO_ROBOTS_TXT_MISSING": 1,
+    "CONTENT_INTENT_UNCLEAR": 5,
+    "LINK_DUPLICATE_DESTINATION": 1,
+    "SEO_H1_TITLE_INCOHERENT": 3,
+    "SEO_HEADING_HIERARCHY": 1,
+    "SEO_META_DESCRIPTION_LENGTH_HEURISTIC": 2,
+    "SEO_ORIGIN_UNKNOWN": 1,
+    "SEO_ROBOTS_NOINDEX_UNEXPECTED": 3,
+    "A11Y_SKIP_LINK_MISSING": 74,
+    "A11Y_MAIN_TARGET_MISSING": 74,
+    "A11Y_TEXT_DIRECTION_MISSING": 74,
+    "A11Y_MOBILE_MENU_ESCAPE_MISSING": 1,
+    "BROWSER_SCENARIO": 47
+   },
+   "browser": {
+    "status": "FAIL",
+    "scenarios": 121,
+    "by_status": {
+     "FAIL": 25,
+     "PASS": 74,
+     "PARTIAL": 22
+    },
+    "axe": {
+     "status": "FAIL",
+     "scenarios": 55,
+     "violations": 21,
+     "critical_or_serious": 16,
+     "incomplete": 50
+    },
+    "responsive": {
+     "status": "PASS",
+     "scenarios": 55,
+     "overflow_scenarios": 0
+    },
+    "console_network": {
+     "status": "PASS",
+     "console_errors": 0,
+     "page_errors": 0,
+     "failed_requests": 0,
+     "http_errors": 0,
+     "third_party_requests": 0
+    },
+    "csp": {
+     "status": "PASS",
+     "violations": 0
+    },
+    "target_size": {
+     "status": "PASS",
+     "below_24_scenarios": 0,
+     "controls_below_44": 30
+    },
+    "checks": {
+     "responsive": "PASS",
+     "console_network": "PASS",
+     "axe": "FAIL",
+     "keyboard": "FAIL",
+     "target_size": "PASS",
+     "skip_link": "PASS",
+     "menu": "FAIL",
+     "forms": "NA",
+     "reduced_motion": "PASS",
+     "zoom": "PASS",
+     "rtl": "NA",
+     "csp": "PASS",
+     "seo_runtime": "PASS"
+    }
+   },
+   "lighthouse": [
+    {
+     "form_factor": "mobile",
+     "status": "PASS",
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 1112.643,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 1112.643,
+      "speed_index_ms": 1112.643,
+      "tti_ms": 1112.643
+     }
+    },
+    {
+     "form_factor": "desktop",
+     "status": "PASS",
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 290.25,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 247.25,
+      "speed_index_ms": 247.25,
+      "tti_ms": 290.25
+     }
+    }
+   ]
+  },
+  "B": {
+   "engine": "9.1.0",
+   "quality": 65,
+   "certification": "FAIL",
+   "static": {
+    "security": "PARTIAL",
+    "html": "PASS",
+    "links": "PASS",
+    "seo": "FAIL",
+    "accessibilityStatic": "FAIL"
+   },
+   "findings_by_rule": {
+    "INLINE_EVENT_HANDLER": 1,
+    "INLINE_SCRIPT": 1,
+    "CONTENT_KEYWORD_STUFFING": 58,
+    "LINK_BROKEN_INTERNAL": 26,
+    "LINK_NAV_BROKEN": 1,
+    "CONTENT_THIN": 4,
+    "LINK_BROKEN_ANCHOR": 738,
+    "LINK_ORPHAN_PAGE": 1,
+    "SEO_ROBOTS_TXT_MISSING": 1,
+    "CONTENT_INTENT_UNCLEAR": 5,
+    "LINK_DUPLICATE_DESTINATION": 1,
+    "SEO_H1_TITLE_INCOHERENT": 3,
+    "SEO_HEADING_HIERARCHY": 1,
+    "SEO_META_DESCRIPTION_LENGTH_HEURISTIC": 2,
+    "SEO_ORIGIN_UNKNOWN": 1,
+    "SEO_ROBOTS_NOINDEX_UNEXPECTED": 3,
+    "A11Y_SKIP_LINK_MISSING": 74,
+    "A11Y_MAIN_TARGET_MISSING": 74,
+    "A11Y_TEXT_DIRECTION_MISSING": 74,
+    "A11Y_MOBILE_MENU_ESCAPE_MISSING": 1,
+    "BROWSER_SCENARIO": 44
+   },
+   "browser": {
+    "status": "FAIL",
+    "scenarios": 121,
+    "by_status": {
+     "FAIL": 22,
+     "PASS": 77,
+     "PARTIAL": 22
+    },
+    "axe": {
+     "status": "FAIL",
+     "scenarios": 55,
+     "violations": 21,
+     "critical_or_serious": 16,
+     "incomplete": 50
+    },
+    "responsive": {
+     "status": "PASS",
+     "scenarios": 55,
+     "overflow_scenarios": 0
+    },
+    "console_network": {
+     "status": "PASS",
+     "console_errors": 0,
+     "page_errors": 0,
+     "failed_requests": 0,
+     "http_errors": 0,
+     "third_party_requests": 0
+    },
+    "csp": {
+     "status": "PASS",
+     "violations": 0
+    },
+    "target_size": {
+     "status": "PASS",
+     "below_24_scenarios": 0,
+     "controls_below_44": 30
+    },
+    "checks": {
+     "responsive": "PASS",
+     "console_network": "PASS",
+     "axe": "FAIL",
+     "keyboard": "FAIL",
+     "target_size": "PASS",
+     "skip_link": "PASS",
+     "menu": "FAIL",
+     "forms": "NA",
+     "reduced_motion": "PASS",
+     "zoom": "PASS",
+     "rtl": "NA",
+     "csp": "PASS",
+     "seo_runtime": "PASS"
+    }
+   },
+   "lighthouse": [
+    {
+     "form_factor": "mobile",
+     "status": "PASS",
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 1086.726,
+      "cls": 0,
+      "tbt_ms": 8.231,
+      "fcp_ms": 929.169,
+      "speed_index_ms": 929.169,
+      "tti_ms": 1086.727
+     }
+    },
+    {
+     "form_factor": "desktop",
+     "status": "PASS",
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 295.139,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 252.139,
+      "speed_index_ms": 252.139,
+      "tti_ms": 295.139
+     }
+    }
+   ]
+  },
+  "C": {
+   "engine": "9.1.0",
+   "quality": 64,
+   "certification": "FAIL",
+   "static": {
+    "security": "PARTIAL",
+    "html": "PASS",
+    "links": "PASS",
+    "seo": "FAIL",
+    "accessibilityStatic": "FAIL"
+   },
+   "findings_by_rule": {
+    "INLINE_EVENT_HANDLER": 1,
+    "INLINE_SCRIPT": 1,
+    "CONTENT_KEYWORD_STUFFING": 58,
+    "LINK_BROKEN_INTERNAL": 26,
+    "LINK_NAV_BROKEN": 1,
+    "CONTENT_THIN": 4,
+    "LINK_BROKEN_ANCHOR": 738,
+    "LINK_ORPHAN_PAGE": 1,
+    "SEO_ROBOTS_TXT_MISSING": 1,
+    "CONTENT_INTENT_UNCLEAR": 5,
+    "LINK_DUPLICATE_DESTINATION": 1,
+    "SEO_H1_TITLE_INCOHERENT": 3,
+    "SEO_HEADING_HIERARCHY": 1,
+    "SEO_META_DESCRIPTION_LENGTH_HEURISTIC": 2,
+    "SEO_ORIGIN_UNKNOWN": 1,
+    "SEO_ROBOTS_NOINDEX_UNEXPECTED": 3,
+    "A11Y_SKIP_LINK_MISSING": 74,
+    "A11Y_MAIN_TARGET_MISSING": 74,
+    "A11Y_TEXT_DIRECTION_MISSING": 74,
+    "A11Y_MOBILE_MENU_ESCAPE_MISSING": 1,
+    "BROWSER_SCENARIO": 48
+   },
+   "browser": {
+    "status": "FAIL",
+    "scenarios": 121,
+    "by_status": {
+     "FAIL": 25,
+     "PASS": 73,
+     "PARTIAL": 23
+    },
+    "axe": {
+     "status": "FAIL",
+     "scenarios": 55,
+     "violations": 20,
+     "critical_or_serious": 15,
+     "incomplete": 50
+    },
+    "responsive": {
+     "status": "PASS",
+     "scenarios": 55,
+     "overflow_scenarios": 0
+    },
+    "console_network": {
+     "status": "PASS",
+     "console_errors": 0,
+     "page_errors": 0,
+     "failed_requests": 0,
+     "http_errors": 0,
+     "third_party_requests": 0
+    },
+    "csp": {
+     "status": "PASS",
+     "violations": 0
+    },
+    "target_size": {
+     "status": "PASS",
+     "below_24_scenarios": 0,
+     "controls_below_44": 30
+    },
+    "checks": {
+     "responsive": "PASS",
+     "console_network": "PASS",
+     "axe": "FAIL",
+     "keyboard": "FAIL",
+     "target_size": "PASS",
+     "skip_link": "PASS",
+     "menu": "FAIL",
+     "forms": "NA",
+     "reduced_motion": "PASS",
+     "zoom": "PASS",
+     "rtl": "NA",
+     "csp": "PASS",
+     "seo_runtime": "PASS"
+    }
+   },
+   "lighthouse": [
+    {
+     "form_factor": "mobile",
+     "status": "PASS",
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 1078.679,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 910.679,
+      "speed_index_ms": 910.679,
+      "tti_ms": 1078.679
+     }
+    },
+    {
+     "form_factor": "desktop",
+     "status": "PASS",
+     "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+     },
+     "metrics": {
+      "lcp_ms": 289.884,
+      "cls": 0,
+      "tbt_ms": 0,
+      "fcp_ms": 246.884,
+      "speed_index_ms": 246.884,
+      "tti_ms": 289.884
+     }
+    }
+   ]
+  }
+ }
+}

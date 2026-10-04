@@ -1,0 +1,97 @@
+/* Mise en page : en-tête, carte, panneau, navigation mobile. */
+.app{display:grid;grid-template-rows:auto minmax(0,1fr);height:100vh;height:100dvh}
+
+/* En-tête : marque, recherche principale, paramètres */
+.top{display:flex;align-items:center;gap:var(--s4);padding:var(--s2) var(--s5);padding-top:max(var(--s2),env(safe-area-inset-top));
+  padding-left:max(var(--s5),env(safe-area-inset-left));padding-right:max(var(--s5),env(safe-area-inset-right));
+  background:var(--surface);border-bottom:var(--border-w) solid var(--border);z-index:30;min-height:60px}
+.brand{font-family:var(--font-display);font-weight:var(--display-weight);font-size:var(--fs-xl);letter-spacing:var(--display-tracking);white-space:nowrap}
+.brand em{font-style:italic;font-weight:400;color:var(--accent-text)}
+/* Dans le site (dist/), la marque ramène à l'accueil */
+.brand a{display:inline-flex;align-items:center;gap:.28em;min-height:var(--control-h);color:inherit;text-decoration:none;border-radius:var(--r-sm)}
+.search{position:relative;flex:1 1 320px;max-width:520px;min-width:0}
+.search input{width:100%;height:var(--control-h);padding:0 var(--s4) 0 42px;border:var(--border-w) solid var(--border-strong);border-radius:var(--r-pill);
+  background:var(--surface);font-size:var(--fs-md)}
+.search input::placeholder{color:var(--text-3);opacity:1}
+.search input:hover{border-color:var(--text-2)}
+.search-ic{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--text-2);pointer-events:none}
+.res{position:absolute;top:calc(100% + 6px);left:0;right:0;background:var(--surface);border:var(--border-w) solid var(--border);
+  border-radius:var(--r-lg);box-shadow:var(--shadow-2);max-height:min(60vh,420px);overflow:auto;z-index:60;display:none;padding:var(--s1)}
+.res.on{display:block}
+.res [data-s],.res .res-empty{display:flex;gap:var(--s2);align-items:center;min-height:var(--control-h);padding:var(--s2) var(--s3);border-radius:var(--r-md)}
+.res [data-s]{cursor:pointer}
+.res [data-s]:hover,.res [data-s]:focus-visible{background:var(--surface-2)}
+.res .res-name{flex:1;min-width:0}
+.res small{color:var(--text-3);font-size:var(--fs-sm);white-space:nowrap}
+.res .res-hint{color:var(--text-3);font-size:var(--fs-sm)}
+.res .res-empty{color:var(--text-2)}
+.top-status{margin-left:auto;color:var(--text-3);font-size:var(--fs-sm);white-space:nowrap}
+
+/* Corps : carte dominante, panneau à droite */
+.body{display:grid;grid-template-columns:minmax(0,1fr) clamp(380px,32vw,460px);min-height:0}
+.mapwrap{position:relative;background:var(--map-sea);overflow:hidden;min-width:0}
+.panel{display:flex;flex-direction:column;min-height:0;min-width:0;background:var(--surface);border-left:var(--border-w) solid var(--border)}
+
+/* Onglets du panneau */
+/* Les onglets passent à la ligne si le texte est agrandi (zoom du texte à 200 %) */
+.tabs{display:flex;flex-wrap:wrap;border-bottom:var(--border-w) solid var(--border);background:var(--surface);padding:0 var(--s2)}
+.tabs button{flex:1 1 auto;min-height:48px;padding:0 var(--s2);border:0;background:none;color:var(--text-2);font-weight:var(--ui-weight);font-size:var(--fs-base);
+  border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap;display:inline-flex;align-items:center;justify-content:center;gap:6px}
+.tabs button:hover{color:var(--text)}
+.tabs button.on{color:var(--text);border-bottom-color:var(--accent)}
+.cnt,.nav-cnt{display:inline-flex;align-items:center;justify-content:center;min-width:20px;height:20px;padding:0 6px;border-radius:var(--r-pill);
+  background:var(--surface-3);color:var(--text);font-size:var(--fs-xs);font-weight:700;font-variant-numeric:tabular-nums}
+.tabs button.on .cnt{background:var(--accent);color:var(--on-accent)}
+
+.pane{display:none;flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;padding:var(--s5);padding-bottom:var(--s8);position:relative;scroll-padding-top:var(--s5)}
+.pane.on{display:block}
+.pane-head{display:flex;align-items:center;justify-content:space-between;gap:var(--s3);margin-bottom:var(--s4);min-height:var(--control-h-sm)}
+.section-title{margin:var(--s7) 0 var(--s3)}
+.lead{color:var(--text-2)}
+
+/* Navigation inférieure : petits écrans uniquement */
+.mobile-nav{display:none}
+
+@media (pointer:coarse){
+  .tabs button{min-height:52px}
+}
+
+/* Tablette en paysage : panneau plus étroit */
+@media (max-width:1100px){
+  .body{grid-template-columns:minmax(0,1fr) 380px}
+  .top-status{display:none}
+}
+
+/* Téléphone et tablette en portrait : la carte occupe l'écran, les rubriques s'ouvrent par-dessus */
+@media (max-width:859px){
+  .app{grid-template-rows:auto minmax(0,1fr) auto}
+  .top{gap:var(--s3);padding-left:max(var(--s3),env(safe-area-inset-left));padding-right:max(var(--s3),env(safe-area-inset-right));min-height:56px}
+  .brand{font-size:var(--fs-lg)}
+  .search{max-width:none;flex-basis:0}
+  #openSettings{display:none}
+  .body{display:block;position:relative}
+  .mapwrap{position:absolute;inset:0}
+  .panel{display:none;position:absolute;inset:0;border:0}
+  .tabs{display:none}
+  body[data-mobile-view=panel] .panel{display:flex}
+  body[data-mobile-view=panel] .mapwrap{visibility:hidden;pointer-events:none}
+  .pane{padding:var(--s4);padding-bottom:var(--s7);padding-left:max(var(--s4),env(safe-area-inset-left));padding-right:max(var(--s4),env(safe-area-inset-right))}
+  .pane > *,.pane > .privacy-content > *{max-width:680px;margin-left:auto;margin-right:auto}
+  .mobile-nav{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));background:var(--surface);border-top:var(--border-w) solid var(--border);
+    padding:var(--s1) max(var(--s1),env(safe-area-inset-right)) max(var(--s1),env(safe-area-inset-bottom)) max(var(--s1),env(safe-area-inset-left));z-index:50}
+  .mobile-nav button{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-height:52px;padding:var(--s1);
+    border:0;background:none;color:var(--text-2);font-size:var(--fs-xs);font-weight:var(--ui-weight);border-radius:var(--r-md)}
+  .mobile-nav button .ic{width:22px;height:22px}
+  .mobile-nav button.on{color:var(--accent-text);background:var(--accent-soft)}
+  .nav-cnt{position:absolute;top:4px;left:calc(50% + 6px);min-width:18px;height:18px;padding:0 5px;background:var(--accent);color:var(--on-accent)}
+
+  /* Aperçu d'un parcours : carte en haut, liste des idées en dessous */
+  body.preset-preview[data-mobile-view=panel] .mapwrap{visibility:visible;pointer-events:auto;bottom:62%}
+  body.preset-preview[data-mobile-view=panel] .panel{top:38%;border-top:var(--border-w) solid var(--border)}
+  body.preset-preview .map-bar,body.preset-preview .map-tools,body.preset-preview .scale,body.preset-preview .peek{display:none}
+  body.preset-preview .zoomer{top:auto;bottom:var(--s2);right:var(--s2);transform:none;flex-direction:row}
+}
+@media (max-width:359px){
+  .brand{font-size:var(--fs-md)}
+  .top{gap:var(--s2)}
+}

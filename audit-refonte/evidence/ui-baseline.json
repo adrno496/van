@@ -1,0 +1,2636 @@
+{
+  "label": "baseline",
+  "dir": "/private/tmp/claude-501/-Users-dreano-Downloads-van-main/15f14508-561c-49cd-942f-69171babb500/scratchpad/stage/before/site",
+  "generatedAt": "2026-10-03T23:59:16.796Z",
+  "totals": {
+    "tests": 42,
+    "pass": 19,
+    "fail": 23
+  },
+  "results": [
+    {
+      "group": "mise-en-page",
+      "title": "desktop-1440x900 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "desktop-1440x900 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 381×22\",\"#mSlider «  » 129×16\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "desktop-1440x900 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "desktop-1440x900 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 2
+    },
+    {
+      "group": "mise-en-page",
+      "title": "laptop-1280x800 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "laptop-1280x800 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 381×22\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "laptop-1280x800 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "laptop-1280x800 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 3
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-1024x768 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-1024x768 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 321×22\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-1024x768 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-1024x768 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 6
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-tactile-1024x768 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-tactile-1024x768 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 321×22\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-tactile-1024x768 : commandes tactiles d'au moins 44 px",
+      "status": "FAIL",
+      "detail": "commandes sous 44 px — attendu [], obtenu [\"#mapFiltersButton « ☷ Filtres et affichage » 145×34\",\"#searchAround « ◎ Aux alentours » 116×34\",\"#routeQuery « Lieu, pays, visite… » 321×24\",\"#insertAt « À la fin du parcoursAu dépar » 321×22\",\"button « Été » 43×44\",\"a « Carte ↗ » 50×36\",\"a « Infos / billets ↗ » 96×36\"]",
+      "ms": 1
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-tactile-1024x768 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-tactile-1024x768 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 4
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-768x1024 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-768x1024 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 322×22\",\"#mSlider «  » 129×16\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-768x1024 : commandes tactiles d'au moins 44 px",
+      "status": "FAIL",
+      "detail": "commandes sous 44 px — attendu [], obtenu [\"#q « Rechercher dans les 1 600 li » 26×46\",\"#mapFiltersButton « ☷ Filtres et affichage » 145×34\",\"#searchAround « ◎ Aux alentours » 116×34\",\"#routeQuery « Lieu, pays, visite… » 322×24\",\"#insertAt « À la fin du parcoursAu dépar » 322×22\",\"button « Été » 43×44\",\"#mSlider «  » 129×16\",\"a « Carte ↗ » 50×36\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-768x1024 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "tablet-768x1024 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 3
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-430x932 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-430x932 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 364×22\"]",
+      "ms": 1
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-430x932 : commandes tactiles d'au moins 44 px",
+      "status": "FAIL",
+      "detail": "commandes sous 44 px — attendu [], obtenu [\"#mapFiltersButton « ☷ Filtres et affichage » 145×38\",\"#searchAround « ◎ Aux alentours » 116×38\",\"#routeQuery « Lieu, pays, visite… » 364×24\",\"#insertAt « À la fin du parcoursAu dépar » 364×22\",\"button « Été » 43×44\",\"a « Carte ↗ » 50×36\",\"a « Infos / billets ↗ » 96×36\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-430x932 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-430x932 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 4
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-390x844 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-390x844 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 324×22\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-390x844 : commandes tactiles d'au moins 44 px",
+      "status": "FAIL",
+      "detail": "commandes sous 44 px — attendu [], obtenu [\"#mapFiltersButton « ☷ Filtres et affichage » 145×38\",\"#searchAround « ◎ Aux alentours » 116×38\",\"#routeQuery « Lieu, pays, visite… » 324×24\",\"#insertAt « À la fin du parcoursAu dépar » 324×22\",\"button « Été » 43×44\",\"a « Carte ↗ » 50×36\",\"a « Infos / billets ↗ » 96×36\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-390x844 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-390x844 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 2
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-360x800 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-360x800 : aucune commande sous 24 × 24 px",
+      "status": "FAIL",
+      "detail": "commandes trop petites — attendu [], obtenu [\"#insertAt « À la fin du parcoursAu dépar » 294×22\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-360x800 : commandes tactiles d'au moins 44 px",
+      "status": "FAIL",
+      "detail": "commandes sous 44 px — attendu [], obtenu [\"#mapFiltersButton « ☷ Filtres et affichage » 144×38\",\"#searchAround « ◎ Aux alentours » 116×38\",\"#routeQuery « Lieu, pays, visite… » 294×24\",\"#insertAt « À la fin du parcoursAu dépar » 294×22\",\"button « Été » 43×44\",\"a « Carte ↗ » 50×36\",\"a « Infos / billets ↗ » 96×36\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-360x800 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-360x800 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 2
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-320x568 : aucun débordement horizontal",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-320x568 : aucune commande sous 24 × 24 px",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-320x568 : commandes tactiles d'au moins 44 px",
+      "status": "FAIL",
+      "detail": "commandes sous 44 px — attendu [], obtenu [\"#mapFiltersButton « ☷ Filtres et affichage » 139×38\",\"#searchAround « ◎ Aux alentours » 113×38\",\"#routeQuery « Lieu, pays, visite… » 254×24\"]",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-320x568 : aucun libellé de bouton tronqué",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "mise-en-page",
+      "title": "mobile-320x568 : texte d'au moins 12 px, champs d'au moins 16 px",
+      "status": "FAIL",
+      "detail": "champs sous 16 px (zoom automatique sur iOS) — attendu [], obtenu [\"paysSel\",\"nearRouteKm\"]",
+      "ms": 2
+    }
+  ],
+  "metrics": {
+    "desktop-1440x900": {
+      "carte": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 27,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 27,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 21,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 381×22"
+        ],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "#routeQuery « Lieu, pays, visite… » 381×24",
+          "#insertAt « À la fin du parcoursAu dépar » 381×22"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          28
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 29,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          22,
+          24,
+          28
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 20,
+        "below24": [
+          "#mSlider «  » 129×16"
+        ],
+        "below44": [
+          "#mSlider «  » 129×16"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.622,
+        "mapCoveredByControls": 0.045,
+        "visibleControls": 31,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 12,
+        "clippedLabels": []
+      }
+    },
+    "laptop-1280x800": {
+      "carte": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 25,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 25,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 20,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 381×22"
+        ],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "#routeQuery « Lieu, pays, visite… » 381×24",
+          "#insertAt « À la fin du parcoursAu dépar » 381×22"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          28
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 29,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          22,
+          24,
+          28
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 19,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          24,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          1280,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 77,
+        "mapShareOfScreen": 0.579,
+        "mapCoveredByControls": 0.06,
+        "visibleControls": 29,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          24,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 12,
+        "clippedLabels": []
+      }
+    },
+    "tablet-1024x768": {
+      "carte": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.08,
+        "visibleControls": 25,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.08,
+        "visibleControls": 25,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 20,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 321×22"
+        ],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "#routeQuery « Lieu, pays, visite… » 321×24",
+          "#insertAt « À la fin du parcoursAu dépar » 321×22"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          24,
+          28
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 28,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          22,
+          28
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 22,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          26,
+          34
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 18,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 22,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          26,
+          34
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 12,
+        "clippedLabels": []
+      }
+    },
+    "tablet-tactile-1024x768": {
+      "carte": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.08,
+        "visibleControls": 25,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.08,
+        "visibleControls": 25,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 20,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 321×22"
+        ],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "#routeQuery « Lieu, pays, visite… » 321×24",
+          "#insertAt « À la fin du parcoursAu dépar » 321×22"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          24,
+          28
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 28,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          22,
+          28
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 22,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          26,
+          34
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 18,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 22,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          26,
+          34
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          1024,
+          768
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 69,
+        "mapShareOfScreen": 0.555,
+        "mapCoveredByControls": 0.079,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 12,
+        "clippedLabels": []
+      }
+    },
+    "tablet-768x1024": {
+      "carte": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.109,
+        "visibleControls": 28,
+        "below24": [],
+        "below44": [
+          "#q « Rechercher dans les 1 600 li » 26×46",
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.109,
+        "visibleControls": 28,
+        "below24": [],
+        "below44": [
+          "#q « Rechercher dans les 1 600 li » 26×46",
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.108,
+        "visibleControls": 27,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 322×22"
+        ],
+        "below44": [
+          "#q « Rechercher dans les 1 600 li » 26×46",
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "#routeQuery « Lieu, pays, visite… » 322×24",
+          "#insertAt « À la fin du parcoursAu dépar » 322×22"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          24,
+          28
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.108,
+        "visibleControls": 30,
+        "below24": [],
+        "below44": [
+          "#q « Rechercher dans les 1 600 li » 26×46",
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          22,
+          28
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.108,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#q « Rechercher dans les 1 600 li » 26×46",
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.108,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.108,
+        "visibleControls": 21,
+        "below24": [
+          "#mSlider «  » 129×16"
+        ],
+        "below44": [
+          "#mSlider «  » 129×16"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.108,
+        "visibleControls": 26,
+        "below24": [],
+        "below44": [
+          "#q « Rechercher dans les 1 600 li » 26×46",
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          25,
+          26,
+          34
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 79,
+        "mapShareOfScreen": 0.442,
+        "mapCoveredByControls": 0.108,
+        "visibleControls": 31,
+        "below24": [],
+        "below44": [
+          "#q « Rechercher dans les 1 600 li » 26×46",
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×34",
+          "#searchAround « ◎ Aux alentours » 116×34",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 12,
+        "clippedLabels": []
+      }
+    },
+    "mobile-430x932": {
+      "carte": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0.799,
+        "mapCoveredByControls": 0.129,
+        "visibleControls": 14,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×38",
+          "#searchAround « ◎ Aux alentours » 116×38"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          22
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 17,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          22,
+          27
+        ],
+        "textColors": 3,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 11,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 364×22"
+        ],
+        "below44": [
+          "#routeQuery « Lieu, pays, visite… » 364×24",
+          "#insertAt « À la fin du parcoursAu dépar » 364×22"
+        ],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          24,
+          28
+        ],
+        "textColors": 3,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 19,
+        "below24": [],
+        "below44": [
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          25
+        ],
+        "textColors": 4,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 16,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          22,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 18,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          22,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 16,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          430,
+          932
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 21,
+        "below24": [],
+        "below44": [
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36"
+        ],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 13,
+        "clippedLabels": []
+      }
+    },
+    "mobile-390x844": {
+      "carte": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0.778,
+        "mapCoveredByControls": 0.153,
+        "visibleControls": 14,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 145×38",
+          "#searchAround « ◎ Aux alentours » 116×38"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          21,
+          22
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 15,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          22,
+          27
+        ],
+        "textColors": 3,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 10,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 324×22"
+        ],
+        "below44": [
+          "#routeQuery « Lieu, pays, visite… » 324×24",
+          "#insertAt « À la fin du parcoursAu dépar » 324×22"
+        ],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          24,
+          28
+        ],
+        "textColors": 3,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 18,
+        "below24": [],
+        "below44": [
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          25
+        ],
+        "textColors": 4,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 13,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 7,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          22,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 15,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          22,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 13,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 13,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          390,
+          844
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 16,
+        "below24": [],
+        "below44": [
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36",
+          "a « Carte ↗ » 50×36"
+        ],
+        "fontSizes": [
+          13,
+          14,
+          16,
+          21,
+          22,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 13,
+        "clippedLabels": []
+      }
+    },
+    "mobile-360x800": {
+      "carte": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0.766,
+        "mapCoveredByControls": 0.17,
+        "visibleControls": 14,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 144×38",
+          "#searchAround « ◎ Aux alentours » 116×38"
+        ],
+        "fontSizes": [
+          12,
+          14,
+          16,
+          20,
+          21
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 14,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 10,
+        "below24": [
+          "#insertAt « À la fin du parcoursAu dépar » 294×22"
+        ],
+        "below44": [
+          "#routeQuery « Lieu, pays, visite… » 294×24",
+          "#insertAt « À la fin du parcoursAu dépar » 294×22"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          24,
+          28
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 17,
+        "below24": [],
+        "below44": [
+          "button « Été » 43×44"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          22,
+          25
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 12,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          26,
+          31
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 6,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          31
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 15,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 12,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          26,
+          31
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          360,
+          800
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 15,
+        "below24": [],
+        "below44": [
+          "a « Carte ↗ » 50×36",
+          "a « Infos / billets ↗ » 96×36"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 6,
+        "minFontSize": 12,
+        "clippedLabels": []
+      }
+    },
+    "mobile-320x568": {
+      "carte": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0.671,
+        "mapCoveredByControls": 0.321,
+        "visibleControls": 14,
+        "below24": [],
+        "below44": [
+          "#mapFiltersButton « ☷ Filtres et affichage » 139×38",
+          "#searchAround « ◎ Aux alentours » 113×38"
+        ],
+        "fontSizes": [
+          12,
+          14,
+          16,
+          20,
+          21
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "explorer": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 11,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "trajet": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 9,
+        "below24": [],
+        "below44": [
+          "#routeQuery « Lieu, pays, visite… » 254×24"
+        ],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          24
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "idees": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          14,
+          16,
+          20,
+          21,
+          25
+        ],
+        "textColors": 3,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "carnet": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          26,
+          31
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "plus": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 4,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          31
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "filtres": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 10,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          20,
+          21,
+          25,
+          26,
+          31
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "parametres": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 8,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          26,
+          31
+        ],
+        "textColors": 4,
+        "minFontSize": 12,
+        "clippedLabels": []
+      },
+      "fiche": {
+        "viewport": [
+          320,
+          568
+        ],
+        "horizontalOverflowPx": 0,
+        "headerHeight": 119,
+        "mapShareOfScreen": 0,
+        "mapCoveredByControls": 0,
+        "visibleControls": 11,
+        "below24": [],
+        "below44": [],
+        "fontSizes": [
+          12,
+          13,
+          14,
+          16,
+          20,
+          21,
+          27
+        ],
+        "textColors": 5,
+        "minFontSize": 12,
+        "clippedLabels": []
+      }
+    }
+  }
+}

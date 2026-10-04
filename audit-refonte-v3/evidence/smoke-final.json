@@ -1,0 +1,108 @@
+{
+  "file": "/Users/dreano/Downloads/van-main/index.html",
+  "generatedAt": "2026-10-04T09:06:57.237Z",
+  "results": [
+    {
+      "engine": "chromium",
+      "mode": "serveur",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "153.0.8010.12"
+    },
+    {
+      "engine": "firefox",
+      "mode": "serveur",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "155.0"
+    },
+    {
+      "engine": "webkit",
+      "mode": "serveur",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "26.6"
+    },
+    {
+      "engine": "chromium",
+      "mode": "fichier",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "153.0.8010.12"
+    },
+    {
+      "engine": "firefox",
+      "mode": "fichier",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "155.0"
+    },
+    {
+      "engine": "webkit",
+      "mode": "fichier",
+      "status": "PASS",
+      "steps": [
+        "démarrage : ok",
+        "recherche et fiche : ok",
+        "ajout au trajet : ok",
+        "dialogue des filtres : ok",
+        "zoom et carte : ok",
+        "carnet : écrire et enregistrer : ok",
+        "rechargement : données relues : ok",
+        "politique de sécurité respectée : ok"
+      ],
+      "errors": [],
+      "version": "26.6"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "brouillon-public",
+  "title": "Brouillon de test à ne jamais publier",
+  "date": "2026-03-12",
+  "text": "Contenu du brouillon de test : public mais pas publié.",
+  "visibility": "public",
+  "status": "draft"
+}

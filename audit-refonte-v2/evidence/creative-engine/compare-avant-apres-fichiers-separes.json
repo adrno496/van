@@ -1,0 +1,10 @@
+{
+  "quality_before": 77,
+  "quality_after": 77,
+  "quality_delta": 0,
+  "resolved": [],
+  "introduced": [],
+  "certification_before": "FAIL",
+  "certification_after": "FAIL",
+  "regression": false
+}

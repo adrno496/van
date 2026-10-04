@@ -1,0 +1,21 @@
+/* Direction A — « Atlas éditorial cinématique ».
+   Première page sombre : l'Europe de nuit, chaque lieu de l'Atlas est un point de lumière. Grande typographie serif, beaucoup d'air. */
+:root{--hero-bg:#1a2c23;--hero-min:min(92vh,900px);--section:clamp(64px,9vw,128px)}
+.hero{--pl-sea:#1a2c23;--pl-land:#233a2e;--pl-land-line:#35523f;--pl-dot:#d9c9a3;--pl-dot-strong:#f3b488;--pl-route:#f3b488;--pl-route-bg:#1a2c23}
+.hero .pl-dots{stroke-opacity:.8}
+.hero .pl-route-bg{stroke-opacity:0}
+/* Voile : la carte s'efface sous le texte, qui reste lisible quel que soit le cadrage */
+.hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#1a2c23 0%,#1a2c23 32%,rgba(26,44,35,.55) 48%,rgba(26,44,35,0) 66%),linear-gradient(0deg,rgba(26,44,35,.7) 0%,rgba(26,44,35,0) 30%)}
+.hero-title em{color:#f3b488}
+.hero .btn-ghost{color:var(--on-forest)}
+.hero .btn-ghost:hover{background:var(--on-forest);border-color:var(--on-forest);color:var(--forest)}
+.is-home .site-head{background:#1a2c23;border-bottom-color:rgba(244,239,228,.14);color:var(--on-forest);backdrop-filter:none;-webkit-backdrop-filter:none}
+.is-home .site-head .brand em{color:#f3b488}
+.is-home .site-head .nav-link{color:var(--on-forest)}
+.is-home .site-head .nav-link:hover,.is-home .site-head .menu-btn:hover{background:rgba(244,239,228,.12)}
+.is-home .site-head .btn-cta{background:var(--on-forest);color:var(--forest)}
+.is-home .site-head .btn-cta:hover{background:#fff;color:var(--forest)}
+.band-atlas{background:#1a2c23}
+@media (max-width:899px){
+  .hero::before{background:linear-gradient(0deg,#1a2c23 0%,#1a2c23 34%,rgba(26,44,35,.6) 48%,rgba(26,44,35,0) 66%)}
+}

@@ -1,0 +1,110 @@
+/* Carte : fond, lieux, tracés, commandes superposées. */
+svg#map{display:block;width:100%;height:100%;cursor:grab;touch-action:none;user-select:none;-webkit-user-select:none}
+/* Les pays sont dans la page dès le chargement ; ils apparaissent une fois la vue cadrée. */
+svg#map.loading{visibility:hidden}
+svg#map.over{cursor:pointer}
+svg#map.drag{cursor:grabbing}
+svg#map.addmode{cursor:crosshair}
+/* Traits à épaisseur constante à l'écran, quel que soit le zoom : aucun recalcul en JavaScript. */
+.pays{fill:var(--map-land);stroke:var(--map-border);stroke-linejoin:round;vector-effect:non-scaling-stroke;stroke-width:.7px}
+.pays.hi{fill:var(--map-land-hi)}
+.plabel{font-family:var(--font-body);font-weight:600;fill:var(--map-label);letter-spacing:.16em;text-anchor:middle;pointer-events:none;text-transform:uppercase}
+
+/* Un lieu = une forme par catégorie (disque, losange, triangles, carré, croix, étoile, anneau) : la couleur n'est pas le seul repère. */
+/* L'épaisseur du contour est posée par la carte (map.js), dans l'unité du marqueur : elle reste constante à l'écran
+   sans « non-scaling-stroke », qui obligeait le navigateur à recalculer 1 600 contours à chaque image d'un zoom. */
+.poi{fill:var(--cat-perso);stroke:var(--map-halo);stroke-opacity:.95;stroke-linejoin:round}
+.poi.ville{fill:var(--cat-ville)}.poi.patrimoine{fill:var(--cat-patrimoine)}.poi.nature{fill:var(--cat-nature)}
+.poi.plage{fill:var(--cat-plage)}.poi.base{fill:var(--cat-base)}.poi.boulot{fill:var(--cat-boulot)}
+.poi.pratique{fill:var(--cat-pratique)}.poi.perso{fill:var(--cat-perso);fill-rule:evenodd}
+.halo{fill:var(--cat-base);fill-opacity:.16}
+.poi.off,.halo.off{display:none}
+.poi.dimmed{opacity:.2}
+.poi.done{opacity:.45}
+.poi.hov{stroke:var(--text)}
+.poi.fav{stroke:var(--cat-patrimoine);stroke-opacity:1}
+.poi.sel{stroke:var(--text);stroke-opacity:1}
+/* Textes de la carte en précision géométrique : ils suivent le zoom sans être recomposés à chaque image. */
+#map text{text-rendering:geometricPrecision}
+.lbl{font-family:var(--font-body);font-weight:600;fill:var(--text);paint-order:stroke;stroke:var(--map-halo);stroke-linejoin:round}
+.lbl.sel{font-weight:800}
+.lbl.done{opacity:.45}
+
+#route{fill:none;stroke:var(--route);stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.92;vector-effect:non-scaling-stroke;stroke-width:3px}
+#routeShadow{fill:none;stroke:var(--map-halo);stroke-opacity:.6;stroke-linecap:round;vector-effect:non-scaling-stroke;stroke-width:6px}
+.rbg{fill:var(--route);stroke:var(--map-halo);vector-effect:non-scaling-stroke;stroke-width:1.5px}
+/* Numéro centré dans sa pastille à tous les niveaux de zoom */
+.rnum{font-family:var(--font-body);font-weight:700;fill:#fff;text-anchor:middle;dominant-baseline:central;pointer-events:none}
+.journal-path{fill:none;stroke:var(--journal);stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8 5;vector-effect:non-scaling-stroke;stroke-width:3px}
+.journal-stop{fill:none;stroke:var(--journal);vector-effect:non-scaling-stroke;stroke-width:2px}
+.geo-accuracy{fill:var(--geo);fill-opacity:.12;stroke:var(--geo);stroke-opacity:.3;vector-effect:non-scaling-stroke;stroke-width:1px}
+.geo-dot{fill:var(--geo);stroke:#fff;vector-effect:non-scaling-stroke;stroke-width:2.5px}
+
+/* Barre du haut : filtres, catégories (qui servent aussi de légende), outils */
+.map-bar{position:absolute;left:var(--s3);right:var(--s3);top:var(--s3);display:flex;align-items:flex-start;gap:var(--s2);pointer-events:none}
+.map-bar > *{pointer-events:auto}
+.map-btn{flex:none;background:var(--surface);border-color:var(--border);box-shadow:var(--shadow-1);min-height:40px;padding:0 var(--s3);font-size:var(--fs-sm)}
+.map-btn.on{background:var(--text);border-color:var(--text);color:var(--surface)}
+.map-chips{display:flex;gap:6px;flex:1;min-width:0;overflow-x:auto;scrollbar-width:none;padding:2px;margin:-2px}
+.map-chips::-webkit-scrollbar{display:none}
+.map-chips .chip{background:var(--surface);border-color:var(--border);box-shadow:var(--shadow-1);color:var(--text);min-height:40px;flex:none}
+.map-chips .chip:not(.on){background:var(--surface-2);color:var(--text-3);text-decoration:line-through;box-shadow:none}
+.map-chips .chip:not(.on) .dot{opacity:.35}
+.map-chips .chip.on{background:var(--surface);border-color:var(--border);color:var(--text)}
+.map-menu{position:relative;flex:none}
+#mapToolsButton{width:40px;padding:0}
+#mapToolsButton[aria-expanded=true]{background:var(--surface-3)}
+
+/* Zoom et position : un seul bloc, quatre commandes */
+.zoomer{position:absolute;right:var(--s3);bottom:var(--s6);display:flex;flex-direction:column;background:var(--surface);border:var(--border-w) solid var(--border);
+  border-radius:var(--r-lg);box-shadow:var(--shadow-1);overflow:hidden}
+.zoomer button{display:flex;align-items:center;justify-content:center;width:var(--control-h);height:var(--control-h);border:0;background:none;color:var(--text)}
+.zoomer button + button{border-top:var(--border-w) solid var(--border)}
+.zoomer button:hover{background:var(--surface-2)}
+.zoomer button:focus-visible{outline-offset:-3px}
+.zoomer #geoButton.located{background:var(--geo);color:#fff}
+
+.scale{position:absolute;left:var(--s3);bottom:var(--s3);font-size:var(--fs-xs);color:var(--text-2);font-variant-numeric:tabular-nums;pointer-events:none}
+.scale .bar{width:80px;height:5px;border:1px solid var(--text-2);border-top:0;margin-bottom:2px}
+
+.map-tools{position:absolute;left:50%;bottom:var(--s5);transform:translateX(-50%);display:flex;gap:var(--s2)}
+.map-tools .btn{white-space:nowrap}
+#mapExplore{display:none}
+
+/* Bandeau d'un mode de saisie actif (placer un lieu, ajout rapide) */
+.map-hint{position:absolute;left:50%;top:calc(var(--s3) + 52px);transform:translateX(-50%);display:flex;align-items:center;gap:var(--s3);width:max-content;max-width:calc(100% - 2 * var(--s3));
+  padding:var(--s1) var(--s1) var(--s1) var(--s4);border-radius:var(--r-pill);background:var(--text);color:var(--surface);box-shadow:var(--shadow-2);font-size:var(--fs-sm);font-weight:600;z-index:12}
+.map-hint .btn{background:var(--surface);border-color:var(--surface);color:var(--text);border-radius:var(--r-pill)}
+
+/* Aperçu d'un lieu choisi sur la carte (petits écrans) : la carte reste visible */
+.peek{position:absolute;left:var(--s3);right:var(--s3);bottom:var(--s3);background:var(--surface);border:var(--border-w) solid var(--border);border-radius:var(--r-lg);
+  box-shadow:var(--shadow-2);padding:var(--s4);z-index:15}
+.peek h2{font-size:var(--fs-lg);margin:0 var(--s8) var(--s1) 0}
+.peek p{color:var(--text-2);font-size:var(--fs-sm);margin:0 0 var(--s3);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.peek .meta{margin-bottom:var(--s1)}
+.peek .row{margin:0;flex-wrap:nowrap}
+.peek .row .btn{flex:1;padding:0 var(--s2)}
+.peek-close{position:absolute;right:var(--s2);top:var(--s2)}
+
+@media (min-width:860px){
+  .peek{display:none!important}
+}
+@media (max-width:859px){
+  .map-bar{left:var(--s2);right:var(--s2);top:var(--s2)}
+  .map-chips{display:none}
+  .map-menu{margin-left:auto}
+  .zoomer{right:var(--s2);bottom:auto;top:50%;transform:translateY(-30%)}
+  .scale{left:var(--s2);bottom:calc(var(--control-h) + var(--s5))}
+  .map-tools{left:var(--s2);right:var(--s2);bottom:var(--s3);transform:none}
+  .map-tools .btn{flex:1;padding:0 var(--s2)}
+  #mapExplore{display:inline-flex}
+  .map-hint{top:calc(var(--s2) + var(--control-h) + var(--s3))}
+  body.has-peek .map-tools,body.has-peek .scale{display:none}
+}
+@media (max-width:420px){
+  .map-tools .ic{display:none}
+}
+@media (max-width:859px),(pointer:coarse){
+  .map-btn,.map-chips .chip{min-height:var(--control-h)}
+  #mapToolsButton{width:var(--control-h)}
+}

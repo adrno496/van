@@ -1,0 +1,16 @@
+{
+  "slug": "voyage-prive",
+  "title": "Voyage privé de test à ne jamais publier",
+  "summary": "Résumé privé du voyage de test, réservé à la version personnelle.",
+  "countries": [
+    "Italie"
+  ],
+  "placeIds": [
+    31
+  ],
+  "cover": {
+    "src": "test/privee.png",
+    "alt": "Image privée de test"
+  },
+  "text": "Paragraphe privé du voyage de test, absent de toute page publique."
+}

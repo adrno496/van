@@ -1,0 +1,64 @@
+{
+  "label": "baseline",
+  "dir": "/private/tmp/claude-501/-Users-dreano-Downloads-van-main/15f14508-561c-49cd-942f-69171babb500/scratchpad/stage/before/site",
+  "generatedAt": "2026-10-03T23:59:59.226Z",
+  "host": {
+    "cpus": 10,
+    "load1": 18.27,
+    "platform": "darwin"
+  },
+  "htmlBytes": 1535959,
+  "files": [
+    "index.html"
+  ],
+  "desktop": {
+    "runs": 5,
+    "boot": {
+      "domInteractive": 361,
+      "domContentLoaded": 361,
+      "load": 362,
+      "fcp": 304,
+      "cls": 0.2,
+      "longTasks": 2,
+      "longTaskTotal": 261,
+      "longTaskMax": 196,
+      "domNodes": 7482,
+      "heapMb": 11
+    },
+    "interactionsMs": {
+      "rescale": 10.7,
+      "applyFilters": 27.1,
+      "renderDiscovery": 2.5,
+      "searchKeystroke": 4.2,
+      "showPlace": 2.9,
+      "paintRoute51": 18.2,
+      "panFrameMedian": 16.6,
+      "panFrameP95": 18.4
+    }
+  },
+  "mobile": {
+    "runs": 5,
+    "boot": {
+      "domInteractive": 1581,
+      "domContentLoaded": 1581,
+      "load": 1582,
+      "fcp": 252,
+      "cls": 0,
+      "longTasks": 4,
+      "longTaskTotal": 1243,
+      "longTaskMax": 598,
+      "domNodes": 7482,
+      "heapMb": 10
+    },
+    "interactionsMs": {
+      "rescale": 37.5,
+      "applyFilters": 157.9,
+      "renderDiscovery": 17.6,
+      "searchKeystroke": 19.3,
+      "showPlace": 16.4,
+      "paintRoute51": 57.2,
+      "panFrameMedian": 24.5,
+      "panFrameP95": 57.6
+    }
+  }
+}

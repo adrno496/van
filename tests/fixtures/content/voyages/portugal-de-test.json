@@ -1,0 +1,31 @@
+{
+  "slug": "portugal-de-test",
+  "title": "Portugal de test",
+  "summary": "Voyage de test : trois étapes du catalogue, pour vérifier les pages.",
+  "countries": [
+    "Portugal"
+  ],
+  "dateStart": "2026-03-02",
+  "dateEnd": "2026-03-20",
+  "distanceKm": 1850,
+  "placeIds": [
+    124,
+    119,
+    107
+  ],
+  "cover": {
+    "src": "test/cover.png",
+    "alt": "Image de test : dégradé de couleurs"
+  },
+  "gallery": [
+    {
+      "src": "test/photo.png",
+      "alt": "",
+      "caption": "Légende de test"
+    }
+  ],
+  "text": "Premier paragraphe du voyage de test.\n\n## Un intertitre\n\nSecond paragraphe.\n\n- un point\n- un autre point",
+  "visibility": "public",
+  "status": "published",
+  "updatedAt": "2026-04-01"
+}

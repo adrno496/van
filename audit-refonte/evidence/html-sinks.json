@@ -1,0 +1,301 @@
+{
+ "files": 11,
+ "htmlExpressions": 97,
+ "inserted": 388,
+ "escaped": 182,
+ "builder": 67,
+ "numeric": 20,
+ "literalChoice": 35,
+ "review": [
+  {
+   "file": "journal.js",
+   "line": 110,
+   "value": "all.length"
+  },
+  {
+   "file": "journal.js",
+   "line": 110,
+   "value": "photos"
+  },
+  {
+   "file": "journal.js",
+   "line": 110,
+   "value": "countries"
+  },
+  {
+   "file": "journal.js",
+   "line": 146,
+   "value": "photos.length > 1 ? '<span>' + photos.length + ' photos</span>' : ''"
+  },
+  {
+   "file": "journal.js",
+   "line": 146,
+   "value": "photos.length"
+  },
+  {
+   "file": "journal.js",
+   "line": 183,
+   "value": "p.photos.map(function (ph, i) { return '<figure><button type=\"button\" data-full-photo=\"' + i + '\" aria-label=\""
+  },
+  {
+   "file": "journal.js",
+   "line": 184,
+   "value": "i"
+  },
+  {
+   "file": "journal.js",
+   "line": 285,
+   "value": "i ? '<button class=\"btn\" type=\"button\" data-cover=\"' + i + '\">Mettre en couverture</button>' : '<small>Photo d"
+  },
+  {
+   "file": "journal.js",
+   "line": 391,
+   "value": "posts.length"
+  },
+  {
+   "file": "journal.js",
+   "line": 391,
+   "value": "posts.reduce(function (n, p) { return n + p.photos.length; }, 0)"
+  },
+  {
+   "file": "journal.js",
+   "line": 408,
+   "value": "d"
+  },
+  {
+   "file": "journal.js",
+   "line": 410,
+   "value": "[x, y, w, h].join(' ')"
+  },
+  {
+   "file": "journal.js",
+   "line": 411,
+   "value": "qs.map(function (q) { return q.join(','); }).join('L')"
+  },
+  {
+   "file": "journal.js",
+   "line": 412,
+   "value": "qs.map(function (q, i) { return '<circle cx=\"' + q[0] + '\" cy=\"' + q[1] + '\" r=\"' + k * 10 + '\" fill=\"#b34725\""
+  },
+  {
+   "file": "journal.js",
+   "line": 412,
+   "value": "q[0]"
+  },
+  {
+   "file": "journal.js",
+   "line": 412,
+   "value": "q[1]"
+  },
+  {
+   "file": "journal.js",
+   "line": 412,
+   "value": "numbers[i]"
+  },
+  {
+   "file": "journal.js",
+   "line": 420,
+   "value": "map"
+  },
+  {
+   "file": "journal.js",
+   "line": 422,
+   "value": "posts.map(function (p, i) { return '<a href=\"#article-' + i + '\">' + (i + 1) + '. ' + esc(p.title) + '</a>'; }"
+  },
+  {
+   "file": "journal.js",
+   "line": 423,
+   "value": "posts.map(function (p, i) { var loc = postPlace(p); return '<article class=\"story\" id=\"article-' + i + '\"><p c"
+  },
+  {
+   "file": "map.js",
+   "line": 156,
+   "value": "candidates.length"
+  },
+  {
+   "file": "places.js",
+   "line": 17,
+   "value": "cls ? ' class=\"' + cls + '\"' : ''"
+  },
+  {
+   "file": "places.js",
+   "line": 52,
+   "value": "WN[L.w] ? ' · ' + WN[L.w] : ''"
+  },
+  {
+   "file": "places.js",
+   "line": 172,
+   "value": "id"
+  },
+  {
+   "file": "places.js",
+   "line": 172,
+   "value": "label"
+  },
+  {
+   "file": "places.js",
+   "line": 172,
+   "value": "attrs || ''"
+  },
+  {
+   "file": "places.js",
+   "line": 175,
+   "value": "Object.keys(CATN).map(function (c) { return '<option value=\"' + c + '\"' + (c === L.c ? ' selected' : '') + '>'"
+  },
+  {
+   "file": "places.js",
+   "line": 177,
+   "value": "[1, 2, 3].map(function (w) { return '<option value=\"' + w + '\"' + (w === L.w ? ' selected' : '') + '>' + WN[w]"
+  },
+  {
+   "file": "places.js",
+   "line": 175,
+   "value": "c"
+  },
+  {
+   "file": "places.js",
+   "line": 177,
+   "value": "w"
+  },
+  {
+   "file": "places.js",
+   "line": 177,
+   "value": "WN[w]"
+  },
+  {
+   "file": "route.js",
+   "line": 37,
+   "value": "action"
+  },
+  {
+   "file": "route.js",
+   "line": 37,
+   "value": "k"
+  },
+  {
+   "file": "route.js",
+   "line": 37,
+   "value": "label"
+  },
+  {
+   "file": "route.js",
+   "line": 61,
+   "value": "dt ? dt.toLocaleDateString('fr-FR', { day: 'numeric', month: 'short', year: '2-digit' }) : 'jour ' + Math.roun"
+  },
+  {
+   "file": "route.js",
+   "line": 62,
+   "value": "off ? '<div class=\"bad\">hors saison en ' + MFULL[mo - 1] + '</div>' : ''"
+  },
+  {
+   "file": "route.js",
+   "line": 62,
+   "value": "MFULL[mo - 1]"
+  },
+  {
+   "file": "route.js",
+   "line": 70,
+   "value": "route.map(function (id, k) { return '<option value=\"' + (k + 1) + '\">Après ' + (k + 1) + '. ' + esc(byId[id].n"
+  },
+  {
+   "file": "route.js",
+   "line": 100,
+   "value": "rows.map(function (r) { return '<tr><td>' + r[0] + '</td><td class=\"sub\">' + esc(r[2]) + '</td><td class=\"num\""
+  },
+  {
+   "file": "route.js",
+   "line": 100,
+   "value": "r[0]"
+  },
+  {
+   "file": "route.js",
+   "line": 114,
+   "value": "h"
+  },
+  {
+   "file": "route.js",
+   "line": 140,
+   "value": "w"
+  },
+  {
+   "file": "route.js",
+   "line": 140,
+   "value": "r"
+  },
+  {
+   "file": "route.js",
+   "line": 216,
+   "value": "chosen"
+  },
+  {
+   "file": "route.js",
+   "line": 216,
+   "value": "PTN[p.t] || ''"
+  },
+  {
+   "file": "route.js",
+   "line": 217,
+   "value": "ok.length"
+  },
+  {
+   "file": "route.js",
+   "line": 234,
+   "value": "route.length"
+  },
+  {
+   "file": "route.js",
+   "line": 254,
+   "value": "ST.saved.map(function (p, k) { return '<option value=\"' + k + '\">' + esc(p.n) + '</option>'; }).join('')"
+  },
+  {
+   "file": "route.js",
+   "line": 278,
+   "value": "RN[L.r] ? ' — ' + RN[L.r] : ''"
+  },
+  {
+   "file": "route.js",
+   "line": 292,
+   "value": "r[1]"
+  },
+  {
+   "file": "util.js",
+   "line": 11,
+   "value": "name"
+  },
+  {
+   "file": "util.js",
+   "line": 45,
+   "value": "id"
+  },
+  {
+   "file": "util.js",
+   "line": 45,
+   "value": "content"
+  },
+  {
+   "file": "util.js",
+   "line": 69,
+   "value": "o.fields.map(function (f, i) { return '<div class=\"fld\"><label for=\"dialogField' + i + '\">' + esc(f.label) + '"
+  },
+  {
+   "file": "util.js",
+   "line": 70,
+   "value": "i"
+  },
+  {
+   "file": "util.js",
+   "line": 70,
+   "value": "f.type || 'text'"
+  },
+  {
+   "file": "util.js",
+   "line": 71,
+   "value": "f.inputmode ? ' inputmode=\"' + f.inputmode + '\"' : ''"
+  },
+  {
+   "file": "util.js",
+   "line": 72,
+   "value": "f.maxlength || 200"
+  }
+ ]
+}

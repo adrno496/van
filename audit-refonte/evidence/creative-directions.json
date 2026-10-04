@@ -1,0 +1,725 @@
+{
+  "engine": "AXDIA Creative Engine",
+  "engine_version": "9.0.0",
+  "generated_at": "2026-10-03T22:32:57.423Z",
+  "note": "Recherche créative réellement exécutée (E1). Les valeurs « objectives » sont des priors du moteur, pas des mesures.",
+  "briefs": {
+    "A": {
+      "project": "Atlas van — Atlas éditorial",
+      "spec_valid": true,
+      "spec_errors": [],
+      "desired_traits": [
+        "éditorial",
+        "authentique",
+        "sobre",
+        "cartographique"
+      ],
+      "pool": 100,
+      "internal_divergence": 96,
+      "directions": [
+        {
+          "id": "V9-DIR-A",
+          "family": "COMMERCE",
+          "variant": "TACTILE",
+          "composition_id": "commerce-editorial",
+          "density": "airy",
+          "navigation_type": "minimal-dock",
+          "media_strategy": "contextual",
+          "cta_grammar": "persistent",
+          "type_variant": "expressive",
+          "typography": {
+            "display": "Georgia, serif",
+            "body": "system-ui, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "expressive",
+            "line_height": {
+              "body": 1.62,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f9f7f6",
+            "foreground": "#1b1913",
+            "accent": "#8b4618",
+            "muted": "#766960",
+            "oklch_intent": {
+              "hue": 24,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.4536082253599,
+              "accent_background": 6.582762086140769
+            }
+          },
+          "dark": {
+            "background": "#1b1613",
+            "foreground": "#eae7e1",
+            "accent": "#eaa77b",
+            "muted": "#aea198",
+            "contrast": {
+              "foreground_background": 14.534115125654056,
+              "accent_background": 8.807868218714791,
+              "background_on_accent": 8.807868218714791
+            }
+          },
+          "motion": {
+            "level": "ELEGANT",
+            "language": "commerce causal transitions"
+          },
+          "art_direction": {
+            "profile": "COMMERCE_EDITORIAL",
+            "intensity": 0.859,
+            "asymmetry": 0.60871,
+            "hero_scale": "large"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 74,
+            "brand_fit": 78,
+            "originality": 92,
+            "feasibility": 92,
+            "asset_fit": 78,
+            "content_specificity": 82,
+            "total": 80
+          },
+          "selection": {
+            "pareto_member": true,
+            "pool_rank": 1,
+            "novelty": 13,
+            "min_distance_to_selected": 100
+          }
+        },
+        {
+          "id": "V9-DIR-B",
+          "family": "TYPOGRAPHIC",
+          "variant": "MANIFESTO",
+          "composition_id": "typographic-manifesto",
+          "density": "balanced",
+          "navigation_type": "compact-header",
+          "media_strategy": "proof-led",
+          "cta_grammar": "anchored",
+          "type_variant": "balanced",
+          "typography": {
+            "display": "Impact, \"Arial Narrow\", Arial, sans-serif",
+            "body": "Arial, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "manifesto",
+            "line_height": {
+              "body": 1.62,
+              "heading": 0.88
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f9f7f6",
+            "foreground": "#1b1913",
+            "accent": "#8b4618",
+            "muted": "#766960",
+            "oklch_intent": {
+              "hue": 24,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.4536082253599,
+              "accent_background": 6.582762086140769
+            }
+          },
+          "dark": {
+            "background": "#1b1613",
+            "foreground": "#eae7e1",
+            "accent": "#eaa77b",
+            "muted": "#aea198",
+            "contrast": {
+              "foreground_background": 14.534115125654056,
+              "accent_background": 8.807868218714791,
+              "background_on_accent": 8.807868218714791
+            }
+          },
+          "motion": {
+            "level": "ELEGANT",
+            "language": "typographic causal transitions"
+          },
+          "art_direction": {
+            "profile": "TYPE_MANIFESTO",
+            "intensity": 0.879,
+            "asymmetry": 0.9535499999999999,
+            "hero_scale": "manifesto"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 66,
+            "brand_fit": 78,
+            "originality": 89,
+            "feasibility": 92,
+            "asset_fit": 78,
+            "content_specificity": 82,
+            "total": 78
+          },
+          "selection": {
+            "pareto_member": false,
+            "pool_rank": 23,
+            "novelty": 14,
+            "min_distance_to_selected": 100
+          }
+        },
+        {
+          "id": "V9-DIR-C",
+          "family": "HUMAN",
+          "variant": "BOLD",
+          "composition_id": "calm-human",
+          "density": "dense",
+          "navigation_type": "chapter-nav",
+          "media_strategy": "image-led",
+          "cta_grammar": "persistent",
+          "type_variant": "balanced",
+          "typography": {
+            "display": "\"Trebuchet MS\", Arial, sans-serif",
+            "body": "\"Segoe UI\", Arial, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "balanced",
+            "line_height": {
+              "body": 1.62,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f9f7f6",
+            "foreground": "#1b1913",
+            "accent": "#8b4618",
+            "muted": "#766960",
+            "oklch_intent": {
+              "hue": 24,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.4536082253599,
+              "accent_background": 6.582762086140769
+            }
+          },
+          "dark": {
+            "background": "#1b1613",
+            "foreground": "#eae7e1",
+            "accent": "#eaa77b",
+            "muted": "#aea198",
+            "contrast": {
+              "foreground_background": 14.534115125654056,
+              "accent_background": 8.807868218714791,
+              "background_on_accent": 8.807868218714791
+            }
+          },
+          "motion": {
+            "level": "ELEGANT",
+            "language": "human causal transitions"
+          },
+          "art_direction": {
+            "profile": "HUMAN_CALM",
+            "intensity": 0.789,
+            "asymmetry": 0.38550999999999996,
+            "hero_scale": "restrained"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 74,
+            "brand_fit": 78,
+            "originality": 89,
+            "feasibility": 84,
+            "asset_fit": 42,
+            "content_specificity": 82,
+            "total": 75
+          },
+          "selection": {
+            "pareto_member": false,
+            "pool_rank": 74,
+            "novelty": 22,
+            "min_distance_to_selected": 93
+          }
+        }
+      ]
+    },
+    "B": {
+      "project": "Atlas van — Outdoor moderne",
+      "spec_valid": true,
+      "spec_errors": [],
+      "desired_traits": [
+        "nature",
+        "fiable",
+        "direct",
+        "lisible"
+      ],
+      "pool": 100,
+      "internal_divergence": 100,
+      "directions": [
+        {
+          "id": "V9-DIR-A",
+          "family": "COMMERCE",
+          "variant": "BOLD",
+          "composition_id": "commerce-editorial",
+          "density": "airy",
+          "navigation_type": "compact-header",
+          "media_strategy": "proof-led",
+          "cta_grammar": "persistent",
+          "type_variant": "expressive",
+          "typography": {
+            "display": "Georgia, serif",
+            "body": "system-ui, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "expressive",
+            "line_height": {
+              "body": 1.62,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f6f9f7",
+            "foreground": "#131b19",
+            "accent": "#178244",
+            "muted": "#607669",
+            "oklch_intent": {
+              "hue": 145,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.530595157352906,
+              "accent_background": 4.593583039392086
+            }
+          },
+          "dark": {
+            "background": "#131b16",
+            "foreground": "#e1eae7",
+            "accent": "#7beaa9",
+            "muted": "#98aea1",
+            "contrast": {
+              "foreground_background": 14.317603363520208,
+              "accent_background": 11.859249560353776,
+              "background_on_accent": 11.859249560353776
+            }
+          },
+          "motion": {
+            "level": "ELEGANT",
+            "language": "commerce causal transitions"
+          },
+          "art_direction": {
+            "profile": "COMMERCE_EDITORIAL",
+            "intensity": 0.9299999999999999,
+            "asymmetry": 0.6293,
+            "hero_scale": "large"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 74,
+            "brand_fit": 78,
+            "originality": 92,
+            "feasibility": 92,
+            "asset_fit": 78,
+            "content_specificity": 82,
+            "total": 80
+          },
+          "selection": {
+            "pareto_member": true,
+            "pool_rank": 1,
+            "novelty": 9,
+            "min_distance_to_selected": 100
+          }
+        },
+        {
+          "id": "V9-DIR-B",
+          "family": "SPATIAL",
+          "variant": "MANIFESTO",
+          "composition_id": "spatial-planes",
+          "density": "balanced",
+          "navigation_type": "chapter-nav",
+          "media_strategy": "contextual",
+          "cta_grammar": "inline",
+          "type_variant": "balanced",
+          "typography": {
+            "display": "\"Helvetica Neue\", Arial, sans-serif",
+            "body": "\"Helvetica Neue\", Arial, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "balanced",
+            "line_height": {
+              "body": 1.62,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f6f9f7",
+            "foreground": "#131b19",
+            "accent": "#178244",
+            "muted": "#607669",
+            "oklch_intent": {
+              "hue": 145,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.530595157352906,
+              "accent_background": 4.593583039392086
+            }
+          },
+          "dark": {
+            "background": "#131b16",
+            "foreground": "#e1eae7",
+            "accent": "#7beaa9",
+            "muted": "#98aea1",
+            "contrast": {
+              "foreground_background": 14.317603363520208,
+              "accent_background": 11.859249560353776,
+              "background_on_accent": 11.859249560353776
+            }
+          },
+          "motion": {
+            "level": "ELEGANT",
+            "language": "spatial causal transitions"
+          },
+          "art_direction": {
+            "profile": "SPATIAL_PLANES",
+            "intensity": 0.8999999999999999,
+            "asymmetry": 0.9415999999999999,
+            "hero_scale": "large"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 66,
+            "brand_fit": 78,
+            "originality": 89,
+            "feasibility": 92,
+            "asset_fit": 78,
+            "content_specificity": 82,
+            "total": 78
+          },
+          "selection": {
+            "pareto_member": false,
+            "pool_rank": 28,
+            "novelty": 32,
+            "min_distance_to_selected": 100
+          }
+        },
+        {
+          "id": "V9-DIR-C",
+          "family": "HUMAN",
+          "variant": "TACTILE",
+          "composition_id": "calm-human",
+          "density": "dense",
+          "navigation_type": "minimal-dock",
+          "media_strategy": "image-led",
+          "cta_grammar": "anchored",
+          "type_variant": "compact",
+          "typography": {
+            "display": "\"Trebuchet MS\", Arial, sans-serif",
+            "body": "\"Segoe UI\", Arial, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "compact",
+            "line_height": {
+              "body": 1.5,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f6f9f7",
+            "foreground": "#131b19",
+            "accent": "#178244",
+            "muted": "#607669",
+            "oklch_intent": {
+              "hue": 145,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.530595157352906,
+              "accent_background": 4.593583039392086
+            }
+          },
+          "dark": {
+            "background": "#131b16",
+            "foreground": "#e1eae7",
+            "accent": "#7beaa9",
+            "muted": "#98aea1",
+            "contrast": {
+              "foreground_background": 14.317603363520208,
+              "accent_background": 11.859249560353776,
+              "background_on_accent": 11.859249560353776
+            }
+          },
+          "motion": {
+            "level": "ELEGANT",
+            "language": "human causal transitions"
+          },
+          "art_direction": {
+            "profile": "HUMAN_CALM",
+            "intensity": 0.76,
+            "asymmetry": 0.38,
+            "hero_scale": "restrained"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 66,
+            "brand_fit": 78,
+            "originality": 89,
+            "feasibility": 84,
+            "asset_fit": 42,
+            "content_specificity": 82,
+            "total": 74
+          },
+          "selection": {
+            "pareto_member": false,
+            "pool_rank": 83,
+            "novelty": 29,
+            "min_distance_to_selected": 99
+          }
+        }
+      ]
+    },
+    "C": {
+      "project": "Atlas van — Carnet contemporain",
+      "spec_valid": true,
+      "spec_errors": [],
+      "desired_traits": [
+        "chaleureux",
+        "humain",
+        "sensoriel",
+        "photographique"
+      ],
+      "pool": 100,
+      "internal_divergence": 100,
+      "directions": [
+        {
+          "id": "V9-DIR-A",
+          "family": "SPATIAL",
+          "variant": "TACTILE",
+          "composition_id": "spatial-planes",
+          "density": "airy",
+          "navigation_type": "minimal-dock",
+          "media_strategy": "contextual",
+          "cta_grammar": "persistent",
+          "type_variant": "expressive",
+          "typography": {
+            "display": "\"Helvetica Neue\", Arial, sans-serif",
+            "body": "\"Helvetica Neue\", Arial, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "expressive",
+            "line_height": {
+              "body": 1.62,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f9f7f6",
+            "foreground": "#1b1913",
+            "accent": "#8b4618",
+            "muted": "#766960",
+            "oklch_intent": {
+              "hue": 24,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.4536082253599,
+              "accent_background": 6.582762086140769
+            }
+          },
+          "dark": {
+            "background": "#1b1613",
+            "foreground": "#eae7e1",
+            "accent": "#eaa77b",
+            "muted": "#aea198",
+            "contrast": {
+              "foreground_background": 14.534115125654056,
+              "accent_background": 8.807868218714791,
+              "background_on_accent": 8.807868218714791
+            }
+          },
+          "motion": {
+            "level": "CREATIVE",
+            "language": "spatial causal transitions"
+          },
+          "art_direction": {
+            "profile": "SPATIAL_PLANES",
+            "intensity": 0.946,
+            "asymmetry": 0.96184,
+            "hero_scale": "large"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 74,
+            "brand_fit": 78,
+            "originality": 92,
+            "feasibility": 92,
+            "asset_fit": 78,
+            "content_specificity": 82,
+            "total": 80
+          },
+          "selection": {
+            "pareto_member": true,
+            "pool_rank": 1,
+            "novelty": 14,
+            "min_distance_to_selected": 100
+          }
+        },
+        {
+          "id": "V9-DIR-B",
+          "family": "UTILITY",
+          "variant": "MANIFESTO",
+          "composition_id": "utility-index",
+          "density": "balanced",
+          "navigation_type": "chapter-nav",
+          "media_strategy": "image-led",
+          "cta_grammar": "anchored",
+          "type_variant": "compact",
+          "typography": {
+            "display": "Arial, Helvetica, sans-serif",
+            "body": "Arial, Helvetica, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "compact",
+            "line_height": {
+              "body": 1.5,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f9f7f6",
+            "foreground": "#1b1913",
+            "accent": "#8b4618",
+            "muted": "#766960",
+            "oklch_intent": {
+              "hue": 24,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.4536082253599,
+              "accent_background": 6.582762086140769
+            }
+          },
+          "dark": {
+            "background": "#1b1613",
+            "foreground": "#eae7e1",
+            "accent": "#eaa77b",
+            "muted": "#aea198",
+            "contrast": {
+              "foreground_background": 14.534115125654056,
+              "accent_background": 8.807868218714791,
+              "background_on_accent": 8.807868218714791
+            }
+          },
+          "motion": {
+            "level": "CREATIVE",
+            "language": "utility causal transitions"
+          },
+          "art_direction": {
+            "profile": "UTILITY_INDEX",
+            "intensity": 0.966,
+            "asymmetry": 0.38604999999999995,
+            "hero_scale": "restrained"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 66,
+            "brand_fit": 78,
+            "originality": 89,
+            "feasibility": 92,
+            "asset_fit": 42,
+            "content_specificity": 82,
+            "total": 75
+          },
+          "selection": {
+            "pareto_member": false,
+            "pool_rank": 73,
+            "novelty": 23,
+            "min_distance_to_selected": 100
+          }
+        },
+        {
+          "id": "V9-DIR-C",
+          "family": "COMMERCE",
+          "variant": "CONTRAST",
+          "composition_id": "commerce-editorial",
+          "density": "dense",
+          "navigation_type": "compact-header",
+          "media_strategy": "proof-led",
+          "cta_grammar": "inline",
+          "type_variant": "balanced",
+          "typography": {
+            "display": "Georgia, serif",
+            "body": "system-ui, sans-serif",
+            "utility": "ui-monospace, SFMono-Regular, Menlo, monospace",
+            "scale_name": "balanced",
+            "line_height": {
+              "body": 1.62,
+              "heading": 0.96
+            },
+            "license_status": "SYSTEM_FONT"
+          },
+          "colors": {
+            "background": "#f9f7f6",
+            "foreground": "#1b1913",
+            "accent": "#8b4618",
+            "muted": "#766960",
+            "oklch_intent": {
+              "hue": 24,
+              "chroma": "parametric",
+              "lightness": "semantic"
+            },
+            "contrast": {
+              "foreground_background": 16.4536082253599,
+              "accent_background": 6.582762086140769
+            }
+          },
+          "dark": {
+            "background": "#1b1613",
+            "foreground": "#eae7e1",
+            "accent": "#eaa77b",
+            "muted": "#aea198",
+            "contrast": {
+              "foreground_background": 14.534115125654056,
+              "accent_background": 8.807868218714791,
+              "background_on_accent": 8.807868218714791
+            }
+          },
+          "motion": {
+            "level": "ELEGANT",
+            "language": "commerce causal transitions"
+          },
+          "art_direction": {
+            "profile": "COMMERCE_EDITORIAL",
+            "intensity": 0.806,
+            "asymmetry": 0.5933400000000001,
+            "hero_scale": "large"
+          },
+          "objectives_prior": {
+            "domain_fit": 68,
+            "conversion_clarity": 66,
+            "brand_fit": 78,
+            "originality": 85,
+            "feasibility": 84,
+            "asset_fit": 78,
+            "content_specificity": 82,
+            "total": 76
+          },
+          "selection": {
+            "pareto_member": false,
+            "pool_rank": 64,
+            "novelty": 14,
+            "min_distance_to_selected": 99
+          }
+        }
+      ]
+    }
+  },
+  "cross_brief_distance": {
+    "A_B": 27,
+    "A_C": 58,
+    "B_C": 85
+  },
+  "contrast_helper": "contrastRatio (color-engine.mjs)"
+}

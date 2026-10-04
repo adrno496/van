@@ -1,0 +1,190 @@
+{
+  "label": "baseline-v2",
+  "dir": "/Users/dreano/Downloads/van-main",
+  "generatedAt": "2026-10-04T06:26:29.829Z",
+  "runs": 5,
+  "host": {
+    "cpus": 10,
+    "load1": 5.21
+  },
+  "desktop": {
+    "boot": {
+      "FCP": 116,
+      "DATA_PARSE": 22.7,
+      "APP_SCRIPT": 101.3,
+      "COMPILE": 55,
+      "COUNTRY_RENDER": 19.3,
+      "MARKER_RENDER": 14.2,
+      "WIRE": 11.6,
+      "LISTS": 7.8,
+      "VIEW_FIRST_LAYOUT": 16.4,
+      "INITIAL_FILTER_LABELS": 15.6,
+      "ROUTE": 7,
+      "BOOT_TOTAL": 97.4,
+      "READY": 264.8,
+      "PARSE_HTML": 143.8,
+      "LAYOUT": 36.3,
+      "RECALC_STYLE": 35.5,
+      "PAINT": 51.2,
+      "GC": 12.2,
+      "LONG_TASKS": 1,
+      "LONG_TASK_MAX": 102,
+      "LONG_TASK_TOTAL": 102,
+      "BLOCKING_TIME_AFTER_FCP": 25.7
+    },
+    "interactions": {
+      "FIRST_INTERACTION": {
+        "script": 0.4,
+        "style": 9.3,
+        "layout": 5.3,
+        "task": 29.7,
+        "wall": 34
+      },
+      "ZOOM": {
+        "script": 0.1,
+        "style": 9.2,
+        "layout": 3.7,
+        "task": 39.3,
+        "wall": 48
+      },
+      "PAN": {
+        "script": 9.9,
+        "style": 13.6,
+        "layout": 81.7,
+        "task": 256.3,
+        "wall": 532
+      },
+      "FILTER_APPLY": {
+        "script": 33.7,
+        "style": 10.6,
+        "layout": 6.4,
+        "task": 92.6,
+        "wall": 99
+      },
+      "SEARCH": {
+        "script": 28.9,
+        "style": 0.1,
+        "layout": 0,
+        "task": 38.8,
+        "wall": 48
+      },
+      "SHOW_PLACE": {
+        "script": 0,
+        "style": 5.4,
+        "layout": 14,
+        "task": 31.9,
+        "wall": 50
+      },
+      "ROUTE_51": {
+        "script": 17.9,
+        "style": 10.2,
+        "layout": 25.3,
+        "task": 76.8,
+        "wall": 94
+      }
+    },
+    "dom": {
+      "total": 9603,
+      "svg": 6647,
+      "markerNodes": 6405,
+      "markers": 1600,
+      "textNodes": 1681,
+      "labelsShown": 188,
+      "groups": 1658,
+      "countryPaths": 47,
+      "jsEventListeners": 183,
+      "heapUsedMb": 6.8,
+      "documents": 3
+    }
+  },
+  "mobile": {
+    "boot": {
+      "FCP": 156,
+      "DATA_PARSE": 77,
+      "APP_SCRIPT": 344.9,
+      "COMPILE": 206,
+      "COUNTRY_RENDER": 61.6,
+      "MARKER_RENDER": 53.4,
+      "WIRE": 41.6,
+      "LISTS": 30.1,
+      "VIEW_FIRST_LAYOUT": 60.6,
+      "INITIAL_FILTER_LABELS": 45.1,
+      "ROUTE": 18.1,
+      "BOOT_TOTAL": 328.9,
+      "READY": 824.7,
+      "PARSE_HTML": 504.4,
+      "LAYOUT": 98.1,
+      "RECALC_STYLE": 111,
+      "PAINT": 103.5,
+      "GC": 22.9,
+      "LONG_TASKS": 3,
+      "LONG_TASK_MAX": 348,
+      "LONG_TASK_TOTAL": 529,
+      "BLOCKING_TIME_AFTER_FCP": 379
+    },
+    "interactions": {
+      "FIRST_INTERACTION": {
+        "script": 1.4,
+        "style": 36.3,
+        "layout": 25.5,
+        "task": 97.8,
+        "wall": 108
+      },
+      "ZOOM": {
+        "script": 0.5,
+        "style": 30.5,
+        "layout": 10.6,
+        "task": 104.1,
+        "wall": 115
+      },
+      "PAN": {
+        "script": 22.7,
+        "style": 47.9,
+        "layout": 130.7,
+        "task": 557.3,
+        "wall": 599
+      },
+      "FILTER_APPLY": {
+        "script": 107,
+        "style": 57.4,
+        "layout": 17.9,
+        "task": 216.5,
+        "wall": 218
+      },
+      "SEARCH": {
+        "script": 100.7,
+        "style": 0.7,
+        "layout": 0,
+        "task": 103.2,
+        "wall": 115
+      },
+      "SHOW_PLACE": {
+        "script": 0,
+        "style": 65.4,
+        "layout": 40,
+        "task": 140.9,
+        "wall": 151
+      },
+      "ROUTE_51": {
+        "script": 64,
+        "style": 63.8,
+        "layout": 76.7,
+        "task": 268.6,
+        "wall": 275
+      }
+    },
+    "dom": {
+      "total": 9603,
+      "svg": 6647,
+      "markerNodes": 6405,
+      "markers": 1600,
+      "textNodes": 1681,
+      "labelsShown": 77,
+      "groups": 1658,
+      "countryPaths": 47,
+      "jsEventListeners": 189,
+      "heapUsedMb": 6.7,
+      "documents": 6
+    }
+  }
+}

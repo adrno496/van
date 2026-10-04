@@ -1,0 +1,15 @@
+{
+  "slug": "une-nuit-a-nazare",
+  "title": "Article de test à Nazaré",
+  "date": "2026-03-09",
+  "excerpt": "Extrait de l’article de test.",
+  "placeId": 119,
+  "voyage": "portugal-de-test",
+  "cover": {
+    "src": "test/photo.png",
+    "alt": "Image de test"
+  },
+  "text": "Texte de l’article de test.\n\nDeuxième paragraphe.",
+  "visibility": "public",
+  "status": "published"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "sans-image",
+  "title": "Article de test sans image ni lieu",
+  "date": "2026-02-01",
+  "text": "Un article sans couverture, sans lieu, sans extrait : la page doit rester propre.",
+  "visibility": "public",
+  "status": "published"
+}

@@ -1,0 +1,519 @@
+{
+ "engine": "9.1.0",
+ "lighthouse_version": "13.5.0",
+ "runs": 3,
+ "load1": 9.8,
+ "status": "PARTIAL",
+ "results": [
+  {
+   "route": "/",
+   "form_factor": "mobile",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 1068.546,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 911.559,
+    "speed_index_ms": 911.559,
+    "tti_ms": 1068.546
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1069
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1062
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1129
+    }
+   ]
+  },
+  {
+   "route": "/",
+   "form_factor": "desktop",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 295.822,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 252.822,
+    "speed_index_ms": 252.822,
+    "tti_ms": 295.822
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 303
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 296
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 289
+    }
+   ]
+  },
+  {
+   "route": "/destinations/",
+   "form_factor": "mobile",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 1070.128,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 908.947,
+    "speed_index_ms": 908.947,
+    "tti_ms": 1070.128
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1072
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1070
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1070
+    }
+   ]
+  },
+  {
+   "route": "/destinations/",
+   "form_factor": "desktop",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 296.316,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 296.316,
+    "speed_index_ms": 296.316,
+    "tti_ms": 296.316
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 296
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 306
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 291
+    }
+   ]
+  },
+  {
+   "route": "/destinations/italie/",
+   "form_factor": "mobile",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 1124.599,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 1124.599,
+    "speed_index_ms": 1124.599,
+    "tti_ms": 1124.599
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1072
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1126
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1125
+    }
+   ]
+  },
+  {
+   "route": "/destinations/italie/",
+   "form_factor": "desktop",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 290.82,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 247.82,
+    "speed_index_ms": 247.82,
+    "tti_ms": 290.82
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 291
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 291
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 289
+    }
+   ]
+  },
+  {
+   "route": "/road-trips/",
+   "form_factor": "mobile",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 953.418,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 953.418,
+    "speed_index_ms": 953.418,
+    "tti_ms": 953.418
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 953
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 968
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 929
+    }
+   ]
+  },
+  {
+   "route": "/road-trips/",
+   "form_factor": "desktop",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 252.172,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 209.172,
+    "speed_index_ms": 209.172,
+    "tti_ms": 252.172
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 252
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 264
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 250
+    }
+   ]
+  },
+  {
+   "route": "/road-trips/balkans-en-six-semaines/",
+   "form_factor": "mobile",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 1115.734,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 1115.734,
+    "speed_index_ms": 1115.734,
+    "tti_ms": 1115.734
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1125
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1116
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 1115
+    }
+   ]
+  },
+  {
+   "route": "/road-trips/balkans-en-six-semaines/",
+   "form_factor": "desktop",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 288.386,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 246.386,
+    "speed_index_ms": 246.386,
+    "tti_ms": 288.386
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 288
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 288
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 301
+    }
+   ]
+  },
+  {
+   "route": "/guides/regles-et-couts-par-pays/",
+   "form_factor": "mobile",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 910.651,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 755.275,
+    "speed_index_ms": 755.275,
+    "tti_ms": 910.651
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 910
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 920
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 911
+    }
+   ]
+  },
+  {
+   "route": "/guides/regles-et-couts-par-pays/",
+   "form_factor": "desktop",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 260.752,
+    "cls": 0,
+    "tbt_ms": 0,
+    "fcp_ms": 260.752,
+    "speed_index_ms": 260.752,
+    "tti_ms": 260.752
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 262
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 247
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 261
+    }
+   ]
+  },
+  {
+   "route": "/app/",
+   "form_factor": "mobile",
+   "status": "PARTIAL",
+   "scores": {
+    "performance": 91,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 2775.048,
+    "cls": 0.007,
+    "tbt_ms": 86,
+    "fcp_ms": 2728.548,
+    "speed_index_ms": 2728.548,
+    "tti_ms": 2974.298
+   },
+   "runs": [
+    {
+     "performance": 91,
+     "tbt_ms": 121,
+     "lcp_ms": 2746
+    },
+    {
+     "performance": 91,
+     "tbt_ms": 86,
+     "lcp_ms": 2775
+    },
+    {
+     "performance": 91,
+     "tbt_ms": 67,
+     "lcp_ms": 2777
+    }
+   ]
+  },
+  {
+   "route": "/app/",
+   "form_factor": "desktop",
+   "status": "PASS",
+   "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 91
+   },
+   "metrics": {
+    "lcp_ms": 651.118,
+    "cls": 0.014,
+    "tbt_ms": 0,
+    "fcp_ms": 631.618,
+    "speed_index_ms": 631.618,
+    "tti_ms": 653.068
+   },
+   "runs": [
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 695
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 638
+    },
+    {
+     "performance": 100,
+     "tbt_ms": 0,
+     "lcp_ms": 651
+    }
+   ]
+  }
+ ],
+ "limitations": [
+  "Lab measurement on a local loopback server: not field data.",
+  "Core Web Vitals are assessed at the 75th percentile of real users (CrUX/RUM): NOT_TESTED here.",
+  "INP cannot be measured in the lab; TBT is only a proxy.",
+  "Scores vary with host load; the median of several runs is reported together with the spread."
+ ]
+}

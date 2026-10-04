@@ -1,0 +1,22 @@
+{
+  "slug": "demo-norvege",
+  "title": "Voyage de démonstration",
+  "summary": "Exemple fictif pour voir le composant en développement. Ce voyage n’a pas eu lieu.",
+  "countries": [
+    "Norvège"
+  ],
+  "dateStart": "2026-07-01",
+  "dateEnd": "2026-07-30",
+  "distanceKm": 5200,
+  "placeIds": [
+    1500
+  ],
+  "cover": {
+    "src": "demo/cover.png",
+    "alt": ""
+  },
+  "text": "Texte de démonstration.",
+  "demo": true,
+  "visibility": "public",
+  "status": "published"
+}

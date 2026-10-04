@@ -1,0 +1,50 @@
+{
+ "chromium": {
+  "fields": {
+   "#q": 16,
+   "#discoverQuery": 16,
+   "#nTxt": 16,
+   "#nBud": 16,
+   "#nDate": 16,
+   "#postTitle": 16,
+   "#postText": 16,
+   "#postDate": 16,
+   "#postPlaceSearch": 16
+  },
+  "minFont": 16,
+  "kb": {
+   "fieldVisible": true,
+   "saveReachable": true,
+   "overflowX": 0
+  },
+  "search": {
+   "resultsVisible": true,
+   "listFits": true
+  },
+  "errors": []
+ },
+ "webkit": {
+  "fields": {
+   "#q": 16,
+   "#discoverQuery": 16,
+   "#nTxt": 16,
+   "#nBud": 16,
+   "#nDate": 16,
+   "#postTitle": 16,
+   "#postText": 16,
+   "#postDate": 16,
+   "#postPlaceSearch": 16
+  },
+  "minFont": 16,
+  "kb": {
+   "fieldVisible": true,
+   "saveReachable": true,
+   "overflowX": 0
+  },
+  "search": {
+   "resultsVisible": true,
+   "listFits": true
+  },
+  "errors": []
+ }
+}

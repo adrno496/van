@@ -1,0 +1,271 @@
+{
+ "note": "Deux séries par version. Série 1 : baseline mesurée avec le moteur 9.0.0 (00:32), finale avec 9.1.0 (01:56). Série 2 : les deux avec 9.1.0, l'une après l'autre (02:1x). Lighthouse 13.5.0 dans tous les cas.",
+ "serie1": {
+  "avant": {
+   "status": "FAIL",
+   "lighthouse_version": "13.5.0",
+   "results": [
+    {
+     "form_factor": "mobile",
+     "status": "FAIL",
+     "median": {
+      "scores": {
+       "performance": 58,
+       "accessibility": 98,
+       "best-practices": 100,
+       "seo": 100
+      },
+      "metrics": {
+       "lcp_ms": 5705.494,
+       "cls": 0.162,
+       "tbt_ms": 0,
+       "fcp_ms": 5705.494,
+       "speed_index_ms": 5705.494,
+       "tti_ms": 5705.494
+      }
+     },
+     "spread": {
+      "performance": [
+       57,
+       66
+      ],
+      "lcp_ms": [
+       3571.3570094453808,
+       5848.349670573591
+      ]
+     }
+    },
+    {
+     "form_factor": "desktop",
+     "status": "PARTIAL",
+     "median": {
+      "scores": {
+       "performance": 79,
+       "accessibility": 92,
+       "best-practices": 100,
+       "seo": 100
+      },
+      "metrics": {
+       "lcp_ms": 1432.056,
+       "cls": 0.237,
+       "tbt_ms": 0,
+       "fcp_ms": 1352.036,
+       "speed_index_ms": 1352.036,
+       "tti_ms": 1432.056
+      }
+     },
+     "spread": {
+      "performance": [
+       77,
+       81
+      ],
+      "lcp_ms": [
+       1343.0831359576148,
+       1509.5060421093744
+      ]
+     }
+    }
+   ]
+  },
+  "apres": {
+   "status": "PARTIAL",
+   "lighthouse_version": "13.5.0",
+   "results": [
+    {
+     "form_factor": "mobile",
+     "status": "PARTIAL",
+     "median": {
+      "scores": {
+       "performance": 82,
+       "accessibility": 100,
+       "best-practices": 100,
+       "seo": 91
+      },
+      "metrics": {
+       "lcp_ms": 2995.416,
+       "cls": 0,
+       "tbt_ms": 343.5,
+       "fcp_ms": 2877.916,
+       "speed_index_ms": 2877.916,
+       "tti_ms": 3324.266
+      }
+     },
+     "spread": {
+      "performance": [
+       80,
+       82
+      ],
+      "lcp_ms": [
+       2986.6520461950677,
+       3020.6458630752672
+      ]
+     }
+    },
+    {
+     "form_factor": "desktop",
+     "status": "PASS",
+     "median": {
+      "scores": {
+       "performance": 100,
+       "accessibility": 100,
+       "best-practices": 100,
+       "seo": 91
+      },
+      "metrics": {
+       "lcp_ms": 686.331,
+       "cls": 0.014,
+       "tbt_ms": 21,
+       "fcp_ms": 643.331,
+       "speed_index_ms": 643.331,
+       "tti_ms": 761.581
+      }
+     },
+     "spread": {
+      "performance": [
+       100,
+       100
+      ],
+      "lcp_ms": [
+       658.49965,
+       688.2535113478098
+      ]
+     }
+    }
+   ]
+  }
+ },
+ "serie2": {
+  "avant": {
+   "status": "PARTIAL",
+   "lighthouse_version": "13.5.0",
+   "results": [
+    {
+     "form_factor": "mobile",
+     "status": "PARTIAL",
+     "median": {
+      "scores": {
+       "performance": 74,
+       "accessibility": 98,
+       "best-practices": 100,
+       "seo": 100
+      },
+      "metrics": {
+       "lcp_ms": 3563.249,
+       "cls": 0,
+       "tbt_ms": 78.439,
+       "fcp_ms": 3563.249,
+       "speed_index_ms": 3563.249,
+       "tti_ms": 3804.46
+      }
+     },
+     "spread": {
+      "performance": [
+       66,
+       82
+      ],
+      "lcp_ms": [
+       3560.0633826664143,
+       5525.714501722845
+      ]
+     }
+    },
+    {
+     "form_factor": "desktop",
+     "status": "PARTIAL",
+     "median": {
+      "scores": {
+       "performance": 81,
+       "accessibility": 92,
+       "best-practices": 100,
+       "seo": 100
+      },
+      "metrics": {
+       "lcp_ms": 1293.43,
+       "cls": 0.237,
+       "tbt_ms": 0,
+       "fcp_ms": 1213.43,
+       "speed_index_ms": 1213.43,
+       "tti_ms": 1293.43
+      }
+     },
+     "spread": {
+      "performance": [
+       81,
+       82
+      ],
+      "lcp_ms": [
+       1272.4271869671602,
+       1295.2699499999999
+      ]
+     }
+    }
+   ]
+  },
+  "apres": {
+   "status": "PARTIAL",
+   "lighthouse_version": "13.5.0",
+   "results": [
+    {
+     "form_factor": "mobile",
+     "status": "PARTIAL",
+     "median": {
+      "scores": {
+       "performance": 80,
+       "accessibility": 100,
+       "best-practices": 100,
+       "seo": 91
+      },
+      "metrics": {
+       "lcp_ms": 3042.026,
+       "cls": 0,
+       "tbt_ms": 382,
+       "fcp_ms": 2897.526,
+       "speed_index_ms": 2897.526,
+       "tti_ms": 3451.556
+      }
+     },
+     "spread": {
+      "performance": [
+       79,
+       81
+      ],
+      "lcp_ms": [
+       3008.029819390958,
+       3074.2562495148663
+      ]
+     }
+    },
+    {
+     "form_factor": "desktop",
+     "status": "PASS",
+     "median": {
+      "scores": {
+       "performance": 100,
+       "accessibility": 100,
+       "best-practices": 100,
+       "seo": 91
+      },
+      "metrics": {
+       "lcp_ms": 720.096,
+       "cls": 0.014,
+       "tbt_ms": 27,
+       "fcp_ms": 677.596,
+       "speed_index_ms": 677.596,
+       "tti_ms": 802.546
+      }
+     },
+     "spread": {
+      "performance": [
+       99,
+       100
+      ],
+      "lcp_ms": [
+       697.126258198287,
+       735.5054357286247
+      ]
+     }
+    }
+   ]
+  }
+ }
+}

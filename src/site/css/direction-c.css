@@ -1,0 +1,22 @@
+/* Direction C — « Outdoor minimal ».
+   Aplats, vert forêt, caractères sans empattement, angles droits : robuste et direct. */
+:root{--font-display:var(--font-body);--display-weight:800;--display-tracking:-.03em;--plate-radius:0;--r-pill:4px;--r-lg:0;--r-md:0;
+  --accent:#24523a;--accent-hover:#183a28;--accent-text:#24523a;--accent-soft:#e3ece3;
+  --hero-bg:#24523a;--hero-min:min(72vh,700px);--section:clamp(44px,6vw,88px);--gap:clamp(16px,1.8vw,24px);
+  --pl-sea:#e9ece6;--pl-land:#d8dfd2;--pl-land-line:#b4beab;--pl-hi:#f7f9f4;--pl-hi-line:#24523a;--pl-dot:#24523a;--pl-dot-strong:#111a14;--pl-route:#111a14}
+.hero{--pl-sea:#24523a;--pl-land:#2f6247;--pl-land-line:#3d7557;--pl-dot:#cfe0cf;--pl-dot-strong:#ffffff;--pl-route:#ffffff;--pl-route-bg:#24523a}
+.hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#24523a 0%,#24523a 32%,rgba(36,82,58,.6) 48%,rgba(36,82,58,0) 66%)}
+.hero-title{text-transform:uppercase;letter-spacing:-.04em}
+.hero-title em{font-style:normal;font-weight:300}
+.hero .btn-primary{background:#fff;color:#183a28}
+.hero .btn-primary:hover{background:var(--on-forest);color:#183a28}
+.hero .btn-ghost{color:#fff}
+.hero .btn-ghost:hover{background:#fff;border-color:#fff;color:#183a28}
+.brand em{font-style:normal;font-weight:400}
+.band{background:#111a14}
+.section-title,.page-title{text-transform:none}
+.card-title{font-weight:700}
+.eyebrow,.badge{letter-spacing:.12em}
+@media (max-width:899px){
+  .hero::before{background:linear-gradient(0deg,#24523a 0%,#24523a 34%,rgba(36,82,58,.6) 48%,rgba(36,82,58,0) 66%)}
+}

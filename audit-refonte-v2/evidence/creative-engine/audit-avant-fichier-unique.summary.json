@@ -1,0 +1,383 @@
+{
+ "run": {
+  "id": "audit_1791095475229",
+  "engine": "9.1.0",
+  "mode": "BALANCED",
+  "created_at": "2026-10-04T06:31:15.229Z"
+ },
+ "subject": {
+  "hash": "6b1aa562ec53a2534030bd0935cf3dd7528929b4b8bbb798b21e3a904a3d8b36",
+  "files": 1
+ },
+ "certification": {
+  "status": "FAIL",
+  "blockers": [
+   "ACCESSIBILITY_MANUAL_REVIEW",
+   "PERFORMANCE_LAB_LIGHTHOUSE",
+   "PROJECT_SPEC_FACTUAL_CONTEXT"
+  ]
+ },
+ "quality": 70,
+ "metrics": {
+  "metrics": {
+   "value": null,
+   "status": null,
+   "evidence_level": null
+  }
+ },
+ "static": {
+  "security": {
+   "status": "PARTIAL",
+   "score": null
+  },
+  "html": {
+   "status": "PASS",
+   "score": null
+  },
+  "links": {
+   "status": "PASS",
+   "score": null
+  },
+  "seo": {
+   "status": "FAIL",
+   "score": {
+    "name": "SEO_TECHNICAL_SCORE",
+    "layer": "static",
+    "value": 92,
+    "axes": {
+     "A": {
+      "axis": "A",
+      "name": "HTML et métadonnées",
+      "weight": 20,
+      "findings": 0,
+      "score": 100
+     },
+     "B": {
+      "axis": "B",
+      "name": "Indexabilité",
+      "weight": 20,
+      "findings": 2,
+      "score": 85
+     },
+     "C": {
+      "axis": "C",
+      "name": "Données structurées",
+      "weight": 12,
+      "findings": 0,
+      "score": 100
+     },
+     "D": {
+      "axis": "D",
+      "name": "Graphe de liens et conversion",
+      "weight": 15,
+      "findings": 1,
+      "score": 70
+     },
+     "E": {
+      "axis": "E",
+      "name": "Images",
+      "weight": 10,
+      "findings": 0,
+      "score": 100
+     },
+     "F": {
+      "axis": "F",
+      "name": "Contenu",
+      "weight": 15,
+      "findings": 1,
+      "score": 97
+     },
+     "G": {
+      "axis": "G",
+      "name": "Discovery / IA",
+      "weight": 8,
+      "findings": 0,
+      "score": 100
+     }
+    },
+    "disclaimer": "SEO_TECHNICAL_SCORE est un indicateur de benchmark interne. Ce n’est ni une probabilité de classement, ni un score officiel Google, ni une garantie de trafic ou d’indexation."
+   }
+  },
+  "accessibilityStatic": {
+   "status": "FAIL",
+   "score": 28
+  }
+ },
+ "findings": [
+  {
+   "id": "INLINE_EVENT_HANDLER",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "INLINE_SCRIPT",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "LINK_NAV_BROKEN",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "SEO_ROBOTS_TXT_MISSING",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "CONTENT_INTENT_UNCLEAR",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "SEO_ORIGIN_UNKNOWN",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "A11Y_FOCUS_VISIBLE_RULE_MISSING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "A11Y_REDUCED_MOTION_RULE_MISSING",
+   "priority": "P0",
+   "title": ""
+  },
+  {
+   "id": "A11Y_TARGET_SIZE_PROXY_MISSING",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "A11Y_FORCED_COLORS_ENHANCEMENT_MISSING",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "A11Y_MOBILE_MENU_ESCAPE_MISSING",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-3f37926be1db0aee",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-22da5a903f133d9d",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-6caea6a132d46ff5",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-03bafe704705b660",
+   "priority": "P1",
+   "title": ""
+  },
+  {
+   "id": "BROWSER-80b1958fa745ea01",
+   "priority": "P1",
+   "title": ""
+  }
+ ],
+ "browser": {
+  "status": "PARTIAL",
+  "summary": {
+   "by_browser": {
+    "chromium": {
+     "status": "PARTIAL",
+     "scenarios": 11
+    }
+   },
+   "responsive": {
+    "status": "PASS",
+    "scenarios": 5,
+    "overflow_scenarios": 0
+   },
+   "console_network": {
+    "status": "PASS",
+    "console_errors": 0,
+    "page_errors": 0,
+    "failed_requests": 0,
+    "http_errors": 0,
+    "third_party_requests": 0
+   },
+   "axe": {
+    "status": "PARTIAL",
+    "scenarios": 5,
+    "violations": 0,
+    "critical_or_serious": 0,
+    "incomplete": 5
+   },
+   "keyboard": {
+    "status": "PASS",
+    "scenarios": 5
+   },
+   "target_size": {
+    "status": "PASS",
+    "below_24_scenarios": 0,
+    "controls_below_44": 30
+   },
+   "skip_link": {
+    "status": "PASS"
+   },
+   "menu": {
+    "status": "NA"
+   },
+   "forms": {
+    "status": "NA"
+   },
+   "reduced_motion": {
+    "status": "PASS",
+    "scenarios": 2
+   },
+   "zoom": {
+    "status": "PASS",
+    "scenarios": 2
+   },
+   "color_schemes": {
+    "light": {
+     "status": "PARTIAL",
+     "scenarios": 5,
+     "adapted": null
+    }
+   },
+   "rtl": {
+    "status": "NA",
+    "scenarios": 0
+   },
+   "csp": {
+    "status": "PASS",
+    "violations": 0
+   },
+   "seo_runtime": {
+    "status": "PASS",
+    "findings": 0
+   }
+  },
+  "scenarios": [
+   {
+    "kind": "matrix",
+    "viewport": "mobile-320",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      71
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "mobile-390",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      80
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "tablet-820",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      172
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "desktop-1440",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      188
+     ]
+    ]
+   },
+   {
+    "kind": "matrix",
+    "viewport": "wide-1920",
+    "status": "PARTIAL",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": [
+     [
+      "color-contrast",
+      270
+     ]
+    ]
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "reduced-motion",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "mobile-390",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "interaction",
+    "viewport": "desktop-1440",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "zoom-200",
+    "viewport": "zoom-200-of-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   },
+   {
+    "kind": "text-200",
+    "viewport": "text-200-at-1280x720",
+    "status": "PASS",
+    "fail_reasons": [],
+    "axe_violations": [],
+    "axe_incomplete": []
+   }
+  ]
+ },
+ "limitations": [
+  "External audit without a ProjectSpec cannot validate factual provenance, business-specific journeys or structured-data business facts.",
+  "Production certification remains PARTIAL until required project-specific and manual gates are executed."
+ ]
+}

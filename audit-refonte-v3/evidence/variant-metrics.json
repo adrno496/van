@@ -1,0 +1,755 @@
+{
+  "generatedAt": "2026-10-04T08:20:20.977Z",
+  "variants": {
+    "A": {
+      "screens": {
+        "ordinateur": {
+          "motsPremierEcran": 43,
+          "hauteurPremierePage": 0.92,
+          "partImagePremierEcran": 0.63,
+          "boutonsPremierEcran": 3,
+          "accesPlannerPremierEcran": 2,
+          "positionPremiereCarte": 1137,
+          "hauteurPageEnEcrans": 6.4,
+          "debordementHorizontal": 0,
+          "ciblesSous44": 0,
+          "ciblesMin": 44,
+          "taillesDeTexte": 13,
+          "noeuds": 297,
+          "tailleTitre": 100
+        },
+        "mobile": {
+          "motsPremierEcran": 32,
+          "hauteurPremierePage": 0.92,
+          "partImagePremierEcran": 0.61,
+          "boutonsPremierEcran": 2,
+          "accesPlannerPremierEcran": 1,
+          "positionPremiereCarte": 1104,
+          "hauteurPageEnEcrans": 7.5,
+          "debordementHorizontal": 0,
+          "ciblesSous44": 0,
+          "ciblesMin": 44,
+          "taillesDeTexte": 13,
+          "noeuds": 297,
+          "tailleTitre": 44
+        }
+      },
+      "contrast": [
+        {
+          "use": "texte courant",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de section",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de première page",
+          "fg": "#f4efe4",
+          "bg": "#1a2c23",
+          "ratio": 12.82,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "accent du titre de première page",
+          "fg": "#f3b488",
+          "bg": "#1a2c23",
+          "ratio": 8.19,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "phrase de première page",
+          "fg": "#f4efe4",
+          "bg": "#1a2c23",
+          "ratio": 12.82,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "surtitre de première page",
+          "fg": "#cdd5c6",
+          "bg": "#1a2c23",
+          "ratio": 9.75,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton principal de première page",
+          "fg": "#ffffff",
+          "bg": "#8b4618",
+          "ratio": 7.03,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton secondaire de première page",
+          "fg": "#f4efe4",
+          "bg": "#1a2c23",
+          "ratio": 12.82,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien de navigation",
+          "fg": "#f4efe4",
+          "bg": "#1a2c23",
+          "ratio": 12.82,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton « Préparer mon voyage » (en-tête)",
+          "fg": "#1f3329",
+          "bg": "#f4efe4",
+          "ratio": 11.71,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "étiquette",
+          "fg": "#514a41",
+          "bg": "#fbf9f5",
+          "ratio": 8.3,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de carte",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "métadonnées de carte",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "texte de bandeau",
+          "fg": "#cdd5c6",
+          "bg": "#1a2c23",
+          "ratio": 9.75,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de bandeau",
+          "fg": "#f4efe4",
+          "bg": "#1a2c23",
+          "ratio": 12.82,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton de bandeau",
+          "fg": "#1f3329",
+          "bg": "#f4efe4",
+          "ratio": 11.71,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien « tous les… »",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "pied de page",
+          "fg": "#514a41",
+          "bg": "#e8e2d6",
+          "ratio": 6.77,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "navigation intérieure",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "chapeau de page",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "libellé de fait",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "note sur un fait",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton principal",
+          "fg": "#ffffff",
+          "bg": "#8b4618",
+          "ratio": 7.03,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "mise en garde",
+          "fg": "#1b1913",
+          "bg": "#fbefd3",
+          "ratio": 15.39,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien dans le texte",
+          "fg": "#8b4618",
+          "bg": "#f1ede5",
+          "ratio": 6.02,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "fil d’Ariane",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        }
+      ],
+      "contrastSummary": {
+        "pairs": 26,
+        "pass": 26,
+        "minText": 6.02,
+        "fail": []
+      }
+    },
+    "B": {
+      "screens": {
+        "ordinateur": {
+          "motsPremierEcran": 44,
+          "hauteurPremierePage": 0.8,
+          "partImagePremierEcran": 0.54,
+          "boutonsPremierEcran": 3,
+          "accesPlannerPremierEcran": 2,
+          "positionPremiereCarte": 1006,
+          "hauteurPageEnEcrans": 6.1,
+          "debordementHorizontal": 0,
+          "ciblesSous44": 0,
+          "ciblesMin": 44,
+          "taillesDeTexte": 13,
+          "noeuds": 297,
+          "tailleTitre": 100
+        },
+        "mobile": {
+          "motsPremierEcran": 50,
+          "hauteurPremierePage": 0.8,
+          "partImagePremierEcran": 0.53,
+          "boutonsPremierEcran": 2,
+          "accesPlannerPremierEcran": 1,
+          "positionPremiereCarte": 996,
+          "hauteurPageEnEcrans": 7.3,
+          "debordementHorizontal": 0,
+          "ciblesSous44": 0,
+          "ciblesMin": 44,
+          "taillesDeTexte": 13,
+          "noeuds": 297,
+          "tailleTitre": 44
+        }
+      },
+      "contrast": [
+        {
+          "use": "texte courant",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de section",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de première page",
+          "fg": "#1b1913",
+          "bg": "#ece3d0",
+          "ratio": 13.78,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "accent du titre de première page",
+          "fg": "#8b4618",
+          "bg": "#ece3d0",
+          "ratio": 5.51,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "phrase de première page",
+          "fg": "#1b1913",
+          "bg": "#ece3d0",
+          "ratio": 13.78,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "surtitre de première page",
+          "fg": "#514a41",
+          "bg": "#ece3d0",
+          "ratio": 6.84,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton principal de première page",
+          "fg": "#ffffff",
+          "bg": "#8b4618",
+          "ratio": 7.03,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton secondaire de première page",
+          "fg": "#1b1913",
+          "bg": "#ece3d0",
+          "ratio": 13.78,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien de navigation",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton « Préparer mon voyage » (en-tête)",
+          "fg": "#fbf9f5",
+          "bg": "#1b1913",
+          "ratio": 16.71,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "étiquette",
+          "fg": "#514a41",
+          "bg": "#fff8e6",
+          "ratio": 8.24,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de carte",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "métadonnées de carte",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "texte de bandeau",
+          "fg": "#514a41",
+          "bg": "#e6dcc6",
+          "ratio": 6.41,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de bandeau",
+          "fg": "#1b1913",
+          "bg": "#e6dcc6",
+          "ratio": 12.9,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton de bandeau",
+          "fg": "#fbf9f5",
+          "bg": "#1b1913",
+          "ratio": 16.71,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien « tous les… »",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "pied de page",
+          "fg": "#514a41",
+          "bg": "#e8e2d6",
+          "ratio": 6.77,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "navigation intérieure",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "chapeau de page",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "libellé de fait",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "note sur un fait",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton principal",
+          "fg": "#ffffff",
+          "bg": "#8b4618",
+          "ratio": 7.03,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "mise en garde",
+          "fg": "#1b1913",
+          "bg": "#fbefd3",
+          "ratio": 15.39,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien dans le texte",
+          "fg": "#8b4618",
+          "bg": "#f1ede5",
+          "ratio": 6.02,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "fil d’Ariane",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        }
+      ],
+      "contrastSummary": {
+        "pairs": 26,
+        "pass": 26,
+        "minText": 6.02,
+        "fail": []
+      }
+    },
+    "C": {
+      "screens": {
+        "ordinateur": {
+          "motsPremierEcran": 64,
+          "hauteurPremierePage": 0.72,
+          "partImagePremierEcran": 0.49,
+          "boutonsPremierEcran": 3,
+          "accesPlannerPremierEcran": 2,
+          "positionPremiereCarte": 916,
+          "hauteurPageEnEcrans": 5.9,
+          "debordementHorizontal": 0,
+          "ciblesSous44": 0,
+          "ciblesMin": 44,
+          "taillesDeTexte": 13,
+          "noeuds": 297,
+          "tailleTitre": 100
+        },
+        "mobile": {
+          "motsPremierEcran": 53,
+          "hauteurPremierePage": 0.72,
+          "partImagePremierEcran": 0.48,
+          "boutonsPremierEcran": 2,
+          "accesPlannerPremierEcran": 1,
+          "positionPremiereCarte": 915,
+          "hauteurPageEnEcrans": 7.1,
+          "debordementHorizontal": 0,
+          "ciblesSous44": 0,
+          "ciblesMin": 44,
+          "taillesDeTexte": 13,
+          "noeuds": 297,
+          "tailleTitre": 44
+        }
+      },
+      "contrast": [
+        {
+          "use": "texte courant",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de section",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de première page",
+          "fg": "#f4efe4",
+          "bg": "#24523a",
+          "ratio": 7.82,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "accent du titre de première page",
+          "fg": "#f4efe4",
+          "bg": "#24523a",
+          "ratio": 7.82,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "phrase de première page",
+          "fg": "#f4efe4",
+          "bg": "#24523a",
+          "ratio": 7.82,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "surtitre de première page",
+          "fg": "#cdd5c6",
+          "bg": "#24523a",
+          "ratio": 5.94,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton principal de première page",
+          "fg": "#183a28",
+          "bg": "#ffffff",
+          "ratio": 12.54,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton secondaire de première page",
+          "fg": "#ffffff",
+          "bg": "#24523a",
+          "ratio": 8.96,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien de navigation",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton « Préparer mon voyage » (en-tête)",
+          "fg": "#fbf9f5",
+          "bg": "#1b1913",
+          "ratio": 16.71,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "étiquette",
+          "fg": "#514a41",
+          "bg": "#fbf9f5",
+          "ratio": 8.3,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de carte",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "métadonnées de carte",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "texte de bandeau",
+          "fg": "#cdd5c6",
+          "bg": "#111a14",
+          "ratio": 11.79,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "titre de bandeau",
+          "fg": "#f4efe4",
+          "bg": "#111a14",
+          "ratio": 15.5,
+          "required": 3,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton de bandeau",
+          "fg": "#1f3329",
+          "bg": "#f4efe4",
+          "ratio": 11.71,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien « tous les… »",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "pied de page",
+          "fg": "#514a41",
+          "bg": "#e8e2d6",
+          "ratio": 6.77,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "navigation intérieure",
+          "fg": "#1b1913",
+          "bg": "#f1ede5",
+          "ratio": 15.05,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "chapeau de page",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "libellé de fait",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "note sur un fait",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "bouton principal",
+          "fg": "#ffffff",
+          "bg": "#24523a",
+          "ratio": 8.96,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "mise en garde",
+          "fg": "#1b1913",
+          "bg": "#fbefd3",
+          "ratio": 15.39,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "lien dans le texte",
+          "fg": "#24523a",
+          "bg": "#f1ede5",
+          "ratio": 7.68,
+          "required": 4.5,
+          "status": "PASS"
+        },
+        {
+          "use": "fil d’Ariane",
+          "fg": "#514a41",
+          "bg": "#f1ede5",
+          "ratio": 7.48,
+          "required": 4.5,
+          "status": "PASS"
+        }
+      ],
+      "contrastSummary": {
+        "pairs": 26,
+        "pass": 26,
+        "minText": 5.94,
+        "fail": []
+      }
+    }
+  }
+}

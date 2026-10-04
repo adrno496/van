@@ -1,0 +1,15 @@
+{
+  "slug": "titre-hostile",
+  "title": "Titre hostile <img src=x onerror=\"window.__xss=(window.__xss||0)+1\">",
+  "date": "2026-03-10",
+  "excerpt": "Extrait hostile \"><script>window.__xss=2</script>",
+  "placeId": 107,
+  "cover": {
+    "src": "test/cover.png",
+    "alt": "alt hostile \" onload=\"window.__xss=3",
+    "caption": "Légende hostile <img src=x onerror=\"window.__xss=(window.__xss||0)+1\">"
+  },
+  "text": "Texte hostile <img src=x onerror=\"window.__xss=(window.__xss||0)+1\">\n\n</p><script>window.__xss=4</script>\n\n## Intertitre <img src=x onerror=\"window.__xss=(window.__xss||0)+1\">\n\n- élément <img src=x onerror=\"window.__xss=(window.__xss||0)+1\">",
+  "visibility": "public",
+  "status": "published"
+}

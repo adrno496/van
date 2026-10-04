@@ -1,0 +1,529 @@
+{
+  "generatedAt": "2026-10-04T06:51:31.797Z",
+  "runs": 9,
+  "cpu": 4,
+  "viewport": "390x844",
+  "load1": 7.63,
+  "variants": [
+    {
+      "name": "v1",
+      "median": {
+        "fcp": 160,
+        "ready": 844,
+        "longTasks": 3,
+        "longTaskMax": 367,
+        "longTaskTotal": 572,
+        "blockingAfterFcp": 422,
+        "nodes": 7765
+      },
+      "min": {
+        "fcp": 144,
+        "ready": 589,
+        "longTasks": 3,
+        "longTaskMax": 277,
+        "longTaskTotal": 413,
+        "blockingAfterFcp": 263,
+        "nodes": 7765
+      },
+      "samples": [
+        {
+          "fcp": 160,
+          "ready": 843.7999999523163,
+          "longTasks": 3,
+          "longTaskMax": 367,
+          "longTaskTotal": 592,
+          "blockingAfterFcp": 442,
+          "nodes": 7765
+        },
+        {
+          "fcp": 216,
+          "ready": 901.9000000953674,
+          "longTasks": 3,
+          "longTaskMax": 381,
+          "longTaskTotal": 572,
+          "blockingAfterFcp": 422,
+          "nodes": 7765
+        },
+        {
+          "fcp": 284,
+          "ready": 1048.5,
+          "longTasks": 3,
+          "longTaskMax": 445,
+          "longTaskTotal": 701,
+          "blockingAfterFcp": 551,
+          "nodes": 7765
+        },
+        {
+          "fcp": 152,
+          "ready": 787.0999999046326,
+          "longTasks": 3,
+          "longTaskMax": 356,
+          "longTaskTotal": 543,
+          "blockingAfterFcp": 393,
+          "nodes": 7765
+        },
+        {
+          "fcp": 152,
+          "ready": 759.2999999523163,
+          "longTasks": 3,
+          "longTaskMax": 316,
+          "longTaskTotal": 533,
+          "blockingAfterFcp": 383,
+          "nodes": 7765
+        },
+        {
+          "fcp": 164,
+          "ready": 879.7999999523163,
+          "longTasks": 3,
+          "longTaskMax": 407,
+          "longTaskTotal": 611,
+          "blockingAfterFcp": 461,
+          "nodes": 7765
+        },
+        {
+          "fcp": 164,
+          "ready": 937.2999999523163,
+          "longTasks": 3,
+          "longTaskMax": 423,
+          "longTaskTotal": 634,
+          "blockingAfterFcp": 484,
+          "nodes": 7765
+        },
+        {
+          "fcp": 144,
+          "ready": 588.8000001907349,
+          "longTasks": 3,
+          "longTaskMax": 277,
+          "longTaskTotal": 413,
+          "blockingAfterFcp": 263,
+          "nodes": 7765
+        },
+        {
+          "fcp": 148,
+          "ready": 743.8999998569489,
+          "longTasks": 3,
+          "longTaskMax": 346,
+          "longTaskTotal": 504,
+          "blockingAfterFcp": 354,
+          "nodes": 7765
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "median": {
+        "fcp": 184,
+        "ready": 839,
+        "longTasks": 3,
+        "longTaskMax": 355,
+        "longTaskTotal": 533,
+        "blockingAfterFcp": 383,
+        "nodes": 7765
+      },
+      "min": {
+        "fcp": 136,
+        "ready": 632,
+        "longTasks": 3,
+        "longTaskMax": 281,
+        "longTaskTotal": 419,
+        "blockingAfterFcp": 269,
+        "nodes": 7765
+      },
+      "samples": [
+        {
+          "fcp": 148,
+          "ready": 844.2000000476837,
+          "longTasks": 3,
+          "longTaskMax": 355,
+          "longTaskTotal": 533,
+          "blockingAfterFcp": 383,
+          "nodes": 7765
+        },
+        {
+          "fcp": 148,
+          "ready": 748,
+          "longTasks": 3,
+          "longTaskMax": 336,
+          "longTaskTotal": 514,
+          "blockingAfterFcp": 364,
+          "nodes": 7765
+        },
+        {
+          "fcp": 200,
+          "ready": 922.0999999046326,
+          "longTasks": 3,
+          "longTaskMax": 399,
+          "longTaskTotal": 597,
+          "blockingAfterFcp": 447,
+          "nodes": 7765
+        },
+        {
+          "fcp": 188,
+          "ready": 839.0999999046326,
+          "longTasks": 3,
+          "longTaskMax": 376,
+          "longTaskTotal": 554,
+          "blockingAfterFcp": 404,
+          "nodes": 7765
+        },
+        {
+          "fcp": 204,
+          "ready": 1056.3999998569489,
+          "longTasks": 4,
+          "longTaskMax": 466,
+          "longTaskTotal": 752,
+          "blockingAfterFcp": 552,
+          "nodes": 7765
+        },
+        {
+          "fcp": 188,
+          "ready": 949.0999999046326,
+          "longTasks": 3,
+          "longTaskMax": 406,
+          "longTaskTotal": 604,
+          "blockingAfterFcp": 454,
+          "nodes": 7765
+        },
+        {
+          "fcp": 184,
+          "ready": 727,
+          "longTasks": 3,
+          "longTaskMax": 340,
+          "longTaskTotal": 507,
+          "blockingAfterFcp": 357,
+          "nodes": 7765
+        },
+        {
+          "fcp": 152,
+          "ready": 631.9000000953674,
+          "longTasks": 3,
+          "longTaskMax": 281,
+          "longTaskTotal": 419,
+          "blockingAfterFcp": 269,
+          "nodes": 7765
+        },
+        {
+          "fcp": 136,
+          "ready": 638.5,
+          "longTasks": 3,
+          "longTaskMax": 290,
+          "longTaskTotal": 439,
+          "blockingAfterFcp": 289,
+          "nodes": 7765
+        }
+      ]
+    },
+    {
+      "name": "o2",
+      "median": {
+        "fcp": 180,
+        "ready": 836,
+        "longTasks": 3,
+        "longTaskMax": 338,
+        "longTaskTotal": 525,
+        "blockingAfterFcp": 375,
+        "nodes": 3030
+      },
+      "min": {
+        "fcp": 140,
+        "ready": 540,
+        "longTasks": 3,
+        "longTaskMax": 226,
+        "longTaskTotal": 353,
+        "blockingAfterFcp": 203,
+        "nodes": 3030
+      },
+      "samples": [
+        {
+          "fcp": 160,
+          "ready": 816.6999998092651,
+          "longTasks": 3,
+          "longTaskMax": 385,
+          "longTaskTotal": 557,
+          "blockingAfterFcp": 407,
+          "nodes": 3030
+        },
+        {
+          "fcp": 200,
+          "ready": 835.7000000476837,
+          "longTasks": 3,
+          "longTaskMax": 338,
+          "longTaskTotal": 525,
+          "blockingAfterFcp": 375,
+          "nodes": 3030
+        },
+        {
+          "fcp": 196,
+          "ready": 835.5,
+          "longTasks": 3,
+          "longTaskMax": 383,
+          "longTaskTotal": 579,
+          "blockingAfterFcp": 429,
+          "nodes": 3030
+        },
+        {
+          "fcp": 264,
+          "ready": 889.4000000953674,
+          "longTasks": 3,
+          "longTaskMax": 323,
+          "longTaskTotal": 508,
+          "blockingAfterFcp": 358,
+          "nodes": 3030
+        },
+        {
+          "fcp": 184,
+          "ready": 836.5999999046326,
+          "longTasks": 3,
+          "longTaskMax": 375,
+          "longTaskTotal": 563,
+          "blockingAfterFcp": 413,
+          "nodes": 3030
+        },
+        {
+          "fcp": 180,
+          "ready": 892.9000000953674,
+          "longTasks": 3,
+          "longTaskMax": 338,
+          "longTaskTotal": 563,
+          "blockingAfterFcp": 413,
+          "nodes": 3030
+        },
+        {
+          "fcp": 152,
+          "ready": 539.9000000953674,
+          "longTasks": 3,
+          "longTaskMax": 229,
+          "longTaskTotal": 359,
+          "blockingAfterFcp": 209,
+          "nodes": 3030
+        },
+        {
+          "fcp": 176,
+          "ready": 560.2999999523163,
+          "longTasks": 3,
+          "longTaskMax": 226,
+          "longTaskTotal": 353,
+          "blockingAfterFcp": 203,
+          "nodes": 3030
+        },
+        {
+          "fcp": 140,
+          "ready": 560.5999999046326,
+          "longTasks": 3,
+          "longTaskMax": 233,
+          "longTaskTotal": 368,
+          "blockingAfterFcp": 218,
+          "nodes": 3030
+        }
+      ]
+    },
+    {
+      "name": "o4",
+      "median": {
+        "fcp": 152,
+        "ready": 548,
+        "longTasks": 2,
+        "longTaskMax": 248,
+        "longTaskTotal": 326,
+        "blockingAfterFcp": 226,
+        "nodes": 3029
+      },
+      "min": {
+        "fcp": 104,
+        "ready": 419,
+        "longTasks": 2,
+        "longTaskMax": 116,
+        "longTaskTotal": 212,
+        "blockingAfterFcp": 112,
+        "nodes": 3029
+      },
+      "samples": [
+        {
+          "fcp": 164,
+          "ready": 616.7000000476837,
+          "longTasks": 2,
+          "longTaskMax": 261,
+          "longTaskTotal": 338,
+          "blockingAfterFcp": 238,
+          "nodes": 3029
+        },
+        {
+          "fcp": 160,
+          "ready": 670,
+          "longTasks": 2,
+          "longTaskMax": 285,
+          "longTaskTotal": 367,
+          "blockingAfterFcp": 267,
+          "nodes": 3029
+        },
+        {
+          "fcp": 152,
+          "ready": 647.6999998092651,
+          "longTasks": 2,
+          "longTaskMax": 257,
+          "longTaskTotal": 344,
+          "blockingAfterFcp": 244,
+          "nodes": 3029
+        },
+        {
+          "fcp": 160,
+          "ready": 669.5,
+          "longTasks": 2,
+          "longTaskMax": 319,
+          "longTaskTotal": 396,
+          "blockingAfterFcp": 296,
+          "nodes": 3029
+        },
+        {
+          "fcp": 120,
+          "ready": 427.10000014305115,
+          "longTasks": 2,
+          "longTaskMax": 116,
+          "longTaskTotal": 212,
+          "blockingAfterFcp": 112,
+          "nodes": 3029
+        },
+        {
+          "fcp": 156,
+          "ready": 548.2999999523163,
+          "longTasks": 2,
+          "longTaskMax": 227,
+          "longTaskTotal": 296,
+          "blockingAfterFcp": 196,
+          "nodes": 3029
+        },
+        {
+          "fcp": 108,
+          "ready": 429,
+          "longTasks": 2,
+          "longTaskMax": 186,
+          "longTaskTotal": 242,
+          "blockingAfterFcp": 142,
+          "nodes": 3029
+        },
+        {
+          "fcp": 104,
+          "ready": 419.2000000476837,
+          "longTasks": 2,
+          "longTaskMax": 184,
+          "longTaskTotal": 242,
+          "blockingAfterFcp": 142,
+          "nodes": 3029
+        },
+        {
+          "fcp": 108,
+          "ready": 526.2999999523163,
+          "longTasks": 2,
+          "longTaskMax": 248,
+          "longTaskTotal": 326,
+          "blockingAfterFcp": 226,
+          "nodes": 3029
+        }
+      ]
+    },
+    {
+      "name": "o5",
+      "median": {
+        "fcp": 152,
+        "ready": 654,
+        "longTasks": 4,
+        "longTaskMax": 114,
+        "longTaskTotal": 304,
+        "blockingAfterFcp": 104,
+        "nodes": 3029
+      },
+      "min": {
+        "fcp": 104,
+        "ready": 451,
+        "longTasks": 2,
+        "longTaskMax": 82,
+        "longTaskTotal": 133,
+        "blockingAfterFcp": 33,
+        "nodes": 3029
+      },
+      "samples": [
+        {
+          "fcp": 176,
+          "ready": 854.7999999523163,
+          "longTasks": 5,
+          "longTaskMax": 161,
+          "longTaskTotal": 436,
+          "blockingAfterFcp": 186,
+          "nodes": 3029
+        },
+        {
+          "fcp": 152,
+          "ready": 879.9000000953674,
+          "longTasks": 4,
+          "longTaskMax": 183,
+          "longTaskTotal": 509,
+          "blockingAfterFcp": 309,
+          "nodes": 3029
+        },
+        {
+          "fcp": 156,
+          "ready": 631.2999999523163,
+          "longTasks": 3,
+          "longTaskMax": 114,
+          "longTaskTotal": 253,
+          "blockingAfterFcp": 103,
+          "nodes": 3029
+        },
+        {
+          "fcp": 156,
+          "ready": 673.1000001430511,
+          "longTasks": 4,
+          "longTaskMax": 105,
+          "longTaskTotal": 304,
+          "blockingAfterFcp": 104,
+          "nodes": 3029
+        },
+        {
+          "fcp": 184,
+          "ready": 846.7999999523163,
+          "longTasks": 5,
+          "longTaskMax": 134,
+          "longTaskTotal": 438,
+          "blockingAfterFcp": 188,
+          "nodes": 3029
+        },
+        {
+          "fcp": 140,
+          "ready": 640.7000000476837,
+          "longTasks": 4,
+          "longTaskMax": 118,
+          "longTaskTotal": 304,
+          "blockingAfterFcp": 104,
+          "nodes": 3029
+        },
+        {
+          "fcp": 104,
+          "ready": 450.89999985694885,
+          "longTasks": 2,
+          "longTaskMax": 84,
+          "longTaskTotal": 134,
+          "blockingAfterFcp": 34,
+          "nodes": 3029
+        },
+        {
+          "fcp": 104,
+          "ready": 451.2000000476837,
+          "longTasks": 2,
+          "longTaskMax": 82,
+          "longTaskTotal": 133,
+          "blockingAfterFcp": 33,
+          "nodes": 3029
+        },
+        {
+          "fcp": 140,
+          "ready": 654.2000000476837,
+          "longTasks": 4,
+          "longTaskMax": 106,
+          "longTaskTotal": 307,
+          "blockingAfterFcp": 107,
+          "nodes": 3029
+        }
+      ]
+    }
+  ]
+}

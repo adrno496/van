@@ -1,0 +1,722 @@
+{
+  "tokens-A.css": {
+    "pairs": 29,
+    "pass": 29,
+    "fail": [],
+    "min_text_ratio": 5.42,
+    "rows": [
+      {
+        "use": "texte courant",
+        "fg": "text #1b1913",
+        "bg": "surface #fbf9f5",
+        "ratio": 16.71,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte sur le fond de page",
+        "fg": "text #1b1913",
+        "bg": "bg #f1ede5",
+        "ratio": 15.05,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte secondaire",
+        "fg": "text-2 #514a41",
+        "bg": "surface #fbf9f5",
+        "ratio": 8.3,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte secondaire sur surface atténuée",
+        "fg": "text-2 #514a41",
+        "bg": "surface-2 #f3efe7",
+        "ratio": 7.61,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "mentions et texte d’aide",
+        "fg": "text-3 #6a5f55",
+        "bg": "surface #fbf9f5",
+        "ratio": 5.91,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "mentions sur surface atténuée",
+        "fg": "text-3 #6a5f55",
+        "bg": "surface-2 #f3efe7",
+        "ratio": 5.42,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton principal",
+        "fg": "on-accent #ffffff",
+        "bg": "accent #8b4618",
+        "ratio": 7.03,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton principal survolé",
+        "fg": "on-accent #ffffff",
+        "bg": "accent-hover #74390f",
+        "ratio": 8.99,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "liens",
+        "fg": "accent-text #8b4618",
+        "bg": "surface #fbf9f5",
+        "ratio": 6.69,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille accentuée",
+        "fg": "accent-text #8b4618",
+        "bg": "accent-soft #f4e7db",
+        "ratio": 5.79,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille active (clair sur sombre)",
+        "fg": "surface #fbf9f5",
+        "bg": "text #1b1913",
+        "ratio": 16.71,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille de succès",
+        "fg": "success #2f6b3f",
+        "bg": "success-soft #e3f0e4",
+        "ratio": 5.42,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille d’avertissement",
+        "fg": "warning #7d5200",
+        "bg": "warning-soft #fbefd3",
+        "ratio": 5.97,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "message d’erreur",
+        "fg": "danger #a3271c",
+        "bg": "danger-soft #fbe6e3",
+        "ratio": 6.12,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton de suppression",
+        "fg": "danger #a3271c",
+        "bg": "surface #fbf9f5",
+        "ratio": 6.97,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "contour des champs et boutons",
+        "fg": "border-strong #958978",
+        "bg": "surface #fbf9f5",
+        "ratio": 3.26,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "anneau de focus",
+        "fg": "focus #1d5f8a",
+        "bg": "surface #fbf9f5",
+        "ratio": 6.53,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "anneau de focus sur la carte",
+        "fg": "focus #1d5f8a",
+        "bg": "map-land #e9e3d6",
+        "ratio": 5.37,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "noms de lieux sur la carte",
+        "fg": "text #1b1913",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 15.6,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "noms de pays (repère)",
+        "fg": "map-label #857a68",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 3.74,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur ville",
+        "fg": "cat-ville #2f6b7a",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 5.32,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur patrimoine",
+        "fg": "cat-patrimoine #b0811d",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 3.11,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur nature",
+        "fg": "cat-nature #4f6b33",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 5.35,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur côte",
+        "fg": "cat-plage #2e8fa8",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 3.32,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur boulot",
+        "fg": "cat-boulot #7b651c",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 5.01,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur pratique",
+        "fg": "cat-pratique #7a5c86",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 5.04,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "tracé du trajet",
+        "fg": "route #b5471d",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 4.8,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "fil du carnet",
+        "fg": "journal #2f6b7a",
+        "bg": "map-land-hi #f6f1e6",
+        "ratio": 5.32,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "position",
+        "fg": "geo #1f6fb5",
+        "bg": "map-sea #dde7e6",
+        "ratio": 4.16,
+        "required": 3,
+        "status": "PASS"
+      }
+    ]
+  },
+  "tokens-B.css": {
+    "pairs": 29,
+    "pass": 29,
+    "fail": [],
+    "min_text_ratio": 4.87,
+    "rows": [
+      {
+        "use": "texte courant",
+        "fg": "text #131b19",
+        "bg": "surface #ffffff",
+        "ratio": 17.52,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte sur le fond de page",
+        "fg": "text #131b19",
+        "bg": "bg #e9efeb",
+        "ratio": 15.03,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte secondaire",
+        "fg": "text-2 #3f4d47",
+        "bg": "surface #ffffff",
+        "ratio": 8.88,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte secondaire sur surface atténuée",
+        "fg": "text-2 #3f4d47",
+        "bg": "surface-2 #f0f4f1",
+        "ratio": 8,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "mentions et texte d’aide",
+        "fg": "text-3 #53665c",
+        "bg": "surface #ffffff",
+        "ratio": 6.14,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "mentions sur surface atténuée",
+        "fg": "text-3 #53665c",
+        "bg": "surface-2 #f0f4f1",
+        "ratio": 5.53,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton principal",
+        "fg": "on-accent #ffffff",
+        "bg": "accent #178244",
+        "ratio": 4.87,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton principal survolé",
+        "fg": "on-accent #ffffff",
+        "bg": "accent-hover #0f6634",
+        "ratio": 7.07,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "liens",
+        "fg": "accent-text #136f3a",
+        "bg": "surface #ffffff",
+        "ratio": 6.25,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille accentuée",
+        "fg": "accent-text #136f3a",
+        "bg": "accent-soft #e0f0e6",
+        "ratio": 5.29,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille active (clair sur sombre)",
+        "fg": "surface #ffffff",
+        "bg": "text #131b19",
+        "ratio": 17.52,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille de succès",
+        "fg": "success #1f6b36",
+        "bg": "success-soft #e0f0e6",
+        "ratio": 5.53,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille d’avertissement",
+        "fg": "warning #7a5200",
+        "bg": "warning-soft #fbefd0",
+        "ratio": 6.05,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "message d’erreur",
+        "fg": "danger #a3271c",
+        "bg": "danger-soft #fbe6e3",
+        "ratio": 6.12,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton de suppression",
+        "fg": "danger #a3271c",
+        "bg": "surface #ffffff",
+        "ratio": 7.33,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "contour des champs et boutons",
+        "fg": "border-strong #84978c",
+        "bg": "surface #ffffff",
+        "ratio": 3.09,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "anneau de focus",
+        "fg": "focus #0b57d0",
+        "bg": "surface #ffffff",
+        "ratio": 6.39,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "anneau de focus sur la carte",
+        "fg": "focus #0b57d0",
+        "bg": "map-land #e1e8db",
+        "ratio": 5.1,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "noms de lieux sur la carte",
+        "fg": "text #131b19",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 16.02,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "noms de pays (repère)",
+        "fg": "map-label #6b7d70",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 4.01,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur ville",
+        "fg": "cat-ville #1f6f8b",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 5.18,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur patrimoine",
+        "fg": "cat-patrimoine #b3780b",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 3.42,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur nature",
+        "fg": "cat-nature #2e7d3a",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 4.67,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur côte",
+        "fg": "cat-plage #1492b8",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 3.29,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur boulot",
+        "fg": "cat-boulot #7a6417",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 5.24,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur pratique",
+        "fg": "cat-pratique #7a4fa0",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 5.56,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "tracé du trajet",
+        "fg": "route #c2410c",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 4.74,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "fil du carnet",
+        "fg": "journal #2563a8",
+        "bg": "map-land-hi #f3f6ec",
+        "ratio": 5.6,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "position",
+        "fg": "geo #0b57d0",
+        "bg": "map-sea #d3e3ea",
+        "ratio": 4.85,
+        "required": 3,
+        "status": "PASS"
+      }
+    ]
+  },
+  "tokens-C.css": {
+    "pairs": 29,
+    "pass": 29,
+    "fail": [],
+    "min_text_ratio": 5.04,
+    "rows": [
+      {
+        "use": "texte courant",
+        "fg": "text #221c16",
+        "bg": "surface #fffdf9",
+        "ratio": 16.59,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte sur le fond de page",
+        "fg": "text #221c16",
+        "bg": "bg #f3ebe0",
+        "ratio": 14.27,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte secondaire",
+        "fg": "text-2 #594d42",
+        "bg": "surface #fffdf9",
+        "ratio": 8.06,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "texte secondaire sur surface atténuée",
+        "fg": "text-2 #594d42",
+        "bg": "surface-2 #f8f0e5",
+        "ratio": 7.25,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "mentions et texte d’aide",
+        "fg": "text-3 #72645a",
+        "bg": "surface #fffdf9",
+        "ratio": 5.61,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "mentions sur surface atténuée",
+        "fg": "text-3 #72645a",
+        "bg": "surface-2 #f8f0e5",
+        "ratio": 5.04,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton principal",
+        "fg": "on-accent #ffffff",
+        "bg": "accent #8b4618",
+        "ratio": 7.03,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton principal survolé",
+        "fg": "on-accent #ffffff",
+        "bg": "accent-hover #733a12",
+        "ratio": 8.96,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "liens",
+        "fg": "accent-text #8b4618",
+        "bg": "surface #fffdf9",
+        "ratio": 6.92,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille accentuée",
+        "fg": "accent-text #8b4618",
+        "bg": "accent-soft #f8e6d6",
+        "ratio": 5.79,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille active (clair sur sombre)",
+        "fg": "surface #fffdf9",
+        "bg": "text #221c16",
+        "ratio": 16.59,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille de succès",
+        "fg": "success #2f6b3f",
+        "bg": "success-soft #e4f0e3",
+        "ratio": 5.42,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "pastille d’avertissement",
+        "fg": "warning #7d5200",
+        "bg": "warning-soft #fbefd3",
+        "ratio": 5.97,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "message d’erreur",
+        "fg": "danger #a3271c",
+        "bg": "danger-soft #fbe6e3",
+        "ratio": 6.12,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "bouton de suppression",
+        "fg": "danger #a3271c",
+        "bg": "surface #fffdf9",
+        "ratio": 7.22,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "contour des champs et boutons",
+        "fg": "border-strong #998670",
+        "bg": "surface #fffdf9",
+        "ratio": 3.45,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "anneau de focus",
+        "fg": "focus #1d5f8a",
+        "bg": "surface #fffdf9",
+        "ratio": 6.76,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "anneau de focus sur la carte",
+        "fg": "focus #1d5f8a",
+        "bg": "map-land #eee3d1",
+        "ratio": 5.41,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "noms de lieux sur la carte",
+        "fg": "text #221c16",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 15.27,
+        "required": 4.5,
+        "status": "PASS"
+      },
+      {
+        "use": "noms de pays (repère)",
+        "fg": "map-label #8a7a64",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 3.77,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur ville",
+        "fg": "cat-ville #2f6b7a",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 5.43,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur patrimoine",
+        "fg": "cat-patrimoine #b0811d",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 3.17,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur nature",
+        "fg": "cat-nature #4f6b33",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 5.46,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur côte",
+        "fg": "cat-plage #2e8fa8",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 3.39,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur boulot",
+        "fg": "cat-boulot #7b651c",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 5.11,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "marqueur pratique",
+        "fg": "cat-pratique #7a5c86",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 5.14,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "tracé du trajet",
+        "fg": "route #b5471d",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 4.9,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "fil du carnet",
+        "fg": "journal #2f6b7a",
+        "bg": "map-land-hi #faf3e6",
+        "ratio": 5.43,
+        "required": 3,
+        "status": "PASS"
+      },
+      {
+        "use": "position",
+        "fg": "geo #1f6fb5",
+        "bg": "map-sea #dce8ea",
+        "ratio": 4.19,
+        "required": 3,
+        "status": "PASS"
+      }
+    ]
+  }
+}

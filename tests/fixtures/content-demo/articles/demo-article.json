@@ -1,0 +1,9 @@
+{
+  "slug": "demo-article",
+  "title": "Article de démonstration",
+  "date": "2026-07-12",
+  "text": "Texte de démonstration.",
+  "demo": true,
+  "visibility": "public",
+  "status": "published"
+}

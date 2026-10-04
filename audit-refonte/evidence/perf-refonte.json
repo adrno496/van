@@ -1,0 +1,70 @@
+{
+  "label": "refonte",
+  "dir": "/Users/dreano/Downloads/van-main",
+  "generatedAt": "2026-10-04T00:00:23.258Z",
+  "host": {
+    "cpus": 10,
+    "load1": 17.9,
+    "platform": "darwin"
+  },
+  "htmlBytes": 1601923,
+  "files": [
+    "MASTER_PROMPT_SENTINEL_CREATIVE_ENGINE_V9_REFONTE_UIUX.md",
+    "README.md",
+    "audit-refonte",
+    "build.mjs",
+    "index.html",
+    "src",
+    "tests"
+  ],
+  "desktop": {
+    "runs": 5,
+    "boot": {
+      "domInteractive": 223,
+      "domContentLoaded": 223,
+      "load": 223,
+      "fcp": 120,
+      "cls": 0.01,
+      "longTasks": 1,
+      "longTaskTotal": 96,
+      "longTaskMax": 96,
+      "domNodes": 7765,
+      "heapMb": 10
+    },
+    "interactionsMs": {
+      "rescale": 2.3,
+      "applyFilters": 6,
+      "renderDiscovery": 2.6,
+      "searchKeystroke": 4.6,
+      "showPlace": 2.5,
+      "paintRoute51": 8.7,
+      "panFrameMedian": 16.6,
+      "panFrameP95": 18.1
+    }
+  },
+  "mobile": {
+    "runs": 5,
+    "boot": {
+      "domInteractive": 698,
+      "domContentLoaded": 698,
+      "load": 698,
+      "fcp": 152,
+      "cls": 0,
+      "longTasks": 3,
+      "longTaskTotal": 511,
+      "longTaskMax": 354,
+      "domNodes": 7765,
+      "heapMb": 10
+    },
+    "interactionsMs": {
+      "rescale": 7.3,
+      "applyFilters": 17.8,
+      "renderDiscovery": 9.1,
+      "searchKeystroke": 16.2,
+      "showPlace": 5.4,
+      "paintRoute51": 35.4,
+      "panFrameMedian": 21.5,
+      "panFrameP95": 29.4
+    }
+  }
+}

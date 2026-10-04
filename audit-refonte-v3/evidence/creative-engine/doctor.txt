@@ -1,0 +1,29 @@
+{
+  "engine_version": "9.1.0",
+  "node_ok": true,
+  "capabilities": {
+    "node": {
+      "available": true,
+      "version": "v24.16.0"
+    },
+    "playwright": {
+      "available": true,
+      "version": "1.63.0"
+    },
+    "axe": {
+      "available": true,
+      "version": "4.13.0"
+    },
+    "lighthouse": {
+      "available": true,
+      "version": "13.5.0"
+    },
+    "html_validate": {
+      "available": false,
+      "version": null
+    },
+    "mode": "LOCAL_FIRST",
+    "network_required_for_core": false
+  },
+  "recommendations": []
+}

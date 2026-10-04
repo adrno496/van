@@ -1,0 +1,77 @@
+/* Jetons de design — direction « Atlas éditorial ».
+   Toute couleur, taille ou rayon utilisé ailleurs vient d'ici : changer ce fichier change le thème. */
+:root{
+  /* Typographie : polices du système, aucune requête réseau */
+  --font-display:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --font-body:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --font-story:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --font-mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;
+  --fs-xs:.75rem;      /* 12 px : mentions, compteurs */
+  --fs-sm:.8125rem;    /* 13 px : texte secondaire */
+  --fs-base:.9375rem;  /* 15 px : texte courant */
+  --fs-md:1rem;        /* 16 px : champs de saisie (évite le zoom iOS) */
+  --fs-lg:1.125rem;    /* 18 px : titres de cartes */
+  --fs-xl:1.375rem;    /* 22 px : titres de rubrique */
+  --fs-2xl:1.75rem;    /* 28 px : titre de fiche, chiffres clés */
+  --lh-tight:1.2;
+  --lh-base:1.5;
+  --display-weight:600;
+  --display-tracking:-.012em;
+  --ui-weight:600;
+  --eyebrow-tracking:.08em;
+  --eyebrow-transform:uppercase;
+
+  /* Espacement : pas de 4 px */
+  --s1:4px;--s2:8px;--s3:12px;--s4:16px;--s5:20px;--s6:24px;--s7:32px;--s8:40px;
+
+  /* Formes */
+  --r-sm:4px;--r-md:8px;--r-lg:12px;--r-pill:999px;
+  --control-h:44px;
+  --control-h-sm:36px;
+  --border-w:1px;
+  --shadow-1:0 1px 2px rgba(27,25,19,.06);
+  --shadow-2:0 12px 32px -14px rgba(27,25,19,.38),0 2px 6px rgba(27,25,19,.07);
+
+  /* Couleurs d'interface */
+  --bg:#f1ede5;
+  --surface:#fbf9f5;
+  --surface-2:#f3efe7;
+  --surface-3:#e8e2d6;
+  --text:#1b1913;
+  --text-2:#514a41;
+  --text-3:#6a5f55;
+  --border:#ddd6ca;
+  --border-strong:#958978;
+  --accent:#8b4618;
+  --accent-hover:#74390f;
+  --on-accent:#ffffff;
+  --accent-soft:#f4e7db;
+  --accent-text:#8b4618;
+  --success:#2f6b3f;
+  --success-soft:#e3f0e4;
+  --warning:#7d5200;
+  --warning-soft:#fbefd3;
+  --danger:#a3271c;
+  --danger-soft:#fbe6e3;
+  --focus:#1d5f8a;
+  --scrim:rgba(27,25,19,.5);
+
+  /* Carte */
+  --map-sea:#dde7e6;
+  --map-land:#e9e3d6;
+  --map-land-hi:#f6f1e6;
+  --map-border:#b9ad98;
+  --map-label:#857a68;
+  --map-halo:#fbf9f5;
+  --cat-ville:#2f6b7a;
+  --cat-patrimoine:#a5791b;
+  --cat-nature:#4f6b33;
+  --cat-plage:#2d8ba3;
+  --cat-boulot:#7b651c;
+  --cat-pratique:#7a5c86;
+  --cat-base:#b5471d;
+  --cat-perso:#1b1913;
+  --route:#b5471d;
+  --journal:#2f6b7a;
+  --geo:#1f6fb5;
+}

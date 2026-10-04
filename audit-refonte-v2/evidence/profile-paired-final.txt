@@ -1,0 +1,33 @@
+final-apparie — charge 7.04 — médiane de 5 démarrages (ms)
+phase                   ordinateur  mobile×4
+FCP                       116        164
+DATA_PARSE                  4         16
+APP_SCRIPT                 29        122
+COMPILE                    20         91
+COUNTRY_RENDER          —      —
+MARKER_RENDER               9         41
+WIRE                        3         11
+LISTS                      14         53
+VIEW_FIRST_LAYOUT           0          2
+INITIAL_FILTER_LABELS      19         76
+ROUTE                   —      —
+BOOT_TOTAL                143        485
+READY                     189        803
+PARSE_HTML                 47        203
+LAYOUT                     28        111
+RECALC_STYLE               20         94
+PAINT                      30        105
+GC                          8         17
+LONG_TASKS                  0          5
+LONG_TASK_MAX               0        129
+LONG_TASK_TOTAL             0        399
+BLOCKING_TIME_AFTER_FCP     0        149
+interaction (tâche)     ordinateur  mobile×4   [script/style/layout mobile]
+FIRST_INTERACTION          28        115      [3/22/27]
+ZOOM                       33        131      [1/20/5]
+PAN                       234        663      [26/46/106]
+FILTER_APPLY               22         87      [47/7/3]
+SEARCH                     20         65      [59/0/0]
+SHOW_PLACE                 28        170      [2/44/51]
+ROUTE_51                   46        207      [67/38/35]
+DOM {"total":4893,"svg":1938,"markerNodes":1600,"markers":1600,"textNodes":170,"labelsShown":77,"groups":60,"countryPaths":47,"jsEventListeners":185,"heapUsedMb":5.6,"documents":2}

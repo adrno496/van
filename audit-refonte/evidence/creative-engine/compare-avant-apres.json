@@ -1,0 +1,27 @@
+{
+  "quality_before": 24,
+  "quality_after": 70,
+  "quality_delta": 46,
+  "resolved": [
+    "DUPLICATE_ID",
+    "SEO_H1_COUNT",
+    "SEO_HEADING_HIERARCHY",
+    "A11Y_SKIP_LINK_MISSING",
+    "A11Y_MAIN_TARGET_MISSING",
+    "A11Y_TEXT_DIRECTION_MISSING",
+    "A11Y_DISCLOSURE_STATE_MISSING",
+    "BROWSER-50ed8b424e426c46",
+    "BROWSER-c99d12980c58c55d",
+    "BROWSER-5d683be46f979fb3",
+    "BROWSER-e45603a85d219361",
+    "BROWSER-b5d7a89b41d75756",
+    "BROWSER-1c80356b986429b0"
+  ],
+  "introduced": [
+    "LINK_NAV_BROKEN",
+    "CONTENT_INTENT_UNCLEAR"
+  ],
+  "certification_before": "FAIL",
+  "certification_after": "FAIL",
+  "regression": true
+}

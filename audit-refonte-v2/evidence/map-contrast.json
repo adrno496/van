@@ -1,0 +1,418 @@
+{
+  "tokens": "src/css/tokens.css",
+  "pairs": 51,
+  "pass": 51,
+  "fail": [],
+  "min_text": 13.74,
+  "min_graphic": 3.07,
+  "rows": [
+    {
+      "use": "nom de lieu (texte, entouré d’un liseré map-halo)",
+      "fg": "text #1b1913",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 15.6,
+      "required": 4.5,
+      "status": "PASS"
+    },
+    {
+      "use": "nom de lieu (texte, entouré d’un liseré map-halo)",
+      "fg": "text #1b1913",
+      "bg": "map-land #e9e3d6",
+      "ratio": 13.74,
+      "required": 4.5,
+      "status": "PASS"
+    },
+    {
+      "use": "nom de lieu (texte, entouré d’un liseré map-halo)",
+      "fg": "text #1b1913",
+      "bg": "map-sea #dde7e6",
+      "ratio": 13.93,
+      "required": 4.5,
+      "status": "PASS"
+    },
+    {
+      "use": "nom de lieu (texte, entouré d’un liseré map-halo)",
+      "fg": "text #1b1913",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 16.71,
+      "required": 4.5,
+      "status": "PASS"
+    },
+    {
+      "use": "nom de pays (repère en capitales, décoratif)",
+      "fg": "map-label #857a68",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 3.74,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "nom de pays (repère en capitales, décoratif)",
+      "fg": "map-label #857a68",
+      "bg": "map-land #e9e3d6",
+      "ratio": 3.3,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur ville",
+      "fg": "cat-ville #2f6b7a",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 5.32,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur ville",
+      "fg": "cat-ville #2f6b7a",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.69,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur ville",
+      "fg": "cat-ville #2f6b7a",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.75,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur ville",
+      "fg": "cat-ville #2f6b7a",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 5.7,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur patrimoine",
+      "fg": "cat-patrimoine #a5791b",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 3.48,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur patrimoine",
+      "fg": "cat-patrimoine #a5791b",
+      "bg": "map-land #e9e3d6",
+      "ratio": 3.07,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur patrimoine",
+      "fg": "cat-patrimoine #a5791b",
+      "bg": "map-sea #dde7e6",
+      "ratio": 3.11,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur patrimoine",
+      "fg": "cat-patrimoine #a5791b",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 3.73,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur nature",
+      "fg": "cat-nature #4f6b33",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 5.35,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur nature",
+      "fg": "cat-nature #4f6b33",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.71,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur nature",
+      "fg": "cat-nature #4f6b33",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.78,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur nature",
+      "fg": "cat-nature #4f6b33",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 5.73,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur plage",
+      "fg": "cat-plage #2d8ba3",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 3.5,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur plage",
+      "fg": "cat-plage #2d8ba3",
+      "bg": "map-land #e9e3d6",
+      "ratio": 3.08,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur plage",
+      "fg": "cat-plage #2d8ba3",
+      "bg": "map-sea #dde7e6",
+      "ratio": 3.12,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur plage",
+      "fg": "cat-plage #2d8ba3",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 3.74,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur boulot",
+      "fg": "cat-boulot #7b651c",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 5.01,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur boulot",
+      "fg": "cat-boulot #7b651c",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.41,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur boulot",
+      "fg": "cat-boulot #7b651c",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.47,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur boulot",
+      "fg": "cat-boulot #7b651c",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 5.37,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur pratique",
+      "fg": "cat-pratique #7a5c86",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 5.04,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur pratique",
+      "fg": "cat-pratique #7a5c86",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.44,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur pratique",
+      "fg": "cat-pratique #7a5c86",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.5,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur pratique",
+      "fg": "cat-pratique #7a5c86",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 5.39,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur base",
+      "fg": "cat-base #b5471d",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 4.8,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur base",
+      "fg": "cat-base #b5471d",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.23,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur base",
+      "fg": "cat-base #b5471d",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.29,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur base",
+      "fg": "cat-base #b5471d",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 5.14,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur perso",
+      "fg": "cat-perso #1b1913",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 15.6,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur perso",
+      "fg": "cat-perso #1b1913",
+      "bg": "map-land #e9e3d6",
+      "ratio": 13.74,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur perso",
+      "fg": "cat-perso #1b1913",
+      "bg": "map-sea #dde7e6",
+      "ratio": 13.93,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "marqueur perso",
+      "fg": "cat-perso #1b1913",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 16.71,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "tracé du trajet",
+      "fg": "route #b5471d",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 4.8,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "tracé du trajet",
+      "fg": "route #b5471d",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.23,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "tracé du trajet",
+      "fg": "route #b5471d",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.29,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "tracé du trajet",
+      "fg": "route #b5471d",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 5.14,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "fil du carnet",
+      "fg": "journal #2f6b7a",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 5.32,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "fil du carnet",
+      "fg": "journal #2f6b7a",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.69,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "fil du carnet",
+      "fg": "journal #2f6b7a",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.75,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "fil du carnet",
+      "fg": "journal #2f6b7a",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 5.7,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "position",
+      "fg": "geo #1f6fb5",
+      "bg": "map-land-hi #f6f1e6",
+      "ratio": 4.66,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "position",
+      "fg": "geo #1f6fb5",
+      "bg": "map-land #e9e3d6",
+      "ratio": 4.11,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "position",
+      "fg": "geo #1f6fb5",
+      "bg": "map-sea #dde7e6",
+      "ratio": 4.16,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "position",
+      "fg": "geo #1f6fb5",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 4.99,
+      "required": 3,
+      "status": "PASS"
+    },
+    {
+      "use": "contour d’un lieu choisi ou survolé",
+      "fg": "text #1b1913",
+      "bg": "map-halo #fbf9f5",
+      "ratio": 16.71,
+      "required": 3,
+      "status": "PASS"
+    }
+  ]
+}

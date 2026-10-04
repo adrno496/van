@@ -1,0 +1,57 @@
+rules:
+  - id: html-sink-innerhtml
+    languages: [javascript]
+    severity: WARNING
+    message: "Écriture HTML par innerHTML avec une valeur non littérale"
+    patterns:
+      - pattern: $X.innerHTML = $Y
+      - pattern-not: $X.innerHTML = "..."
+  - id: html-sink-insertadjacenthtml
+    languages: [javascript]
+    severity: WARNING
+    message: "Écriture HTML par insertAdjacentHTML"
+    pattern: $X.insertAdjacentHTML($POS, $Y)
+  - id: window-open
+    languages: [javascript]
+    severity: INFO
+    message: "Ouverture de fenêtre"
+    pattern: window.open(...)
+  - id: dynamic-code
+    languages: [javascript]
+    severity: ERROR
+    message: "Exécution de code dynamique"
+    pattern-either:
+      - pattern: eval(...)
+      - pattern: new Function(...)
+      - pattern: document.write(...)
+      - pattern: setTimeout("...", ...)
+  - id: blocking-dialog
+    languages: [javascript]
+    severity: INFO
+    message: "Dialogue bloquant natif (prompt / confirm / alert)"
+    pattern-either:
+      - pattern: prompt(...)
+      - pattern: confirm(...)
+      - pattern: alert(...)
+  - id: storage-write
+    languages: [javascript]
+    severity: INFO
+    message: "Écriture dans le stockage du navigateur"
+    pattern-either:
+      - pattern: localStorage.setItem(...)
+      - pattern: localStorage.removeItem(...)
+      - pattern: $S.put(...)
+  - id: json-parse-untrusted
+    languages: [javascript]
+    severity: INFO
+    message: "JSON.parse d'une donnée externe (fichier ou stockage)"
+    pattern: JSON.parse(...)
+  - id: function-reassignment
+    languages: [javascript]
+    severity: INFO
+    message: "Fonction globale redéfinie après coup (monkey-patching)"
+    patterns:
+      - pattern: |
+          var $OLD = $F;
+          ...
+          $F = function(...) { ... };

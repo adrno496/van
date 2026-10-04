@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<meta http-equiv="Content-Security-Policy" content="@CSP@">
+<meta name="referrer" content="no-referrer">
+<title>Atlas van — 1 600 lieux et votre carnet de voyage</title>
+<meta name="description" content="Explorez 1 600 lieux en Europe, préparez vos trajets et racontez vos voyages avec des photos dans votre carnet personnel.">
+<meta property="og:title" content="Atlas van">
+<meta property="og:description" content="1 600 lieux en Europe, vos trajets et votre carnet de voyage, sur votre appareil.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#fbf9f5">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231b1913'/%3E%3Cpath d='M9 23 16 8l7 15' fill='none' stroke='%23f9f7f6' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M11.8 18h8.4' stroke='%23c9713c' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+<!-- Fichier assemblé par build.mjs à partir de src/. Modifier les sources, puis relancer « node build.mjs ». -->
+<style>
+/*@CSS@*/
+</style>
+</head>
+<body data-mobile-view="map">
+<a class="skip-link" href="#main">Aller au contenu</a>
+
+<svg class="sprite" aria-hidden="true" focusable="false">
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></symbol>
+  <symbol id="i-map" viewBox="0 0 24 24"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></symbol>
+  <symbol id="i-list" viewBox="0 0 24 24"><path d="M8.5 6H21M8.5 12H21M8.5 18H21M3.5 6h.01M3.5 12h.01M3.5 18h.01"/></symbol>
+  <symbol id="i-route" viewBox="0 0 24 24"><circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H14a3.5 3.5 0 0 0 0-7h-4a3.5 3.5 0 0 1 0-7h5.5"/></symbol>
+  <symbol id="i-idea" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5 5-2Z"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M5 4.5A1.5 1.5 0 0 1 6.5 3H19v14H6.5A1.5 1.5 0 0 0 5 18.5v-14Z"/><path d="M5 18.5A1.5 1.5 0 0 0 6.5 20H19M9 7.5h6"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+  <symbol id="i-more" viewBox="0 0 24 24"><path d="M5.5 12h.01M12 12h.01M18.5 12h.01" stroke-width="2.8"/></symbol>
+  <symbol id="i-settings" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.2 13.6a7.4 7.4 0 0 0 0-3.2l2-1.5-2-3.4-2.3 1a7.4 7.4 0 0 0-2.7-1.6L13.8 2.5h-3.6l-.4 2.4A7.4 7.4 0 0 0 7.1 6.5l-2.3-1-2 3.4 2 1.5a7.4 7.4 0 0 0 0 3.2l-2 1.5 2 3.4 2.3-1a7.4 7.4 0 0 0 2.7 1.6l.4 2.4h3.6l.4-2.4a7.4 7.4 0 0 0 2.7-1.6l2.3 1 2-3.4-2-1.5Z"/></symbol>
+  <symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 7h9M19 7h1M4 17h1M11 17h9"/><circle cx="16" cy="7" r="2.3"/><circle cx="8" cy="17" r="2.3"/></symbol>
+  <symbol id="i-locate" viewBox="0 0 24 24"><circle cx="12" cy="12" r="6.5"/><circle cx="12" cy="12" r="2"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14"/></symbol>
+  <symbol id="i-fit" viewBox="0 0 24 24"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+  <symbol id="i-back" viewBox="0 0 24 24"><path d="M19 12H5M11 6l-6 6 6 6"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 3.5 2.6 5.4 5.9.8-4.3 4.1 1 5.8L12 16.9l-5.2 2.7 1-5.8-4.3-4.1 5.9-.8L12 3.5Z"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12.5 4.5 4.5L19 7.5"/></symbol>
+  <symbol id="i-edit" viewBox="0 0 24 24"><path d="M4 20h4L19 9l-4-4L4 16v4Z"/><path d="m13.5 6.5 4 4"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9 7V4h6v3M6.5 7l1 13h9l1-13M10 11v6M14 11v6"/></symbol>
+  <symbol id="i-up" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6"/></symbol>
+  <symbol id="i-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+  <symbol id="i-move" viewBox="0 0 24 24"><path d="M12 4v16M8 8l4-4 4 4M8 16l4 4 4-4"/></symbol>
+  <symbol id="i-ext" viewBox="0 0 24 24"><path d="M14 5h5v5M19 5l-8 8M11 6H6a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-5"/></symbol>
+  <symbol id="i-photo" viewBox="0 0 24 24"><rect x="3.5" y="6.5" width="17" height="13" rx="2"/><circle cx="12" cy="13" r="3.5"/><path d="M8.5 6.5 10 4h4l1.5 2.5"/></symbol>
+  <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 4v11M7 10.5l5 5 5-5M5 20h14"/></symbol>
+  <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 16V5M7 9.5l5-5 5 5M5 20h14"/></symbol>
+  <symbol id="i-undo" viewBox="0 0 24 24"><path d="M8 8h7a4.5 4.5 0 0 1 0 9H7"/><path d="m11 5-3 3 3 3"/></symbol>
+  <symbol id="i-redo" viewBox="0 0 24 24"><path d="M16 8H9a4.5 4.5 0 0 0 0 9h8"/><path d="m13 5 3 3-3 3"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-6.5-5.8-6.5-11a6.5 6.5 0 0 1 13 0C18.5 15.2 12 21 12 21Z"/><circle cx="12" cy="10" r="2.3"/></symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.5h.01"/></symbol>
+</svg>
+
+<div class="app">
+  <header class="top">
+    <h1 class="brand"><!--@BRAND@--></h1>
+    <div class="search" role="search">
+      <label class="sr-only" for="q">Rechercher un lieu, une visite ou un pays</label>
+      <svg class="ic search-ic" aria-hidden="true"><use href="#i-search"/></svg>
+      <input id="q" type="text" role="combobox" inputmode="search" enterkeyhint="search" placeholder="Rechercher un lieu…" autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-haspopup="listbox" aria-expanded="false">
+      <div class="res" id="res" role="listbox" aria-label="Résultats de la recherche"></div>
+    </div>
+    <span id="topStatus" class="top-status">1 600 lieux · données sur cet appareil</span>
+    <button class="icon-btn" id="openSettings" type="button" aria-haspopup="dialog" aria-label="Paramètres"><svg class="ic" aria-hidden="true"><use href="#i-settings"/></svg></button>
+  </header>
+
+  <main class="body" id="main" tabindex="-1">
+    <section class="mapwrap" aria-label="Carte">
+      <svg id="map" class="loading" xmlns="http://www.w3.org/2000/svg" role="group" tabindex="0" aria-label="Carte de l’Europe avec les lieux et votre trajet. Flèches pour déplacer, plus et moins pour zoomer. La liste des lieux est dans l’onglet Explorer."><!--@COUNTRIES@--></svg>
+
+      <div class="map-bar">
+        <button class="btn map-btn" id="mapFiltersButton" type="button" aria-haspopup="dialog"><svg class="ic" aria-hidden="true"><use href="#i-filter"/></svg><span id="mapFiltersLabel">Filtres</span></button>
+        <div class="map-chips" role="group" aria-label="Catégories affichées sur la carte">
+          <button class="chip on" type="button" data-cat="ville" aria-pressed="true"><i class="dot ville"></i>Villes</button>
+          <button class="chip on" type="button" data-cat="patrimoine" aria-pressed="true"><i class="dot patrimoine"></i>Patrimoine</button>
+          <button class="chip on" type="button" data-cat="nature" aria-pressed="true"><i class="dot nature"></i>Nature</button>
+          <button class="chip on" type="button" data-cat="plage" aria-pressed="true"><i class="dot plage"></i>Côtes</button>
+          <button class="chip on" type="button" data-cat="boulot" aria-pressed="true"><i class="dot boulot"></i>Boulot</button>
+          <button class="chip on" type="button" data-cat="pratique" aria-pressed="true"><i class="dot pratique"></i>Pratique</button>
+        </div>
+        <div class="map-menu" id="mapTools">
+          <button class="btn map-btn" id="mapToolsButton" type="button" aria-label="Outils de la carte" aria-haspopup="true" aria-expanded="false"><svg class="ic" aria-hidden="true"><use href="#i-more"/></svg></button>
+          <div class="menu" id="mapToolsMenu" hidden>
+            <button class="menu-item" id="addPt" type="button" aria-pressed="false"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>Ajouter mon lieu</button>
+            <button class="menu-item" id="quick" type="button" aria-pressed="false" title="Chaque lieu choisi sur la carte est ajouté au trajet"><svg class="ic" aria-hidden="true"><use href="#i-plus"/></svg>Ajout rapide au trajet</button>
+            <button class="menu-item" id="fit" type="button"><svg class="ic" aria-hidden="true"><use href="#i-map"/></svg>Vue d’ensemble</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="zoomer" role="group" aria-label="Zoom et position">
+        <button id="zin" type="button" title="Zoom avant" aria-label="Zoom avant"><svg class="ic" aria-hidden="true"><use href="#i-plus"/></svg></button>
+        <button id="zout" type="button" title="Zoom arrière" aria-label="Zoom arrière"><svg class="ic" aria-hidden="true"><use href="#i-minus"/></svg></button>
+        <button id="zfit" type="button" title="Afficher tous les lieux" aria-label="Afficher tous les lieux"><svg class="ic" aria-hidden="true"><use href="#i-fit"/></svg></button>
+        <button id="geoButton" type="button" title="Ma position" aria-label="Me localiser sur la carte"><svg class="ic" aria-hidden="true"><use href="#i-locate"/></svg></button>
+      </div>
+
+      <div class="scale" aria-hidden="true"><div class="bar" id="scaleBar"></div><span id="scaleTxt">—</span></div>
+
+      <div class="map-tools">
+        <button class="btn map-btn" id="mapExplore" type="button"><svg class="ic" aria-hidden="true"><use href="#i-list"/></svg>Liste</button>
+        <button class="btn map-btn" id="searchAround" type="button" aria-haspopup="dialog"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg><span id="searchAroundLabel">Près de moi</span></button>
+        <button class="btn map-btn" id="mapFitRoute" type="button" hidden><svg class="ic" aria-hidden="true"><use href="#i-route"/></svg>Mon trajet</button>
+      </div>
+
+      <div class="peek" id="peek" hidden></div>
+    </section>
+
+    <aside class="panel" aria-label="Explorer, trajet, idées, carnet">
+      <div class="tabs" role="tablist" aria-label="Rubriques">
+        <button class="on" type="button" role="tab" id="tab-p1" data-p="p1" aria-controls="p1" aria-selected="true">Explorer</button>
+        <button type="button" role="tab" id="tab-p2" data-p="p2" aria-controls="p2" aria-selected="false" title="Organiser et modifier vos étapes">Trajet <span class="cnt" id="cnt">0</span></button>
+        <button type="button" role="tab" id="tab-p3" data-p="p3" aria-controls="p3" aria-selected="false" title="Choisir un parcours déjà composé">Idées</button>
+        <button type="button" role="tab" id="tab-pBlog" data-p="pBlog" aria-controls="pBlog" aria-selected="false" title="Écrire vos articles et ajouter vos photos">Carnet</button>
+        <button type="button" role="tab" id="tab-p4" data-p="p4" aria-controls="p4" aria-selected="false" title="Guide pratique, sauvegardes et réglages">Plus</button>
+      </div>
+
+      <!-- Explorer : liste des lieux, ou fiche du lieu choisi -->
+      <div class="pane on" id="p1" role="tabpanel" aria-labelledby="tab-p1" tabindex="-1">
+        <section id="discovery" aria-labelledby="discoveryTitle">
+          <div class="pane-head">
+            <h2 id="discoveryTitle">Explorer</h2>
+            <button class="btn sm" id="createCustom" type="button"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>Ajouter mon lieu</button>
+          </div>
+          <label class="sr-only" for="discoverQuery">Filtrer la liste des lieux</label>
+          <input class="input" id="discoverQuery" type="search" placeholder="Un village, un lac, une région…" autocomplete="off">
+          <div class="chips">
+            <button class="chip" id="openFilters" type="button" aria-haspopup="dialog"><svg class="ic" aria-hidden="true"><use href="#i-filter"/></svg>Filtres</button>
+            <button class="chip" id="visiblePlaces" type="button" aria-pressed="false">Dans cette vue</button>
+            <button class="chip" id="onlyNew" type="button" aria-pressed="false">Nouveautés</button>
+            <button class="chip quiet" id="clearExplore" type="button">Tout afficher</button>
+          </div>
+          <p class="count" id="discoveryCount" role="status"></p>
+          <div id="discoverList"></div>
+          <button class="btn block" id="discoverMore" type="button">Voir 24 lieux de plus</button>
+        </section>
+        <div id="detail"></div>
+      </div>
+
+      <!-- Trajet -->
+      <div class="pane" id="p2" role="tabpanel" aria-labelledby="tab-p2" tabindex="-1">
+        <div class="privacy-content">
+          <div class="pane-head">
+            <h2>Mon trajet</h2>
+            <button class="btn sm" id="routeOnMap" type="button"><svg class="ic" aria-hidden="true"><use href="#i-map"/></svg>Voir sur la carte</button>
+          </div>
+
+          <div class="stats" role="group" aria-label="Résumé du trajet">
+            <div><b id="sKm">0 km</b><span>route estimée</span></div>
+            <div><b id="sJours">0 j</b><span>durée</span></div>
+            <div><b id="sGaz">0 €</b><span>gazole</span></div>
+            <div><b id="sBud">0 €</b><span>budget total</span></div>
+          </div>
+
+          <div class="route-add">
+            <div class="fld grow"><label for="routeQuery">Ajouter une étape</label><input class="input" id="routeQuery" type="search" placeholder="Lieu, pays, visite…" autocomplete="off"></div>
+            <div class="fld"><label for="insertAt">Position</label><select class="input" id="insertAt"></select></div>
+          </div>
+          <div id="routeResults" class="route-results" role="region" aria-label="Lieux trouvés" aria-live="polite"></div>
+
+          <div class="toolbar" role="toolbar" aria-label="Actions sur le trajet">
+            <button class="btn sm icon" id="undo" type="button" title="Annuler (Ctrl+Z)" aria-label="Annuler"><svg class="ic" aria-hidden="true"><use href="#i-undo"/></svg></button>
+            <button class="btn sm icon" id="redo" type="button" title="Rétablir (Ctrl+Maj+Z)" aria-label="Rétablir"><svg class="ic" aria-hidden="true"><use href="#i-redo"/></svg></button>
+            <span class="sep" aria-hidden="true"></span>
+            <button class="btn sm" id="opt" type="button" title="Raccourcir le trajet en gardant le départ et l’arrivée">Optimiser</button>
+            <button class="btn sm" id="rev" type="button">Inverser</button>
+            <button class="btn sm" id="loop" type="button" title="Revenir au point de départ">Boucler</button>
+          </div>
+
+          <div class="pane-head section-title"><h3>Étapes</h3><button class="btn sm quiet" id="clr" type="button">Vider le trajet</button></div>
+          <div id="list"></div>
+
+          <details class="group" id="optsGroup">
+            <summary>Budget, rythme et dates</summary>
+            <div class="opts">
+              <div class="fld"><label for="oConso">Conso L/100 km</label><input class="input" id="oConso" type="number" inputmode="decimal" value="9" step="0.5" min="0"></div>
+              <div class="fld"><label for="oRythme">Km par semaine</label><input class="input" id="oRythme" type="number" inputmode="numeric" value="250" step="25" min="1"></div>
+              <div class="fld"><label for="oNuits">Nuits par étape</label><input class="input" id="oNuits" type="number" inputmode="numeric" value="2" step="1" min="0"></div>
+              <div class="fld"><label for="oJour">Vie courante € / jour</label><input class="input" id="oJour" type="number" inputmode="decimal" value="26" step="2" min="0"></div>
+              <div class="fld"><label for="oNuit">Nuitée € / nuit</label><input class="input" id="oNuit" type="number" inputmode="decimal" value="8" step="1" min="0"></div>
+              <div class="fld"><label for="oDate">Départ le</label><input class="input" id="oDate" type="date"></div>
+              <div class="fld"><label for="oVis">Visites %</label><input class="input" id="oVis" type="number" inputmode="numeric" value="100" step="10" min="0" max="200"></div>
+              <div class="fld"><label for="oPax">Voyageurs</label><input class="input" id="oPax" type="number" inputmode="numeric" value="1" step="1" min="1" max="8"></div>
+            </div>
+            <h4>Budget détaillé</h4>
+            <div class="tw"><table id="bud"></table></div>
+            <p class="note">Distances estimées à vol d’oiseau × 1,25 : le tracé ne suit pas les routes. Budgets indicatifs.</p>
+          </details>
+
+          <details class="group">
+            <summary>Naviguer avec Google Maps</summary>
+            <div class="row">
+              <button class="btn p" id="gmapAll" type="button">Ouvrir par tronçons</button>
+              <button class="btn" id="gmapSearch" type="button">Chercher le long du trajet</button>
+            </div>
+            <p class="note hint">Navigation en tronçons de cinq points, compatibles avec la limite de trois étapes intermédiaires sur mobile. Ces liens demandent une connexion.</p>
+          </details>
+
+          <details class="group">
+            <summary>Enregistrer, exporter, importer</summary>
+            <div class="row" id="saveRow">
+              <button class="btn" id="prSave" type="button">Enregistrer ce parcours</button>
+              <button class="btn" id="updateSaved" type="button">Mettre à jour un parcours</button>
+            </div>
+            <h4>Exporter</h4>
+            <div class="row">
+              <button class="btn sm" id="expJson" type="button">.json</button>
+              <button class="btn sm" id="expGpx" type="button">.gpx</button>
+              <button class="btn sm" id="expMd" type="button">Plan .md</button>
+              <button class="btn sm" id="expTxt" type="button">Copier la liste</button>
+            </div>
+            <h4>Importer</h4>
+            <div class="row">
+              <button class="btn sm" id="impBtn" type="button">Importer un parcours .json</button>
+              <input type="file" id="imp" accept=".json,application/json" aria-label="Fichier de parcours à importer" hidden>
+            </div>
+          </details>
+
+          <div class="row end-row">
+            <button class="btn" id="routeInJournal" type="button"><svg class="ic" aria-hidden="true"><use href="#i-edit"/></svg>Raconter une étape</button>
+          </div>
+          <div class="map-legend" aria-label="Légende des tracés"><span><i></i>Trajet préparé</span><span><i class="journal"></i>Étapes du carnet</span></div>
+        </div>
+      </div>
+
+      <!-- Idées de parcours -->
+      <div class="pane" id="p3" role="tabpanel" aria-labelledby="tab-p3" tabindex="-1">
+        <div class="privacy-content">
+          <div class="pane-head"><h2>Idées de parcours</h2></div>
+          <p class="lead">Choisissez un circuit : ses étapes s’affichent sur la carte et deviennent votre trajet, que vous pouvez ensuite modifier.</p>
+          <div id="presetFeedback" class="feedback" role="status" hidden></div>
+          <div class="chips" id="prFilter" role="group" aria-label="Type de parcours">
+            <button class="chip on" type="button" data-pt="" aria-pressed="true">Tous</button>
+            <button class="chip" type="button" data-pt="long" aria-pressed="false">Années</button>
+            <button class="chip" type="button" data-pt="hiver" aria-pressed="false">Hiver</button>
+            <button class="chip" type="button" data-pt="printemps" aria-pressed="false">Printemps</button>
+            <button class="chip" type="button" data-pt="été" aria-pressed="false">Été</button>
+            <button class="chip" type="button" data-pt="automne" aria-pressed="false">Automne</button>
+            <button class="chip" type="button" data-pt="thème" aria-pressed="false">Thèmes</button>
+            <button class="chip" type="button" data-pt="court" aria-pressed="false">Courts</button>
+            <button class="chip" type="button" data-pt="perso" aria-pressed="false">Les miens</button>
+          </div>
+          <label class="check-row"><input type="checkbox" id="prAppend"><span>Ajouter les étapes à mon trajet actuel au lieu de le remplacer</span></label>
+          <div id="presets"></div>
+
+          <details class="group">
+            <summary>Bases d’hébergement</summary>
+            <div id="baselist"></div>
+          </details>
+          <details class="group">
+            <summary>Ajouter tout un pays</summary>
+            <p class="note">Choisissez d’abord un pays dans les filtres de la carte.</p>
+            <div class="row">
+              <button class="btn" id="addTop" type="button">Ses incontournables</button>
+              <button class="btn" id="addJobs" type="button">Ses boulots saisonniers</button>
+            </div>
+          </details>
+        </div>
+      </div>
+
+      <!-- Carnet -->
+      <div class="pane" id="pBlog" role="tabpanel" aria-labelledby="tab-pBlog" tabindex="-1">
+        <div class="privacy-content" id="journalRoot"><div class="empty">Ouverture de votre carnet…</div></div>
+      </div>
+
+      <!-- Plus : guide pratique, données, réglages -->
+      <div class="pane" id="p4" role="tabpanel" aria-labelledby="tab-p4" tabindex="-1">
+        <div class="pane-head"><h2>Plus</h2></div>
+
+        <h3 class="section-title">Mes données</h3>
+        <p class="note">Tout est enregistré dans ce navigateur, sur cet appareil. Une sauvegarde vous permet de le garder ou de changer d’appareil.</p>
+        <div class="row">
+          <button class="btn p" id="backupAllFromInfo" type="button"><svg class="ic" aria-hidden="true"><use href="#i-download"/></svg>Tout sauvegarder</button>
+          <button class="btn" id="bkImpBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-upload"/></svg>Restaurer une sauvegarde</button>
+          <input type="file" id="bkImp" accept=".json,application/json" aria-label="Fichier de sauvegarde à restaurer" hidden>
+        </div>
+        <p class="note" id="bkInfo" role="status"></p>
+        <details class="group">
+          <summary>Autres options de sauvegarde</summary>
+          <p class="note">« Tout sauvegarder » inclut le carnet et ses photos. La sauvegarde légère ci-dessous ne contient que les trajets, les fiches modifiées, les notes et vos lieux.</p>
+          <div class="row">
+            <button class="btn" id="bkExp" type="button">Sauvegarde légère, sans le carnet</button>
+            <button class="btn danger" id="bkReset" type="button">Réinitialiser trajets et fiches</button>
+          </div>
+          <div id="recoveryBox" hidden>
+            <p class="note warn-text">Des données enregistrées étaient illisibles au démarrage et ont été mises de côté.</p>
+            <div class="row"><button class="btn sm" id="recoveryDownload" type="button">Télécharger ces données</button><button class="btn sm quiet" id="recoveryDrop" type="button">Les supprimer</button></div>
+          </div>
+        </details>
+
+        <h3 class="section-title">Réglages</h3>
+        <div class="row">
+          <button class="btn" id="openSettingsFromMore" type="button" aria-haspopup="dialog"><svg class="ic" aria-hidden="true"><use href="#i-settings"/></svg>Discrétion et localisation</button>
+        </div>
+
+        <h3 class="section-title">Guide pratique</h3>
+        <details class="group">
+          <summary>Fiches pays : carburant, route, bivouac</summary>
+          <div class="tw"><table id="metaTab"></table></div>
+        </details>
+        <details class="group">
+          <summary>Checklist avant de partir</summary>
+          <div id="check"></div>
+        </details>
+        <details class="group">
+          <summary>Réflexes qui font gagner de l’argent</summary>
+          <ul class="plain-list">
+            <li>Faire le plein au Luxembourg, en Andorre, à Livigno ou en Espagne : jusqu’à 0,50 €/L d’écart avec les Pays-Bas ou l’Allemagne.</li>
+            <li>Sortir de l’autoroute pour les stations de supermarché : 15 à 25 c/L de moins partout.</li>
+            <li>Viser les contrats saisonniers <em>logés</em> : un ski ou une vendange nourrie-logée vaut 400-600 € de plus qu’un même salaire non logé.</li>
+            <li>Aires officielles : 10-18 € au sud, souvent gratuites en Espagne du nord, en Pologne et dans les Balkans.</li>
+            <li>Réserver l’Alhambra, Auschwitz, la Cène et Plitvice des semaines à l’avance — sinon c’est un détour perdu.</li>
+          </ul>
+        </details>
+        <details class="group">
+          <summary>À savoir sur les tarifs</summary>
+          <p class="note">Les tarifs indiqués sur chaque fiche sont des ordres de grandeur relevés pour un adulte plein tarif, hors réductions. Ils bougent chaque année et à chaque saison : vérifiez toujours sur le site officiel avant de faire un détour, surtout pour les sites à réservation obligatoire. Le budget « visites » du trajet additionne le tarif principal de chaque étape — ajustez-le avec le réglage Visites %.</p>
+        </details>
+
+        <h3 class="section-title">À propos</h3>
+        <details class="group">
+          <summary>Ce qui reste sur cet appareil, ce qui en sort</summary>
+          <p class="note"><strong>Sur cet appareil, sans connexion :</strong> la carte, les 1 600 lieux, vos trajets, vos notes, le carnet et ses photos. Rien n’est envoyé ni synchronisé ; aucune mesure d’audience.</p>
+          <p class="note"><strong>Avec connexion, seulement quand vous touchez un lien :</strong> les liens Google Maps, Google et Wikipédia s’ouvrent dans votre navigateur avec le nom ou les coordonnées du lieu concerné.</p>
+          <p class="note"><strong>Votre position</strong> n’est demandée que si vous l’activez. Elle reste en mémoire le temps de la page : elle n’est ni enregistrée ni ajoutée au carnet.</p>
+        </details>
+        <details class="group">
+          <summary>Sources et fonctionnement</summary>
+          <p class="note">Le catalogue conserve les fiches initiales et ajoute une sélection de lieux naturels et culturels. Les coordonnées servent au repérage : vérifiez l’accès et le stationnement avant de partir.</p>
+          <p class="note">Les liens « Infos / billets » sont des recherches ciblées. Ils ne constituent pas une réservation. Les prix et règles des anciennes fiches n’ont pas tous été actualisés.</p>
+          <ul class="plain-list">
+            <li><a href="https://www.wikidata.org/wiki/Wikidata:Licensing" target="_blank" rel="noopener noreferrer">Wikidata : données géographiques CC0</a></li>
+            <li><a href="https://www.w3.org/WAI/WCAG21/Understanding/target-size.html" target="_blank" rel="noopener noreferrer">W3C : commandes tactiles de 44 px</a></li>
+            <li><a href="https://support.polarsteps.com/hc/en-us/articles/24266379026066-Does-Polarsteps-work-offline" target="_blank" rel="noopener noreferrer">Polarsteps : usages du carnet hors connexion</a></li>
+            <li><a href="https://developers.google.com/maps/documentation/urls/get-started" target="_blank" rel="noopener noreferrer">Google Maps : itinéraires par liens</a></li>
+          </ul>
+          <p class="note">Atlas ne suit pas votre GPS en arrière-plan. Les traits relient vos étapes ; ce ne sont pas des routes calculées. Aucune publication ni synchronisation automatique.</p>
+        </details>
+      </div>
+    </aside>
+  </main>
+
+  <nav class="mobile-nav" aria-label="Navigation principale">
+    <button type="button" data-mobile="map" class="on"><svg class="ic" aria-hidden="true"><use href="#i-map"/></svg><span>Carte</span></button>
+    <button type="button" data-p="p3"><svg class="ic" aria-hidden="true"><use href="#i-idea"/></svg><span>Idées</span></button>
+    <button type="button" data-p="p2"><svg class="ic" aria-hidden="true"><use href="#i-route"/></svg><span>Trajet</span><b class="nav-cnt" id="navCnt" hidden>0</b></button>
+    <button type="button" data-p="pBlog"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg><span>Carnet</span></button>
+    <button type="button" data-p="p4"><svg class="ic" aria-hidden="true"><use href="#i-menu"/></svg><span>Plus</span></button>
+  </nav>
+</div>
+
+<!-- Filtres et affichage -->
+<dialog id="filtersDialog" class="map-filters-dialog" aria-labelledby="filtersTitle">
+  <button class="close-modal" type="button" aria-label="Fermer" data-close><svg class="ic" aria-hidden="true"><use href="#i-x"/></svg></button>
+  <h2 id="filtersTitle">Filtres et affichage</h2>
+  <p class="count" id="counter" role="status"></p>
+
+  <h3 class="eyebrow">Catégories</h3>
+  <div class="chips" role="group" aria-label="Catégories">
+    <button class="chip on" type="button" data-cat="ville" aria-pressed="true"><i class="dot ville"></i>Villes</button>
+    <button class="chip on" type="button" data-cat="patrimoine" aria-pressed="true"><i class="dot patrimoine"></i>Patrimoine</button>
+    <button class="chip on" type="button" data-cat="nature" aria-pressed="true"><i class="dot nature"></i>Nature</button>
+    <button class="chip on" type="button" data-cat="plage" aria-pressed="true"><i class="dot plage"></i>Côtes</button>
+    <button class="chip on" type="button" data-cat="boulot" aria-pressed="true"><i class="dot boulot"></i>Boulot</button>
+    <button class="chip on" type="button" data-cat="pratique" aria-pressed="true"><i class="dot pratique"></i>Pratique</button>
+  </div>
+
+  <div class="fld"><label for="paysSel">Pays</label><select class="input" id="paysSel"><option value="">Tous les pays</option></select></div>
+
+  <h3 class="eyebrow">Importance</h3>
+  <div class="chips" role="group" aria-label="Importance">
+    <button class="chip on" type="button" data-w="1" aria-pressed="true">Incontournables</button>
+    <button class="chip on" type="button" data-w="2" aria-pressed="true">Très bons</button>
+    <button class="chip on" type="button" data-w="3" aria-pressed="true">Secondaires</button>
+  </div>
+
+  <div class="fld"><label for="mSlider">Mois de visite : <strong id="mLabel">Tous les mois</strong></label><input type="range" id="mSlider" min="0" max="12" value="0"></div>
+
+  <h3 class="eyebrow">Mon suivi</h3>
+  <div class="chips" role="group" aria-label="Mon suivi">
+    <button class="chip" type="button" id="fOnlyFav" aria-pressed="false"><svg class="ic" aria-hidden="true"><use href="#i-star"/></svg>Favoris seulement</button>
+    <button class="chip" type="button" id="fHideDone" aria-pressed="false">Masquer les lieux faits</button>
+    <button class="chip" type="button" id="fOnlyNote" aria-pressed="false">Avec une note</button>
+  </div>
+
+  <h3 class="eyebrow">Près de mon trajet</h3>
+  <label class="check-row"><input type="checkbox" id="nearRouteOnly"><span>Afficher seulement les lieux proches du tracé</span></label>
+  <div class="fld"><label for="nearRouteKm">Distance maximale au tracé</label><select class="input" id="nearRouteKm"><option value="10">10 km</option><option value="25" selected>25 km</option><option value="50">50 km</option><option value="100">100 km</option></select></div>
+  <p class="note">Proximité calculée à vol d’oiseau autour des lignes reliant vos étapes : ce n’est pas la distance d’un détour par la route.</p>
+
+  <h3 class="eyebrow">Noms sur la carte</h3>
+  <div class="chips" role="group" aria-label="Noms sur la carte">
+    <button class="chip on" type="button" id="lbl" aria-pressed="true">Noms des lieux</button>
+    <button class="chip" type="button" id="allbl" aria-pressed="false">Tous les noms</button>
+    <button class="chip on" type="button" id="cLbl" aria-pressed="true">Noms des pays</button>
+  </div>
+
+  <div class="dialog-footer">
+    <button class="btn" id="resetMapFilters" type="button">Réinitialiser</button>
+    <button class="btn p" id="applyMapFilters" type="button">Voir la carte</button>
+  </div>
+</dialog>
+
+<!-- Paramètres -->
+<dialog id="settingsDialog" aria-labelledby="settingsTitle">
+  <button class="close-modal" type="button" aria-label="Fermer" data-close><svg class="ic" aria-hidden="true"><use href="#i-x"/></svg></button>
+  <h2 id="settingsTitle">Paramètres</h2>
+
+  <h3 class="eyebrow">Discrétion à l’écran</h3>
+  <p class="note">Floutez une rubrique quand quelqu’un regarde votre écran. Ce réglage masque l’affichage : il ne protège pas les données par un mot de passe.</p>
+  <label class="check-row"><input type="checkbox" data-blur-pane="p2"><span>Flouter « Mon trajet »</span></label>
+  <label class="check-row"><input type="checkbox" data-blur-pane="p3"><span>Flouter « Idées de parcours »</span></label>
+  <label class="check-row"><input type="checkbox" data-blur-pane="pBlog"><span>Flouter « Mon carnet »</span></label>
+
+  <section class="location-settings">
+    <h3 class="eyebrow">Ma localisation</h3>
+    <p class="note">Atlas affiche votre position tant que la page reste ouverte. Elle reste en mémoire : elle n’est ni enregistrée ni ajoutée au carnet.</p>
+    <p class="state" id="geoSettingsState" role="status">Localisation inactive.</p>
+    <div class="row">
+      <button class="btn p" id="enableGeo" type="button">Activer et me centrer</button>
+      <button class="btn" id="disableGeo" type="button">Arrêter</button>
+    </div>
+    <label class="check-row"><input id="autoGeo" type="checkbox"><span>Réactiver automatiquement à l’ouverture</span></label>
+    <p class="note">Votre navigateur vous demandera l’autorisation. La localisation peut être indisponible quand la page est ouverte comme simple fichier.</p>
+  </section>
+</dialog>
+
+<div id="tip" aria-hidden="true"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<noscript><p class="noscript">Atlas van a besoin de JavaScript pour afficher la carte et vos trajets.</p></noscript>
+
+<!--@DATA@-->
+<script>
+/*@JS@*/
+</script>
+</body>
+</html>

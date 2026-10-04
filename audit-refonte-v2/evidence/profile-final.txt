@@ -1,0 +1,33 @@
+final — charge 13.86 — médiane de 5 démarrages (ms)
+phase                   ordinateur  mobile×4
+FCP                       120        152
+DATA_PARSE                  4         16
+APP_SCRIPT                 28        121
+COMPILE                    20         90
+COUNTRY_RENDER          —      —
+MARKER_RENDER               9         39
+WIRE                        3         11
+LISTS                      13         49
+VIEW_FIRST_LAYOUT           0          1
+INITIAL_FILTER_LABELS      18         70
+ROUTE                   —      —
+BOOT_TOTAL                142        450
+READY                     191        742
+PARSE_HTML                 46        201
+LAYOUT                     28        102
+RECALC_STYLE               20         86
+PAINT                      30        105
+GC                          7         18
+LONG_TASKS                  0          4
+LONG_TASK_MAX               0        126
+LONG_TASK_TOTAL             0        308
+BLOCKING_TIME_AFTER_FCP     0        127
+interaction (tâche)     ordinateur  mobile×4   [script/style/layout mobile]
+FIRST_INTERACTION          24        107      [2/21/24]
+ZOOM                       30        116      [1/20/4]
+PAN                       227        664      [21/45/106]
+FILTER_APPLY               24         79      [41/6/5]
+SEARCH                     20         62      [51/1/0]
+SHOW_PLACE                 30        134      [2/37/46]
+ROUTE_51                   48        226      [69/37/37]
+DOM {"total":4893,"svg":1938,"markerNodes":1600,"markers":1600,"textNodes":170,"labelsShown":77,"groups":60,"countryPaths":47,"jsEventListeners":191,"heapUsedMb":5.6,"documents":6}

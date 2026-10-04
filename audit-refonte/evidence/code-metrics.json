@@ -1,0 +1,80 @@
+{
+ "avant": {
+  "html_octets": 1535959,
+  "html_lignes": 1499,
+  "js": {
+   "octets": 135837,
+   "lignes": 1085,
+   "fonctions_nommees": 146,
+   "fonctions_uniques": 146,
+   "reaffectations_de_fonction": 23,
+   "innerHTML": 35,
+   "insertAdjacentHTML": 34,
+   "addEventListener": 42,
+   "onclick=": 117,
+   "prompt/confirm/alert": 9,
+   "style_en_ligne_dans_html": 33,
+   "ligne_la_plus_longue": 2932
+  },
+  "css": {
+   "octets": 32514,
+   "regles": 464,
+   "media": 12,
+   "couleurs_hex_distinctes": 47,
+   "tailles_de_police_distinctes": 22,
+   "important": 5
+  },
+  "fichiers": 1,
+  "style_en_ligne_corps": 15
+ },
+ "apres": {
+  "html_octets": 1601394,
+  "js": {
+   "octets": 162192,
+   "lignes": 2093,
+   "fonctions_nommees": 194,
+   "fonctions_uniques": 194,
+   "reaffectations_de_fonction": 0,
+   "innerHTML": 29,
+   "insertAdjacentHTML": 9,
+   "addEventListener": 43,
+   "onclick=": 115,
+   "prompt/confirm/alert": 0,
+   "style_en_ligne_dans_html": 1,
+   "ligne_la_plus_longue": 1358
+  },
+  "css": {
+   "octets": 46707,
+   "regles": 475,
+   "media": 13,
+   "couleurs_hex_distinctes": 34,
+   "tailles_de_police_distinctes": 7,
+   "important": 6
+  },
+  "css_hors_jetons_couleurs_hex": 1,
+  "jetons": 64,
+  "fichiers_source": {
+   "css/base.css": 2745,
+   "css/components.css": 13444,
+   "css/journal.css": 5214,
+   "css/layout.css": 6517,
+   "css/map.css": 7216,
+   "css/panes.css": 9123,
+   "css/tokens.css": 2442,
+   "data/places.js": 1357602,
+   "index.template.html": 34282,
+   "js/boot.js": 2058,
+   "js/explore.js": 11710,
+   "js/geo.js": 3438,
+   "js/journal.js": 41406,
+   "js/location.js": 9868,
+   "js/map.js": 15651,
+   "js/places.js": 21563,
+   "js/route.js": 32467,
+   "js/shell.js": 6353,
+   "js/state.js": 11232,
+   "js/util.js": 6436
+  },
+  "style_en_ligne_gabarit": 0
+ }
+}

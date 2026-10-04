@@ -1,0 +1,147 @@
+{
+  "before": "/Users/dreano/Downloads/van-main/audit-refonte-v2/screenshots/final",
+  "after": "/Users/dreano/Downloads/van-main/audit-refonte-v3/screenshots/planner-personnel",
+  "generatedAt": "2026-10-04T09:10:05.388Z",
+  "rows": [
+    {
+      "name": "desktop-1440x900__01-carte.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__02-fiche-lieu.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__03-idees-parcours.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__04-trajet.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__05-carte-avec-trajet.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__06-carnet-vide.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__07-carnet-editeur.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__08-parametres.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__09-filtres.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "desktop-1440x900__10-recherche.png",
+      "sameSize": true,
+      "pixels": 1296000,
+      "different": 1,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__01-carte.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__02-fiche-lieu.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__03-idees-parcours.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__04-trajet.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__05-carte-avec-trajet.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__06-carnet-vide.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__07-carnet-editeur.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__08-parametres.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__09-filtres.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    },
+    {
+      "name": "mobile-390x844__10-recherche.png",
+      "sameSize": true,
+      "pixels": 1316640,
+      "different": 0,
+      "differentShare": 0
+    }
+  ]
+}
