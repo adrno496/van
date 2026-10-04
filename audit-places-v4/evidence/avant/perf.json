@@ -1,0 +1,76 @@
+{
+  "label": "baseline",
+  "dir": "/tmp/claude-0/-home-user-van/95c70645-2663-5e28-9de4-242abdde10ce/scratchpad/baseline",
+  "generatedAt": "2026-10-04T10:58:16.524Z",
+  "host": {
+    "cpus": 4,
+    "load1": 1.13,
+    "platform": "linux"
+  },
+  "htmlBytes": 1510283,
+  "files": [
+    "MASTER_PROMPT_SENTINEL_CREATIVE_ENGINE_V9_REFONTE_UIUX.md",
+    "README.md",
+    "audit-refonte",
+    "audit-refonte-v2",
+    "audit-refonte-v3",
+    "build",
+    "build.mjs",
+    "content",
+    "dist",
+    "index.html",
+    "src",
+    "tests",
+    "vercel.json"
+  ],
+  "desktop": {
+    "runs": 3,
+    "boot": {
+      "domInteractive": 206,
+      "domContentLoaded": 206,
+      "load": 219,
+      "fcp": 116,
+      "cls": 0.01,
+      "longTasks": 1,
+      "longTaskTotal": 52,
+      "longTaskMax": 52,
+      "domNodes": 3130,
+      "heapMb": 10
+    },
+    "interactionsMs": {
+      "rescale": 1.6,
+      "applyFilters": 4.1,
+      "renderDiscovery": 0.9,
+      "searchKeystroke": 1.4,
+      "showPlace": 7.5,
+      "paintRoute51": 21.1,
+      "panFrameMedian": 21.7,
+      "panFrameP95": 27.5
+    }
+  },
+  "mobile": {
+    "runs": 3,
+    "boot": {
+      "domInteractive": 760,
+      "domContentLoaded": 760,
+      "load": 810,
+      "fcp": 256,
+      "cls": 0,
+      "longTasks": 6,
+      "longTaskTotal": 858,
+      "longTaskMax": 343,
+      "domNodes": 3029,
+      "heapMb": 10
+    },
+    "interactionsMs": {
+      "rescale": 7.3,
+      "applyFilters": 16.2,
+      "renderDiscovery": 6.9,
+      "searchKeystroke": 8.1,
+      "showPlace": 13.1,
+      "paintRoute51": 101,
+      "panFrameMedian": 65.8,
+      "panFrameP95": 103.1
+    }
+  }
+}

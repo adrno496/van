@@ -1,0 +1,552 @@
+{
+  "label": "van",
+  "dir": "/home/user/van",
+  "generatedAt": "2026-10-04T12:21:14.455Z",
+  "durationS": 63,
+  "totals": {
+    "tests": 77,
+    "pass": 76,
+    "fail": 1
+  },
+  "results": [
+    {
+      "group": "P1-explorer",
+      "title": "chargement initial : carte, tous les lieux du catalogue, aucun message d'erreur",
+      "status": "PASS",
+      "detail": "",
+      "ms": 12
+    },
+    {
+      "group": "P1-explorer",
+      "title": "recherche globale : résultats, sélection, fiche affichée",
+      "status": "PASS",
+      "detail": "",
+      "ms": 401
+    },
+    {
+      "group": "P1-explorer",
+      "title": "recherche sans résultat : message explicite",
+      "status": "PASS",
+      "detail": "",
+      "ms": 218
+    },
+    {
+      "group": "P1-explorer",
+      "title": "recherche au clavier : flèche bas puis Entrée ouvre la fiche",
+      "status": "PASS",
+      "detail": "",
+      "ms": 330
+    },
+    {
+      "group": "P1-explorer",
+      "title": "zoom : boutons, molette, touches + et -",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1299
+    },
+    {
+      "group": "P1-explorer",
+      "title": "déplacement de la carte à la souris",
+      "status": "PASS",
+      "detail": "",
+      "ms": 688
+    },
+    {
+      "group": "P1-explorer",
+      "title": "sélection d'un lieu par clic sur la carte",
+      "status": "PASS",
+      "detail": "",
+      "ms": 697
+    },
+    {
+      "group": "P1-explorer",
+      "title": "fiche : contenu, liens externes sûrs, lieux proches",
+      "status": "PASS",
+      "detail": "",
+      "ms": 280
+    },
+    {
+      "group": "P1-explorer",
+      "title": "filtres : catégorie, importance, pays, mois, compteur",
+      "status": "PASS",
+      "detail": "",
+      "ms": 271
+    },
+    {
+      "group": "P1-explorer",
+      "title": "découverte : liste, recherche, pagination, « dans cette vue », réinitialisation",
+      "status": "PASS",
+      "detail": "",
+      "ms": 299
+    },
+    {
+      "group": "P1-explorer",
+      "title": "favoris, statut « fait », note et budget : enregistrés et persistants",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1500
+    },
+    {
+      "group": "P1-explorer",
+      "title": "affichage : noms, tous les noms, noms de pays",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1406
+    },
+    {
+      "group": "P1-explorer",
+      "title": "point personnel : création sur la carte, édition, suppression",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2789
+    },
+    {
+      "group": "P1-explorer",
+      "title": "modification d'une fiche du catalogue, coordonnées invalides refusées",
+      "status": "PASS",
+      "detail": "",
+      "ms": 380
+    },
+    {
+      "group": "P1-explorer",
+      "title": "mode « clic = ajouter »",
+      "status": "PASS",
+      "detail": "",
+      "ms": 696
+    },
+    {
+      "group": "P1-explorer",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "ajout d'étapes depuis la fiche et depuis la recherche du trajet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 430
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "réorganisation : monter, descendre, position, glisser-déposer",
+      "status": "PASS",
+      "detail": "",
+      "ms": 842
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "distance, durée, carburant et budget calculés",
+      "status": "PASS",
+      "detail": "",
+      "ms": 237
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "options persistantes après rechargement",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1098
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "suppression d'étape, annuler, rétablir (boutons et clavier)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 301
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "inverser, boucler, optimiser (extrémités conservées)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 206
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "exports .json, .gpx, .md et copie",
+      "status": "PASS",
+      "detail": "",
+      "ms": 265
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "import d'un parcours .json exporté",
+      "status": "PASS",
+      "detail": "",
+      "ms": 460
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "import d'un fichier illisible : refus sans casse",
+      "status": "PASS",
+      "detail": "",
+      "ms": 531
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "parcours prêts : chargement, filtre, ajout à la suite",
+      "status": "PASS",
+      "detail": "",
+      "ms": 742
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "enregistrer, mettre à jour et supprimer un parcours personnel",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1218
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "navigation Google Maps par tronçons et recherche le long du parcours",
+      "status": "PASS",
+      "detail": "",
+      "ms": 330
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "ajout groupé : incontournables et boulots du pays",
+      "status": "PASS",
+      "detail": "",
+      "ms": 134
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "lieux proches du tracé",
+      "status": "PASS",
+      "detail": "",
+      "ms": 131
+    },
+    {
+      "group": "P2-itineraire",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "P3-carnet",
+      "title": "carnet vide : état initial et invitation à écrire",
+      "status": "PASS",
+      "detail": "",
+      "ms": 175
+    },
+    {
+      "group": "P3-carnet",
+      "title": "création d'un article : lieu, texte, photo, brouillon automatique",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1247
+    },
+    {
+      "group": "P3-carnet",
+      "title": "titre obligatoire pour « Enregistrer et fermer »",
+      "status": "PASS",
+      "detail": "",
+      "ms": 566
+    },
+    {
+      "group": "P3-carnet",
+      "title": "modification, publication locale, lecture",
+      "status": "PASS",
+      "detail": "",
+      "ms": 789
+    },
+    {
+      "group": "P3-carnet",
+      "title": "recherche et filtres du carnet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 84
+    },
+    {
+      "group": "P3-carnet",
+      "title": "persistance IndexedDB après rechargement (articles et photo)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 461
+    },
+    {
+      "group": "P3-carnet",
+      "title": "export du blog à partager (HTML autonome, brouillons exclus)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 182
+    },
+    {
+      "group": "P3-carnet",
+      "title": "fil du voyage sur la carte et trajet créé depuis le carnet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 156
+    },
+    {
+      "group": "P3-carnet",
+      "title": "suppression d'un article avec annulation",
+      "status": "PASS",
+      "detail": "",
+      "ms": 848
+    },
+    {
+      "group": "P3-carnet",
+      "title": "personnalisation du carnet (titre, présentation, auteur)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 476
+    },
+    {
+      "group": "P3-carnet",
+      "title": "photo refusée : format non pris en charge et limite de 12",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1036
+    },
+    {
+      "group": "P3-carnet",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "P4-sauvegarde",
+      "title": "sauvegarde complète puis restauration dans un navigateur vierge",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2075
+    },
+    {
+      "group": "P4-sauvegarde",
+      "title": "sauvegarde « trajets et fiches » (.json v3) puis restauration",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1242
+    },
+    {
+      "group": "P4-sauvegarde",
+      "title": "sauvegarde invalide refusée, données intactes",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1302
+    },
+    {
+      "group": "P4-sauvegarde",
+      "title": "réinitialisation des trajets et fiches",
+      "status": "PASS",
+      "detail": "",
+      "ms": 673
+    },
+    {
+      "group": "P4-sauvegarde",
+      "title": "stockage local corrompu : l'application démarre quand même",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2774
+    },
+    {
+      "group": "P4-sauvegarde",
+      "title": "quota de stockage atteint : l'utilisateur est prévenu",
+      "status": "PASS",
+      "detail": "",
+      "ms": 720
+    },
+    {
+      "group": "P4-sauvegarde",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "P5-geolocalisation",
+      "title": "autorisée : point bleu, centrage, état annoncé",
+      "status": "PASS",
+      "detail": "",
+      "ms": 78
+    },
+    {
+      "group": "P5-geolocalisation",
+      "title": "aux alentours : lieux du catalogue proches de la position",
+      "status": "PASS",
+      "detail": "",
+      "ms": 711
+    },
+    {
+      "group": "P5-geolocalisation",
+      "title": "arrêt manuel : position effacée, préférence retirée",
+      "status": "PASS",
+      "detail": "",
+      "ms": 185
+    },
+    {
+      "group": "P5-geolocalisation",
+      "title": "refusée : message clair, pas de nouvelle demande automatique",
+      "status": "PASS",
+      "detail": "",
+      "ms": 557
+    },
+    {
+      "group": "P5-geolocalisation",
+      "title": "indisponible et délai dépassé : messages distincts",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1181
+    },
+    {
+      "group": "P5-geolocalisation",
+      "title": "navigateur sans géolocalisation : message, pas d'erreur",
+      "status": "PASS",
+      "detail": "",
+      "ms": 727
+    },
+    {
+      "group": "P5-geolocalisation",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "P6-mobile",
+      "title": "navigation inférieure : carte, idées, trajet, carnet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1164
+    },
+    {
+      "group": "P6-mobile",
+      "title": "toucher un lieu sur la carte ouvre sa fiche",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1370
+    },
+    {
+      "group": "P6-mobile",
+      "title": "ajout au trajet puis consultation du trajet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 453
+    },
+    {
+      "group": "P6-mobile",
+      "title": "pincement : zoom à deux doigts",
+      "status": "PASS",
+      "detail": "",
+      "ms": 697
+    },
+    {
+      "group": "P6-mobile",
+      "title": "filtres depuis la carte (dialogue)",
+      "status": "PASS",
+      "detail": "",
+      "ms": 785
+    },
+    {
+      "group": "P6-mobile",
+      "title": "paramètres : discrétion (flou) et contenu complet",
+      "status": "PASS",
+      "detail": "",
+      "ms": 954
+    },
+    {
+      "group": "P6-mobile",
+      "title": "carnet sur mobile : écrire et enregistrer",
+      "status": "PASS",
+      "detail": "",
+      "ms": 967
+    },
+    {
+      "group": "P6-mobile",
+      "title": "aucun débordement horizontal sur les écrans principaux",
+      "status": "FAIL",
+      "detail": "éléments qui dépassent la largeur de l'écran — attendu [], obtenu [\"tab(\\\"p2\\\") → BUTTON#loop.btn sm\"]",
+      "ms": 1068
+    },
+    {
+      "group": "P6-mobile",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "accessibilite-clavier",
+      "title": "dialogues : rôle, fermeture par Échap, retour du focus",
+      "status": "PASS",
+      "detail": "",
+      "ms": 579
+    },
+    {
+      "group": "accessibilite-clavier",
+      "title": "onglets du panneau utilisables au clavier",
+      "status": "PASS",
+      "detail": "",
+      "ms": 525
+    },
+    {
+      "group": "accessibilite-clavier",
+      "title": "champs de formulaire nommés",
+      "status": "PASS",
+      "detail": "",
+      "ms": 48
+    },
+    {
+      "group": "accessibilite-clavier",
+      "title": "focus visible sur les commandes",
+      "status": "PASS",
+      "detail": "",
+      "ms": 4
+    },
+    {
+      "group": "accessibilite-clavier",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    },
+    {
+      "group": "securite",
+      "title": "import de parcours piégé : aucun script exécuté",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1238
+    },
+    {
+      "group": "securite",
+      "title": "sauvegarde v3 piégée : aucun script exécuté",
+      "status": "PASS",
+      "detail": "",
+      "ms": 10111
+    },
+    {
+      "group": "securite",
+      "title": "saisie utilisateur piégée dans une fiche : aucun script exécuté",
+      "status": "PASS",
+      "detail": "",
+      "ms": 1507
+    },
+    {
+      "group": "securite",
+      "title": "aucune requête vers un tiers au chargement",
+      "status": "PASS",
+      "detail": "",
+      "ms": 978
+    },
+    {
+      "group": "securite",
+      "title": "politique de sécurité du contenu présente et sans violation",
+      "status": "PASS",
+      "detail": "",
+      "ms": 2
+    },
+    {
+      "group": "securite",
+      "title": "console sans erreur pendant tout le groupe",
+      "status": "PASS",
+      "detail": "",
+      "ms": 0
+    }
+  ]
+}
