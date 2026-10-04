@@ -1,0 +1,11 @@
+{
+  "slug": "ancien-voyage",
+  "title": "Ancien voyage de test",
+  "summary": "Voyage terminé de test, avec une distance publiée.",
+  "countries": ["France"],
+  "dateStart": "2025-06-01",
+  "dateEnd": "2025-06-20",
+  "distanceKm": 1200,
+  "visibility": "public",
+  "status": "published"
+}

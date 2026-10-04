@@ -1,0 +1,1 @@
+{ "slug": "etape-approchee", "title": "Étape de test hors de l’Atlas", "date": "2026-04-14", "excerpt": "Étape située par une position approximative.", "place": { "name": "Village de test", "country": "Espagne", "lat": 42.123456, "lon": -1.987654 }, "voyage": "espagne-de-test", "text": "Texte de l’étape approchée.", "visibility": "public", "status": "published" }

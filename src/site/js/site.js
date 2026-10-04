@@ -13,7 +13,7 @@
     menu.addEventListener('click', function (e) { if (e.target.closest('[data-menu-close]') || e.target.closest('a')) menu.close(); });
     opener.setAttribute('aria-expanded', 'false');
     // Passage à un grand écran pendant que le menu est ouvert : il n'a plus lieu d'être.
-    window.matchMedia('(min-width: 1020px)').addEventListener('change', function (m) { if (m.matches && menu.open) menu.close(); });
+    window.matchMedia('(min-width: 1180px)').addEventListener('change', function (m) { if (m.matches && menu.open) menu.close(); });
   }
 
   /* ── Apparition discrète : seulement si le mouvement est accepté et l'observation disponible ── */

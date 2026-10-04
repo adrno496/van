@@ -114,6 +114,8 @@ function sources({ tokens = null, mode = 'personal' } = {}) {
 }
 // La marque du Planner : simple titre dans le fichier autonome, lien vers l'accueil quand le Planner vit dans le site.
 const brand = (siteHome) => (siteHome ? `<a href="${escHtml(siteHome)}" title="Retour à l’accueil d’Atlas Van">Atlas <em>van</em></a>` : 'Atlas <em>van</em>');
+// Édition du Planner, lue par le script : la version publique est celle des visiteurs, qui ne publient rien sur le blog.
+const edition = (state, options) => { if (!state.html.includes('<html lang="fr" dir="ltr">')) throw new Error('balise <html> du gabarit introuvable'); state.html = state.html.replace('<html lang="fr" dir="ltr">', `<html lang="fr" dir="ltr" data-edition="${options.mode === 'public' ? 'public' : 'personal'}">`); };
 const putter = (state) => (mark, value) => { if (!state.html.includes(mark)) throw new Error(`repère absent du gabarit : ${mark}`); state.html = state.html.replace(mark, () => value); };
 const policy = (script, style) => [`default-src 'none'`, `script-src ${script}`, `style-src ${style}`, `img-src data: blob:`, `connect-src 'none'`, `font-src 'none'`, `object-src 'none'`, `base-uri 'none'`, `form-action 'none'`].join('; ');
 
@@ -122,6 +124,7 @@ export function build(options = {}) {
   const data = jsonForHtml(s.cat.app);
   put('/*@CSS@*/', s.css); put('<!--@COUNTRIES@-->', s.countries); put('<!--@BRAND@-->', brand(options.siteHome));
   put('<!--@DATA@-->', `<script type="application/json" id="atlasData">${data}</script>`);
+  edition(s, options);
   put('/*@JS@*/', s.js);
   // Les empreintes portent sur le contenu exact des blocs tels qu'ils figurent dans le fichier (retours à la ligne compris).
   // La feuille de style est cherchée dans l'en-tête seulement : le JavaScript contient, en texte, celle du blog exporté.
@@ -142,6 +145,7 @@ export function buildSplit(outDir, options = {}) {
   put('<style>\n/*@CSS@*/\n</style>', '<link rel="stylesheet" href="assets/app.css">');
   put('<!--@COUNTRIES@-->', s.countries); put('<!--@BRAND@-->', brand(options.siteHome));
   put('<!--@DATA@-->', '<script src="assets/places.js"></script>');
+  edition(s, options);
   put('<script>\n/*@JS@*/\n</script>', '<script src="assets/app.js"></script>');
   put('@CSP@', policy(`'self'`, `'self'`));
   if (options.mode === 'public') privacyGate({ 'index.html': s.html, 'assets/places.js': data, 'assets/app.js': s.js }, s.cat);

@@ -66,8 +66,38 @@ ou « Brouillon ». La construction publique s'arrête si un texte privé se ret
 }
 ```
 
-Depuis le Planner : **Carnet › Blog à partager › Fichier pour le site** produit ces fichiers à partir des articles
-marqués « à partager », toujours en `"private"` / `"draft"`. À vous de passer ceux que vous choisissez en public.
+Depuis le Planner : **Carnet › Blog à partager › Fichier pour le site** (version personnelle du Planner seulement)
+produit un fichier `atlas-van-articles.json` ; `node build/import-articles.mjs atlas-van-articles.json` le range ici,
+toujours en `"private"` / `"draft"`. À vous de passer ceux que vous choisissez en public. Le détail (réimport,
+photos, retouches) est dans `CONTENT_WORKFLOW.md`, à la racine du dépôt.
+
+Champs propres aux récits :
+
+| Champ | Rôle |
+|---|---|
+| `voyage` | slug du voyage auquel le récit appartient : il devient une **étape** de ce voyage s'il est situé |
+| `placeId` | lieu de l'Atlas où se passe le récit |
+| `place` | à défaut, lieu personnel `{ "name", "country", "lat", "lon" }` : la position est **arrondie au dixième de degré** (~10 km) à la lecture, jamais publiée exactement |
+| `onMap` | `false` retire l'étape de la carte et de la liste des étapes (le récit reste publié) |
+| `source` | écrit par l'import : identifiant de la note du carnet et empreinte du texte importé. Ne pas modifier |
+
+## Le voyage en cours
+
+`"currentVoyage": "slug-du-voyage"` dans `site.json` désigne le voyage suivi sur l'accueil et sur la page
+`/voyage-en-cours/`. Ses étapes sont ses récits **publiés** et situés, dans l'ordre des dates ; la « dernière étape
+publiée » est celle du dernier récit publié — jamais une position en direct. Sans récit situé, les `placeIds` du
+voyage servent d'étapes. Si le voyage désigné n'est pas public et publié, la version publique affiche un état vide.
+
+Champs du voyage utiles ici :
+
+| Champ | Rôle |
+|---|---|
+| `state` | `"ongoing"` (en cours), `"finished"` (terminé), `"planned"` (à venir). Par défaut : terminé s'il a une `dateEnd`, en cours sinon |
+| `distanceKm` | distance que vous publiez. Sans elle, la page affiche une distance **estimée** entre étapes (vol d'oiseau + 25 %), dite comme telle |
+| `planned` | identifiants de lieux prévus. **Jamais affichés** sans `"showPlanned": true` ; ils sont alors tracés en pointillés, distincts de la route parcourue |
+
+Pour masquer une étape : `"onMap": false` sur le récit. Pour décaler la publication (ne pas révéler où vous êtes
+aujourd'hui) : publiez le récit plus tard — rien n'est publié automatiquement.
 
 ## Photographies
 
@@ -78,8 +108,9 @@ marqués « à partager », toujours en `"private"` / `"draft"`. À vous de pass
   image (largeur et hauteur lues dans le fichier) : pas de saut à l'affichage.
 - Seules vos propres photographies, ou des images dont la licence le permet.
 - **Position GPS** : beaucoup d'appareils l'inscrivent dans le fichier. Une photographie publique qui la porte fait
-  échouer la construction publique — réexportez l'image sans position. Les autres métadonnées (appareil, date) ne
-  sont pas retirées : à vous de voir.
+  échouer la construction publique — réexportez l'image sans position. Les photos importées depuis le carnet
+  (`build/import-articles.mjs`) sont, elles, nettoyées à l'import : EXIF (dont GPS), XMP, IPTC et commentaires
+  retirés. Pour les photos ajoutées à la main, les autres métadonnées (appareil, date) ne sont pas retirées.
 
 ## `site.json`
 
@@ -90,9 +121,17 @@ marqués « à partager », toujours en `"private"` / `"draft"`. À vous de pass
   "siteUrl": "https://exemple.fr",
   "about": [{ "title": "Notre façon de voyager", "text": "…", "visibility": "public" }],
   "legal": { "publisher": "…", "contact": "…", "host": "…" },
-  "social": [{ "label": "Instagram", "url": "https://…" }]
+  "social": [{ "label": "Instagram", "url": "https://…" }],
+  "hero": { "eyebrow": "", "title": "Suivez mon voyage en van solo", "lead": "…", "primary": "Suivre mon voyage", "secondary": "Voir mes voyages", "tertiary": "Préparer votre voyage" },
+  "currentVoyage": "portugal-2026",
+  "community": { "url": "https://<projet>.supabase.co", "anonKey": "<clé publique anon>" }
 }
 ```
+
+- `hero` : textes de la première page (tous facultatifs ; valeurs par défaut ci-dessus).
+- `community` : serveur de l'espace « Partage » (voir `backend/README.md`). **Seulement la clé publique `anon`** :
+  la construction s'arrête si on y met une clé de service (`service_role`, `sb_secret_…`) ou une autre clé.
+  Sans `community`, la rubrique Partage affiche « pas encore ouvert » et aucune page ne contacte de serveur.
 
 `siteUrl` déclenche les liens canoniques, `sitemap.xml` et `robots.txt` (version publique seulement).
 

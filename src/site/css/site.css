@@ -110,7 +110,7 @@ a:hover{color:var(--accent-hover)}
 .menu-nav{display:flex;flex-direction:column;flex:1;overflow:auto}
 .menu-link{display:flex;align-items:center;min-height:60px;border-bottom:1px solid var(--line);color:var(--text);font-family:var(--font-display);font-size:1.625rem;font-weight:var(--display-weight);text-decoration:none}
 .menu-link[aria-current]{color:var(--accent-text)}
-@media (max-width:1019px){
+@media (max-width:1179px){
   .site-nav,.head-row .btn-cta{display:none}
   .menu-btn{display:inline-flex}
   .head-row{min-height:60px}
@@ -296,6 +296,58 @@ a:hover{color:var(--accent-hover)}
 .pl-route{fill:none;stroke:var(--pl-route);stroke-linecap:round;stroke-linejoin:round}
 .pl-stops{fill:none;stroke:var(--pl-route);stroke-linecap:round}
 .pl-start{fill:var(--pl-route-bg);stroke:var(--pl-route)}
+
+/* ── Voyage en cours : carte, légende, étapes ── */
+.hero-more{margin-top:var(--s4)}
+.hero-more a{display:inline-flex;align-items:center;gap:.4em;min-height:44px;color:var(--hero-text);font-weight:600;text-decoration:underline;text-decoration-color:color-mix(in srgb,currentColor 45%,transparent);text-underline-offset:4px}
+.hero-more a:hover{color:var(--hero-text);text-decoration-color:currentColor}
+.voyage-split{display:grid;gap:var(--s7) clamp(32px,5vw,72px);align-items:start}
+@media (min-width:900px){.voyage-split{grid-template-columns:1.25fr 1fr}}
+.voyage-map{margin:0;display:grid;gap:var(--s3)}
+.voyage-map .plate{width:100%;height:auto;aspect-ratio:4/3;border-radius:var(--plate-radius)}
+.voyage-map-wide .plate{aspect-ratio:16/9}
+.map-caption{padding-block:var(--s4) 0}
+.map-legend{display:flex;flex-wrap:wrap;gap:var(--s2) var(--s5);font-size:var(--small);color:var(--text-2)}
+.map-legend li{display:inline-flex;align-items:center;gap:.5em}
+.lg{display:inline-block;width:22px;height:0;border-top:3px solid var(--pl-route)}
+.lg-planned{border-top-style:dashed;opacity:.8}
+.lg-last{width:14px;height:14px;border:3px solid var(--pl-route-bg);border-radius:50%;background:var(--pl-route);box-shadow:0 0 0 2px var(--pl-route)}
+.map-note{font-size:var(--small);color:var(--text-2)}
+.voyage-side .facts{margin-top:0}
+.last-stage{display:grid;gap:2px;margin-top:var(--s5);padding:var(--s4) var(--s5);border-left:3px solid var(--accent);background:var(--surface-2);border-radius:0 var(--r-md) var(--r-md) 0}
+.last-stage .last-meta{color:var(--text-2);font-size:var(--small);letter-spacing:0;text-transform:none;font-weight:400}
+.last-stage > span:first-child{font-size:.75rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--text-2)}
+.last-stage strong{font-family:var(--font-display);font-size:var(--d3);font-weight:var(--display-weight)}
+.last-stage-large strong{font-size:clamp(1.5rem,1.4vw + 1.1rem,2.25rem)}
+.side-title{margin-top:var(--s6);font-size:.75rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--text-2)}
+.stage-list{display:grid;margin-top:var(--s2);border-top:1px solid var(--line)}
+.stage-list li{display:flex;flex-wrap:wrap;justify-content:space-between;gap:0 var(--s4);align-items:center;min-height:48px;border-bottom:1px solid var(--line)}
+.stage-list a{display:inline-flex;align-items:center;min-height:44px;font-weight:600;color:var(--text)}
+.stage-list time{font-size:var(--small);color:var(--text-2);font-variant-numeric:tabular-nums}
+.section-title-next{margin-top:var(--s8)}
+.pl-planned{fill:none;stroke:var(--pl-route);stroke-linecap:round;stroke-opacity:.75}
+.pl-last-halo{fill:none;stroke:var(--pl-route);stroke-opacity:.35}
+.pl-last{fill:var(--pl-route);stroke:var(--pl-route-bg)}
+.hero .pl-last-halo{stroke-opacity:.55}
+
+@media (min-width:760px){.grid-single .card-link{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:var(--s5) clamp(24px,4vw,56px);align-items:center}.grid-single .card-body{padding:0}.grid-single .card-title{font-size:clamp(1.5rem,1.6vw + 1rem,2.375rem)}}
+
+/* ── Chiffres ── */
+.band-stats{background:var(--forest-2)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:var(--s6) var(--s7);margin-top:var(--s5)}
+.stats div{display:flex;flex-direction:column-reverse;gap:var(--s2)}
+.stats dd{font-family:var(--font-display);font-size:clamp(2.5rem,4vw + 1rem,4.5rem);font-weight:var(--display-weight);line-height:.9;color:var(--on-forest);font-variant-numeric:lining-nums tabular-nums}
+.stats dt{font-size:.8125rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--on-forest-2)}
+.band .stats-note{margin-top:var(--s6);font-size:var(--small)}
+
+/* ── Accueil : Partage et guides côte à côte, à propos ── */
+.split-even{display:grid;gap:var(--s8) clamp(32px,6vw,96px)}
+@media (min-width:860px){.split-even{grid-template-columns:1fr 1fr}}
+.split-even .section-lead{margin-bottom:var(--s3)}
+.link-list-compact a{min-height:56px;padding:var(--s3) 0}
+.link-list-compact .ic{grid-row:auto}
+.link-list-compact + .more{margin-top:var(--s3)}
+.about-teaser p{color:var(--text-2);margin-bottom:var(--s3)}
 
 /* ── Apparition discrète au défilement (activée par site.js ; sans script, tout est visible) ── */
 /* Glissement seul, sans fondu : un texte à demi transparent n'est pas lisible, même une demi-seconde. */
