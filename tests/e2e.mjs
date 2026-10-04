@@ -17,6 +17,7 @@ const label = opt('--label', path.basename(dir));
 // Les mêmes 77 tests s'appliquent, avec ces valeurs.
 const SHIPPED_CAT = shippedCatalogue(dir), SHIPPED = SHIPPED_CAT.places;
 const VILLES = SHIPPED_CAT.lieux.filter((p) => p.c === 'ville').length;   // 418 avant le lot v10
+const NATURE = SHIPPED_CAT.lieux.filter((p) => p.c === 'nature').length;   // 522 avant le lot v10
 // « Nouveautés » : le lot le plus récent du catalogue (v9 : 100 lieux avant le lot v10).
 const NEWEST = SHIPPED_CAT.lieux.filter((p) => p.batch).map((p) => p.batch).sort((a, b) => Number(b.slice(1)) - Number(a.slice(1)))[0];
 const NEWEST_N = SHIPPED_CAT.lieux.filter((p) => p.batch === NEWEST).length;
@@ -504,7 +505,7 @@ group('P6-mobile', 'mobile-390x844', {}, {
     await page.locator('dialog[open] [data-cat="nature"]').tap(); eq(await ev(page, () => document.querySelectorAll('#map .poi.nature:not(.off)').length), 0, 'filtre appliqué');
     assert(/· 1/.test(await ev(page, () => document.querySelector('#mapFiltersButton').textContent)), 'nombre de filtres actifs affiché'); await page.locator('#applyMapFilters').tap(); await settle(page, 200);
     eq(await ev(page, () => [document.querySelectorAll('dialog[open]').length, document.querySelectorAll('#map .poi.nature:not(.off)').length, document.body.dataset.mobileView]), [0, 0, 'map'], 'dialogue fermé, filtre conservé, retour à la carte'); await ev(page, () => document.querySelector('#clearExplore').click());
-    eq(await ev(page, () => document.querySelectorAll('#map .poi.nature:not(.off)').length), 522, 'filtres réinitialisés');
+    eq(await ev(page, () => document.querySelectorAll('#map .poi.nature:not(.off)').length), NATURE, 'filtres réinitialisés');
   },
   'paramètres : discrétion (flou) et contenu complet': async ({ page }) => {
     if (await page.locator('#openSettings').isVisible()) await page.locator('#openSettings').tap(); else { await page.locator('.mobile-nav [data-p="p4"]').tap(); await settle(page, 200); await page.locator('#openSettingsFromMore').tap(); }

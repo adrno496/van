@@ -39,7 +39,15 @@ function searchKeys(L) {
   if (!L._k) { var n = noac(L.n), p = noac(L.p), d = noac(L.d), v = noac(L.v || ''); L._k = { n: n, p: p, d: d, v: v, e: noac(L.e || ''), np: n + ' ' + p, all: n + ' ' + p + ' ' + d + ' ' + v }; }
   return L._k;
 }
+// Mémorisé par texte de saison : quelques dizaines de textes différents pour des milliers de lieux.
+// Chaque lieu reçoit sa propre copie du tableau.
+var monthsMemo = {};
 function months(s) {
+  var key = String(s == null ? '' : s);
+  if (!Object.prototype.hasOwnProperty.call(monthsMemo, key)) monthsMemo[key] = monthsOf(key);
+  return monthsMemo[key].slice();
+}
+function monthsOf(s) {
   var t = noac(s || '');
   if (!t || /toute/.test(t)) return ALL_MONTHS.slice();
   var out = {}, segs = t.replace(/→/g, '-').split(/[,;·]/);

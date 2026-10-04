@@ -49,15 +49,20 @@ group('marqueurs', 'desktop-1440x900', {}, {
     assert(s.svg < s.pts + 700, `carte légère : ${s.svg} éléments SVG`); measures.svgNodes = s.svg;
   },
   'chaque catégorie a sa forme, sur la carte et dans la légende': async ({ page }) => {
-    const shapes = await ev(page, () => { const o = {}; PTS.forEach((p) => { (o[p.c] = o[p.c] || new Set()).add(nodes[p.i].getAttribute('d')); }); return Object.fromEntries(Object.entries(o).map(([k, v]) => [k, [...v]])); });
+    // Depuis le lot v10, chaque marqueur est dessiné en coordonnées de carte (sans « transform ») : sa forme est
+    // retrouvée en ramenant le chemin à l'origine et au rayon 1, puis comparée d'une catégorie à l'autre.
+    const shapes = await ev(page, () => { const o = {}; PTS.forEach((p) => { (o[p.c] = o[p.c] || new Set()).add(unitShape(p)); }); return Object.fromEntries(Object.entries(o).map(([k, v]) => [k, [...v]])); });
     for (const [cat, list] of Object.entries(shapes)) eq(list.length, 1, `une seule forme pour « ${cat} »`);
     const distinct = new Set(Object.values(shapes).map((l) => l[0])); eq(distinct.size, Object.keys(shapes).length, 'formes toutes différentes');
     eq(await ev(page, () => Object.keys(SHAPES).sort()), ['base', 'boulot', 'nature', 'patrimoine', 'perso', 'plage', 'pratique', 'ville'], 'une forme prévue pour les 8 catégories');
+    eq(await ev(page, () => PTS.filter((p) => unitShape(p) !== unitOf(SHAPES[p.c] || SHAPES.perso)).length), 0, 'chaque marqueur dessine exactement la forme de sa catégorie');
     const legend = await ev(page, () => ['ville', 'patrimoine', 'nature', 'plage', 'boulot', 'pratique', 'base', 'perso'].map((c) => { const i = document.createElement('i'); i.className = 'dot ' + c; document.body.appendChild(i); const s = getComputedStyle(i), v = [s.clipPath, s.borderRadius, s.borderTopWidth].join('|'); i.remove(); return v; }));
     eq(new Set(legend).size, 8, 'pastilles de légende toutes différentes par la forme');
   },
   'contour d\'épaisseur constante à l\'écran, sans non-scaling-stroke': async ({ page }) => {
-    const widthPx = () => ev(page, () => { const p = PTS.find((x) => x.n === 'Paris'), n = nodes[p.i]; return { px: +(Number(n.getAttribute('stroke-width')) * p._r * W / vb[2]).toFixed(2), effect: getComputedStyle(n).vectorEffect }; });
+    // L'épaisseur est en unités de carte (le marqueur n'est plus agrandi par « scale »), portée par le calque pour le cas
+    // commun : on lit l'épaisseur effective du marqueur, px = épaisseur × W / largeur de la vue.
+    const widthPx = () => ev(page, () => { const p = PTS.find((x) => x.n === 'Paris'), n = nodes[p.i]; return { px: +(parseFloat(getComputedStyle(n).strokeWidth) * W / vb[2]).toFixed(2), effect: getComputedStyle(n).vectorEffect }; });
     await ev(page, () => fitDefault()); await settle(page, 400); const a = await widthPx();
     await ev(page, () => { const p = PTS.find((x) => x.n === 'Paris'); flyTo(p, 120); }); await settle(page, 400); const b = await widthPx();
     eq([a.px, b.px, a.effect], [1.2, 1.2, 'none'], 'contour de 1,2 px en vue d\'ensemble et en vue rapprochée');
@@ -74,7 +79,7 @@ group('marqueurs', 'desktop-1440x900', {}, {
     await ev(page, () => { document.body.classList.remove('has-place'); fitDefault(); }); await settle(page, 300);
   },
   'catégorie modifiée : la forme et le halo suivent': async ({ page }) => {
-    const r = await ev(page, () => { const p = PTS.find((x) => x.n === 'Paris'), before = nodes[p.i].getAttribute('d'), c = p.c; p.c = 'base'; redrawMarker(p); const mid = [nodes[p.i].getAttribute('d') === SHAPES.base, !!halos[p.i]]; p.c = c; redrawMarker(p); rescale();
+    const r = await ev(page, () => { const p = PTS.find((x) => x.n === 'Paris'), before = nodes[p.i].getAttribute('d'), c = p.c; p.c = 'base'; redrawMarker(p); const mid = [unitShape(p) === unitOf(SHAPES.base), !!halos[p.i]]; p.c = c; redrawMarker(p); rescale();
       return { mid, back: nodes[p.i].getAttribute('d') === before, halo: !!halos[p.i] }; });
     eq(r, { mid: [true, true], back: true, halo: false }, 'forme et halo');
   }
@@ -321,6 +326,24 @@ group('public', 'desktop-1440x900', { publicBuild: true }, {
   }
 });
 
+// Forme d'un marqueur ramenée à l'origine et au rayon 1 (unitShape), forme de référence d'une catégorie (unitOf) :
+// même écriture des deux côtés (commandes absolues, nombres à 2 décimales), pour comparer des géométries.
+const SHAPE_HELPERS = `(() => {
+  const parse = (d) => [...d.matchAll(/([MLHVAZmlhvaz])([^MLHVAZmlhvaz]*)/g)].map((m) => [m[1], m[2].trim() ? m[2].trim().split(/[\\s,]+/).map(Number) : []]);
+  // Commandes relatives (m, l, h, v, a, z) remises en absolu, pour comparer des géométries quelle que soit l'écriture.
+  const absolute = (cmds) => { let cx = 0, cy = 0, sx = 0, sy = 0; return cmds.map(([c, v]) => {
+    const rel = c === c.toLowerCase() && c !== 'z', C = c.toUpperCase(), ox = rel ? cx : 0, oy = rel ? cy : 0;
+    if (C === 'M' || C === 'L') { cx = v[0] + ox; cy = v[1] + oy; if (C === 'M') { sx = cx; sy = cy; } return [C, [cx, cy]]; }
+    if (C === 'H') { cx = v[0] + ox; return [C, [cx]]; }
+    if (C === 'V') { cy = v[0] + oy; return [C, [cy]]; }
+    if (C === 'A') { cx = v[5] + ox; cy = v[6] + oy; return [C, [v[0], v[1], v[2], v[3], v[4], cx, cy]]; }
+    cx = sx; cy = sy; return ['Z', []]; }); };
+  const out = (cmds) => cmds.map(([c, v]) => c + v.map((x) => (Math.round(x * 100) / 100 + 0).toFixed(2)).join(',')).join('');
+  window.unitOf = (src) => out(absolute(parse(src)));
+  window.unitShape = (p) => { const r = p._r || 1, X = (x) => (x - p.px) / r, Y = (y) => (y - p.py) / r;
+    return out(absolute(parse(nodes[p.i].getAttribute('d'))).map(([c, v]) => [c, c === 'A' ? [v[0] / r, v[1] / r, v[2], v[3], v[4], X(v[5]), Y(v[6])] : c === 'H' ? [X(v[0])] : c === 'V' ? [Y(v[0])] : c === 'Z' ? [] : [X(v[0]), Y(v[1])]])); };
+})()`;
+
 // ---- exécution -------------------------------------------------------------------------------------------
 const { chromium } = loadPlaywright();
 const server = await serve(dir);
@@ -334,6 +357,7 @@ try {
     if (g.options.publicBuild && !hasPublic) { results.push({ group: name, title: 'version publique construite (node build.mjs --mode public)', status: 'FAIL', detail: 'dist/public/app/index.html absent', ms: 0 }); continue; }
     const url = g.options.publicBuild ? publicServer.url : server.url;
     const app = await openApp(browser, url, g.viewport, {});
+    await app.page.evaluate(SHAPE_HELPERS);
     for (const [title, fn] of Object.entries(g.tests)) {
       const t0 = Date.now(); let status = 'PASS', detail = '';
       try { await fn({ page: app.page, context: app.context, errors: app.errors, remote: app.remote, browser, url: server.url, publicUrl: publicServer?.url }); }

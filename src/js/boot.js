@@ -47,6 +47,10 @@
       applyDeepLink();
       window.addEventListener('hashchange', applyDeepLink);
       mark('boot-end');
+      // Index de recherche (textes sans accents de chaque fiche) préparé par petits paquets pendant les temps morts :
+      // la première frappe dans la recherche n'a plus à le construire pour les 3 400 lieux.
+      var k = 0, later = window.requestIdleCallback || function (f) { return setTimeout(f, 50); };
+      (function index() { var end = Math.min(PTS.length, k + 400); for (; k < end; k++) searchKeys(PTS[k]); if (k < PTS.length) later(index); })();
     }
   ];
   // Une étape par tâche du navigateur. MessageChannel plutôt qu'un minuteur : pas de ralentissement quand l'onglet est en arrière-plan.

@@ -133,13 +133,15 @@ await test('carte lisible : noms limités et sans chevauchement en vue d\'ensemb
   const look = async (label) => {
     await page.waitForTimeout(350);
     const s = await page.evaluate(() => {
-      const boxes = [...document.querySelectorAll('#map text.lbl')].filter((t) => t.style.display !== 'none').map((t) => t.getBoundingClientRect());
+      // La boîte d'un texte SVG renvoyée par le navigateur suit les métriques d'interligne de la police (jusqu'à 2,7 fois
+      // la taille du texte) : on garde sa largeur et son centre, et on ramène sa hauteur à la taille réelle du texte.
+      const px = parseFloat(gT.getAttribute('font-size')) * svg.getBoundingClientRect().width / vb[2];
+      const boxes = [...document.querySelectorAll('#map text.lbl')].filter((t) => t.style.display !== 'none').map((t) => { const r = t.getBoundingClientRect(), c = (r.top + r.bottom) / 2; return { left: r.left, right: r.right, top: c - px / 2, bottom: c + px / 2 }; });
       let overlaps = 0;
-      // Recouvrement réel : plus de 30 % de la hauteur du texte et plus de 4 px de large. Le contact de quelques pixels
-      // entre les boîtes des glyphes (accents, jambages) de deux lignes voisines n'empêche pas de lire (déjà le cas avant le lot).
+      // Recouvrement réel : plus de 30 % de la hauteur du texte et plus de 4 px de large.
       for (let a = 0; a < boxes.length; a++) for (let b = a + 1; b < boxes.length; b++) {
         const A = boxes[a], B = boxes[b], w = Math.min(A.right, B.right) - Math.max(A.left, B.left), h = Math.min(A.bottom, B.bottom) - Math.max(A.top, B.top);
-        if (w > 4 && h > 0.3 * Math.min(A.height, B.height)) overlaps++;
+        if (w > 4 && h > 0.3 * px) overlaps++;
       }
       return { shown: boxes.length, overlaps, markers: PTS.filter((L) => !L._off).length };
     });
