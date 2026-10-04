@@ -39,10 +39,29 @@ export function evaluate(file, names) {
   return context;
 }
 
+// Les lieux sont rangés par pays, un fichier JSON par pays (src/data/lieux/<pays>.json), une fiche par ligne.
+// Ils sont réunis ici et remis dans l'ordre de leur identifiant : la page reçoit le même tableau DATA.lieux qu'avant.
+export const LIEUX_DIR = path.join(SRC, 'data', 'lieux');
+export function loadPlaces(dir = LIEUX_DIR) {
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith('.json')).sort();
+  const all = [], seen = new Map();
+  for (const f of files) {
+    let list;
+    try { list = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')); } catch (e) { throw new Error(`src/data/lieux/${f} : JSON illisible (${e.message})`); }
+    if (!Array.isArray(list)) throw new Error(`src/data/lieux/${f} : un tableau de lieux est attendu`);
+    for (const L of list) {
+      if (!L || !Number.isInteger(L.i)) throw new Error(`src/data/lieux/${f} : lieu sans identifiant entier`);
+      if (seen.has(L.i)) throw new Error(`identifiant de lieu en double : ${L.i} (${seen.get(L.i)} et ${f})`);
+      seen.set(L.i, f); all.push(L);
+    }
+  }
+  return all.sort((a, b) => a.i - b.i);
+}
+
 export function catalogue(mode) {
   const { DATA } = evaluate(['data', 'places.js'], ['DATA']);
   const { CHECKLIST } = evaluate(['data', 'checklist.js'], ['CHECKLIST']);
-  let lieux = DATA.lieux, parcours = DATA.parcours, removed = [];
+  let lieux = DATA.lieux || loadPlaces(), parcours = DATA.parcours, removed = [];
   if (mode === 'public') {
     removed = lieux.filter(PERSONAL.isPersonal);
     const gone = new Set(removed.map((p) => p.i));
