@@ -5,7 +5,7 @@ var discoverNew = false, discoverVisible = false, discoveryLimit = 24;
 // « Nouveautés » : les lieux du lot le plus récent du catalogue (v9, v10…), calculé une fois.
 var NEWEST_BATCH = DATA.lieux.reduce(function (best, L) { return L.batch && (!best || +L.batch.slice(1) > +best.slice(1)) ? L.batch : best; }, '');
 
-/* ── Filtres : une seule passe sur les 1 600 lieux, puis la carte et la liste sont mises à jour une fois ── */
+/* ── Filtres : une seule passe sur tous les lieux, puis la carte et la liste sont mises à jour une fois ── */
 function activeFilterCount() {
   return Object.keys(offCat).filter(function (k) { return offCat[k]; }).length + Object.keys(offW).filter(function (k) { return offW[k]; }).length +
     (paysF ? 1 : 0) + (moisF ? 1 : 0) + (onlyFav ? 1 : 0) + (hideDone ? 1 : 0) + (onlyNote ? 1 : 0) + (nearRouteOnly ? 1 : 0);

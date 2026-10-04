@@ -268,8 +268,8 @@ group('P2-itineraire', 'desktop-1440x900', {}, {
     eq(await routeOf(page), r0, 'trajet intact après un import illisible'); await closeDialogs(page);
   },
   'parcours prêts : chargement, filtre, ajout à la suite': async ({ page }) => {
-    await ev(page, () => tab('p3')); const total = await page.locator('#presets [data-pr]').count(); eq(total, 25, 'parcours proposés');
-    await jsClick(page, '#prFilter [data-pt="hiver"]'); eq(await page.locator('#presets [data-pr]').count(), 3, 'filtre « hiver »'); await jsClick(page, '#prFilter [data-pt=""]');
+    await ev(page, () => tab('p3')); const total = await page.locator('#presets [data-pr]').count(); eq(total, SHIPPED_CAT.parcours.length, 'parcours proposés');   // 25 avant le lot v10
+    await jsClick(page, '#prFilter [data-pt="hiver"]'); eq(await page.locator('#presets [data-pr]').count(), SHIPPED_CAT.parcours.filter((p) => p.t === 'hiver').length, 'filtre « hiver »'); await jsClick(page, '#prFilter [data-pt=""]');
     await jsClick(page, '#presets [data-pr="0"]'); await settle(page, 300); eq((await routeOf(page)).length, CAT.preset0, 'parcours « Année 1 » chargé');
     assert(await ev(page, () => !document.querySelector('#presetFeedback').hidden && document.querySelector('[data-pr="0"]').classList.contains('chosen-preset')), 'retour visuel du parcours choisi');
     await jsClick(page, '#prAppend'); await jsClick(page, '#presets [data-pr="2"]'); await settle(page, 300); assert((await routeOf(page)).length > CAT.preset0, 'ajout à la suite'); await jsClick(page, '#prAppend');

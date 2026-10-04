@@ -304,9 +304,9 @@ group('public', 'desktop-1440x900', { publicBuild: true }, {
     await ev(page, () => { const q = document.querySelector('#q'); q.value = 'marraine'; q.dispatchEvent(new Event('input')); }); await settle(page);
     eq(await ev(page, () => document.querySelectorAll('#res [data-s]').length), 0, 'recherche « marraine »'); await ev(page, () => { closeSearch(); document.querySelector('#q').value = ''; });
   },
-  'les 25 idées de parcours se chargent, sans étape manquante': async ({ page }) => {
+  'toutes les idées de parcours se chargent, sans étape manquante': async ({ page }) => {
     const r = await ev(page, () => DATA.parcours.map((p, k) => { loadPreset(k); return [p.l.length, route.length, p.l.every((i) => !!byId[i])]; }));
-    eq(r.length, 25, 'parcours'); assert(r.every(([a, b, ok]) => a === b && ok && a >= 2), 'étapes : ' + JSON.stringify(r.filter(([a, b, ok]) => a !== b || !ok)));
+    eq(r.length, shippedCatalogue(publicDir).parcours.length, 'parcours (25 avant le lot v10)'); assert(r.every(([a, b, ok]) => a === b && ok && a >= 2), 'étapes : ' + JSON.stringify(r.filter(([a, b, ok]) => a !== b || !ok)));
     await ev(page, () => { route = []; paint(); document.body.classList.remove('preset-preview'); tab('p1'); });
   },
   'données d\'une version personnelle (trajet et notes sur des bases) : démarrage propre, le reste conservé': async ({ browser, publicUrl }) => {

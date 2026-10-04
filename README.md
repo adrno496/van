@@ -2,7 +2,7 @@
 
 Deux choses, une même identité :
 
-- **Atlas Planner** — carte de 1 600 lieux en Europe, préparation de trajets en van, budget, carnet de voyage avec
+- **Atlas Planner** — carte de 3 400 lieux dans 34 pays d'Europe, préparation de trajets en van, budget, carnet de voyage avec
   photos. Il tient dans **un seul fichier `index.html`** : il s'ouvre par un double-clic, fonctionne sans connexion et
   n'envoie rien. Toutes les données restent dans le navigateur de l'appareil.
 - **Le site éditorial** — accueil, destinations, road trips, voyages, carnet, guides, à propos : des pages statiques
@@ -61,17 +61,33 @@ src/
   js/location.js           localisation et « Près de moi »
   js/shell.js              rubriques, vue mobile, bouton « retour » du téléphone, discrétion, dialogues permanents
   js/boot.js               démarrage, en étapes courtes
-  data/places.js           catalogue : pays, lieux, parcours, fiches pays (source ; jamais livré tel quel)
+  data/places.js           contours des pays, parcours prêts, fiches pays (source ; jamais livré tel quel)
+  data/lieux/<pays>.json   les lieux, un fichier par pays, une fiche par ligne (réunis et triés par identifiant au build)
+scripts/places/            pipeline du catalogue : références, enrichissement, contrôles, couverture, parcours (voir data-sources/README.md)
+data-sources/              candidats, revue de chaque candidat, références GeoNames/UNESCO/Natural Earth, quotas, identifiants attribués
 tests/                     tests navigateur (Playwright)
 audit-refonte/             cycle 1 — refonte : audit, preuves, captures, rapports
 audit-refonte-v2/          cycle 2 — performance mobile, carte, version publique : rapports, preuves, scripts de mesure
 audit-refonte-v3/          cycle 3 — site éditorial : rapports, preuves, captures ; CONTENT_NEEDED.md liste le contenu à fournir
+audit-places-v4/           cycle 4 — catalogue doublé pays par pays (lot v10) : méthode, sources, contrôles, couverture, performances, tests
 dist/                      versions construites (non suivies par Git : elles se reconstruisent)
 ```
 
-À la construction, le catalogue est transformé : les contours des pays sont projetés et écrits directement dans
-la carte (SVG), le reste est livré en JSON. Le navigateur n'a ainsi ni 1,3 Mo de JavaScript à compiler, ni
+À la construction, le catalogue est transformé : les fichiers de `src/data/lieux/` sont réunis en un seul tableau
+`DATA.lieux` (trié par identifiant, format inchangé), les contours des pays sont projetés et écrits directement dans
+la carte (SVG), le reste est livré en JSON. Le navigateur n'a ainsi ni JavaScript de données à compiler, ni
 33 000 points à projeter au démarrage.
+
+### Ajouter des lieux au catalogue
+
+Méthode, format d'un candidat, contrôles et sources : `data-sources/README.md`. En bref :
+
+```bash
+node scripts/places/enrich.mjs --batch v10 --explain   # candidats → contrôles → doublons → score → fiches
+node scripts/places/validate.mjs --batch v10           # quotas pays par pays, identifiants, coordonnées, provenance, public
+node scripts/places/report.mjs --batch v10             # couverture avant / après
+node scripts/places/parcours.mjs                       # idées de parcours définies dans data-sources/parcours-v10.json
+```
 
 Les scripts sont concaténés dans l'ordre listé dans `build.mjs` et partagent un même espace de noms
 (scripts classiques, mode strict). Chaque fonction n'est définie qu'une fois.
@@ -88,7 +104,7 @@ node build.mjs --tokens audit-refonte/variants/tokens-B.css --out essai-B.html
 ### Version publique, sans rien de personnel
 
 ```bash
-node build.mjs --mode public            # dist/public/ — 1 595 lieux, contenu public seulement
+node build.mjs --mode public            # dist/public/ — 3 395 lieux, contenu public seulement
 node build.mjs --mode public --out f.html   # le Planner public seul, en un fichier
 ```
 
@@ -169,6 +185,7 @@ node tests/migration.mjs   # les données de l'ancienne version sont relues à l
 node tests/smoke.mjs       # Chromium, Firefox, WebKit ; par serveur et en fichier local
 node tests/v2.mjs          # 36 contrôles : formes des marqueurs, bouton « retour », sécurité étendue, endurance, Planner public
 node tests/site.mjs        # 34 contrôles : pages du site, passerelles vers le Planner, public / privé, sécurité, images, accessibilité
+node tests/catalogue.mjs   # catalogue enrichi : quotas, données, construction, recherche, filtres pays, pays entier, liens, lisibilité
 node tests/perf.mjs        # temps de démarrage et d'interaction
 node tests/profile.mjs     # démarrage phase par phase, coût de chaque interaction, taille de la page
 node tests/screenshots.mjs <dossier>
@@ -178,7 +195,7 @@ Ajouter `--dir <dossier>` pour tester une autre version (par exemple la référe
 vont dans `test-results/` (non suivi) sauf si `--out` est donné. Version publique :
 
 ```bash
-node tests/smoke.mjs --file dist/public/app/index.html --places 1595
+node tests/smoke.mjs --file dist/public/app/index.html
 node tests/ui.mjs --dir dist/public/app
 node tests/e2e.mjs --dir dist/public/app --catalogue public
 node tests/site-shots.mjs <dossier> --dir dist/public      # captures du site
