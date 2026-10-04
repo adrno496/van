@@ -138,7 +138,9 @@ const ICON = {
   search: '<svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>'
 };
 function shell(ctx, page) {
-  const depth = page.path.split('/').length - 1, up = '../'.repeat(depth), to = (target) => up + target;
+  // La page 404 est servie par l'hébergeur à n'importe quelle adresse : ses liens partent de la racine du site quand elle est connue.
+  const root = page.path === '404.html' && ctx.content.site.siteUrl ? new URL(ctx.content.site.siteUrl + '/').pathname : null;
+  const depth = page.path.split('/').length - 1, up = '../'.repeat(depth), to = (target) => (root != null ? root + target : up + target);
   const section = page.path.split('/')[0];
   const current = (href) => (href.split('/')[0] === section && depth > 0 ? ' aria-current="' + (page.path === href ? 'page' : 'true') + '"' : '');
   const site = ctx.content.site, title = page.home ? `${site.name} — ${site.descriptor}` : `${page.title} — ${site.name}`;
@@ -161,7 +163,7 @@ function shell(ctx, page) {
 <meta name="referrer" content="no-referrer">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
-${ctx.mode !== 'public' || page.noindex ? '<meta name="robots" content="noindex">\n' : ''}${url && !page.noindex ? `<link rel="canonical" href="${esc(url)}">\n<meta property="og:url" content="${esc(url)}">\n` : ''}<meta property="og:type" content="${page.article ? 'article' : 'website'}">
+${ctx.mode !== 'public' || page.noindex ? '<meta name="robots" content="noindex">\n' : ''}${url && !page.noindex && ctx.mode === 'public' ? `<link rel="canonical" href="${esc(url)}">\n<meta property="og:url" content="${esc(url)}">\n` : ''}<meta property="og:type" content="${page.article ? 'article' : 'website'}">
 <meta property="og:site_name" content="${esc(site.name)}">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:title" content="${esc(page.home ? site.name : page.title)}">

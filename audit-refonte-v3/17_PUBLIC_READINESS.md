@@ -87,3 +87,24 @@ baselines, les rapports). Publier le dépôt, ou héberger sa racine, publie la 
 | Hébergement du site public | PARTIAL | blocages 1 à 5 |
 | Données personnelles | PASS pour les fichiers publics | relecture humaine nécessaire avant de marquer un contenu « public » |
 | Indexation par les moteurs | PARTIAL | adresse du site inconnue |
+
+## Mise en ligne du 4 octobre 2026 — décision du propriétaire
+
+Après ce rapport, le propriétaire a demandé que le site éditorial soit servi sur `https://van-gray.vercel.app`.
+
+| Changement | Détail |
+|---|---|
+| `vercel.json` | l'hébergeur exécute `node build.mjs --mode public` et ne sert que `dist/public/` ; la racine du dépôt (catalogue personnel compris) n'est plus servie |
+| `content/site.json` › `siteUrl` | renseignée : liens canoniques, `og:url`, `sitemap.xml` (71 pages), `robots.txt` sont produits — le blocage n° 2 est levé |
+| En-têtes HTTP | `X-Content-Type-Options: nosniff`, `Referrer-Policy: no-referrer`, `Content-Security-Policy: frame-ancestors 'none'`, `Permissions-Policy` (position : même origine seulement) |
+| Page 404 | ses liens partent de la racine du site (elle est servie à n'importe quelle adresse) |
+
+Le contrôle de confidentialité s'exécute donc **à chaque déploiement** : s'il échoue, la construction échoue et la
+version en ligne précédente reste en place.
+
+Les blocages 1, 3, 4, 5 et 6 demeurent. Le verdict `READY_PUBLIC = NO` n'est pas modifié par la mise en ligne : il
+décrit l'état du site, pas la décision de le publier.
+
+Conséquence pour les données déjà enregistrées sur cette adresse : le Planner en ligne est désormais la version
+publique (1 595 lieux), à l'adresse `/app/`. Un trajet enregistré dans ce navigateur qui passait par l'un des cinq
+lieux personnels y perd ces étapes ; l'état d'origine est mis de côté et téléchargeable (Plus › Mes données).

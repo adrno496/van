@@ -363,6 +363,7 @@ group('images-seo', {
     const home = read(URLED, 'index.html'), map = read(URLED, 'sitemap.xml');
     assert(/<link rel="canonical" href="https:\/\/atlas\.example\/">/.test(home) && /Sitemap: https:\/\/atlas\.example\/sitemap\.xml/.test(read(URLED, 'robots.txt')), 'avec adresse : canonique et robots.txt');
     assert(map.includes('https://atlas.example/destinations/italie/') && !/recherche|404|mentions/.test(map), 'sitemap : pages indexables seulement');
+    const nf = read(URLED, '404.html'); assert(/href="\/assets\/site\.css"/.test(nf) && /href="\/index\.html"/.test(nf) && !/href="index\.html"/.test(nf), 'page 404 : liens depuis la racine quand l\'adresse du site est connue');
     for (const f of ['index.html', 'carnet/une-nuit-a-nazare/index.html', 'destinations/italie/index.html']) for (const m of read(URLED, f).matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) { const o = JSON.parse(m[1]); assert(o['@context'] === 'https://schema.org' && o['@type'], f + ' : données structurées'); assert(!/aggregateRating|review|price|author/i.test(m[1]), f + ' : aucune note, avis, prix ni auteur inventé'); }
   },
   'robustesse : site sans aucun contenu rédigé, rubriques vides honnêtes, aucune page cassée': async () => {

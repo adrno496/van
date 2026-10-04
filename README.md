@@ -112,6 +112,13 @@ dossiers d'audit contiennent le catalogue personnel.
 données ; les étapes qui pointent vers une base y sont ignorées (l'état d'origine est mis de côté, voir « Mes
 données »). Pour l'essayer, préférer une fenêtre privée ou un autre navigateur.
 
+### Hébergement
+
+`vercel.json` fait construire `dist/public` par l'hébergeur (`node build.mjs --mode public`) et ne sert que ce
+dossier : le site éditorial à la racine, le Planner public dans `/app/`. Un `git push` sur `main` met donc en ligne.
+Si le contrôle de confidentialité échoue, le déploiement échoue. L'adresse du site est dans `content/site.json`
+(`siteUrl`).
+
 ### Publier un récit du carnet
 
 ```text
